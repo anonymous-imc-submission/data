@@ -1,0 +1,112 @@
+[
+  {
+    "part": "measure-58",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:22:10.524Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "visit https://irishnews.com/...",
+    "timestamp": "2021-09-09T13:22:10.695Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://ad.crwdcntrl.net/5/c=4299/pe=y/callback=processauds, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:11.836Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://ad.crwdcntrl.net/5/c=4299/pe=y/callback=processauds, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:11.846Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:22:13.553Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:22:15.657Z"
+  },
+  {
+    "part": "console.log",
+    "message": "PopupDomination: check your account! @ [object Object]",
+    "timestamp": "2021-09-09T13:22:17.845Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:22:22.357Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:22:22.376Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:22:22.647Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:22.656Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:22:22.691Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:22:22.699Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:22.775Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:22:22.790Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:22:34.772Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:22:34.775Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:22:34.806Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:22:34.809Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:22:35.296Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:22:39.810Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:22:39.942Z"
+  }
+]

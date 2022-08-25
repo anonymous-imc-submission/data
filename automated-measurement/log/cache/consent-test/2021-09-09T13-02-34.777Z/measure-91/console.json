@@ -1,0 +1,27 @@
+[
+  {
+    "part": "measure-91",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:20:39.557Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "visit https://espn.in/...",
+    "timestamp": "2021-09-09T13:20:46.340Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/. @ [object Object]",
+    "timestamp": "2021-09-09T13:21:12.419Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://espn.in/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:21:16.451Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:21:16.522Z"
+  }
+]

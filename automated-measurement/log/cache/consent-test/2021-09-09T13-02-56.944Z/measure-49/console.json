@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-49",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:18:20.979Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "visit https://wnba.com/...",
+    "timestamp": "2021-09-09T13:18:21.297Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "page load error: Error: page.goto: net::ERR_CONNECTION_REFUSED at https://wnba.com/\n=========================== logs ===========================\nnavigating to \"https://wnba.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:18:21.829Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:18:21.917Z"
+  }
+]

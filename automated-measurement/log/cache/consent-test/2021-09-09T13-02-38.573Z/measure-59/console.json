@@ -1,0 +1,147 @@
+[
+  {
+    "part": "measure-59",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:11:00.551Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "visit https://espncricinfo.com/...",
+    "timestamp": "2021-09-09T13:11:00.702Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Invalid arguments: SizeMappingBuilder.addSize([0, 0], [['fluid']]). @ [object Object]",
+    "timestamp": "2021-09-09T13:11:03.088Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Size mapping is null because invalid mappings were added: [[[0,0],[[\"fluid\"]]]]. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:03.089Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Incorrect usage of googletag.Slot defineSizeMapping: Size mapping must be an array @ [object Object]",
+    "timestamp": "2021-09-09T13:11:03.092Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:11:03.468Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:11:03.469Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:11:05.421Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:05.421Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:11:05.633Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:06.124Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:11:06.445Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 500 () @ [object Object]",
+    "timestamp": "2021-09-09T13:11:06.463Z"
+  },
+  {
+    "part": "console.log",
+    "message": "consent sync callback complete @ [object Object]",
+    "timestamp": "2021-09-09T13:11:07.890Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:11:07.967Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:11:07.968Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:11:07.977Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Network is idle after 0.14s.",
+    "timestamp": "2021-09-09T13:11:08.113Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:11:08.178Z"
+  },
+  {
+    "part": "console.log",
+    "message": "update: ad _dcf:1 @ [object Object]",
+    "timestamp": "2021-09-09T13:11:08.978Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Invalid arguments: SizeMappingBuilder.addSize([0, 0], [['fluid']]). @ [object Object]",
+    "timestamp": "2021-09-09T13:11:09.091Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Size mapping is null because invalid mappings were added: [[[0,0],[[\"fluid\"]]]]. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:09.092Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Incorrect usage of googletag.Slot defineSizeMapping: Size mapping must be an array @ [object Object]",
+    "timestamp": "2021-09-09T13:11:09.095Z"
+  },
+  {
+    "part": "console.log",
+    "message": "update: ad consent @ [object Object]",
+    "timestamp": "2021-09-09T13:11:11.040Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 500 () @ [object Object]",
+    "timestamp": "2021-09-09T13:11:11.163Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://adservice.google.com/adsid/integrator.js?domain=www.espncricinfo.com was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:12.657Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://adservice.google.co.uk/adsid/integrator.js?domain=www.espncricinfo.com was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:12.658Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:11:12.978Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:11:12.998Z"
+  }
+]

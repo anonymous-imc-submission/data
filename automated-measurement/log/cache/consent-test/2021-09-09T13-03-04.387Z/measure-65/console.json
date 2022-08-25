@@ -1,0 +1,122 @@
+[
+  {
+    "part": "measure-65",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:23:35.155Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "visit https://cnn.com/...",
+    "timestamp": "2021-09-09T13:23:35.602Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Optimizely disabled. @ [object Object]",
+    "timestamp": "2021-09-09T13:23:37.997Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID @ [object Object]",
+    "timestamp": "2021-09-09T13:23:38.812Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nyutn&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fedition.cnn.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:23:43.508Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an script pixel with URL:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nyutn&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fedition.cnn.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:23:43.520Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nyutn&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fedition.cnn.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:23:43.522Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an image pixel with URL:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nyutn&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fedition.cnn.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:23:43.532Z"
+  },
+  {
+    "part": "console.log",
+    "message": "removeToken called by getToken @ [object Object]",
+    "timestamp": "2021-09-09T13:23:43.922Z"
+  },
+  {
+    "part": "console.log",
+    "message": "removeToken called by getToken @ [object Object]",
+    "timestamp": "2021-09-09T13:23:43.927Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:23:46.678Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:23:46.679Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:23:47.121Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:23:47.122Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:23:47.156Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:23:47.164Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:23:47.232Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:23:47.235Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:23:47.252Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Network is idle after 0.10s.",
+    "timestamp": "2021-09-09T13:23:47.351Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://c.amazon-adsystem.com/aax2/apstag.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:23:49.747Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.googletagservices.com/tag/js/gpt.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:23:49.749Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:23:52.253Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:23:52.325Z"
+  }
+]

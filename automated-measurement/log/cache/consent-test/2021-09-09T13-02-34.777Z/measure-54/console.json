@@ -1,0 +1,102 @@
+[
+  {
+    "part": "measure-54",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:12:34.799Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "visit https://esquire.com/...",
+    "timestamp": "2021-09-09T13:12:35.296Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service worker registration succeeded. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:37.752Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:12:42.809Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:12:51.927Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:12:51.930Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:12:52.685Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:52.685Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:12:52.702Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:12:52.708Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:52.780Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:12:53.304Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:12:53.306Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:12:53.321Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:12:53.323Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:12:53.364Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service worker registration succeeded. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:54.308Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:12:58.058Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:12:58.322Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:12:58.351Z"
+  }
+]

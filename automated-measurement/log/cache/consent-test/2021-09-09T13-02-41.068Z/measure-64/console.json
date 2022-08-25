@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-64",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:14:27.211Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "visit https://cntraveller.com/...",
+    "timestamp": "2021-09-09T13:14:30.049Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Permutive was not initialized. No consent to run on the page @ [object Object]",
+    "timestamp": "2021-09-09T13:14:43.600Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:14:48.326Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:14:48.326Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:14:48.715Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:14:48.719Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:14:48.755Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:14:48.758Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:14:48.810Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:14:50.136Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "TCF data: cmpId 28 consent true, legInt false.",
+    "timestamp": "2021-09-09T13:14:50.140Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:14:50.154Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:14:50.157Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:14:50.759Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "ads.Invalid sizes: unable to define 'rail' on mobile..warn {definition: Object, slotName: rail} @ [object Object]",
+    "timestamp": "2021-09-09T13:14:50.850Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:14:55.156Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:14:55.189Z"
+  }
+]

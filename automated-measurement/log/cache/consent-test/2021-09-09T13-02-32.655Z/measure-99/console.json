@@ -1,0 +1,32 @@
+[
+  {
+    "part": "measure-99",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:24:26.273Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "visit https://crfashionbook.com/...",
+    "timestamp": "2021-09-09T13:24:27.356Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service worker registration succeeded. @ [object Object]",
+    "timestamp": "2021-09-09T13:24:35.086Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:24:47.461Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://crfashionbook.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:24:57.364Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:24:57.434Z"
+  }
+]

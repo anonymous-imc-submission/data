@@ -1,0 +1,137 @@
+[
+  {
+    "part": "measure-36",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:12:10.696Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "visit https://ilpost.it/...",
+    "timestamp": "2021-09-09T13:12:10.915Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:12:12.544Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GTM ADVSEZIONE: homepage @ [object Object]",
+    "timestamp": "2021-09-09T13:12:13.295Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o5pnw&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.ilpost.it%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:12:15.014Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an script pixel with URL:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o5pnw&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.ilpost.it%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:12:15.031Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o5pnw&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.ilpost.it%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:12:15.033Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an image pixel with URL:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o5pnw&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.ilpost.it%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:12:15.050Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AdBlock:false @ [object Object]",
+    "timestamp": "2021-09-09T13:12:15.427Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:12:16.764Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:12:16.764Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:12:18.272Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:18.273Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:12:19.088Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:12:19.110Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:19.156Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:12:20.357Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:12:22.313Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "TCF data: cmpId 10 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:12:22.318Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:12:22.367Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:12:22.367Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:12:22.473Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Error in googletag.display: could not find div with id \"div-gpt-ad-MPU_Middle\" in DOM for slot: /57491254/ilpost.it/homepage/MPU_Middle. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:24.939Z"
+  },
+  {
+    "part": "console.log",
+    "message": "apstag init done (with timeout) @ [object Object]",
+    "timestamp": "2021-09-09T13:12:25.944Z"
+  },
+  {
+    "part": "console.log",
+    "message": "requestHeaderBids() @ [object Object]",
+    "timestamp": "2021-09-09T13:12:25.999Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:12:27.368Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:12:27.486Z"
+  }
+]

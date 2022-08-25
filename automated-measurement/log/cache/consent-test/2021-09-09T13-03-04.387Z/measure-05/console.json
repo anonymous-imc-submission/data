@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-05",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:36.392Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "visit https://nutritiondata.com/...",
+    "timestamp": "2021-09-09T13:06:36.603Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "page load error: Error: page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://nutritiondata.com/\n=========================== logs ===========================\nnavigating to \"https://nutritiondata.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:06:36.809Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:06:36.846Z"
+  }
+]

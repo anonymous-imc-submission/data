@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-62",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:17:28.333Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "visit https://newsbomb.gr/...",
+    "timestamp": "2021-09-09T13:17:29.837Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:30.080Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:17:33.224Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:17:33.225Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:17:33.774Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:17:33.775Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:17:34.197Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:17:34.203Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:17:34.214Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:17:34.386Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:17:35.051Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "TCF data: cmpId 10 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:17:35.054Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:17:35.062Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:17:35.064Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:17:35.416Z"
+  },
+  {
+    "part": "console.log",
+    "message": "{status: success} @ [object Object]",
+    "timestamp": "2021-09-09T13:17:40.028Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:17:40.063Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:17:40.154Z"
+  }
+]

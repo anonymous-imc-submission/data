@@ -1,0 +1,127 @@
+[
+  {
+    "part": "measure-40",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:15:41.043Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "visit https://espn.com/...",
+    "timestamp": "2021-09-09T13:15:42.527Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/. @ [object Object]",
+    "timestamp": "2021-09-09T13:16:00.655Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:16:03.993Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:16:04.012Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:16:06.877Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:16:06.885Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:16:07.226Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:16:07.232Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:16:07.295Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:16:07.461Z"
+  },
+  {
+    "part": "console.error",
+    "message": "%c[OneID]%c %c[%s]%c:  color:#2887b4;background-color:transparent;font-weight:bold color:#000;background-color:transparent;font-weight: color:#FC0C1B;background-color:#FFEFEF ERROR color:#000;background-color:transparent;font-weight: Already initialized @ [object Object]",
+    "timestamp": "2021-09-09T13:16:07.933Z"
+  },
+  {
+    "part": "console.error",
+    "message": "%c[OneID]%c %c[%s]%c:  color:#2887b4;background-color:transparent;font-weight:bold color:#000;background-color:transparent;font-weight: color:#FC0C1B;background-color:#FFEFEF ERROR color:#000;background-color:transparent;font-weight: Session not established @ [object Object]",
+    "timestamp": "2021-09-09T13:16:09.266Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:16:12.690Z"
+  },
+  {
+    "part": "console.log",
+    "message": "consent sync callback complete @ [object Object]",
+    "timestamp": "2021-09-09T13:16:15.297Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:16:15.414Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:16:15.418Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:16:15.439Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:16:15.444Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:16:15.679Z"
+  },
+  {
+    "part": "console.log",
+    "message": "update: ad _dcf:0 @ [object Object]",
+    "timestamp": "2021-09-09T13:16:16.861Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/. @ [object Object]",
+    "timestamp": "2021-09-09T13:16:17.836Z"
+  },
+  {
+    "part": "console.error",
+    "message": "%c[OneID]%c %c[%s]%c:  color:#2887b4;background-color:transparent;font-weight:bold color:#000;background-color:transparent;font-weight: color:#FC0C1B;background-color:#FFEFEF ERROR color:#000;background-color:transparent;font-weight: Already initialized @ [object Object]",
+    "timestamp": "2021-09-09T13:16:20.422Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:16:20.444Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:16:20.480Z"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-77",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:26:17.997Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "visit https://games.co.id/...",
+    "timestamp": "2021-09-09T13:26:19.291Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:26:30.771Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:26:36.838Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:26:36.842Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:26:38.823Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:26:38.824Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:26:38.865Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:26:38.879Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:26:39.117Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:26:39.130Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Mixed Content: The page at 'https://www.games.co.id/' was loaded over HTTPS, but requested an insecure element 'http://files.cdn.spilcloud.com/cmp/1616771278_cmp-banner-lm.png'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ [object Object]",
+    "timestamp": "2021-09-09T13:26:40.838Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button class=\"cookie-setting-link\" id=\"onetrust-pc-btn-…>Show Purposes</button>\nattempting click action\n  waiting for element to be visible, enabled and stable\n  element is visible, enabled and stable\n  scrolling into view if needed\n  done scrolling\n  checking that element receives pointer events at (568.12,444.24)\n  element does receive pointer events\n  performing click action\n  click action done\n  waiting for scheduled navigations to finish\n============================================================",
+    "timestamp": "2021-09-09T13:26:41.159Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:26:43.743Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:26:50.762Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:26:50.769Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:26:51.011Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Network is idle after 0.02s.",
+    "timestamp": "2021-09-09T13:26:51.042Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:26:51.052Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Minimum wait time reached after 5.02s.",
+    "timestamp": "2021-09-09T13:26:56.050Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:26:56.449Z"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-87",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:28:48.709Z"
+  },
+  {
+    "part": "measure-87",
+    "message": "visit https://leo.org/...",
+    "timestamp": "2021-09-09T13:28:49.125Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "dzui pages: number of tab-titles (12) and tab-items (0) are not equal @ [object Object]",
+    "timestamp": "2021-09-09T13:28:53.768Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "history dispatch #0 unrecognized url components (ignored) /german-english/ @ [object Object]",
+    "timestamp": "2021-09-09T13:28:55.532Z"
+  },
+  {
+    "part": "measure-87",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:28:55.538Z"
+  },
+  {
+    "part": "measure-87",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:28:55.606Z"
+  },
+  {
+    "part": "measure-87",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:28:57.146Z"
+  },
+  {
+    "part": "measure-87",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:28:57.153Z"
+  },
+  {
+    "part": "measure-87",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:28:57.206Z"
+  },
+  {
+    "part": "measure-87",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:28:57.227Z"
+  },
+  {
+    "part": "measure-87",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:28:57.439Z"
+  },
+  {
+    "part": "measure-87",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:28:57.480Z"
+  },
+  {
+    "part": "measure-87",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:29:22.141Z"
+  },
+  {
+    "part": "measure-87",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:29:22.150Z"
+  },
+  {
+    "part": "measure-87",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:29:22.205Z"
+  },
+  {
+    "part": "measure-87",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:29:22.237Z"
+  },
+  {
+    "part": "measure-87",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:29:22.406Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://dict.leo.org/dict/donate.php?lp=ende&langen' from origin 'https://www.leo.org' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:29:22.435Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:29:22.444Z"
+  },
+  {
+    "part": "measure-87",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:29:27.213Z"
+  },
+  {
+    "part": "measure-87",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:29:27.430Z"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "part": "measure-79",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:20:08.328Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "visit https://rhs.org.uk/...",
+    "timestamp": "2021-09-09T13:20:10.633Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to font at 'https://rhscdn01.azureedge.net/assets/styles/f2/web/assets/fonts/rhs-icons.woff2' from origin 'https://www.rhs.org.uk' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:20:11.264Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:20:11.284Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to font at 'https://rhscdn01.azureedge.net/assets/styles/f2/web/assets/fonts/fa-regular-400.woff2' from origin 'https://www.rhs.org.uk' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:20:11.294Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:20:11.294Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://rhs.org.uk/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:20:40.681Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:20:40.809Z"
+  }
+]

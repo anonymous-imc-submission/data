@@ -1,0 +1,117 @@
+[
+  {
+    "part": "measure-02",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:04:17.946Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "visit https://gumtree.com/...",
+    "timestamp": "2021-09-09T13:04:18.168Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Confiant native init @ [object Object]",
+    "timestamp": "2021-09-09T13:04:24.202Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:04:25.505Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:04:27.818Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 500 () @ [object Object]",
+    "timestamp": "2021-09-09T13:04:28.977Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Invalid arguments: PubAdsService.refresh([]). @ [object Object]",
+    "timestamp": "2021-09-09T13:04:31.395Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Failed to register listener. Unknown event type: slotRequestedEvent. @ [object Object]",
+    "timestamp": "2021-09-09T13:04:31.415Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:04:32.451Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:04:32.453Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:04:33.234Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:04:33.236Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:04:33.358Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:04:33.384Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:04:33.442Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:04:35.082Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "TCF data: cmpId 28 consent true, legInt false.",
+    "timestamp": "2021-09-09T13:04:35.083Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:04:35.102Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:04:35.105Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:04:35.395Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "This ad's html cannot be accessed using the getHtml method on googletag.Slot. Returning the empty string instead. @ [object Object]",
+    "timestamp": "2021-09-09T13:04:39.212Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:04:40.102Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:04:40.138Z"
+  }
+]

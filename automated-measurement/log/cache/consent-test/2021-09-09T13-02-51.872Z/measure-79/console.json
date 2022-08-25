@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-79",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:32:15.969Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "visit https://newarkadvocate.com/...",
+    "timestamp": "2021-09-09T13:32:16.560Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://newarkadvocate.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:32:46.647Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:32:47.001Z"
+  }
+]

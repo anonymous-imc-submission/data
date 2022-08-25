@@ -1,0 +1,102 @@
+[
+  {
+    "part": "measure-38",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:17:53.711Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "visit https://investopedia.com/...",
+    "timestamp": "2021-09-09T13:17:56.686Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:18:04.293Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:18:04.310Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:18:06.685Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:06.691Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:18:06.818Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:18:06.826Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:07.256Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:18:07.422Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:18:58.106Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:18:58.107Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:19:00.926Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:03.839Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:19:04.380Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:19:04.383Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:19:04.432Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Network is idle after 0.03s.",
+    "timestamp": "2021-09-09T13:19:04.468Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:19:09.437Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:19:09.581Z"
+  }
+]

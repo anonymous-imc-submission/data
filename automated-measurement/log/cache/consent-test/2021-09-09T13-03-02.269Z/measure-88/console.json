@@ -1,0 +1,122 @@
+[
+  {
+    "part": "measure-88",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:31:25.631Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "visit https://normasapa.com/...",
+    "timestamp": "2021-09-09T13:31:25.853Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GDPR is applicable in the EU @ [object Object]",
+    "timestamp": "2021-09-09T13:31:29.213Z"
+  },
+  {
+    "part": "console.log",
+    "message": "js cookie ; path=/; domain=citethisforme.com; secure; SameSite=None @ [object Object]",
+    "timestamp": "2021-09-09T13:31:29.524Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:31:29.977Z"
+  },
+  {
+    "part": "console.log",
+    "message": "rio-sdk-web AMCV cookie not available, hitting demdex @ [object Object]",
+    "timestamp": "2021-09-09T13:31:30.155Z"
+  },
+  {
+    "part": "console.log",
+    "message": "js cookie ; path=/; domain=citethisforme.com; secure; SameSite=None; expires=Thu, 09 Sep 2021 14:01:30 GMT @ [object Object]",
+    "timestamp": "2021-09-09T13:31:30.769Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "rio-sdk-web Init was not called on client within 7000ms of being created @ [object Object]",
+    "timestamp": "2021-09-09T13:31:37.242Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:31:37.269Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:31:37.274Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:31:37.581Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:31:37.581Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:31:37.614Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:31:37.621Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:31:37.739Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:31:37.780Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:31:41.956Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:31:45.981Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:31:45.988Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:31:46.003Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:31:46.012Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:31:46.058Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:31:51.011Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:31:51.072Z"
+  }
+]

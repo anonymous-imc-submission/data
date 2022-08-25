@@ -1,0 +1,102 @@
+[
+  {
+    "part": "measure-85",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:31:32.601Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "visit https://jacksonville.com/...",
+    "timestamp": "2021-09-09T13:31:33.299Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Server did not respond to loadRBox @ [object Object]",
+    "timestamp": "2021-09-09T13:31:47.990Z"
+  },
+  {
+    "part": "console.log",
+    "message": "loadRBox failed, aborting. @ [object Object]",
+    "timestamp": "2021-09-09T13:31:48.015Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Invalid response from server: trc_json_response =\n{\"trc\":{}}\n @ [object Object]",
+    "timestamp": "2021-09-09T13:31:48.020Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:31:50.194Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:31:50.203Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:31:50.717Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:31:50.718Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:31:51.019Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:31:51.030Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:31:51.151Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:31:51.173Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:32:27.447Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:32:27.452Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:32:27.534Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:32:27.541Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:32:27.561Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:32:32.552Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:32:32.678Z"
+  }
+]

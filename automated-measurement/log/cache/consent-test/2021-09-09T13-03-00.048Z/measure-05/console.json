@@ -1,0 +1,67 @@
+[
+  {
+    "part": "measure-05",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:05:52.903Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "visit https://geneticliteracyproject.org/...",
+    "timestamp": "2021-09-09T13:05:53.247Z"
+  },
+  {
+    "part": "console.log",
+    "message": "PixelYourSite Free version 8.2.6 @ [object Object]",
+    "timestamp": "2021-09-09T13:05:54.671Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:06:00.169Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:06:10.173Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:06:10.183Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-pc-btn-handler:visible,\n            #onetrust-pc-sdk:visible\n        \" to be visible\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:06:40.217Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "__tcfapi not found: TimeoutError: page.waitForFunction: Timeout 30000ms exceeded.",
+    "timestamp": "2021-09-09T13:06:40.226Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "TCF data: cmpId null consent null, legInt null.",
+    "timestamp": "2021-09-09T13:06:40.226Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:06:40.227Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:06:40.227Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:06:45.229Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:06:45.246Z"
+  }
+]

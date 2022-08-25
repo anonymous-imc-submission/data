@@ -1,0 +1,117 @@
+[
+  {
+    "part": "measure-29",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:11:08.458Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "visit https://mma-core.com/...",
+    "timestamp": "2021-09-09T13:11:09.200Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 400 () @ [object Object]",
+    "timestamp": "2021-09-09T13:11:14.803Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "CMP IS FOUND @ [object Object]",
+    "timestamp": "2021-09-09T13:11:15.655Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "CMP IS FOUND @ [object Object]",
+    "timestamp": "2021-09-09T13:11:15.702Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "CMP IS FOUND @ [object Object]",
+    "timestamp": "2021-09-09T13:11:15.703Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:11:17.843Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:11:17.856Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:11:18.271Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:18.271Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:11:18.324Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:11:18.338Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:18.386Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:11:18.470Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:11:19.891Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "TCF data: cmpId 10 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:11:19.897Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:11:19.903Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:11:19.906Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:11:19.938Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://api.rlcdn.com/api/identity/envelope?pid=c2d18b01-4905-4aba-a83e-e41eac932694&ct=4&cv=CPMRE93PMRE93AKAiAENBqCsAP_AAH_AACiQILtf_X__bX9j-_59f_t0eY1P9_r_v-Qzjhfdt-8F2L_W_L0X42E7NF36pq4KuR4Eu3LBIQNlHMHUTUmwaokVrzPsak2Mr6NKJ7LEmnMZO2dYGHtPn91TuZKY7_78__fz3z-v_t___9f37-3_3__5_X---_e_V399zLv9____39nN___9uCCgBJhqXkAXZljgybRpVCiBGFYSHQCgAooBhaJrABgcFOysAj1BCwAQmoCMCIEGIKMGAQACCQBIREBIAWCARAEQCAAEAKkBCAAiYBBYAWBgEAAoBoWIEUAQgSEGRwVHKYEBUi0UE9lYAlF3saYQhlvgRQKP6KjARrNECwMhIWDmOAJAS8AA.YAAAAAAAAAAA' from origin 'https://www.mma-core.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:20.300Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:11:20.300Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:11:24.906Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:11:24.979Z"
+  }
+]

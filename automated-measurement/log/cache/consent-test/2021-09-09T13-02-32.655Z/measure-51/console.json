@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-51",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:14:11.136Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "visit https://blogher.com/...",
+    "timestamp": "2021-09-09T13:14:12.750Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:14:32.344Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:14:32.360Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://static.adsafeprotected.com/vans-adapter-google-ima.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:14:35.884Z"
+  },
+  {
+    "part": "console.log",
+    "message": "fonts loaded @ [object Object]",
+    "timestamp": "2021-09-09T13:14:36.296Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:14:36.332Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:14:36.333Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:14:36.443Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:14:36.447Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:14:36.464Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:14:37.499Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "TCF data: cmpId 28 consent true, legInt false.",
+    "timestamp": "2021-09-09T13:14:37.504Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:14:37.542Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:14:37.546Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:14:38.414Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:14:41.226Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:14:42.544Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:14:42.613Z"
+  }
+]

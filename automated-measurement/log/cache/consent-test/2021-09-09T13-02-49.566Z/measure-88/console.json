@@ -1,0 +1,192 @@
+[
+  {
+    "part": "measure-88",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:32:41.746Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "visit https://csfd.cz/...",
+    "timestamp": "2021-09-09T13:32:44.479Z"
+  },
+  {
+    "part": "console.log",
+    "message": "steps:  [Object,Object,Object,Object,Object,Object,Object,Object,Object,Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:32:51.307Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/. @ [object Object]",
+    "timestamp": "2021-09-09T13:32:57.070Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:33:05.031Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:33:05.070Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:33:05.704Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:33:05.714Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:33:05.791Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:33:05.810Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:33:05.899Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:33:12.651Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SAS R2B2 passback mobile_leaderboard / FCID 9064 @ [object Object]",
+    "timestamp": "2021-09-09T13:33:23.153Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SAS R2B2 passback mobile_square_1 / FCID 9066 @ [object Object]",
+    "timestamp": "2021-09-09T13:33:24.071Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SAS R2B2 passback mobile_square_2 / FCID 9068 @ [object Object]",
+    "timestamp": "2021-09-09T13:33:26.774Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SAS R2B2 passback mobile_square_3 / FCID 9070 @ [object Object]",
+    "timestamp": "2021-09-09T13:33:34.458Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-pc-btn-handler:visible,\n            #onetrust-pc-sdk:visible\n        \" to be visible\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:33:35.921Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:33:37.209Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SAS Adform IM passback mobile_leaderboard / FCID 9004 @ [object Object]",
+    "timestamp": "2021-09-09T13:33:37.307Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:33:38.470Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:33:39.558Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:33:40.209Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SAS Adform IM passback mobile_leaderboard / FCID 9040 @ [object Object]",
+    "timestamp": "2021-09-09T13:33:42.277Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:33:43.548Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:33:52.249Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:33:57.536Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:33:57.540Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:34:02.944Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:34:53.737Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:34:53.738Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:34:58.916Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:35:05.711Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "TCF data: cmpId 7 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:35:05.711Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:35:05.781Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:35:05.805Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:35:10.789Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:35:11.060Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:35:11.141Z"
+  }
+]

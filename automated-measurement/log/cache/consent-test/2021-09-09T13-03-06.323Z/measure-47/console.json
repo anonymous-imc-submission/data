@@ -1,0 +1,152 @@
+[
+  {
+    "part": "measure-47",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:14:33.011Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "visit https://elheddaf.com/...",
+    "timestamp": "2021-09-09T13:14:34.380Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID @ [object Object]",
+    "timestamp": "2021-09-09T13:14:38.375Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://adserver.adtech.de/addyn/3.0/1294/6632915/0/16/ADTECH;loc=100;target=_blank;grp=577;misc=1631193279577, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:14:39.578Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://adserver.adtech.de/addyn/3.0/1294/6632915/0/16/ADTECH;loc=100;target=_blank;grp=577;misc=1631193279577, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:14:39.589Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "USP is not accessible @ [object Object]",
+    "timestamp": "2021-09-09T13:14:43.564Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "USP is not accessible @ [object Object]",
+    "timestamp": "2021-09-09T13:14:50.115Z"
+  },
+  {
+    "part": "console.error",
+    "message": "ErrorUtils caught an error:\n\nCannot read properties of null (reading 'content')\n\nSubsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. @ [object Object]",
+    "timestamp": "2021-09-09T13:14:50.575Z"
+  },
+  {
+    "part": "console.error",
+    "message": "ErrorUtils caught an error:\n\nCannot read properties of null (reading 'content')\n\nSubsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. @ [object Object]",
+    "timestamp": "2021-09-09T13:14:50.584Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Refused to display 'https://www.facebook.com/' in a frame because it set 'X-Frame-Options' to 'deny'. @ [object Object]",
+    "timestamp": "2021-09-09T13:14:50.932Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:14:51.846Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:14:51.862Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:14:55.085Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:14:55.085Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:14:55.614Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "dialog accept failed: \n  - TimeoutError: page.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=primary]\"\n    ============================================================\n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-accept-btn-handler:visible,\n            .optanon-allow-all:visible,\n            .optanon-button-allow:visible,\n            #onetrust-pc-sdk #accept-recommended-btn-handler:visible\n        \"\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:15:22.121Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:15:49.472Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:15:49.472Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:15:55.227Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Error getting pingLoaded: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:15:55.841Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:16:45.938Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:16:45.938Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:16:51.005Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:16:55.085Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "TCF data: cmpId null consent null, legInt null.",
+    "timestamp": "2021-09-09T13:16:55.086Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:16:55.092Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:16:55.092Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:17:00.093Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:17:00.176Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:17:00.198Z"
+  }
+]

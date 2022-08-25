@@ -1,0 +1,117 @@
+[
+  {
+    "part": "measure-66",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:23:44.479Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "visit https://dnj.com/...",
+    "timestamp": "2021-09-09T13:23:44.793Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:23:48.178Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:23:48.960Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:23:48.963Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:23:49.378Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:23:49.378Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:23:49.405Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:23:49.407Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:23:49.440Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:23:49.455Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:23:53.812Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:23:53.831Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:24:40.225Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:24:40.225Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:24:46.478Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:24:47.489Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:24:47.492Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:24:47.503Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:24:47.545Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:24:52.506Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:25:07.511Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:25:07.577Z"
+  }
+]

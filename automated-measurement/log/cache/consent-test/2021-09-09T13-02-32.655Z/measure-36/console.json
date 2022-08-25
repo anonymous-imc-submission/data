@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-36",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:11:35.205Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "visit https://cosmopolitan.co.uk/...",
+    "timestamp": "2021-09-09T13:11:35.801Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "page load error: Error: page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://cosmopolitan.co.uk/\n=========================== logs ===========================\nnavigating to \"https://cosmopolitan.co.uk/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:11:35.892Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:11:35.975Z"
+  }
+]

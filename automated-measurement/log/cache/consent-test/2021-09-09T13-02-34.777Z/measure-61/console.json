@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-61",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:13:32.356Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "visit https://techwalla.com/...",
+    "timestamp": "2021-09-09T13:13:33.446Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://techwalla.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:14:03.502Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:14:03.553Z"
+  }
+]

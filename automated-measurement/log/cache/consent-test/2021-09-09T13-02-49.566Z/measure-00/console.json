@@ -1,0 +1,172 @@
+[
+  {
+    "part": "measure-00",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:10.332Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "visit https://olx.bg/...",
+    "timestamp": "2021-09-09T13:06:10.699Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'. @ [object Object]",
+    "timestamp": "2021-09-09T13:06:11.286Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Unrecognized feature: 'battery'. @ [object Object]",
+    "timestamp": "2021-09-09T13:06:11.286Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Unrecognized feature: 'execution-while-not-rendered'. @ [object Object]",
+    "timestamp": "2021-09-09T13:06:11.286Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Unrecognized feature: 'execution-while-out-of-viewport'. @ [object Object]",
+    "timestamp": "2021-09-09T13:06:11.286Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Unrecognized feature: 'navigation-override'. @ [object Object]",
+    "timestamp": "2021-09-09T13:06:11.286Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Unrecognized feature: 'web-share'. @ [object Object]",
+    "timestamp": "2021-09-09T13:06:11.287Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 429 () @ [object Object]",
+    "timestamp": "2021-09-09T13:06:21.998Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:06:23.110Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:06:23.113Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 400 () @ [object Object]",
+    "timestamp": "2021-09-09T13:06:23.235Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:06:23.949Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:23.950Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:06:24.011Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:06:24.015Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:24.131Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:06:24.212Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button id=\"onetrust-pc-btn-handler\">Покажи за какви цели се използват данните</button>\nattempting click action\n  waiting for element to be visible, enabled and stable\n============================================================",
+    "timestamp": "2021-09-09T13:06:26.250Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:06:58.638Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:07:14.685Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:07:14.685Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:19.815Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".ot-pc-refuse-all-handler:visible, .save-preference-btn-handler:visible\"\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:07:29.188Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:08:10.362Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:08:10.362Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:08:15.398Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:08:23.950Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "TCF data: cmpId 28 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:08:23.951Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:08:23.956Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:08:23.957Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:08:28.958Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:08:29.037Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:08:29.040Z"
+  }
+]

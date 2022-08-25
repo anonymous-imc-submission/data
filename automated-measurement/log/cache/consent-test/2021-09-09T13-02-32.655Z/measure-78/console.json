@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-78",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:19:33.209Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "visit https://vogue.es/...",
+    "timestamp": "2021-09-09T13:19:36.551Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Permutive was not initialized. No consent to run on the page @ [object Object]",
+    "timestamp": "2021-09-09T13:19:58.862Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:20:00.350Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:20:00.371Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:20:01.301Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:20:01.317Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:20:01.352Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:20:01.365Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:20:01.425Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:20:03.016Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "TCF data: cmpId 28 consent true, legInt false.",
+    "timestamp": "2021-09-09T13:20:03.025Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:20:03.073Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:20:03.082Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "ads.Invalid sizes: unable to define 'rail' on mobile..warn {definition: Object, slotName: rail} @ [object Object]",
+    "timestamp": "2021-09-09T13:20:03.504Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:20:05.063Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:20:08.079Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:20:08.306Z"
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-93",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:31:13.043Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "visit https://motorsport.com/...",
+    "timestamp": "2021-09-09T13:31:13.402Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:31:26.900Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:31:26.926Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:31:28.053Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:31:28.053Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:31:28.137Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:31:28.142Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:31:28.215Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:31:28.234Z"
+  },
+  {
+    "part": "console.log",
+    "message": "operation GetWidgetMstvLive started @ [object Object]",
+    "timestamp": "2021-09-09T13:31:38.783Z"
+  },
+  {
+    "part": "console.log",
+    "message": "operation GetWidgetMstvLive took 2344 to complete @ [object Object]",
+    "timestamp": "2021-09-09T13:31:41.126Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:31:48.888Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:31:48.892Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:31:48.916Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:31:48.921Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:31:49.076Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Minimum wait time reached after 5.07s.",
+    "timestamp": "2021-09-09T13:31:53.994Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:31:54.190Z"
+  }
+]

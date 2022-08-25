@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-41",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:15:54.419Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "visit https://eurogamer.de/...",
+    "timestamp": "2021-09-09T13:15:54.877Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:15:59.040Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:15:59.058Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://securepubads.g.doubleclick.net/tag/js/gpt.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:16:04.396Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:16:05.310Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:16:05.311Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:16:05.420Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:16:05.427Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:16:05.478Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:16:05.553Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:16:10.209Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:16:14.057Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:16:14.060Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:16:14.083Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:16:14.086Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:16:14.183Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:16:19.084Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:16:19.101Z"
+  }
+]

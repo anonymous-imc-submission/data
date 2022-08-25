@@ -1,0 +1,117 @@
+[
+  {
+    "part": "measure-10",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:05:38.369Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "visit https://complex.com/...",
+    "timestamp": "2021-09-09T13:05:38.669Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[ABD] start beginTest @ [object Object]",
+    "timestamp": "2021-09-09T13:05:54.595Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[ABD] adding bait node to DOM @ [object Object]",
+    "timestamp": "2021-09-09T13:05:54.597Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:05:54.610Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:05:54.614Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:05:55.025Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:05:55.026Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:05:55.064Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:05:55.077Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:05:55.130Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[ABD] exiting test loop - value: false @ [object Object]",
+    "timestamp": "2021-09-09T13:05:55.242Z"
+  },
+  {
+    "part": "console.log",
+    "message": "data = {accountId: 6e763a77-b5b9-4613-a077-2f54e86b8050, eventName: PAGE_VIEW, gtmOnSuccess: , gtmOnFailure: , gtmTagId: 207} @ [object Object]",
+    "timestamp": "2021-09-09T13:05:55.813Z"
+  },
+  {
+    "part": "console.log",
+    "message": "data = {accountId: 6e763a77-b5b9-4613-a077-2f54e86b8050, eventName: PAGE_VIEW, gtmOnSuccess: , gtmOnFailure: , gtmTagId: 207} @ [object Object]",
+    "timestamp": "2021-09-09T13:05:55.870Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:05:56.011Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:05:56.014Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:05:56.046Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:05:56.050Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:05:56.246Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:05:57.279Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://images.complex.com/complex/image/upload/v1580766573/FFFFFF-1_cyvbjp.png was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:58.228Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Minimum wait time reached after 5.07s.",
+    "timestamp": "2021-09-09T13:06:01.143Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:06:01.244Z"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "part": "measure-06",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:22.377Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "visit https://theneweuropean.co.uk/...",
+    "timestamp": "2021-09-09T13:06:22.725Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cPugpig Piano background: #222; color: #bada55 Loaded Piano object @ [object Object]",
+    "timestamp": "2021-09-09T13:06:23.226Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cPugpig Piano setCustomVariable background: #222; color: #bada55 PageAccess: free @ [object Object]",
+    "timestamp": "2021-09-09T13:06:23.240Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cPugpig Subs background: #222; color: #bada55 Blocked false @ [object Object]",
+    "timestamp": "2021-09-09T13:06:23.277Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cPugpig Piano GA Cross Domain Linking background: #222; color: #bada55 (From data layer) undefined @ [object Object]",
+    "timestamp": "2021-09-09T13:06:24.791Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cPugpig Piano GA Cross Domain Linking background: #222; color: orange No gaCrossDomainLinkingID found @ [object Object]",
+    "timestamp": "2021-09-09T13:06:24.793Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cPugpig Piano background: #222; color: #bada55 setUserLoggedOut @ [object Object]",
+    "timestamp": "2021-09-09T13:06:24.798Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:06:26.744Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:06:26.749Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:06:27.531Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:27.535Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:06:27.562Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:06:27.575Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:27.643Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:06:28.409Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:06:28.416Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:06:28.465Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:06:28.469Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:06:28.495Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:06:33.466Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:06:33.492Z"
+  }
+]

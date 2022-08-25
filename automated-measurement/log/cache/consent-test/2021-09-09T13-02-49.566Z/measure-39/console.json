@@ -1,0 +1,152 @@
+[
+  {
+    "part": "measure-39",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:16:32.499Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "visit https://espn.com.au/...",
+    "timestamp": "2021-09-09T13:16:33.332Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/. @ [object Object]",
+    "timestamp": "2021-09-09T13:16:42.079Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:16:45.991Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:16:45.992Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:16:51.064Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:16:51.065Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:16:51.929Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:16:51.939Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:16:52.147Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:16:53.098Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "'window.webkitStorageInfo' is deprecated. Please use 'navigator.webkitTemporaryStorage' or 'navigator.webkitPersistentStorage' instead. @ [object Object]",
+    "timestamp": "2021-09-09T13:16:53.194Z"
+  },
+  {
+    "part": "console.error",
+    "message": "%c[OneID]%c %c[%s]%c:  color:#2887b4;background-color:transparent;font-weight:bold color:#000;background-color:transparent;font-weight: color:#FC0C1B;background-color:#FFEFEF ERROR color:#000;background-color:transparent;font-weight: Already initialized @ [object Object]",
+    "timestamp": "2021-09-09T13:16:54.485Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button id=\"onetrust-pc-btn-handler\">Show Purposes</button>\n============================================================",
+    "timestamp": "2021-09-09T13:16:55.793Z"
+  },
+  {
+    "part": "console.error",
+    "message": "%c[OneID]%c %c[%s]%c:  color:#2887b4;background-color:transparent;font-weight:bold color:#000;background-color:transparent;font-weight: color:#FC0C1B;background-color:#FFEFEF ERROR color:#000;background-color:transparent;font-weight: Session not established @ [object Object]",
+    "timestamp": "2021-09-09T13:16:57.439Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:16:58.540Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".ot-pc-refuse-all-handler:visible, .save-preference-btn-handler:visible\"\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:17:33.432Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:17:44.156Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:17:44.156Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:17:49.299Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:18:39.835Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:18:39.835Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:44.885Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:18:51.066Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "TCF data: cmpId 28 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:18:51.073Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:18:51.101Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:18:51.110Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:18:56.103Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:18:56.260Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:18:56.285Z"
+  }
+]

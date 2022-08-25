@@ -1,0 +1,162 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://vox.de/..."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://sourcepoint.vox.de/wrapperMessagingWithoutDetection.js",
+      "lineNumber": 0,
+      "columnNumber": 154615
+    },
+    "text": "Messaging without detection successfully executed."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KCZFN55",
+      "lineNumber": 235,
+      "columnNumber": 205
+    },
+    "text": "INFOnline 2.0: Loading script from https://script.ioam.de/iam.js"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KCZFN55",
+      "lineNumber": 235,
+      "columnNumber": 205
+    },
+    "text": "INFOnline 2.0: Script loaded successfully."
+  },
+  {
+    "type": "admeasure",
+    "text": "Looking for dialogs to reject..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting for __tcfapi..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint iframe found!"
+  },
+  {
+    "type": "admeasure",
+    "text": "__tcfapi found! Querying status..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingWaiting."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingLoaded."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Button clicked: Einstellungen oder ablehnen"
+  },
+  {
+    "type": "admeasure",
+    "text": "Found Sourcepoint privacy manager."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://www.vox.de/cms/index.html",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "The resource https://www.vox.de/components/masters/assets/fonts/rtli-contens-master.ttf?fqlztf was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://www.vox.de/cms/index.html",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "The resource https://www.vox.de/css/fonts/voxde-icons.ttf?mldwze was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: no type toggles."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Check for legitimate interest button..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Clicking legitimate interest button: Einstellungen"
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Find the save button."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint dialog rejected."
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data obtained!"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data: cmpId 6 consent false, legInt false."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Network is idle after 0.00s."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://sourcepoint.vox.de/wrapperMessagingWithoutDetection.js",
+      "lineNumber": 0,
+      "columnNumber": 154615
+    },
+    "text": "Messaging without detection successfully executed."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 84
+    },
+    "text": "___tcloaded___"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 204
+    },
+    "text": "removed: 2"
+  },
+  {
+    "type": "admeasure",
+    "text": "Minimum wait time reached after 5.00s."
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

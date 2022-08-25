@@ -1,0 +1,192 @@
+[
+  {
+    "part": "measure-24",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:57.788Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "visit https://newschoolers.com/...",
+    "timestamp": "2021-09-09T13:06:57.904Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Loading Embed: https://www.youtube.com/watch?v=aAlGzxlN76E&ab_channel=LINESkis @ [object Object]",
+    "timestamp": "2021-09-09T13:06:59.562Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipping embed ad for aAlGzxlN76E @ [object Object]",
+    "timestamp": "2021-09-09T13:06:59.568Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Loading video player for aAlGzxlN76E @ [object Object]",
+    "timestamp": "2021-09-09T13:06:59.572Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[BlockAdBlock][setOption] The option \"debug\" he was assigned to \"true\" @ [object Object]",
+    "timestamp": "2021-09-09T13:06:59.626Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[BlockAdBlock][setOption] The option \"checkOnLoad\" he was assigned to \"true\" @ [object Object]",
+    "timestamp": "2021-09-09T13:06:59.633Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[BlockAdBlock][setOption] The option \"resetOnEnd\" he was assigned to \"false\" @ [object Object]",
+    "timestamp": "2021-09-09T13:06:59.634Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:07:00.416Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:07:02.243Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:07:02.243Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[BlockAdBlock][onload->eventCallback] A check loading is launched @ [object Object]",
+    "timestamp": "2021-09-09T13:07:02.279Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[BlockAdBlock][_creatBait] Bait has been created @ [object Object]",
+    "timestamp": "2021-09-09T13:07:02.281Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[BlockAdBlock][check] An audit was requested with a loop @ [object Object]",
+    "timestamp": "2021-09-09T13:07:02.536Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[BlockAdBlock][check] A check is in progress ... @ [object Object]",
+    "timestamp": "2021-09-09T13:07:02.537Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[BlockAdBlock][_checkBait] A check (1/5 ~1ms) was conducted and detection is negative @ [object Object]",
+    "timestamp": "2021-09-09T13:07:02.583Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[BlockAdBlock][_checkBait] A check (2/5 ~51ms) was conducted and detection is negative @ [object Object]",
+    "timestamp": "2021-09-09T13:07:02.738Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:07:02.793Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:02.793Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[BlockAdBlock][_checkBait] A check (3/5 ~101ms) was conducted and detection is negative @ [object Object]",
+    "timestamp": "2021-09-09T13:07:02.823Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:07:02.826Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:07:02.829Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:02.861Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[BlockAdBlock][_checkBait] A check (4/5 ~151ms) was conducted and detection is negative @ [object Object]",
+    "timestamp": "2021-09-09T13:07:02.877Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[BlockAdBlock][_checkBait] A check (5/5 ~201ms) was conducted and detection is negative @ [object Object]",
+    "timestamp": "2021-09-09T13:07:02.897Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[BlockAdBlock][_stopLoop] A loop has been stopped @ [object Object]",
+    "timestamp": "2021-09-09T13:07:02.903Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[BlockAdBlock][_destroyBait] Bait has been removed @ [object Object]",
+    "timestamp": "2021-09-09T13:07:02.904Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[BlockAdBlock][emitEvent] An event with a negative detection was called @ [object Object]",
+    "timestamp": "2021-09-09T13:07:02.905Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[BlockAdBlock][emitEvent] Call function 1/1 @ [object Object]",
+    "timestamp": "2021-09-09T13:07:02.906Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:07:03.753Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:07:03.755Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:07:03.757Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:07:03.759Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:07:03.789Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:07:06.302Z"
+  },
+  {
+    "part": "console.timeEnd",
+    "message": "a: 0.0029296875 ms @ [object Object]",
+    "timestamp": "2021-09-09T13:07:08.605Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:07:08.757Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:07:08.780Z"
+  }
+]

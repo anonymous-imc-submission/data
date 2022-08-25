@@ -1,0 +1,14 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://wissen.de/..."
+  },
+  {
+    "type": "admeasure",
+    "text": "page load error: Error: page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://wissen.de/\n=========================== logs ===========================\nnavigating to \"https://wissen.de/\", waiting until \"load\"\n============================================================"
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

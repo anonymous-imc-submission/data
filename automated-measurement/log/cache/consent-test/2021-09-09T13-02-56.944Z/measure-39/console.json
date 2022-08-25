@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-39",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:15:34.786Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "visit https://townandcountrymag.com/...",
+    "timestamp": "2021-09-09T13:15:35.163Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service worker registration succeeded. @ [object Object]",
+    "timestamp": "2021-09-09T13:15:36.653Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:15:38.409Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:15:40.063Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:15:40.074Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:15:40.356Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:15:40.356Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:15:40.423Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:15:40.428Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:15:40.501Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:15:40.520Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:15:48.996Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:15:48.996Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:15:49.004Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:15:49.005Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:15:49.075Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service worker registration succeeded. @ [object Object]",
+    "timestamp": "2021-09-09T13:15:49.635Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:15:51.699Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:15:54.006Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:15:54.036Z"
+  }
+]

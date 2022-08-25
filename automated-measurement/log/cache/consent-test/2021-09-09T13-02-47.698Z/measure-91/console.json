@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-91",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:28:00.659Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "visit https://tv4play.se/...",
+    "timestamp": "2021-09-09T13:28:06.455Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "[bugsnag] Loaded! @ [object Object]",
+    "timestamp": "2021-09-09T13:28:08.155Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:28:14.768Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:28:14.769Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:28:15.261Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:28:15.261Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:28:15.287Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:28:15.297Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:28:15.319Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:28:15.337Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:28:24.333Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:28:24.335Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:28:24.339Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:28:24.527Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:28:29.348Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:28:44.359Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:28:44.395Z"
+  }
+]

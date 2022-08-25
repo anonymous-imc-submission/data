@@ -1,0 +1,127 @@
+[
+  {
+    "part": "measure-34",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:08:08.574Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "visit https://iqvia.com/...",
+    "timestamp": "2021-09-09T13:08:08.644Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "VIDEOJS: WARN: videojs.plugin() is deprecated; use videojs.registerPlugin() instead @ [object Object]",
+    "timestamp": "2021-09-09T13:08:10.549Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "Registered frame JSHandle@node @ [object Object]",
+    "timestamp": "2021-09-09T13:08:11.424Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "VIDEOJS: WARN: Calling addRemoteTextTrack without explicitly setting the \"manualCleanup\" parameter to `true` is deprecated and default to `false` in future version of video.js @ [object Object]",
+    "timestamp": "2021-09-09T13:08:12.643Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "VIDEOJS: WARN: Calling addRemoteTextTrack without explicitly setting the \"manualCleanup\" parameter to `true` is deprecated and default to `false` in future version of video.js @ [object Object]",
+    "timestamp": "2021-09-09T13:08:12.646Z"
+  },
+  {
+    "part": "console.error",
+    "message": "VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) The media could not be loaded, either because the server or network failed or because the format is not supported. jt @ [object Object]",
+    "timestamp": "2021-09-09T13:08:14.157Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "Received ready event from frame JSHandle@node @ [object Object]",
+    "timestamp": "2021-09-09T13:08:15.235Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "Frame size was subpixel, adjusted to next whole pixel @ [object Object]",
+    "timestamp": "2021-09-09T13:08:15.236Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "Updated aspect ratio to 0.83333333 @ [object Object]",
+    "timestamp": "2021-09-09T13:08:15.751Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "Frame size was subpixel, adjusted to next whole pixel @ [object Object]",
+    "timestamp": "2021-09-09T13:08:15.754Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:08:19.322Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:08:19.322Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:08:19.981Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:08:19.981Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:08:20.070Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:08:20.085Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:08:20.156Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:08:20.797Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:08:20.800Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:08:20.807Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:08:20.808Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:08:20.872Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:08:25.808Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:08:25.822Z"
+  }
+]

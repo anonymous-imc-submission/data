@@ -1,0 +1,72 @@
+[
+  {
+    "part": "measure-50",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:17:45.258Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "visit https://resultados.com/...",
+    "timestamp": "2021-09-09T13:17:46.366Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:18:05.296Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:18:05.301Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://cdn.cookielaw.org/vendorlist/iab2Data.json was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:18:12.724Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:18:17.684Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:18:22.474Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:18:25.905Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "__tcfapi not found: TimeoutError: page.waitForFunction: Timeout 30000ms exceeded.",
+    "timestamp": "2021-09-09T13:18:35.333Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "TCF data: cmpId null consent null, legInt null.",
+    "timestamp": "2021-09-09T13:18:35.333Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:18:35.343Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:18:40.349Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:18:55.360Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:18:55.473Z"
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "part": "measure-01",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:10.336Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "visit https://classicandsportscar.com/...",
+    "timestamp": "2021-09-09T13:06:10.726Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:06:19.122Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:06:19.150Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:06:19.589Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:19.593Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:06:19.633Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:06:19.640Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:19.685Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:06:19.715Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:06:24.547Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:06:24.551Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:06:24.715Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:06:24.906Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:06:29.716Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Timeout after 20.1s",
+    "timestamp": "2021-09-09T13:06:44.770Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:06:44.820Z"
+  }
+]

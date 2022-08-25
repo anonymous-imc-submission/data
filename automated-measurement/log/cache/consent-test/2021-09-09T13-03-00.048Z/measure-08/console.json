@@ -1,0 +1,102 @@
+[
+  {
+    "part": "measure-08",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:39.534Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "visit https://oprahmag.com/...",
+    "timestamp": "2021-09-09T13:06:39.836Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service worker registration succeeded. @ [object Object]",
+    "timestamp": "2021-09-09T13:06:41.243Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:06:44.353Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:06:44.356Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:06:44.974Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:44.975Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:06:45.017Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:06:45.025Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:45.132Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:06:45.150Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:06:53.326Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:06:53.326Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:06:53.329Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:06:53.337Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:06:53.407Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service worker registration succeeded. @ [object Object]",
+    "timestamp": "2021-09-09T13:06:54.066Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:06:57.076Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:06:58.330Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:06:58.354Z"
+  }
+]

@@ -1,0 +1,427 @@
+[
+  {
+    "part": "measure-17",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:38.464Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "visit https://newyorker.com/...",
+    "timestamp": "2021-09-09T13:06:38.546Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Origin trial controlled feature not enabled: 'trust-token-redemption'. @ [object Object]",
+    "timestamp": "2021-09-09T13:06:43.342Z"
+  },
+  {
+    "part": "console.error",
+    "message": "VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) The media could not be loaded, either because the server or network failed or because the format is not supported. at @ [object Object]",
+    "timestamp": "2021-09-09T13:06:43.906Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:06:44.035Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:06:44.037Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:06:44.174Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:44.175Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:06:44.186Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:06:44.188Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:44.222Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:06:45.418Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "TCF data: cmpId 28 consent true, legInt false.",
+    "timestamp": "2021-09-09T13:06:45.422Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:06:45.434Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:06:45.659Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:06:45.676Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'. @ [object Object]",
+    "timestamp": "2021-09-09T13:06:45.719Z"
+  },
+  {
+    "part": "console.log",
+    "message": "received a request for uspapi @ [object Object]",
+    "timestamp": "2021-09-09T13:06:47.870Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'. @ [object Object]",
+    "timestamp": "2021-09-09T13:06:47.951Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o1o2i&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.newyorker.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:06:48.072Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an script pixel with URL:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o1o2i&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.newyorker.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:06:48.076Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o1o2i&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.newyorker.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:06:48.077Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an image pixel with URL:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o1o2i&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.newyorker.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:06:48.078Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o1spb&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.newyorker.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:06:48.079Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an script pixel with URL:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o1spb&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.newyorker.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:06:48.084Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o1spb&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.newyorker.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:06:48.085Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an image pixel with URL:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o1spb&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.newyorker.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:06:48.086Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:06:50.434Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:51.209Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:53.171Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:53.173Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:53.180Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:53.182Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:53.184Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:53.190Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:53.192Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:53.193Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:53.200Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:53.201Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 400 (Bad Request) @ [object Object]",
+    "timestamp": "2021-09-09T13:06:53.412Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://www.newyorker.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:06:53.498Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:06:55.446Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:06:55.472Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:06:55.950Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:06:55.995Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:56.203Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:56.212Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:56.214Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:56.215Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:56.222Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:56.224Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:56.225Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:56.235Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:56.237Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:56.240Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:56.248Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:56.250Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:56.252Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:56.259Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:56.261Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:56.262Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:56.274Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:56.277Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:56.286Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:56.328Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:56.331Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:56.333Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:56.340Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:56.344Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:56.346Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:56.352Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:56.354Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:56.356Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:56.361Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:56.363Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:56.364Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:56.370Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:56.372Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:56.373Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:56.388Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ [object Object]",
+    "timestamp": "2021-09-09T13:06:57.333Z"
+  },
+  {
+    "part": "console.log",
+    "message": "received a request for uspapi @ [object Object]",
+    "timestamp": "2021-09-09T13:06:57.695Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:06:58.136Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "Network is idle after 13.6s.",
+    "timestamp": "2021-09-09T13:06:59.053Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:06:59.201Z"
+  }
+]

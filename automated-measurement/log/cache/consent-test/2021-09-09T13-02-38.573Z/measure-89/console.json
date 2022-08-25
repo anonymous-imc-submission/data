@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-89",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:14:51.564Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "visit https://usatoday.net/...",
+    "timestamp": "2021-09-09T13:14:55.053Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "page load error: Error: page.goto: net::ERR_NAME_NOT_RESOLVED at https://usatoday.net/\n=========================== logs ===========================\nnavigating to \"https://usatoday.net/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:14:55.152Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:14:55.182Z"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "part": "measure-88",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:20:06.236Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "visit https://bizfluent.com/...",
+    "timestamp": "2021-09-09T13:20:08.281Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Failed to execute 'write' on 'Document': It isn't possible to write into a document from an asynchronously-loaded external script unless it is explicitly opened. @ [object Object]",
+    "timestamp": "2021-09-09T13:20:14.417Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://bizfluent.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:20:38.427Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:20:39.441Z"
+  }
+]

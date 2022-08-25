@@ -1,0 +1,102 @@
+[
+  {
+    "part": "measure-20",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:07:12.018Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "visit https://thecalifornian.com/...",
+    "timestamp": "2021-09-09T13:07:12.223Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:07:19.323Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:07:23.700Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:07:23.701Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:07:24.072Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:24.073Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:07:24.226Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:07:24.237Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:24.292Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:07:25.140Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:07:25.144Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:07:25.165Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:07:25.170Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:07:26.024Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CONNECTION_CLOSED @ [object Object]",
+    "timestamp": "2021-09-09T13:07:27.692Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR @ [object Object]",
+    "timestamp": "2021-09-09T13:07:28.770Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CONNECTION_CLOSED @ [object Object]",
+    "timestamp": "2021-09-09T13:07:28.779Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:07:30.165Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:07:30.196Z"
+  }
+]

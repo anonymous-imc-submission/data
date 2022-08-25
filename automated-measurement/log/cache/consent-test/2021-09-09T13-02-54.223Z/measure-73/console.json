@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-73",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:21:06.554Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "visit https://glamour.com/...",
+    "timestamp": "2021-09-09T13:21:08.825Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Permutive was not initialized. No consent to run on the page @ [object Object]",
+    "timestamp": "2021-09-09T13:21:12.481Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:21:12.558Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Invalid arguments: PubAdsService.refresh(). @ [object Object]",
+    "timestamp": "2021-09-09T13:21:13.582Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] To reserve space and reduce layout shifts, consider setting min-width=2px, min-height=2px styles on the div element with id=universalad_hero_1. Learn more: https://developers.google.com/publisher-tag/guides/minimize-layout-shift @ [object Object]",
+    "timestamp": "2021-09-09T13:21:13.843Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:21:18.938Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:21:18.954Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:21:19.113Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:21:19.133Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:21:19.177Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:21:19.182Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:21:19.266Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:21:19.273Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:21:39.643Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:21:39.647Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:21:39.729Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:21:39.746Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:21:41.809Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:21:44.744Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:21:44.811Z"
+  }
+]

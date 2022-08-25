@@ -1,0 +1,25 @@
+{% extends "base.sh.jinja2" %}
+{% block body %}
+
+sudo add-apt-repository -y ppa:deadsnakes/ppa
+apt-get install -y python3.9-dev python3.9-venv python3.9-distutils libhyperscan5
+
+{{ copy("../requirements.txt", "requirements.txt") }}
+
+python3.9 -m venv /root/venv
+/root/venv/bin/pip install -r /root/requirements.txt
+
+mkdir -p /root/.config/fish/
+cat << 'END_OF_FILE' > /root/.config/fish/config.fish
+source ~/venv/bin/activate.fish
+END_OF_FILE
+
+cat << 'END_OF_FILE' > /usr/local/bin/update
+#!/bin/bash
+curl $(adm s3 resource-url admeasure-0.0.0-py3-none-any.whl) -o /root/admeasure-0.0.0-py3-none-any.whl
+/root/venv/bin/pip install --force-reinstall /root/admeasure-0.0.0-py3-none-any.whl --no-deps
+END_OF_FILE
+chmod +x /usr/local/bin/update
+
+
+{% endblock %}

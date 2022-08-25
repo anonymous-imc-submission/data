@@ -1,0 +1,102 @@
+[
+  {
+    "part": "measure-55",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:18:35.648Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "visit https://buienradar.nl/...",
+    "timestamp": "2021-09-09T13:18:35.745Z"
+  },
+  {
+    "part": "console.log",
+    "message": "locationConsent : show popup, preference not set @ [object Object]",
+    "timestamp": "2021-09-09T13:18:37.739Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Starting map.animation.js @ [object Object]",
+    "timestamp": "2021-09-09T13:18:37.847Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Start event fired @ [object Object]",
+    "timestamp": "2021-09-09T13:18:39.704Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:18:39.760Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:18:39.760Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:18:39.907Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:39.907Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:18:39.922Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:18:39.925Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:39.939Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:18:39.948Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:18:44.421Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:18:44.423Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:18:44.434Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:18:44.435Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:18:44.464Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:18:49.434Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:18:49.456Z"
+  }
+]

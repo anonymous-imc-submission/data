@@ -1,0 +1,57 @@
+[
+  {
+    "part": "measure-59",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:15:25.273Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "visit https://edna.cz/...",
+    "timestamp": "2021-09-09T13:15:34.696Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The key \"\" is not recognized and ignored. @ [object Object]",
+    "timestamp": "2021-09-09T13:15:39.154Z"
+  },
+  {
+    "part": "console.log",
+    "message": "try to render adobe @ [object Object]",
+    "timestamp": "2021-09-09T13:15:40.226Z"
+  },
+  {
+    "part": "console.log",
+    "message": "rendered @ [object Object]",
+    "timestamp": "2021-09-09T13:15:40.227Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "VIDEOJS: WARN: Constructor logic via init() is deprecated; please use constructor() instead. @ [object Object]",
+    "timestamp": "2021-09-09T13:15:42.159Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "VIDEOJS: WARN: Constructor logic via init() is deprecated; please use constructor() instead. @ [object Object]",
+    "timestamp": "2021-09-09T13:15:42.161Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JSHandle@node @ [object Object]",
+    "timestamp": "2021-09-09T13:15:42.348Z"
+  },
+  {
+    "part": "console.log",
+    "message": "steps:  [Object,Object,Object,Object,Object,Object,Object,Object,Object,Object,Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:15:56.908Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://edna.cz/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:16:04.710Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:16:04.895Z"
+  }
+]

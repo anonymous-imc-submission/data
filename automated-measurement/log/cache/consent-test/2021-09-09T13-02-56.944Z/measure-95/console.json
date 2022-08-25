@@ -1,0 +1,137 @@
+[
+  {
+    "part": "measure-95",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:32:06.494Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "visit https://architecturaldigest.in/...",
+    "timestamp": "2021-09-09T13:32:07.586Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Permutive was not initialized. No consent to run on the page @ [object Object]",
+    "timestamp": "2021-09-09T13:32:30.641Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:32:35.366Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:32:35.408Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:32:37.605Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:32:37.613Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:32:38.291Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:32:38.301Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:32:38.466Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:32:38.526Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button id=\"onetrust-pc-btn-handler\">Show Purposes</button>\n============================================================",
+    "timestamp": "2021-09-09T13:32:48.205Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:32:51.403Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".ot-pc-refuse-all-handler:visible, .save-preference-btn-handler:visible\"\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:33:21.963Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:33:29.312Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:33:29.313Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:33:34.409Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:34:24.950Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:34:24.950Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:34:30.103Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:34:37.617Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "TCF data: cmpId 28 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:34:37.619Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:34:37.658Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:34:37.664Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:34:42.672Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:34:42.842Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:34:42.878Z"
+  }
+]

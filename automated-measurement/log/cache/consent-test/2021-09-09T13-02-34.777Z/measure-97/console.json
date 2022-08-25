@@ -1,0 +1,292 @@
+[
+  {
+    "part": "measure-97",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:21:56.988Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "visit https://cnb.cx/...",
+    "timestamp": "2021-09-09T13:21:58.790Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:22:07.389Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:22:07.393Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "cnbc geo region fetch Thu Sep 09 2021 15:22:10 GMT+0200 (Mitteleuropäische Sommerzeit) 830 @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.885Z"
+  },
+  {
+    "part": "console.log",
+    "message": "OneTrust: Optanon Init Load @ [object Object]",
+    "timestamp": "2021-09-09T13:22:14.628Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "[mps:loadJS] async:true, geo_data.js @ [object Object]",
+    "timestamp": "2021-09-09T13:22:16.033Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "[mps:loadJS] async:true, 185796-151042474895997.js @ [object Object]",
+    "timestamp": "2021-09-09T13:22:16.282Z"
+  },
+  {
+    "part": "console.log",
+    "message": "****** [mps] REDIRECTED: false → mps.cnbc.com ****** @ [object Object]",
+    "timestamp": "2021-09-09T13:22:16.308Z"
+  },
+  {
+    "part": "console.log",
+    "message": "--[executed]--> MPS Head Additions (1) @ [object Object]",
+    "timestamp": "2021-09-09T13:22:16.319Z"
+  },
+  {
+    "part": "console.log",
+    "message": "--[executed]--> MPS Header Additions (2) @ [object Object]",
+    "timestamp": "2021-09-09T13:22:16.431Z"
+  },
+  {
+    "part": "console.log",
+    "message": "--[executed]--> MPS Footer Additions (3) @ [object Object]",
+    "timestamp": "2021-09-09T13:22:16.614Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:22:17.344Z"
+  },
+  {
+    "part": "console.log",
+    "message": "registering event:  startCheckout @ [object Object]",
+    "timestamp": "2021-09-09T13:22:17.391Z"
+  },
+  {
+    "part": "console.log",
+    "message": "registering event:  customEvent @ [object Object]",
+    "timestamp": "2021-09-09T13:22:17.397Z"
+  },
+  {
+    "part": "console.log",
+    "message": "registering event:  checkoutClose @ [object Object]",
+    "timestamp": "2021-09-09T13:22:17.403Z"
+  },
+  {
+    "part": "console.log",
+    "message": "registering event:  checkoutComplete @ [object Object]",
+    "timestamp": "2021-09-09T13:22:17.405Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Markit - CAT4 - Disabled @ [object Object]",
+    "timestamp": "2021-09-09T13:22:17.451Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Polar Native - CAT4 - Disabled @ [object Object]",
+    "timestamp": "2021-09-09T13:22:17.484Z"
+  },
+  {
+    "part": "console.log",
+    "message": "WPromote Pixels - CAT4 - Disabled @ [object Object]",
+    "timestamp": "2021-09-09T13:22:17.491Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AdmantX - CAT4 - Disabled @ [object Object]",
+    "timestamp": "2021-09-09T13:22:17.495Z"
+  },
+  {
+    "part": "console.log",
+    "message": "mParticle - CAT7 - Disabled @ [object Object]",
+    "timestamp": "2021-09-09T13:22:17.552Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AB Admiral - CAT7 - Disabled @ [object Object]",
+    "timestamp": "2021-09-09T13:22:18.322Z"
+  },
+  {
+    "part": "console.log",
+    "message": "BounceX - CAT4 - Disabled @ [object Object]",
+    "timestamp": "2021-09-09T13:22:18.327Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Facebook Pixels - CAT4 - Disabled @ [object Object]",
+    "timestamp": "2021-09-09T13:22:18.334Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Iterate Survey - CAT6 - Disabled @ [object Object]",
+    "timestamp": "2021-09-09T13:22:18.344Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Nielsen DCR Tagging - CAT4 - Disabled @ [object Object]",
+    "timestamp": "2021-09-09T13:22:18.346Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Omniture Click Linkcall - CAT7 - Disabled @ [object Object]",
+    "timestamp": "2021-09-09T13:22:18.353Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Omniture Scroll Linkcall - CAT7 - Disabled @ [object Object]",
+    "timestamp": "2021-09-09T13:22:18.714Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Omniture Search Quote Linkcall - CAT7 - Disabled @ [object Object]",
+    "timestamp": "2021-09-09T13:22:18.719Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Omniture Video Events - CAT7 - Disabled @ [object Object]",
+    "timestamp": "2021-09-09T13:22:18.728Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Parsely - CAT7 - Disabled @ [object Object]",
+    "timestamp": "2021-09-09T13:22:18.735Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Parsely Video - CAT7 - Disabled @ [object Object]",
+    "timestamp": "2021-09-09T13:22:18.738Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SailThru - CAT7 - Disabled @ [object Object]",
+    "timestamp": "2021-09-09T13:22:18.741Z"
+  },
+  {
+    "part": "console.log",
+    "message": "finished executing omniture now @ [object Object]",
+    "timestamp": "2021-09-09T13:22:19.000Z"
+  },
+  {
+    "part": "console.error",
+    "message": "{name: SlotValidationError, message: There was an issue with the configuration for this…null]]}\n- 'sizes' must have at least 1 valid item} @ [object Object]",
+    "timestamp": "2021-09-09T13:22:19.025Z"
+  },
+  {
+    "part": "console.error",
+    "message": "{name: SlotValidationError, message: There was an issue with the configuration for this…null]]}\n- 'sizes' must have at least 1 valid item} @ [object Object]",
+    "timestamp": "2021-09-09T13:22:19.025Z"
+  },
+  {
+    "part": "console.error",
+    "message": "{name: SlotValidationError, message: There was an issue with the configuration for this…null]]}\n- 'sizes' must have at least 1 valid item} @ [object Object]",
+    "timestamp": "2021-09-09T13:22:19.025Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:22:19.138Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:19.147Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:22:19.520Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "[mps:loadJS] async:true, AppMeasurement.js?v=1.0 @ [object Object]",
+    "timestamp": "2021-09-09T13:22:20.224Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "**** LOADED: Omniture JS (AppMeasurement) @ [object Object]",
+    "timestamp": "2021-09-09T13:22:20.229Z"
+  },
+  {
+    "part": "console.log",
+    "message": "ADOBE CONSENT - OptanonConsent Cookie Does Not Exist @ [object Object]",
+    "timestamp": "2021-09-09T13:22:20.242Z"
+  },
+  {
+    "part": "console.log",
+    "message": "mParticle Identity - CAT7 - Disabled @ [object Object]",
+    "timestamp": "2021-09-09T13:22:21.471Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:23.177Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:22:23.607Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[mps/hb] HB startAdExecution begun @ [object Object]",
+    "timestamp": "2021-09-09T13:22:24.057Z"
+  },
+  {
+    "part": "console.log",
+    "message": "OptanonWrapper called @ [object Object]",
+    "timestamp": "2021-09-09T13:22:25.141Z"
+  },
+  {
+    "part": "console.log",
+    "message": "OptanonWrapper called @ [object Object]",
+    "timestamp": "2021-09-09T13:22:30.534Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:22:30.941Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "TCF data: cmpId 28 consent true, legInt false.",
+    "timestamp": "2021-09-09T13:22:30.946Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:22:30.999Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Network is idle after 0.02s.",
+    "timestamp": "2021-09-09T13:22:31.024Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Got consent from user  @ [object Object]",
+    "timestamp": "2021-09-09T13:22:32.465Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:22:34.383Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Minimum wait time reached after 5.02s.",
+    "timestamp": "2021-09-09T13:22:36.016Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:22:36.105Z"
+  }
+]

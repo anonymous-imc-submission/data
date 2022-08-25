@@ -1,0 +1,132 @@
+[
+  {
+    "part": "measure-19",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:11:51.251Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "visit https://upworthy.com/...",
+    "timestamp": "2021-09-09T13:11:51.483Z"
+  },
+  {
+    "part": "console.log",
+    "message": "true @ [object Object]",
+    "timestamp": "2021-09-09T13:11:51.844Z"
+  },
+  {
+    "part": "console.log",
+    "message": "keep reading exists @ [object Object]",
+    "timestamp": "2021-09-09T13:11:52.740Z"
+  },
+  {
+    "part": "console.log",
+    "message": "keep reading exists @ [object Object]",
+    "timestamp": "2021-09-09T13:11:52.742Z"
+  },
+  {
+    "part": "console.log",
+    "message": "keep reading exists @ [object Object]",
+    "timestamp": "2021-09-09T13:11:52.743Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:11:54.088Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:11:54.089Z"
+  },
+  {
+    "part": "console.log",
+    "message": "ServiceWorker registration successful with scope:  https://www.upworthy.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:11:55.126Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:11:55.458Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:55.459Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:11:55.502Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:11:55.512Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:55.523Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:11:55.571Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 400 () @ [object Object]",
+    "timestamp": "2021-09-09T13:11:57.159Z"
+  },
+  {
+    "part": "console.log",
+    "message": "ad_q [] @ [object Object]",
+    "timestamp": "2021-09-09T13:11:58.056Z"
+  },
+  {
+    "part": "console.log",
+    "message": "scripts function eval_main(_0x1c25x3,_0x1c25x6){try{const [major,minor,patch]=_0x1c25x3[_0xf161[1]],[mymajor,myminor,mypatch]=VERSION;if(major!== mymajor|| minor!== myminor){err((_0xf161[2]+ major+ _0xf161[3]+ minor+ _0xf161[3]+ patch+ _0xf161[4]+ mymajor+ _0xf161[3]+ myminor+ _0xf161[3]+ mypatch+ _0xf161[5]));return false};return eval_expr(_0x1c25x3[_0xf161[6]],_0x1c25x6)}catch(e){err((_0xf161[7]+ (e[_0xf161[8]])+ _0xf161[5]));return false}} {done: , load: , render: , checkForAd: , iframeLoaded: } @ [object Object]",
+    "timestamp": "2021-09-09T13:11:58.310Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:12:00.926Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:12:10.121Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:12:10.121Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:12:10.124Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:12:10.125Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:12:10.232Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:12:15.125Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:12:15.158Z"
+  }
+]

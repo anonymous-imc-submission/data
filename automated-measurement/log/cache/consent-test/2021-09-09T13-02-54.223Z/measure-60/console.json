@@ -1,0 +1,167 @@
+[
+  {
+    "part": "measure-60",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:17:48.700Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "visit https://volny.cz/...",
+    "timestamp": "2021-09-09T13:17:50.527Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://assets.adobedtm.com/e949270ea86e/34b1ac91e175/launch-d4b74124264a.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:54.590Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://assets.adobedtm.com/e949270ea86e/34b1ac91e175/launch-d4b74124264a.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:54.590Z"
+  },
+  {
+    "part": "console.log",
+    "message": "trigger registered events @ [object Object]",
+    "timestamp": "2021-09-09T13:18:02.119Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://secure-assets.rubiconproject.com/utils/xapi/multi-sync.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:18:02.777Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://secure-assets.rubiconproject.com/utils/xapi/multi-sync.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:18:02.779Z"
+  },
+  {
+    "part": "console.log",
+    "message": "steps:  [Object,Object,Object,Object,Object,Object,Object,Object,Object,Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:18:03.387Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead @ [object Object]",
+    "timestamp": "2021-09-09T13:18:04.651Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead @ [object Object]",
+    "timestamp": "2021-09-09T13:18:04.677Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead @ [object Object]",
+    "timestamp": "2021-09-09T13:18:04.706Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:18:06.894Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:18:07.156Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:18:07.171Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:18:07.347Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:07.350Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:18:07.373Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:18:07.376Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:07.443Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-pc-btn-handler:visible,\n            #onetrust-pc-sdk:visible\n        \" to be visible\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:18:37.316Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:18:57.966Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:18:57.968Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:02.989Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:19:53.511Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:19:53.511Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:58.542Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:20:07.351Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "TCF data: cmpId 7 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:20:07.351Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:20:07.361Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:20:07.366Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:20:12.365Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:20:12.472Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:20:12.484Z"
+  }
+]

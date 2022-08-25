@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-73",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:16:45.845Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "visit https://reutersmedia.net/...",
+    "timestamp": "2021-09-09T13:16:45.926Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "page load error: Error: page.goto: net::ERR_NAME_NOT_RESOLVED at https://reutersmedia.net/\n=========================== logs ===========================\nnavigating to \"https://reutersmedia.net/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:16:45.958Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:16:45.994Z"
+  }
+]

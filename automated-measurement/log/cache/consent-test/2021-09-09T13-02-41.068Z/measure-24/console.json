@@ -1,0 +1,132 @@
+[
+  {
+    "part": "measure-24",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:07:48.435Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "visit https://markiza.sk/...",
+    "timestamp": "2021-09-09T13:07:48.705Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "Spark loader: init load script event page_load @ [object Object]",
+    "timestamp": "2021-09-09T13:07:50.795Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Div ID passed to googletag.display() does not match any defined slots: div-gpt-ad-. @ [object Object]",
+    "timestamp": "2021-09-09T13:07:54.100Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "Spark loader: load_script by on_page_load on top @ [object Object]",
+    "timestamp": "2021-09-09T13:07:59.476Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cVideo enhancements powered by HolaSpark.com v1.163.950.T524 Zone markiza color: blue; font-size: 15px @ [object Object]",
+    "timestamp": "2021-09-09T13:08:02.778Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%chttp://holaspark.com/?cam=wm_devconsole color: blue @ [object Object]",
+    "timestamp": "2021-09-09T13:08:02.781Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cGDPR-CCPA mode enabled color: green @ [object Object]",
+    "timestamp": "2021-09-09T13:08:02.788Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cEnabled features: Video preview, Watch next, Player thumbnails color: blue @ [object Object]",
+    "timestamp": "2021-09-09T13:08:02.795Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cAvailable features: Floating player, Image preview, Watch later, Position memory, Player auto play, Video search, Page sharing, TV video casting, YouTube-like controls, Video panel, Video heatmap, Newsreel, Sticky player, Top pages color: green @ [object Object]",
+    "timestamp": "2021-09-09T13:08:02.805Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Embedded in markiza frame: https://www.markiza.sk/uvod @ [object Object]",
+    "timestamp": "2021-09-09T13:08:02.810Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:08:03.025Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:08:03.028Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:08:03.500Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:08:03.501Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:08:03.545Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:08:03.557Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:08:03.605Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GDPR & Consent @ [object Object]",
+    "timestamp": "2021-09-09T13:08:05.389Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:08:05.640Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:08:05.644Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:08:05.666Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:08:05.670Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:08:05.805Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:08:10.666Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:08:10.712Z"
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "part": "measure-61",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:19:47.666Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "visit https://livestrong.com/...",
+    "timestamp": "2021-09-09T13:19:48.932Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "<source src> with a <picture> parent is invalid and therefore ignored. Please use <source srcset> instead. @ [object Object]",
+    "timestamp": "2021-09-09T13:19:51.204Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:19:55.027Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:19:55.060Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c continent: EU  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:57.663Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Breakpoint Size: small  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:57.668Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Breakpoint Size: small  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:57.675Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c =======i am mobile :)  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:57.677Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c WARN %c Reve initializing  background: #FFFF00; color: #000000; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:57.679Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Conditional Delay: permutive is delayed by 0ms  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:57.698Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Loading IAS  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:57.699Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Loading Amazon Publisher Services: apstag.js  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:57.712Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c setState: gptTargeting to [object Object]  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:57.721Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c setState: permutiveTargeting to undefined  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:57.722Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Permutive: Loaded with id 5814efa5-d41d-4a89-b176-1cc26fae87cd  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:57.914Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://c.amazon-adsystem.com/cdn/prod/config?src=3066&u=https%3A%2F%2Fwww.livestrong.com%2F' from origin 'https://www.livestrong.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:19:58.964Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:19:58.964Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:20:00.981Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:20:00.981Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:20:01.172Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://c.amazon-adsystem.com/cdn/prod/config?src=3066&u=https%3A%2F%2Fwww.livestrong.com%2F' from origin 'https://www.livestrong.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:20:02.763Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:20:02.765Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c WARN %c Permutive is ready  background: #FFFF00; color: #000000; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:20:03.730Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c WARN %c Permutive is ready  background: #FFFF00; color: #000000; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:20:04.287Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:20:04.710Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:20:04.963Z"
+  },
+  {
+    "part": "console.log",
+    "message": "ERROR Thu Sep 09 2021 15:20:04 GMT+0200 (Mitteleuropäische Sommerzeit) null @ [object Object]",
+    "timestamp": "2021-09-09T13:20:04.984Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:20:06.277Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:20:10.408Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Breakpoint Size: small  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:20:18.646Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c ads.js defineAd() GTP #emailslider1-1  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:20:18.650Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Loading Google Publisher Tag: gpt.js  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:20:18.659Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Conditional Delay: gpt is delayed by 0ms  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:20:18.664Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c gpt.js defineSlot('/6117/dmd.livestrong/emailslider1-1', [1,3], 'emailslider1-1')  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:20:18.669Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:20:18.773Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:20:18.775Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:20:18.783Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:20:18.861Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:20:23.786Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:20:38.807Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:20:38.953Z"
+  }
+]

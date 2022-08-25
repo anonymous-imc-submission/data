@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-40",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:08:38.071Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "visit https://gqmagazine.fr/...",
+    "timestamp": "2021-09-09T13:08:39.323Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Permutive was not initialized. No consent to run on the page @ [object Object]",
+    "timestamp": "2021-09-09T13:08:45.228Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:08:46.834Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:08:46.835Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:08:48.539Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:08:48.541Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:08:48.559Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:08:48.561Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:08:48.598Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:08:49.737Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "TCF data: cmpId 28 consent true, legInt false.",
+    "timestamp": "2021-09-09T13:08:49.739Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:08:49.745Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:08:49.748Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:08:50.159Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "ads.Invalid sizes: unable to define 'rail' on mobile..warn {definition: Object, slotName: rail} @ [object Object]",
+    "timestamp": "2021-09-09T13:08:50.224Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:08:54.745Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:08:54.758Z"
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "part": "measure-57",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:15:01.723Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "visit https://heute.at/...",
+    "timestamp": "2021-09-09T13:15:02.124Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:15:06.142Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:15:06.152Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:15:06.628Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:15:06.632Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:15:06.672Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:15:06.679Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:15:06.743Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:15:08.292Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:15:08.293Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:15:08.304Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:15:08.311Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:15:08.506Z"
+  },
+  {
+    "part": "console.log",
+    "message": "/44423484/heute.at/inside-full-pos1/home => #inside-full-pos1 @ [object Object]",
+    "timestamp": "2021-09-09T13:15:11.022Z"
+  },
+  {
+    "part": "console.log",
+    "message": "/44423484/heute.at/inside-full-pos2/home => #inside-full-pos2 @ [object Object]",
+    "timestamp": "2021-09-09T13:15:11.440Z"
+  },
+  {
+    "part": "console.log",
+    "message": "/44423484/heute.at/inside-full-pos4/home => #inside-full-pos4 @ [object Object]",
+    "timestamp": "2021-09-09T13:15:11.600Z"
+  },
+  {
+    "part": "console.log",
+    "message": "/44423484/heute.at/inside-full-pos3/home => #inside-full-pos3 @ [object Object]",
+    "timestamp": "2021-09-09T13:15:11.688Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://www.heute.at/ @ [object Object]",
+    "timestamp": "2021-09-09T13:15:12.105Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://www.heute.at/ @ [object Object]",
+    "timestamp": "2021-09-09T13:15:12.529Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://www.heute.at/ @ [object Object]",
+    "timestamp": "2021-09-09T13:15:12.822Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:15:13.305Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:15:13.387Z"
+  }
+]

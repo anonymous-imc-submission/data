@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-33",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:13:26.253Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "visit https://projo.com/...",
+    "timestamp": "2021-09-09T13:13:26.574Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "page load error: Error: page.goto: net::ERR_CONNECTION_REFUSED at https://projo.com/\n=========================== logs ===========================\nnavigating to \"https://projo.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:13:26.774Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:13:26.830Z"
+  }
+]

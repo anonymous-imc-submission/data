@@ -1,0 +1,127 @@
+[
+  {
+    "part": "measure-25",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:11:50.549Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "visit https://espnfc.com/...",
+    "timestamp": "2021-09-09T13:11:50.745Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:55.739Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "'window.webkitStorageInfo' is deprecated. Please use 'navigator.webkitTemporaryStorage' or 'navigator.webkitPersistentStorage' instead. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:08.176Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[OneID] [%s]:  ERROR Already initialized @ [object Object]",
+    "timestamp": "2021-09-09T13:12:09.084Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[OneID] [%s]:  ERROR Session not established @ [object Object]",
+    "timestamp": "2021-09-09T13:12:11.938Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:12:17.426Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:12:17.426Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:12:19.137Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:19.138Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:12:19.214Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:12:19.224Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:19.261Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:12:19.276Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:12:54.093Z"
+  },
+  {
+    "part": "console.log",
+    "message": "consent sync callback complete @ [object Object]",
+    "timestamp": "2021-09-09T13:12:55.939Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:12:56.157Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:12:56.160Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:12:56.181Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:12:56.184Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:12:56.938Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] To reserve space and reduce layout shifts, consider setting min-width=1680px, min-height=1050px styles on the div element with id=ad-slot-wallpaper-196124. Learn more: https://developers.google.com/publisher-tag/guides/minimize-layout-shift @ [object Object]",
+    "timestamp": "2021-09-09T13:12:57.289Z"
+  },
+  {
+    "part": "console.log",
+    "message": "update: ad _dcf:0 @ [object Object]",
+    "timestamp": "2021-09-09T13:12:59.137Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:13:01.183Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:13:01.213Z"
+  }
+]

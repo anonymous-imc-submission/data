@@ -1,0 +1,32 @@
+[
+  {
+    "part": "measure-12",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:01.186Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "visit https://matchendirect.fr/...",
+    "timestamp": "2021-09-09T13:06:01.669Z"
+  },
+  {
+    "part": "console.log",
+    "message": "null undefined @ [object Object]",
+    "timestamp": "2021-09-09T13:06:06.749Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'adpod' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:06:08.396Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://matchendirect.fr/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:06:31.670Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:06:31.692Z"
+  }
+]

@@ -1,0 +1,417 @@
+[
+  {
+    "part": "measure-95",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:32:47.581Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "visit https://grindtv.com/...",
+    "timestamp": "2021-09-09T13:32:49.083Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:32:51.655Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:32:51.679Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:32:52.485Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Permutive was not initialized. No consent to run on the page @ [object Object]",
+    "timestamp": "2021-09-09T13:32:52.875Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:32:53.173Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:32:53.418Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:32:55.309Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:32:57.784Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:32:58.274Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:32:58.792Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:32:58.935Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:32:59.922Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:32:59.958Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:33:00.220Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c Got: 1631194379827.2322 background: #27ae60; color: #000; padding: 2px 10px 2px 5px @ [object Object]",
+    "timestamp": "2021-09-09T13:33:00.369Z"
+  },
+  {
+    "part": "console.log",
+    "message": "permutive identity:  TypeError: Cannot read properties of null (reading 'user')\n    at Object.<anonymous> (https://www.mensjournal.com/:1237:26)\n    at c (https://www.mensjournal.com/_static/??-eJx9jEEOwiAQRS8kTLDVdGM8Cy2TdggMygyp3r7EuHBl8pO/ee/B/jDES2oBBWLfs2F9f89mYhvlBP8gk2mtXvEXXgorsoJumLuSkcXE0ir7BF4E9ZMJJAqJ1k3n8jrbuXFI2BP3fHPXwblpmC5jPAB2kTtv:2:28327)\n    at Object.fireWith [as resolveWith] (https://www.mensjournal.com/_static/??-eJx9jEEOwiAQRS8kTLDVdGM8Cy2TdggMygyp3r7EuHBl8pO/ee/B/jDES2oBBWLfs2F9f89mYhvlBP8gk2mtXvEXXgorsoJumLuSkcXE0ir7BF4E9ZMJJAqJ1k3n8jrbuXFI2BP3fHPXwblpmC5jPAB2kTtv:2:29072)\n    at l (https://www.mensjournal.com/_static/??-eJx9jEEOwiAQRS8kTLDVdGM8Cy2TdggMygyp3r7EuHBl8pO/ee/B/jDES2oBBWLfs2F9f89mYhvlBP8gk2mtXvEXXgorsoJumLuSkcXE0ir7BF4E9ZMJJAqJ1k3n8jrbuXFI2BP3fHPXwblpmC5jPAB2kTtv:2:79901)\n    at XMLHttpRequest.<anonymous> (https://www.mensjournal.com/_static/??-eJx9jEEOwiAQRS8kTLDVdGM8Cy2TdggMygyp3r7EuHBl8pO/ee/B/jDES2oBBWLfs2F9f89mYhvlBP8gk2mtXvEXXgorsoJumLuSkcXE0ir7BF4E9ZMJJAqJ1k3n8jrbuXFI2BP3fHPXwblpmC5jPAB2kTtv:2:82355) @ [object Object]",
+    "timestamp": "2021-09-09T13:33:00.379Z"
+  },
+  {
+    "part": "console.log",
+    "message": "identity [Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:33:00.385Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:33:00.410Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c is_international - \"status\":true color: #10ac84 @ [object Object]",
+    "timestamp": "2021-09-09T13:33:00.442Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:33:02.388Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:33:04.142Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:33:04.257Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:33:04.260Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.mensjournal.com/wp-content/themes/ajax-onload.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:33:04.663Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:33:04.808Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:33:04.825Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:33:04.840Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:33:04.851Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:33:04.926Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:33:06.569Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:33:07.843Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button tabindex=\"0\" class=\"cookie-setting-link\" id=\"one…>Show Purposes</button>\n============================================================",
+    "timestamp": "2021-09-09T13:33:08.086Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:33:09.756Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:33:11.327Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:33:11.544Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:33:11.729Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:33:11.831Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:33:11.875Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:33:12.027Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:33:12.194Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:33:12.353Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:33:12.494Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:33:12.617Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:33:14.678Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:33:16.378Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:33:16.749Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:33:16.944Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:33:17.078Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:33:17.248Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:33:17.535Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:33:17.682Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:33:17.835Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:33:17.972Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:33:18.170Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:33:18.372Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:33:18.571Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:33:18.727Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:33:18.889Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:33:19.047Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:33:19.227Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:33:19.389Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:33:19.567Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:33:19.726Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:33:19.886Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:33:20.048Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:33:20.190Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp No Retries left - Amazon not loaded @ [object Object]",
+    "timestamp": "2021-09-09T13:33:20.357Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".ot-pc-refuse-all-handler:visible, .save-preference-btn-handler:visible\"\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:33:42.373Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:33:55.467Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:33:55.467Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:34:00.492Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:34:51.004Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:34:51.005Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:34:56.031Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:35:04.268Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "TCF data: cmpId 28 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:35:04.272Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:35:04.276Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:35:04.278Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:35:09.283Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:35:09.341Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:35:09.343Z"
+  }
+]

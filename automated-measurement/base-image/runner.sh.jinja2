@@ -1,0 +1,27 @@
+{% extends "base.sh.jinja2" %}
+{% block body %}
+
+curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
+curl -o /tmp/chrome.deb https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+apt-get install -y nodejs /tmp/chrome.deb
+
+rm /tmp/chrome.deb
+
+{{ copy("package.json") }}
+
+npm install
+npx playwright install
+npx playwright install-deps
+
+# swap after next boot
+cat << 'END_OF_FILE' > /etc/rc.local
+#!/bin/bash
+rm -f /swapfile
+fallocate -l 16G /swapfile
+chmod 600 /swapfile
+mkswap /swapfile
+swapon /swapfile
+END_OF_FILE
+chmod a+x /etc/rc.local
+
+{% endblock %}

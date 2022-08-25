@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-60",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:17:12.389Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "visit https://crackberry.com/...",
+    "timestamp": "2021-09-09T13:17:12.591Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:17:19.650Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:17:20.333Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:17:20.511Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:17:20.518Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:17:20.838Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:17:20.839Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:17:20.951Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:17:20.969Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:17:20.977Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:17:21.112Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "%c BORDEAUX  background: #800020; color: #ffffff Not loading Index Exchange API as it is not enabled @ [object Object]",
+    "timestamp": "2021-09-09T13:17:22.602Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:17:22.674Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "TCF data: cmpId 10 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:17:22.679Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:17:22.698Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:17:22.703Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:17:23.386Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Refused to execute script from 'https://bttrack.com/pixel/cookiesync?source=cfc80ad2-7c39-4243-92d6-3ecc1b9a38c6&secure=1' because its MIME type ('image/gif') is not executable. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:24.373Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:17:27.699Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:17:27.766Z"
+  }
+]

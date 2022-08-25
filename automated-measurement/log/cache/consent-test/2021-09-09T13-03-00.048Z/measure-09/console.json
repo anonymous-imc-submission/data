@@ -1,0 +1,127 @@
+[
+  {
+    "part": "measure-09",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:45.266Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "visit https://indiewire.com/...",
+    "timestamp": "2021-09-09T13:06:45.500Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SPEEDCURVE LUX ERROR: Invalid `id` parameter specified in lux.js URL. Code: 140 @ [object Object]",
+    "timestamp": "2021-09-09T13:06:46.713Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 1.4.1 @ [object Object]",
+    "timestamp": "2021-09-09T13:06:46.838Z"
+  },
+  {
+    "part": "console.log",
+    "message": "CX bootstrap loader.... @ [object Object]",
+    "timestamp": "2021-09-09T13:06:46.955Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c cxb.selfLoading background: #0d47a1; color: #FFF @ [object Object]",
+    "timestamp": "2021-09-09T13:06:50.324Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "Download the React DevTools for a better development experience: https://fb.me/react-devtools @ [object Object]",
+    "timestamp": "2021-09-09T13:06:51.387Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[cycle2] requeuing slideshow (dom not ready) @ [object Object]",
+    "timestamp": "2021-09-09T13:06:51.806Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[cycle2] requeuing slideshow (dom not ready) @ [object Object]",
+    "timestamp": "2021-09-09T13:06:51.862Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:06:52.547Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:06:56.581Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:06:56.585Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:06:57.218Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:57.219Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:06:57.294Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:06:57.300Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:57.319Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:06:57.336Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:07:09.643Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:07:09.643Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:07:09.644Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:07:09.644Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:07:09.779Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:07:14.645Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:07:14.707Z"
+  }
+]

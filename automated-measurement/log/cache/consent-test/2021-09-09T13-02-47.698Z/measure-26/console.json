@@ -1,0 +1,422 @@
+[
+  {
+    "part": "measure-26",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:11:39.255Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "visit https://blogvisaodemercado.pt/...",
+    "timestamp": "2021-09-09T13:11:39.439Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:11:40.799Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://beacon.statful.com/beacon/metrics' from origin 'https://blogvisaodemercado.pt' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:42.806Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:11:42.809Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Mixed Content: The page at 'https://blogvisaodemercado.pt/' was loaded over HTTPS, but requested an insecure element 'http://visitor.omnitagjs.com/visitor/bsync?uid=19340f4f097d16f41f34fc0274981ca4&name=PrebidServer&gdpr=&gdpr_consent=&us_privacy=&url=https%3A%2F%2Fprebid.adnxs.com%2Fpbs%2Fv1%2Fsetuid%3Fbidder%3Dadyoulike%26gdpr%3D%26gdpr_consent%3D%26f%3Di%26uid%3D%5BBUYER_USERID%5D'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ [object Object]",
+    "timestamp": "2021-09-09T13:11:44.710Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 521 () @ [object Object]",
+    "timestamp": "2021-09-09T13:11:46.038Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Invalid GPT fixed size specification: [] @ [object Object]",
+    "timestamp": "2021-09-09T13:11:46.271Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Invalid GPT fixed size specification: [] @ [object Object]",
+    "timestamp": "2021-09-09T13:11:46.276Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Invalid GPT fixed size specification: [] @ [object Object]",
+    "timestamp": "2021-09-09T13:11:46.283Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Invalid GPT fixed size specification: [] @ [object Object]",
+    "timestamp": "2021-09-09T13:11:46.285Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Invalid GPT fixed size specification: [] @ [object Object]",
+    "timestamp": "2021-09-09T13:11:46.288Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Invalid GPT fixed size specification: [] @ [object Object]",
+    "timestamp": "2021-09-09T13:11:46.293Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 502 (Bad Gateway) @ [object Object]",
+    "timestamp": "2021-09-09T13:11:46.385Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Mixed Content: The page at 'https://blogvisaodemercado.pt/' was loaded over HTTPS, but requested an insecure frame 'http://sync.bfmio.com/sync_s2s?gdpr=&us_privacy=&url=https%3A%2F%2Fib.adnxs.com%2Fprebid%2Fsetuid%3Fbidder%3Dbeachfront%26gdpr%3D%26gdpr_consent%3D%26uid%3D%5Bio_cid%5D&cc=1'. This request has been blocked; the content must be served over HTTPS. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:46.408Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 (Not Found) @ [object Object]",
+    "timestamp": "2021-09-09T13:11:46.427Z"
+  },
+  {
+    "part": "console.log",
+    "message": "q2w3_sidebar_options not found! @ [object Object]",
+    "timestamp": "2021-09-09T13:11:47.235Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 400 (Bad Request) @ [object Object]",
+    "timestamp": "2021-09-09T13:11:47.806Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "USP is not accessible @ [object Object]",
+    "timestamp": "2021-09-09T13:11:48.269Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 502 () @ [object Object]",
+    "timestamp": "2021-09-09T13:11:49.914Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CONNECTION_REFUSED @ [object Object]",
+    "timestamp": "2021-09-09T13:11:50.468Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:11:51.365Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:11:51.457Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 400 (Bad Request) @ [object Object]",
+    "timestamp": "2021-09-09T13:11:51.562Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 400 () @ [object Object]",
+    "timestamp": "2021-09-09T13:11:52.241Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 503 () @ [object Object]",
+    "timestamp": "2021-09-09T13:11:52.730Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:11:52.753Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "USP is not accessible @ [object Object]",
+    "timestamp": "2021-09-09T13:11:53.699Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:11:53.902Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 400 (Request failed due to privacy signals) @ [object Object]",
+    "timestamp": "2021-09-09T13:11:53.926Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:11:54.486Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:11:54.510Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:11:54.688Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:Inside Logger.setDebugLevel to set the logger level. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:56.531Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:Value of localStorageDebugLevel received from local storage: null and the value received in parameter for setting the debug level is: 1 @ [object Object]",
+    "timestamp": "2021-09-09T13:11:56.532Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:Finally, debug level set to 1 @ [object Object]",
+    "timestamp": "2021-09-09T13:11:56.533Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:VPAIDMain:handshakeVersion() - PM AD MANAGER RELEASE VERSION: 1.2.0 @ [object Object]",
+    "timestamp": "2021-09-09T13:11:56.534Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:VPAIDMain:handshakeVersion() - Player Version:2.0 @ [object Object]",
+    "timestamp": "2021-09-09T13:11:56.535Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:into initPreConfiguration method @ [object Object]",
+    "timestamp": "2021-09-09T13:11:56.537Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:Inside Logger.setDebugLevel to set the logger level. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:56.539Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:Value of localStorageDebugLevel received from local storage: null and the value received in parameter for setting the debug level is: 2 @ [object Object]",
+    "timestamp": "2021-09-09T13:11:56.540Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:Finally, debug level set to 2 @ [object Object]",
+    "timestamp": "2021-09-09T13:11:56.541Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:into initAd method @ [object Object]",
+    "timestamp": "2021-09-09T13:11:56.563Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:Auotplay check: From Video Player environmentVars.videoSlotCanAutoPlay: true @ [object Object]",
+    "timestamp": "2021-09-09T13:11:56.563Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:Player provided the volume level: 0 @ [object Object]",
+    "timestamp": "2021-09-09T13:11:56.565Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:Use mute(0) as a default value since we have received 2 or 6 in the vplay parameter. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:56.573Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:11:56.663Z"
+  },
+  {
+    "part": "console.log",
+    "message": "200 @ [object Object]",
+    "timestamp": "2021-09-09T13:11:57.013Z"
+  },
+  {
+    "part": "console.log",
+    "message": "200 @ [object Object]",
+    "timestamp": "2021-09-09T13:11:57.013Z"
+  },
+  {
+    "part": "console.log",
+    "message": "200 @ [object Object]",
+    "timestamp": "2021-09-09T13:11:57.015Z"
+  },
+  {
+    "part": "console.log",
+    "message": "arResponse->{\"pxcalls\":\"https://cm.g.doubleclick.net/pixel?google_nid=ar101281&google_cm&red=eyJ1IjoiaHR0cHM6Ly9hLmF1ZHJ0ZS5jb206NDQzL3AiLCJkIjpbXX0%3D&ar_id=ag5vPEdizZHRiOUtT9j27w5gQ&gdpr=0&gdpr_consent=|https://ps.eyeota.net/pixel?pid=kh51m51&t=ajs&uid=ag5vPEdizZHRiOUtT9j27w5gQ&gdpr=0&gdpr_consent=|https://dmp.adform.net/serving/cookie/match/?party=1003&gdpr=0&gdpr_consent=\"} @ [object Object]",
+    "timestamp": "2021-09-09T13:11:57.017Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "15:11:57,085 com.stickyadstv.utils.Browser addEventListenerForTCData failed with err:  TypeError: Cannot read properties of undefined (reading 'bind')\n    at f.Vn (https://cdn.stickyadstv.com/mustang/vpaid-adapter.min.js:140:136)\n    at f.yp (https://cdn.stickyadstv.com/mustang/vpaid-adapter.min.js:142:136)\n    at s.callback (https://cdn.stickyadstv.com/mustang/vpaid-adapter.min.js:142:387)\n    at s.r.invokeCallback (https://cmp-cdn.cookielaw.org/scripttemplates/6.13.0/otTCF.js:1:49976)\n    at s.respond (https://cmp-cdn.cookielaw.org/scripttemplates/6.13.0/otTCF.js:1:50694)\n    at s.r (https://cmp-cdn.cookielaw.org/scripttemplates/6.13.0/otTCF.js:1:50121)\n    at new s (https://cmp-cdn.cookielaw.org/scripttemplates/6.13.0/otTCF.js:1:50958)\n    at o.apiCall (https://cmp-cdn.cookielaw.org/scripttemplates/6.13.0/otTCF.js:1:63559)\n    at f.ck (https://cdn.stickyadstv.com/mustang/vpaid-adapter.min.js:142:352)\n    at f.Qk (https://cdn.stickyadstv.com/mustang/vpaid-adapter.min.js:139:454) undefined @ [object Object]",
+    "timestamp": "2021-09-09T13:11:57.112Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:Inside createQueryString() : QueryString created from adtag variables - adtype=13&pubId=156498&siteId=399116&adId=1801594&vadFmt=2&vapi=2&vminl=1&vmaxl=181&vh=160&vw=283&placement=1&vtype=1&vpos=1&vplay=2&vskip=0&vcom=0&vfmt=1+3+5+7+9+1+1+6&gdpr=1=&gdpr_consent=&kadpageurl=https%3A%2F%2Fblogvisaodemercado.pt%2F&schain=1.0,1!vidoomy.com,59601,1,1631193111233,,&us_privacy=&cb=1631193116538 @ [object Object]",
+    "timestamp": "2021-09-09T13:11:57.228Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:Inside createQueryString() : QueryString created from adtag variables - SAVersion=2&inIframe=1&pageURL=about%253Ablank&screenResolution=428x926&kdntuid=1&vwndh=0&vwndw=0&vwndurl=about%253Ablank&vwndref=&vc=2&js=1&sec=1&kltstamp=2021-9-9 15:11:57&ranreq=0.05799219294066371&timezone=2&depth=0 @ [object Object]",
+    "timestamp": "2021-09-09T13:11:57.229Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:PM AdRequest Time: 0.771secs. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:57.308Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:Ad Error Time: 0.78secs. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:57.317Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:Total Component Time since player call: 1.276secs. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:57.318Z"
+  },
+  {
+    "part": "console.error",
+    "message": "pm-error:Invalid/Empty VAST Response from PubMatic Ad Server @ [object Object]",
+    "timestamp": "2021-09-09T13:11:57.319Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:Inside Logger.setDebugLevel to set the logger level. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:57.407Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:Value of localStorageDebugLevel received from local storage: null and the value received in parameter for setting the debug level is: 1 @ [object Object]",
+    "timestamp": "2021-09-09T13:11:57.408Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:Finally, debug level set to 1 @ [object Object]",
+    "timestamp": "2021-09-09T13:11:57.409Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:VPAIDMain:handshakeVersion() - PM AD MANAGER RELEASE VERSION: 1.2.0 @ [object Object]",
+    "timestamp": "2021-09-09T13:11:57.410Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:VPAIDMain:handshakeVersion() - Player Version:2.0 @ [object Object]",
+    "timestamp": "2021-09-09T13:11:57.411Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:into initPreConfiguration method @ [object Object]",
+    "timestamp": "2021-09-09T13:11:57.412Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:Inside Logger.setDebugLevel to set the logger level. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:57.414Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:Value of localStorageDebugLevel received from local storage: null and the value received in parameter for setting the debug level is: 2 @ [object Object]",
+    "timestamp": "2021-09-09T13:11:57.416Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:Finally, debug level set to 2 @ [object Object]",
+    "timestamp": "2021-09-09T13:11:57.417Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:into initAd method @ [object Object]",
+    "timestamp": "2021-09-09T13:11:57.438Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:Auotplay check: From Video Player environmentVars.videoSlotCanAutoPlay: true @ [object Object]",
+    "timestamp": "2021-09-09T13:11:57.438Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:Player provided the volume level: 0 @ [object Object]",
+    "timestamp": "2021-09-09T13:11:57.439Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:Use mute(0) as a default value since we have received 2 or 6 in the vplay parameter. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:57.440Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:Inside createQueryString() : QueryString created from adtag variables - adtype=13&pubId=156498&siteId=399116&adId=1801594&vadFmt=2&vapi=2&vminl=1&vmaxl=181&vh=160&vw=283&placement=1&vtype=1&vpos=1&vplay=2&vskip=0&vcom=0&vfmt=1+3+5+7+9+1+1+6&kadpageurl=https%3A%2F%2Fblogvisaodemercado.pt%2F&schain=1.0,1!vidoomy.com,59601,1,1631193111233,,&us_privacy=&cb=1631193117413 @ [object Object]",
+    "timestamp": "2021-09-09T13:11:57.944Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:Inside createQueryString() : QueryString created from adtag variables - SAVersion=2&inIframe=1&pageURL=about%253Ablank&screenResolution=428x926&kdntuid=1&vwndh=0&vwndw=0&vwndurl=about%253Ablank&vwndref=&vc=2&js=1&sec=1&kltstamp=2021-9-9 15:11:57&ranreq=0.6277263480085982&timezone=2&depth=0&gdpr=1&gdpr_consent=CPMRFD1PMRFD1AcABBENBqCgAAAAAH_AACiQAAAQTAJMNS8gC7EscGTaNKoUQIwrCQ6AUAFFAMLRNYQMrgp2VwEeoIWACE1ARgRAgxBRgwCAAQCAJCIgJADwQCIAiAQAAgBUgIQAEbAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignsrAEou9jTCEMssAKBR_RUYCJQggWBkJCwcxwBICXAAAAA.YAAAD_gAAAAA @ [object Object]",
+    "timestamp": "2021-09-09T13:11:57.946Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:PM AdRequest Time: 0.559secs. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:57.973Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:Ad Error Time: 0.564secs. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:57.976Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:Total Component Time since player call: 0.648secs. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:57.977Z"
+  },
+  {
+    "part": "console.error",
+    "message": "pm-error:Invalid/Empty VAST Response from PubMatic Ad Server @ [object Object]",
+    "timestamp": "2021-09-09T13:11:57.978Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "15:11:58,167 com.stickyadstv.utils.Browser addEventListenerForTCData failed with err:  TypeError: Cannot read properties of undefined (reading 'bind')\n    at f.Vn (https://cdn.stickyadstv.com/mustang/vpaid-adapter.min.js:140:136)\n    at f.yp (https://cdn.stickyadstv.com/mustang/vpaid-adapter.min.js:142:136)\n    at s.callback (https://cdn.stickyadstv.com/mustang/vpaid-adapter.min.js:142:387)\n    at s.r.invokeCallback (https://cmp-cdn.cookielaw.org/scripttemplates/6.13.0/otTCF.js:1:49976)\n    at s.respond (https://cmp-cdn.cookielaw.org/scripttemplates/6.13.0/otTCF.js:1:50694)\n    at s.r (https://cmp-cdn.cookielaw.org/scripttemplates/6.13.0/otTCF.js:1:50121)\n    at new s (https://cmp-cdn.cookielaw.org/scripttemplates/6.13.0/otTCF.js:1:50958)\n    at o.apiCall (https://cmp-cdn.cookielaw.org/scripttemplates/6.13.0/otTCF.js:1:63559)\n    at f.ck (https://cdn.stickyadstv.com/mustang/vpaid-adapter.min.js:142:352)\n    at f.Qk (https://cdn.stickyadstv.com/mustang/vpaid-adapter.min.js:139:454) undefined @ [object Object]",
+    "timestamp": "2021-09-09T13:11:58.170Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:11:58.683Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:12:00.212Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:12:00.362Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:12:05.594Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://blogvisaodemercado.pt/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:12:09.439Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:12:09.606Z"
+  }
+]

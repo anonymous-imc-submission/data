@@ -1,0 +1,357 @@
+[
+  {
+    "part": "measure-21",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:09:20.735Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "visit https://ontheflix.com/...",
+    "timestamp": "2021-09-09T13:09:20.866Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Mixed Content: The page at 'https://ontheflix.com/' was loaded over HTTPS, but requested an insecure script 'http://edge.quantserve.com/quant.js'. This request has been blocked; the content must be served over HTTPS. @ [object Object]",
+    "timestamp": "2021-09-09T13:09:23.715Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:09:25.883Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Web Push Notifications powered by Webpushr @ [object Object]",
+    "timestamp": "2021-09-09T13:09:26.911Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Choice CMP v1 is deprecated, please upgrade to Choice CMP v2. https://help.quantcast.com/hc/en-us/articles/360057828994-Quantcast-Choice-Deprecates-TCF-v1-1-version-with-holistic-move-to-TCF-v2-0 @ [object Object]",
+    "timestamp": "2021-09-09T13:09:26.936Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://adserver-us.adtech.advertising.com/pubapi/3.0/10630.1/4579446/0/0/ADTECH;v=2;cmd=bid;cors=yes;alias=22c41070d695f51;misc=1631192966589;' from origin 'https://ontheflix.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:09:28.103Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:09:28.105Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://adserver-us.adtech.advertising.com/pubapi/3.0/10630.1/4282287/0/0/ADTECH;v=2;cmd=bid;cors=yes;alias=23b61a80142e0c9;misc=1631192966589;' from origin 'https://ontheflix.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:09:28.106Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:09:28.107Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://adserver-us.adtech.advertising.com/pubapi/3.0/10630.1/4225424/0/0/ADTECH;v=2;cmd=bid;cors=yes;alias=21781da8bcec4b6;misc=1631192966589;' from origin 'https://ontheflix.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:09:28.108Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:09:28.111Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://adserver-us.adtech.advertising.com/pubapi/3.0/10630.1/4225423/0/0/ADTECH;v=2;cmd=bid;cors=yes;alias=20d74775564678a;misc=1631192966588;' from origin 'https://ontheflix.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:09:28.112Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:09:28.114Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://adserver-us.adtech.advertising.com/pubapi/3.0/10630.1/4225426/0/0/ADTECH;v=2;cmd=bid;cors=yes;alias=24ae27dfb85a2ca;misc=1631192966589;' from origin 'https://ontheflix.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:09:28.118Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:09:28.127Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Boomerang: __uspapi: Invalid command: undefined @ [object Object]",
+    "timestamp": "2021-09-09T13:09:28.179Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:09:28.265Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c Push notifications powered by: FoxPush.com  background: #222; color: #bada55;font-size:20px; @ [object Object]",
+    "timestamp": "2021-09-09T13:09:28.684Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'checkAdUnitSetup' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:09:29.588Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'checkAdUnitSetup' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:09:30.434Z"
+  },
+  {
+    "part": "console.log",
+    "message": "indexed-db.js >>> Init @ [object Object]",
+    "timestamp": "2021-09-09T13:09:30.926Z"
+  },
+  {
+    "part": "console.log",
+    "message": "indexed-db.js >>> init DB - indexedDB @ [object Object]",
+    "timestamp": "2021-09-09T13:09:30.928Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:09:30.957Z"
+  },
+  {
+    "part": "console.log",
+    "message": "indexed-db.js >>> Init @ [object Object]",
+    "timestamp": "2021-09-09T13:09:30.987Z"
+  },
+  {
+    "part": "console.log",
+    "message": "indexed-db.js >>> init DB - indexedDB @ [object Object]",
+    "timestamp": "2021-09-09T13:09:30.991Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:09:30.997Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "EmeEncryptionSchemePolyfill: Waiting to detect encryptionScheme support. @ [object Object]",
+    "timestamp": "2021-09-09T13:09:31.459Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "McEncryptionSchemePolyfill: Waiting to detect encryptionScheme support. @ [object Object]",
+    "timestamp": "2021-09-09T13:09:31.460Z"
+  },
+  {
+    "part": "console.log",
+    "message": "ERROR Thu Sep 09 2021 14:09:31 GMT+0100 (British Summer Time) [object Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:09:31.545Z"
+  },
+  {
+    "part": "console.log",
+    "message": "removing player @ [object Object]",
+    "timestamp": "2021-09-09T13:09:31.611Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:09:32.427Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'adpod' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:09:32.592Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:09:33.379Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:09:33.379Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:09:33.903Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:09:33.904Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:09:33.926Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:09:33.929Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:09:33.934Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:09:33.959Z"
+  },
+  {
+    "part": "console.startGroupCollapsed",
+    "message": "%c  %cTRPBlV impact - [Debug] CMP Error-10133----- background-color:red; margin-right:10px background-color: transparent @ [object Object]",
+    "timestamp": "2021-09-09T13:09:40.731Z"
+  },
+  {
+    "part": "console.error",
+    "message": "t @ [object Object]",
+    "timestamp": "2021-09-09T13:09:40.733Z"
+  },
+  {
+    "part": "console.trace",
+    "message": "console.trace @ [object Object]",
+    "timestamp": "2021-09-09T13:09:40.734Z"
+  },
+  {
+    "part": "console.endGroup",
+    "message": "console.groupEnd @ [object Object]",
+    "timestamp": "2021-09-09T13:09:40.743Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:09:41.405Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "TCF data: cmpId 10 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:09:41.407Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:09:41.422Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Quantcast dialog rejected.",
+    "timestamp": "2021-09-09T13:09:42.562Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/. @ [object Object]",
+    "timestamp": "2021-09-09T13:09:43.570Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Refresh was throttled for slot: /1254144,22335191838/ontheflix_com-box-2. @ [object Object]",
+    "timestamp": "2021-09-09T13:09:44.919Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Refresh was throttled for slot: /1254144,22335191838/ontheflix_com-box-2. @ [object Object]",
+    "timestamp": "2021-09-09T13:09:45.415Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Refresh was throttled for slot: /1254144,22335191838/ontheflix_com-box-2. @ [object Object]",
+    "timestamp": "2021-09-09T13:09:45.421Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Refresh was throttled for slot: /1254144,22335191838/ontheflix_com-box-1. @ [object Object]",
+    "timestamp": "2021-09-09T13:09:45.429Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Refresh was throttled for slot: /1254144,22335191838/ontheflix_com-large-billboard-2. @ [object Object]",
+    "timestamp": "2021-09-09T13:09:45.432Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:09:46.422Z"
+  },
+  {
+    "part": "console.log",
+    "message": "indexed-db.js >>> Init @ [object Object]",
+    "timestamp": "2021-09-09T13:09:48.001Z"
+  },
+  {
+    "part": "console.log",
+    "message": "indexed-db.js >>> init DB - indexedDB @ [object Object]",
+    "timestamp": "2021-09-09T13:09:48.006Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:09:48.092Z"
+  },
+  {
+    "part": "console.log",
+    "message": "vastAd https://securepubads.g.doubleclick.net/gampad/ads?env=vp&gdfp_req=1&output=vast&unviewed_position_start=1&correlator=1631192988935&sz=400x300&url=https%3A%2F%2Fontheflix.com%2F&iu=/90814396,22335191838/ontheflix_video_HB&cust_params=hb_uuid%3Dundefined%26hb_cache_id%3Dundefined%26testStatus%3DExperiment2&gdpr=1&gdpr_consent=CPMREtoPMREtoAKAXDENBqCgAAAAAAAAAAwIAAAAAAAA.YAAAAAAAAAAA&us_privacy=1--- JSHandle@node @ [object Object]",
+    "timestamp": "2021-09-09T13:09:48.960Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Google IMA @ [object Object]",
+    "timestamp": "2021-09-09T13:09:48.964Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Origin trial controlled feature not enabled: 'trust-token-redemption'. @ [object Object]",
+    "timestamp": "2021-09-09T13:09:49.633Z"
+  },
+  {
+    "part": "console.log",
+    "message": "googIma error @ [object Object]",
+    "timestamp": "2021-09-09T13:09:51.740Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DC @ [object Object]",
+    "timestamp": "2021-09-09T13:09:51.741Z"
+  },
+  {
+    "part": "console.log",
+    "message": "BC @ [object Object]",
+    "timestamp": "2021-09-09T13:09:51.743Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cleanAndNextTag @ [object Object]",
+    "timestamp": "2021-09-09T13:09:51.746Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:09:53.349Z"
+  },
+  {
+    "part": "console.error",
+    "message": "indexed-db.js >>> ajax >> send error  @ [object Object]",
+    "timestamp": "2021-09-09T13:09:57.346Z"
+  },
+  {
+    "part": "console.error",
+    "message": "indexed-db.js >>> ajax >> send error  @ [object Object]",
+    "timestamp": "2021-09-09T13:09:57.548Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:10:01.430Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:10:01.546Z"
+  }
+]

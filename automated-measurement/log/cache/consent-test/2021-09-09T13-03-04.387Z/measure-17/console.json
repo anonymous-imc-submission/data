@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-17",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:10:03.809Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "visit https://quizlet.com/...",
+    "timestamp": "2021-09-09T13:10:04.021Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:10:10.585Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:10:10.586Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:10:10.762Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:10.769Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:10:10.793Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:10:10.798Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:10.845Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:10:10.869Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://assets.quizlet.com/a/j/dist/2.8e0128ba99819fb.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:13.592Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://assets.quizlet.com/a/j/dist/3.dfad69c1569c5f3.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:13.593Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:10:19.324Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:10:19.324Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:10:19.345Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:10:19.348Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:10:19.392Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:10:24.346Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:10:24.373Z"
+  }
+]

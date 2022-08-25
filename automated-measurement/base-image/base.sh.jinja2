@@ -1,0 +1,40 @@
+#!/usr/bin/env sh
+set -ex
+
+# copy files
+{% macro copy(local_name, remote_name=None) -%}
+mkdir -p $(dirname {{ remote_name or local_name }})
+cat << 'END_OF_FILE' > {{ remote_name or local_name }}
+{% include local_name %}
+END_OF_FILE
+{%- endmacro %}
+
+{{ copy("secrets/aws_config.ini", "/root/.aws/config") }}
+{{ copy("secrets/authorized_keys", "/root/.ssh/authorized_keys") }}
+chmod 600 /root/.ssh/authorized_keys
+
+# install dependencies
+apt-get update
+apt-get install -y awscli fish ripgrep jq
+apt-get remove -y unattended-upgrades
+
+cd /root
+chsh -s `which fish`
+fish -c "fish_update_completions"
+
+cat << 'END_OF_FILE' > /usr/local/bin/self-destroy
+#!/bin/bash
+instance_id=$(curl -s http://169.254.169.254/latest/meta-data/instance-id)
+region=$(     curl -s http://169.254.169.254/latest/meta-data/placement/region)
+instance_name=$(
+  aws lightsail get-instances --region $region --profile admeasure \
+  --query "instances[?contains(supportCode,'$instance_id')].name" --output text
+)
+echo "self-destroying $instance_name..."
+aws lightsail delete-instance --region $region --profile admeasure --instance-name $instance_name
+END_OF_FILE
+chmod +x /usr/local/bin/self-destroy
+
+{% block body %}{% endblock %}
+
+shutdown -h now

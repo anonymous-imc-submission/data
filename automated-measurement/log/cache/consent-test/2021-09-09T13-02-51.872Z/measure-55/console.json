@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-55",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:24:57.775Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "visit https://tvn24bis.pl/...",
+    "timestamp": "2021-09-09T13:24:58.180Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "sentry - dsn not provided! @ [object Object]",
+    "timestamp": "2021-09-09T13:25:09.997Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:25:11.461Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:25:11.519Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[react-ga] ReactGA.initialize must be called first or GoogleAnalytics should be loaded manually @ [object Object]",
+    "timestamp": "2021-09-09T13:25:20.144Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:25:22.467Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:25:22.508Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:25:23.317Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:25:23.328Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:25:23.735Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:25:23.744Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:25:35.360Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:25:35.362Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:25:35.401Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:25:35.407Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:25:35.505Z"
+  },
+  {
+    "part": "console.log",
+    "message": "15:25:36 +250 | TVNTools (v1.17.2) | gdprConsent | Approved by RODO Pop-up. @ [object Object]",
+    "timestamp": "2021-09-09T13:25:36.260Z"
+  },
+  {
+    "part": "console.log",
+    "message": "15:25:36 +295 | TVNTools (v1.17.2) | gdprConsent | Approved by RODO Pop-up. @ [object Object]",
+    "timestamp": "2021-09-09T13:25:36.298Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:25:40.408Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:25:40.490Z"
+  }
+]

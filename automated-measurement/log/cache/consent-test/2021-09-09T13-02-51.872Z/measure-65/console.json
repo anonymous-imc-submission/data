@@ -1,0 +1,147 @@
+[
+  {
+    "part": "measure-65",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:26:49.766Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "visit https://slunecnice.cz/...",
+    "timestamp": "2021-09-09T13:26:51.306Z"
+  },
+  {
+    "part": "console.log",
+    "message": "steps:  [Object,Object,Object,Object,Object,Object,Object,Object,Object,Object,Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:26:53.530Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[acc] version v1.3.10 @ [object Object]",
+    "timestamp": "2021-09-09T13:27:05.098Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[acc] criteo fn added @ [object Object]",
+    "timestamp": "2021-09-09T13:27:05.100Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[acc] both loaded @ [object Object]",
+    "timestamp": "2021-09-09T13:27:09.430Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[acc] Non blocking user. @ [object Object]",
+    "timestamp": "2021-09-09T13:27:09.436Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:27:15.853Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:27:15.865Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:27:17.094Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:27:17.102Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:27:18.203Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:27:18.213Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:27:18.407Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:27:18.962Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-pc-btn-handler:visible,\n            #onetrust-pc-sdk:visible\n        \" to be visible\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:27:45.944Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:28:09.948Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:28:09.949Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:28:15.317Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:29:05.945Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:29:05.950Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:29:11.113Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:29:17.104Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "TCF data: cmpId 7 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:29:17.120Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:29:17.204Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Network is idle after 0.04s.",
+    "timestamp": "2021-09-09T13:29:17.265Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Minimum wait time reached after 5.20s.",
+    "timestamp": "2021-09-09T13:29:22.408Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:29:22.913Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:29:22.935Z"
+  }
+]

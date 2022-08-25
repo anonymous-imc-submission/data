@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-30",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:15:32.677Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "visit https://democratandchronicle.com/...",
+    "timestamp": "2021-09-09T13:15:32.824Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:15:43.945Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:15:48.457Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:15:48.461Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:15:48.875Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:15:48.876Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:15:49.088Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:15:49.092Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:15:49.134Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:15:49.175Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:15:51.147Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:15:51.159Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:15:52.396Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:15:55.177Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:15:55.193Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:15:55.210Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:15:55.266Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:16:00.212Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:16:15.218Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:16:15.267Z"
+  }
+]

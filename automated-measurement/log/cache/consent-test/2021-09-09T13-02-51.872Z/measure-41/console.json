@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-41",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:18:50.525Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "visit https://sourcingjournal.com/...",
+    "timestamp": "2021-09-09T13:18:51.577Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "Download the React DevTools for a better development experience: https://fb.me/react-devtools @ [object Object]",
+    "timestamp": "2021-09-09T13:18:58.317Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:19:10.677Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:19:10.693Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:19:11.522Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:11.536Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:19:11.604Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:19:11.608Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:11.626Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:19:11.638Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:19:23.614Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:19:23.614Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:19:23.623Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:19:23.627Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:19:23.730Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:19:28.626Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:19:28.668Z"
+  }
+]

@@ -1,0 +1,187 @@
+[
+  {
+    "part": "measure-13",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:10:50.200Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "visit https://penize.cz/...",
+    "timestamp": "2021-09-09T13:10:50.475Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Veškeré skripty jsou chráněny Autorským zákonem. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:51.266Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "V kódu se zbytečně nachází hůře podporované blokové elementy.  JSHandle@node @ [object Object]",
+    "timestamp": "2021-09-09T13:10:53.001Z"
+  },
+  {
+    "part": "console.log",
+    "message": "zobrazit reklamu pozic:  @ [object Object]",
+    "timestamp": "2021-09-09T13:10:53.020Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[Object,Object,Object,Object,Object,Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:10:53.022Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Push server: push.aso1.net @ [object Object]",
+    "timestamp": "2021-09-09T13:10:53.300Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Browser doesn't support push notifications or no permission was granted @ [object Object]",
+    "timestamp": "2021-09-09T13:10:53.303Z"
+  },
+  {
+    "part": "console.log",
+    "message": "penize-cz @ [object Object]",
+    "timestamp": "2021-09-09T13:10:54.688Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:10:55.206Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Adform SAS Passback pozice branding / FCID 80858 @ [object Object]",
+    "timestamp": "2021-09-09T13:10:56.076Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:10:57.222Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:10:59.118Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:10:59.142Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:10:59.924Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:59.940Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:11:00.207Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:11:00.218Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:11:00.349Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:00.367Z"
+  },
+  {
+    "part": "console.dir",
+    "message": "[Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:11:02.924Z"
+  },
+  {
+    "part": "console.log",
+    "message": "R2B2 SAS Passback pozice branding / FCID 1060 @ [object Object]",
+    "timestamp": "2021-09-09T13:11:03.191Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:11:03.848Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-pc-btn-handler:visible,\n            #onetrust-pc-sdk:visible\n        \" to be visible\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:11:29.279Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:11:50.962Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:11:50.962Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:55.989Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:12:46.541Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:12:46.541Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:51.586Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:12:59.927Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "TCF data: cmpId 7 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:12:59.932Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:12:59.939Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:12:59.941Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:13:04.941Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:13:04.980Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:13:04.990Z"
+  }
+]

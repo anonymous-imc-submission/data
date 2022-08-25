@@ -1,0 +1,87 @@
+[
+  {
+    "part": "measure-74",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:18:09.966Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "visit https://msn.com/...",
+    "timestamp": "2021-09-09T13:18:15.488Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Dependencies resolved, but object still not defined (or is otherwise falsey). id:irisBanner; typeof obj: undefined @ [object Object]",
+    "timestamp": "2021-09-09T13:18:30.707Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:18:44.815Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:18:44.892Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:18:51.352Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:51.400Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:18:51.687Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:18:51.731Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:53.175Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:18:54.989Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:18:54.998Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:18:55.135Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:18:55.156Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:18:55.266Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:19:00.154Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:19:00.407Z"
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "part": "measure-67",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:17:06.917Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "visit https://aktualne.cz/...",
+    "timestamp": "2021-09-09T13:17:07.717Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "`itemId` is unknown, interaction was not send.  @ [object Object]",
+    "timestamp": "2021-09-09T13:17:09.671Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://prod-snowly-sasic.stdout.cz/dist/economia/sasic.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:10.017Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://prod-snowly-sasic.stdout.cz/dist/economia/sasic.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:10.023Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://prod-snowly-sasic.stdout.cz/libs/sashec-connector.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:10.024Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://assets.adobedtm.com/e949270ea86e/34b1ac91e175/launch-d4b74124264a.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:10.519Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://assets.adobedtm.com/e949270ea86e/34b1ac91e175/launch-d4b74124264a.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:10.534Z"
+  },
+  {
+    "part": "console.log",
+    "message": "BBX Onesignal: next trigger planned to timestamp 1636377431 @ [object Object]",
+    "timestamp": "2021-09-09T13:17:11.142Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Using deprecated property/method _sashec.ad_groups consider using _sasic.get([\"groups\"]) instead @ [object Object]",
+    "timestamp": "2021-09-09T13:17:11.167Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Using deprecated property/method _sashec.ad_groups consider using _sasic.get([\"groups\"]) instead @ [object Object]",
+    "timestamp": "2021-09-09T13:17:11.171Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Using deprecated property/method _sashec.ad_groups consider using _sasic.get([\"groups\"]) instead @ [object Object]",
+    "timestamp": "2021-09-09T13:17:11.173Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "%cSASIC: font-weight: bold; color: #047DC2 CMP Consent not loaded in time, it exceeded timeout 3000ms. __tcfapi wasn’t loaded on time or its function getTCData was too slow. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:14.155Z"
+  },
+  {
+    "part": "console.log",
+    "message": "steps:  [Object,Object,Object,Object,Object,Object,Object,Object,Object,Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:17:14.516Z"
+  },
+  {
+    "part": "console.log",
+    "message": "trigger registered events @ [object Object]",
+    "timestamp": "2021-09-09T13:17:28.205Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "%cSASIC: font-weight: bold; color: #047DC2 Action euConsentReady did nothing.\nPayload: {source: tcfapi, timeout: true} @ [object Object]",
+    "timestamp": "2021-09-09T13:17:30.876Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "%cSASIC: font-weight: bold; color: #047DC2 Calling loadGroup \"extra\" with no relevant positions. All group positions are either currently loading or have special load options specified. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:31.609Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Using deprecated property/method _sashec.ad_groups consider using _sasic.get([\"groups\"]) instead @ [object Object]",
+    "timestamp": "2021-09-09T13:17:31.786Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Using deprecated property/method _sashec.ad_groups consider using _sasic.get([\"groups\"]) instead @ [object Object]",
+    "timestamp": "2021-09-09T13:17:31.855Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://secure-assets.rubiconproject.com/utils/xapi/multi-sync.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:31.886Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://secure-assets.rubiconproject.com/utils/xapi/multi-sync.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:31.898Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://aktualne.cz/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:17:37.773Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:17:38.107Z"
+  }
+]

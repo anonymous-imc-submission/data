@@ -1,0 +1,82 @@
+[
+  {
+    "part": "measure-63",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:11:32.323Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "visit https://emathhelp.net/...",
+    "timestamp": "2021-09-09T13:11:32.395Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:11:33.997Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:11:33.997Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:11:34.170Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:34.170Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:11:34.179Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:11:34.181Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:34.199Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:11:35.257Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:11:35.258Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:11:35.268Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:11:35.269Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:11:35.277Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:11:40.268Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:11:40.280Z"
+  }
+]

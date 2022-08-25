@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-82",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:20:58.349Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "visit https://cntraveller.com/...",
+    "timestamp": "2021-09-09T13:20:59.169Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://cntraveller.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:21:29.239Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:21:29.737Z"
+  }
+]

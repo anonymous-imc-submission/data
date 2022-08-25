@@ -1,0 +1,27 @@
+[
+  {
+    "part": "measure-49",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:17:36.098Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "visit https://myswitzerland.com/...",
+    "timestamp": "2021-09-09T13:17:37.171Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "<link rel=preload> must have a valid `as` value @ [object Object]",
+    "timestamp": "2021-09-09T13:17:37.588Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://myswitzerland.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:18:07.172Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:18:07.220Z"
+  }
+]

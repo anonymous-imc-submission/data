@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-66",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:25:40.782Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "visit https://appier.com/...",
+    "timestamp": "2021-09-09T13:25:43.247Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://appier.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:26:13.515Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:26:13.823Z"
+  }
+]

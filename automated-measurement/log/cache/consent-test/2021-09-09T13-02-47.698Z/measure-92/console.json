@@ -1,0 +1,87 @@
+[
+  {
+    "part": "measure-92",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:28:03.046Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "visit https://bmj.com/...",
+    "timestamp": "2021-09-09T13:28:03.594Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:28:10.971Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:28:10.977Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:28:11.825Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:28:11.826Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:28:11.912Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:28:11.915Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:28:11.919Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:28:11.974Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:28:40.345Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:28:40.348Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:28:40.417Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:28:40.420Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:28:40.630Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:28:45.419Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:28:45.506Z"
+  }
+]

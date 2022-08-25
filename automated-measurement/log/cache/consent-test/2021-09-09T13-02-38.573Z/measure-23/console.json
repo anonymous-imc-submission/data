@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-23",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:54.515Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "visit https://columbiatribune.com/...",
+    "timestamp": "2021-09-09T13:06:54.576Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:06:58.239Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:06:58.242Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:06:58.357Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:58.358Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:06:58.366Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:06:58.368Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:58.381Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:06:58.897Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:06:58.899Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:06:58.906Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:06:58.912Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:06:58.971Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:06:59.079Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:06:59.085Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CONNECTION_CLOSED @ [object Object]",
+    "timestamp": "2021-09-09T13:07:00.212Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CONNECTION_CLOSED @ [object Object]",
+    "timestamp": "2021-09-09T13:07:00.536Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'. @ [object Object]",
+    "timestamp": "2021-09-09T13:07:01.277Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:07:03.908Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:07:03.920Z"
+  }
+]

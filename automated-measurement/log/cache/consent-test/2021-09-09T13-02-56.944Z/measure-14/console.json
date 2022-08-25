@@ -1,0 +1,142 @@
+[
+  {
+    "part": "measure-14",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:08:08.154Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "visit https://healthfully.com/...",
+    "timestamp": "2021-09-09T13:08:08.500Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Failed to execute 'write' on 'Document': It isn't possible to write into a document from an asynchronously-loaded external script unless it is explicitly opened. @ [object Object]",
+    "timestamp": "2021-09-09T13:08:10.098Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 (Not Found) @ [object Object]",
+    "timestamp": "2021-09-09T13:08:10.344Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 (Not Found) @ [object Object]",
+    "timestamp": "2021-09-09T13:08:11.246Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:08:11.291Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 (Not Found) @ [object Object]",
+    "timestamp": "2021-09-09T13:08:11.892Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CONNECTION_REFUSED @ [object Object]",
+    "timestamp": "2021-09-09T13:08:11.955Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CONNECTION_REFUSED @ [object Object]",
+    "timestamp": "2021-09-09T13:08:12.401Z"
+  },
+  {
+    "part": "console.log",
+    "message": "{status: success} @ [object Object]",
+    "timestamp": "2021-09-09T13:08:18.666Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:08:19.381Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:08:19.394Z"
+  },
+  {
+    "part": "console.log",
+    "message": "ERROR Thu Sep 09 2021 14:08:21 GMT+0100 (British Summer Time) null @ [object Object]",
+    "timestamp": "2021-09-09T13:08:21.187Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:08:21.415Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:08:21.425Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:08:21.626Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:08:21.636Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:08:21.651Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:08:21.849Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button tabindex=\"0\" class=\"cookie-setting-link\" id=\"one…>Show Purposes</button>\nattempting click action\n  waiting for element to be visible, enabled and stable\n  element is visible, enabled and stable\n  scrolling into view if needed\n  done scrolling\n  checking that element receives pointer events at (214,518.2)\n  element does receive pointer events\n  performing click action\n  click action done\n  waiting for scheduled navigations to finish\n============================================================",
+    "timestamp": "2021-09-09T13:08:23.850Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:08:26.465Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:08:28.839Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:08:28.843Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:08:28.853Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:08:29.864Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:08:33.854Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:08:48.862Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:08:48.917Z"
+  }
+]

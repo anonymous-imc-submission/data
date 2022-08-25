@@ -1,0 +1,87 @@
+[
+  {
+    "part": "measure-04",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:05:51.544Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "visit https://skelbiu.lt/...",
+    "timestamp": "2021-09-09T13:05:51.824Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:05:57.128Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:05:57.128Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:05:57.877Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:05:57.877Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:05:57.921Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:05:57.936Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:05:58.013Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:05:58.022Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:06:05.240Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:06:05.240Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:06:05.253Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:06:05.257Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:06:05.337Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:06:10.255Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:06:10.292Z"
+  }
+]

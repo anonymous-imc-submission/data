@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-38",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:15:28.947Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "visit https://hotwired.com/...",
+    "timestamp": "2021-09-09T13:15:29.194Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "page load error: Error: page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://hotwired.com/\n=========================== logs ===========================\nnavigating to \"https://hotwired.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:15:29.431Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:15:29.484Z"
+  }
+]

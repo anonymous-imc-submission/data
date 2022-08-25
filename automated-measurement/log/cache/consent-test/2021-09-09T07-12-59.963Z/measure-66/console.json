@@ -1,0 +1,14 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://mediatakeout.com/..."
+  },
+  {
+    "type": "admeasure",
+    "text": "page load error: Error: page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://mediatakeout.com/\n=========================== logs ===========================\nnavigating to \"https://mediatakeout.com/\", waiting until \"load\"\n============================================================"
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

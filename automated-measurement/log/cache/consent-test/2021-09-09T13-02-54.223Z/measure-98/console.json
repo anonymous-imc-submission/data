@@ -1,0 +1,102 @@
+[
+  {
+    "part": "measure-98",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:27:22.821Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "visit https://rapgenius.com/...",
+    "timestamp": "2021-09-09T13:27:22.884Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "[bugsnag] Loaded! @ [object Object]",
+    "timestamp": "2021-09-09T13:27:24.815Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://c.amazon-adsystem.com/cdn/prod/config?src=3459&u=https%3A%2F%2Fgenius.com%2F' from origin 'https://genius.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:27:25.913Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:27:25.913Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:27:26.580Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:27:26.583Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:27:27.071Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:27:27.072Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:27:27.083Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:27:27.085Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:27:27.117Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:27:27.120Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:27:35.237Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:27:35.237Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:27:35.256Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:27:35.258Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:27:35.399Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:27:40.257Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:27:40.283Z"
+  }
+]

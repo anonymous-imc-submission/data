@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-66",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:22:42.870Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "visit https://aerztezeitung.de/...",
+    "timestamp": "2021-09-09T13:22:43.165Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:46.088Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:22:50.810Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:22:50.815Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:22:51.499Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:51.510Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:22:51.547Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:22:51.560Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:51.636Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:22:51.675Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:22:59.400Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:22:59.403Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:22:59.429Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:22:59.432Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:22:59.488Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/. @ [object Object]",
+    "timestamp": "2021-09-09T13:23:00.828Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:23:04.431Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:23:04.459Z"
+  }
+]

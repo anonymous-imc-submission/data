@@ -1,0 +1,112 @@
+[
+  {
+    "part": "measure-50",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:11:52.312Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "visit https://gosanangelo.com/...",
+    "timestamp": "2021-09-09T13:11:53.201Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:12:09.526Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:12:11.577Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:12:11.579Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:12:12.899Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:12.900Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:12:12.939Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:12:12.942Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:13.026Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:12:15.144Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:12:15.145Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:12:15.192Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:12:15.378Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:12:15.380Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:12:15.633Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CONNECTION_CLOSED @ [object Object]",
+    "timestamp": "2021-09-09T13:12:18.724Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:12:20.193Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR @ [object Object]",
+    "timestamp": "2021-09-09T13:12:20.288Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CONNECTION_CLOSED @ [object Object]",
+    "timestamp": "2021-09-09T13:12:20.291Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:12:35.197Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:12:35.238Z"
+  }
+]

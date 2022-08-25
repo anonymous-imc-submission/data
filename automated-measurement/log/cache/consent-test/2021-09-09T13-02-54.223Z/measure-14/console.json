@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-14",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:07:09.031Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "visit https://ans-wer.com/...",
+    "timestamp": "2021-09-09T13:07:09.214Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:07:11.348Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'adpod' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:07:11.351Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:07:12.770Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:07:13.227Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:07:13.227Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://ans-wer.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:07:16.899Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:07:19.706Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/. @ [object Object]",
+    "timestamp": "2021-09-09T13:07:22.085Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Confiant: ad blocked [10,2,1,OOh3bTrtb2nHyOwGk2LTO5SWo54,T09oM2JUcnRiMm5IeU93R2syTFRPNVNXbzU0LzIzNjcyNTUwMTA6MTYweDYwMA==,Object,true] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:22.502Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Confiant: ad blocked [10,2,1,OOh3bTrtb2nHyOwGk2LTO5SWo54,T09oM2JUcnRiMm5IeU93R2syTFRPNVNXbzU0LzIzNjcyNTUwMTA6NzI4eDkw,Object,true] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:22.721Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Refused to execute script from 'https://m.exactag.com/ai.aspx?extProvId=327&extPu=vf-dv360&extLi=55743575&extPm=55743575&extCr=373053515&rnd=1631192835328398' because its MIME type ('image/gif') is not executable. @ [object Object]",
+    "timestamp": "2021-09-09T13:07:23.384Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Refused to execute script from 'https://m.exactag.com/ai.aspx?extProvId=327&extPu=vf-dv360&extLi=55742376&extPm=55742376&extCr=373056702&rnd=1631192835487775' because its MIME type ('image/gif') is not executable. @ [object Object]",
+    "timestamp": "2021-09-09T13:07:23.482Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-pc-btn-handler:visible,\n            #onetrust-pc-sdk:visible\n        \" to be visible\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:07:43.244Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "__tcfapi not found: TimeoutError: page.waitForFunction: Timeout 30000ms exceeded.",
+    "timestamp": "2021-09-09T13:07:43.246Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "TCF data: cmpId null consent null, legInt null.",
+    "timestamp": "2021-09-09T13:07:43.246Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:07:43.250Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:07:43.250Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:07:48.251Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:07:48.286Z"
+  }
+]

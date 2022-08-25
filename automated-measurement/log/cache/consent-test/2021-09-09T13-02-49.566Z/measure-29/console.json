@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-29",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:12:51.374Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "visit https://vcstar.com/...",
+    "timestamp": "2021-09-09T13:12:51.822Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:13:02.263Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:13:07.300Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:13:07.303Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:13:07.642Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:07.642Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:13:07.809Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:13:07.817Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:07.886Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:13:07.921Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:13:11.139Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:13:12.871Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:13:12.874Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:13:12.892Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:13:12.899Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:13:12.967Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:13:17.893Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:13:17.931Z"
+  }
+]

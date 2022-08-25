@@ -1,0 +1,117 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://clever-tanken.de/..."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.asadcdn.com/adlib/pages/clevertanken.js",
+      "lineNumber": 0,
+      "columnNumber": 67072
+    },
+    "text": "%cAdLib v5.5.17 master loaded background-color:#0000ff;color:#fff;padding:3px;"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://gdpr-tcfv2.sp-prod.net/wrapperMessagingWithoutDetection.js",
+      "lineNumber": 0,
+      "columnNumber": 154615
+    },
+    "text": "Messaging without detection successfully executed."
+  },
+  {
+    "type": "admeasure",
+    "text": "Looking for dialogs to reject..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting for __tcfapi..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint iframe found!"
+  },
+  {
+    "type": "admeasure",
+    "text": "__tcfapi found! Querying status..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingWaiting."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingLoaded."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Button clicked: Einstellungen oder ablehnen"
+  },
+  {
+    "type": "admeasure",
+    "text": "Found Sourcepoint privacy manager."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: no type toggles."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Check for legitimate interest button..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Clicking legitimate interest button: Berechtigtes Interesse"
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Find the save button."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint dialog rejected."
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data obtained!"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data: cmpId 345 consent false, legInt false."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Network is idle after 0.00s."
+  },
+  {
+    "type": "info",
+    "location": {
+      "url": "https://www.asadcdn.com/adlib/libmodules/mew/ast.84297ee1.js",
+      "lineNumber": 0,
+      "columnNumber": 73492
+    },
+    "text": "AST library loaded: 0.40.0"
+  },
+  {
+    "type": "admeasure",
+    "text": "Minimum wait time reached after 5.00s."
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

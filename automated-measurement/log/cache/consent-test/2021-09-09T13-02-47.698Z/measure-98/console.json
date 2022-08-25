@@ -1,0 +1,162 @@
+[
+  {
+    "part": "measure-98",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:29:22.946Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "visit https://hotnews.ro/...",
+    "timestamp": "2021-09-09T13:29:23.712Z"
+  },
+  {
+    "part": "console.log",
+    "message": "kreacja 8 @ [object Object]",
+    "timestamp": "2021-09-09T13:29:25.223Z"
+  },
+  {
+    "part": "console.log",
+    "message": "1 @ [object Object]",
+    "timestamp": "2021-09-09T13:29:28.894Z"
+  },
+  {
+    "part": "console.log",
+    "message": "HasAdBlock : No @ [object Object]",
+    "timestamp": "2021-09-09T13:29:28.895Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:29:34.761Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CONNECTION_CLOSED @ [object Object]",
+    "timestamp": "2021-09-09T13:29:38.371Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:29:38.567Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:29:38.633Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://rumcdn.geoedge.be/5790ae6f-ae95-491c-a23f-af777cb12f9f/grumi.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:29:39.665Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 400 (Request failed due to privacy signals) @ [object Object]",
+    "timestamp": "2021-09-09T13:29:40.649Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:29:41.402Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:29:41.444Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:29:42.010Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:29:42.013Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:29:42.333Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:29:42.335Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button class=\"cookie-setting-link\" id=\"onetrust-pc-btn-…>VREAU SA MODIFIC SETARILE INDIVIDUAL</button>\nattempting click action\n  waiting for element to be visible, enabled and stable\n  element is visible, enabled and stable\n  scrolling into view if needed\n  done scrolling\n  checking that element receives pointer events at (139.65,718.28)\n============================================================",
+    "timestamp": "2021-09-09T13:29:44.384Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"#onetrust-consent-sdk .category-menu-switch-handler >> nth=0\"\n      selector resolved to hidden <div role=\"tab\" tabindex=\"0\" aria-selected=\"true\" ari…>…</div>\n    attempting click action\n      waiting for element to be visible, enabled and stable\n        element is not visible - waiting...\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:30:14.821Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:30:33.191Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:30:33.194Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:30:38.248Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:31:28.759Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:31:28.759Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:31:33.778Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:31:41.437Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "TCF data: cmpId 28 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:31:41.437Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:31:41.461Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:31:41.464Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:31:46.462Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:31:46.613Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:31:46.635Z"
+  }
+]

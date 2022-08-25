@@ -1,0 +1,117 @@
+[
+  {
+    "part": "measure-83",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:30:51.073Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "visit https://volny.cz/...",
+    "timestamp": "2021-09-09T13:30:51.188Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://assets.adobedtm.com/e949270ea86e/34b1ac91e175/launch-d4b74124264a.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:30:56.755Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://assets.adobedtm.com/e949270ea86e/34b1ac91e175/launch-d4b74124264a.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:30:56.755Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://secure-assets.rubiconproject.com/utils/xapi/multi-sync.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:31:04.925Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://secure-assets.rubiconproject.com/utils/xapi/multi-sync.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:31:04.942Z"
+  },
+  {
+    "part": "console.log",
+    "message": "steps:  [Object,Object,Object,Object,Object,Object,Object,Object,Object,Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:31:05.091Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead @ [object Object]",
+    "timestamp": "2021-09-09T13:31:09.249Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead @ [object Object]",
+    "timestamp": "2021-09-09T13:31:09.595Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead @ [object Object]",
+    "timestamp": "2021-09-09T13:31:09.617Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead @ [object Object]",
+    "timestamp": "2021-09-09T13:31:09.618Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead @ [object Object]",
+    "timestamp": "2021-09-09T13:31:09.646Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead @ [object Object]",
+    "timestamp": "2021-09-09T13:31:09.674Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead @ [object Object]",
+    "timestamp": "2021-09-09T13:31:09.674Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead @ [object Object]",
+    "timestamp": "2021-09-09T13:31:09.727Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead @ [object Object]",
+    "timestamp": "2021-09-09T13:31:09.729Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead @ [object Object]",
+    "timestamp": "2021-09-09T13:31:09.731Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead @ [object Object]",
+    "timestamp": "2021-09-09T13:31:09.734Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead @ [object Object]",
+    "timestamp": "2021-09-09T13:31:09.807Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead @ [object Object]",
+    "timestamp": "2021-09-09T13:31:09.808Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead @ [object Object]",
+    "timestamp": "2021-09-09T13:31:09.814Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://volny.cz/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:31:21.189Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:31:21.537Z"
+  }
+]

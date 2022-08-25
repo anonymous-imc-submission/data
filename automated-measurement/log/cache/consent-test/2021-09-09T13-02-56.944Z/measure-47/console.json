@@ -1,0 +1,137 @@
+[
+  {
+    "part": "measure-47",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:18:06.244Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "visit https://wz.de/...",
+    "timestamp": "2021-09-09T13:18:06.490Z"
+  },
+  {
+    "part": "console.log",
+    "message": "start a new Bundleloader with these features: useCache: true / useWorker: true @ [object Object]",
+    "timestamp": "2021-09-09T13:18:07.480Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "<link rel=preload> uses an unsupported `as` value @ [object Object]",
+    "timestamp": "2021-09-09T13:18:09.440Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Debug: tcData.eventStatus:  cmpuishown @ [object Object]",
+    "timestamp": "2021-09-09T13:18:10.930Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Debug: tcData.eventStatus:  cmpuishown @ [object Object]",
+    "timestamp": "2021-09-09T13:18:10.938Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Debug: tcData.eventStatus:  cmpuishown @ [object Object]",
+    "timestamp": "2021-09-09T13:18:10.943Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Debug: tcData.eventStatus:  cmpuishown @ [object Object]",
+    "timestamp": "2021-09-09T13:18:10.959Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Debug: tcData.eventStatus:  cmpuishown @ [object Object]",
+    "timestamp": "2021-09-09T13:18:10.966Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Debug: tcData.eventStatus:  cmpuishown @ [object Object]",
+    "timestamp": "2021-09-09T13:18:11.363Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Debug: tcData.eventStatus:  cmpuishown @ [object Object]",
+    "timestamp": "2021-09-09T13:18:11.363Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Debug: tcData.eventStatus:  cmpuishown @ [object Object]",
+    "timestamp": "2021-09-09T13:18:11.363Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "<link rel=preload> uses an unsupported `as` value @ [object Object]",
+    "timestamp": "2021-09-09T13:18:11.480Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:18:13.715Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:18:13.731Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:18:15.848Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:15.859Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:18:15.890Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:18:15.890Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:18:15.902Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "TCF data: cmpId 28 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:18:15.905Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:18:15.909Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:18:15.912Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:18:15.938Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://cdn.stroeerdigitalgroup.de/metatag/live/OMS_wz.de/metaTag.min.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:18:16.720Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:18:20.910Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:18:20.962Z"
+  }
+]

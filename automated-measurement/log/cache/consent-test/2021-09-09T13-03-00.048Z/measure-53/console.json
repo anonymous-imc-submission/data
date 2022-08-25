@@ -1,0 +1,167 @@
+[
+  {
+    "part": "measure-53",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:20:26.061Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "visit https://auto.cz/...",
+    "timestamp": "2021-09-09T13:20:27.395Z"
+  },
+  {
+    "part": "console.log",
+    "message": "caroda is loaded @ [object Object]",
+    "timestamp": "2021-09-09T13:20:35.990Z"
+  },
+  {
+    "part": "console.log",
+    "message": "steps:  [Object,Object,Object,Object,Object,Object,Object,Object,Object,Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:20:40.041Z"
+  },
+  {
+    "part": "console.log",
+    "message": "MTVDMP @ [object Object]",
+    "timestamp": "2021-09-09T13:20:44.423Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[px openwrap] Pubmatic Openwrap called @ [object Object]",
+    "timestamp": "2021-09-09T13:20:46.760Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[px openwrap] GPT loaded @ [object Object]",
+    "timestamp": "2021-09-09T13:20:50.497Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:20:52.644Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:20:54.450Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:20:54.469Z"
+  },
+  {
+    "part": "console.dir",
+    "message": "[Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:20:55.344Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:20:55.411Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:20:55.411Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:20:55.523Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:20:55.535Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:20:55.603Z"
+  },
+  {
+    "part": "console.log",
+    "message": "start adSlotsRefresh @ [object Object]",
+    "timestamp": "2021-09-09T13:20:56.623Z"
+  },
+  {
+    "part": "console.log",
+    "message": "adSlotsRefresh continue @ [object Object]",
+    "timestamp": "2021-09-09T13:20:56.630Z"
+  },
+  {
+    "part": "console.log",
+    "message": "settings from __cncPageDefinition @ [object Object]",
+    "timestamp": "2021-09-09T13:20:56.643Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-pc-btn-handler:visible,\n            #onetrust-pc-sdk:visible\n        \" to be visible\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:21:24.618Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:21:46.501Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:21:46.501Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:21:51.668Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:22:42.224Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:22:42.228Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:47.469Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:22:55.416Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "TCF data: cmpId 7 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:22:55.421Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:22:55.446Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:22:55.453Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:23:00.461Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:23:00.936Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:23:00.943Z"
+  }
+]

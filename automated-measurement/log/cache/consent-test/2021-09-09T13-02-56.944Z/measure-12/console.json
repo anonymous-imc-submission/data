@@ -1,0 +1,102 @@
+[
+  {
+    "part": "measure-12",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:07:38.598Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "visit https://app.com/...",
+    "timestamp": "2021-09-09T13:07:38.863Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:07:48.807Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:07:54.691Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:07:54.695Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:07:55.663Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:55.669Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:07:55.737Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:07:55.745Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:55.837Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:07:55.863Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button id=\"onetrust-pc-btn-handler\">Manage Cookies</button>\nattempting click action\n  waiting for element to be visible, enabled and stable\n  element is visible, enabled and stable\n  scrolling into view if needed\n  done scrolling\n  checking that element receives pointer events at (132.14,477.36)\n  element does receive pointer events\n  performing click action\n  click action done\n  waiting for scheduled navigations to finish\n============================================================",
+    "timestamp": "2021-09-09T13:07:57.886Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:08:00.538Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:08:03.074Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:08:03.078Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:08:03.116Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:08:03.121Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:08:03.133Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:08:08.118Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:08:08.148Z"
+  }
+]

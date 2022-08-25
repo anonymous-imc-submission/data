@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-33",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:10:58.528Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "visit https://hattiesburgamerican.com/...",
+    "timestamp": "2021-09-09T13:10:59.309Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:11:13.389Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:11:24.289Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:11:24.301Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:11:27.796Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:11:27.807Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:11:28.439Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:28.456Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:11:28.623Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:11:28.635Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:28.707Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:11:30.008Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:11:30.015Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:11:30.032Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:11:30.040Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:11:30.114Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Minimum wait time reached after 5.07s.",
+    "timestamp": "2021-09-09T13:11:35.103Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:11:35.177Z"
+  }
+]

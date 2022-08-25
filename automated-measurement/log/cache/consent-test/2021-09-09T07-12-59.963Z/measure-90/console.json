@@ -1,0 +1,549 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://watson.de/..."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.watson.de/cc/js/dev32f/_gen_js",
+      "lineNumber": 4,
+      "columnNumber": 549
+    },
+    "text": "JQMIGRATE: Migrate is installed, version 3.0.0"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.watson.de/cc/js/dev32f/_gen_js",
+      "lineNumber": 150,
+      "columnNumber": 234
+    },
+    "text": "%cWATSON%c Event \"metaTagSlotRegistered\" : topmobile2 color: #f40f97 color:black"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.watson.de/cc/js/dev32f/_gen_js",
+      "lineNumber": 150,
+      "columnNumber": 234
+    },
+    "text": "%cWATSON%c Event \"metaTagSlotRegistered\" : topmobile3 color: #f40f97 color:black"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.watson.de/cc/js/dev32f/_gen_js",
+      "lineNumber": 150,
+      "columnNumber": 234
+    },
+    "text": "%cWATSON%c Event \"metaTagSlotRegistered\" : topmobile4 color: #f40f97 color:black"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.watson.de/cc/js/dev32f/_gen_js",
+      "lineNumber": 150,
+      "columnNumber": 234
+    },
+    "text": "%cWATSON%c Event \"metaTagSlotRegistered\" : topmobile5 color: #f40f97 color:black"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.watson.de/cc/js/dev32f/_gen_js",
+      "lineNumber": 150,
+      "columnNumber": 234
+    },
+    "text": "%cWATSON%c Event \"metaTagSlotRegistered\" : topmobile6 color: #f40f97 color:black"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.watson.de/cc/js/dev32f/_gen_js",
+      "lineNumber": 150,
+      "columnNumber": 234
+    },
+    "text": "%cWATSON%c Event \"metaTagSlotRegistered\" : topmobile7 color: #f40f97 color:black"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://cdn.privacy-mgmt.com/wrapperMessagingWithoutDetection.js",
+      "lineNumber": 0,
+      "columnNumber": 154615
+    },
+    "text": "Messaging without detection successfully executed."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062509",
+      "lineNumber": 5,
+      "columnNumber": 116668
+    },
+    "text": "[GPT] Invalid arguments: PubAdsService.setTargeting('dow', [1])."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062509",
+      "lineNumber": 5,
+      "columnNumber": 116668
+    },
+    "text": "[GPT] Invalid arguments: PubAdsService.setTargeting('uac', [0])."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062509",
+      "lineNumber": 5,
+      "columnNumber": 116668
+    },
+    "text": "[GPT] Invalid arguments: PubAdsService.setTargeting('dow', [1])."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062509",
+      "lineNumber": 5,
+      "columnNumber": 116668
+    },
+    "text": "[GPT] Invalid arguments: PubAdsService.setTargeting('uac', [0])."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.watson.de/cc/js/dev32f/_gen_js",
+      "lineNumber": 132,
+      "columnNumber": 50
+    },
+    "text": " "
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.watson.de/cc/js/dev32f/_gen_js",
+      "lineNumber": 132,
+      "columnNumber": 67
+    },
+    "text": " "
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.watson.de/cc/js/dev32f/_gen_js",
+      "lineNumber": 132,
+      "columnNumber": 84
+    },
+    "text": " "
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.watson.de/cc/js/dev32f/_gen_js",
+      "lineNumber": 132,
+      "columnNumber": 101
+    },
+    "text": "##### SEND CONSENT TO APP #####"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.watson.de/cc/js/dev32f/_gen_js",
+      "lineNumber": 132,
+      "columnNumber": 148
+    },
+    "text": " "
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.watson.de/cc/js/dev32f/_gen_js",
+      "lineNumber": 132,
+      "columnNumber": 165
+    },
+    "text": "sendConsentToApp success-status: true"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.watson.de/cc/js/dev32f/_gen_js",
+      "lineNumber": 132,
+      "columnNumber": 233
+    },
+    "text": "tcData response: t"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.watson.de/cc/js/dev32f/_gen_js",
+      "lineNumber": 132,
+      "columnNumber": 1209
+    },
+    "text": "eventStatus is cmpuishown"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.watson.de/cc/js/dev32f/_gen_js",
+      "lineNumber": 133,
+      "columnNumber": 8
+    },
+    "text": " "
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.watson.de/cc/js/dev32f/_gen_js",
+      "lineNumber": 133,
+      "columnNumber": 25
+    },
+    "text": "###############################"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.watson.de/cc/js/dev32f/_gen_js",
+      "lineNumber": 133,
+      "columnNumber": 72
+    },
+    "text": " "
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.watson.de/cc/js/dev32f/_gen_js",
+      "lineNumber": 133,
+      "columnNumber": 89
+    },
+    "text": " "
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.watson.de/cc/js/dev32f/_gen_js",
+      "lineNumber": 133,
+      "columnNumber": 106
+    },
+    "text": " "
+  },
+  {
+    "type": "admeasure",
+    "text": "Looking for dialogs to reject..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting for __tcfapi..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint iframe found!"
+  },
+  {
+    "type": "admeasure",
+    "text": "__tcfapi found! Querying status..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingWaiting."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingLoaded."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Button clicked: Optionen"
+  },
+  {
+    "type": "admeasure",
+    "text": "Found Sourcepoint privacy manager."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: toggling type toggles."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Check for legitimate interest button..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: no legitimate interest button found: No matching button found: "
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Find the save button."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint dialog rejected."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://cdn.stroeerdigitalgroup.de/metatag/live/watson_cls/metaTag.min.js",
+      "lineNumber": 0,
+      "columnNumber": 74662
+    },
+    "text": "Stroeer TagManager \"MetaTag\": An error occurred processing advertisements on your website. Please check the \"Info-Tool\" for detailed information. Documentation for the tool: https://stroeerdigitalgroup.atlassian.net/wiki/x/x2LNAQ"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.watson.de/cc/js/dev32f/_gen_js",
+      "lineNumber": 132,
+      "columnNumber": 50
+    },
+    "text": " "
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.watson.de/cc/js/dev32f/_gen_js",
+      "lineNumber": 132,
+      "columnNumber": 67
+    },
+    "text": " "
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.watson.de/cc/js/dev32f/_gen_js",
+      "lineNumber": 132,
+      "columnNumber": 84
+    },
+    "text": " "
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.watson.de/cc/js/dev32f/_gen_js",
+      "lineNumber": 132,
+      "columnNumber": 101
+    },
+    "text": "##### SEND CONSENT TO APP #####"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.watson.de/cc/js/dev32f/_gen_js",
+      "lineNumber": 132,
+      "columnNumber": 148
+    },
+    "text": " "
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.watson.de/cc/js/dev32f/_gen_js",
+      "lineNumber": 132,
+      "columnNumber": 165
+    },
+    "text": "sendConsentToApp success-status: true"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.watson.de/cc/js/dev32f/_gen_js",
+      "lineNumber": 132,
+      "columnNumber": 233
+    },
+    "text": "tcData response: t"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.watson.de/cc/js/dev32f/_gen_js",
+      "lineNumber": 132,
+      "columnNumber": 318
+    },
+    "text": "eventStatus is useractioncomplete"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.watson.de/cc/js/dev32f/_gen_js",
+      "lineNumber": 132,
+      "columnNumber": 426
+    },
+    "text": "getCustomVendorConsents success-status: true"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.watson.de/cc/js/dev32f/_gen_js",
+      "lineNumber": 132,
+      "columnNumber": 501
+    },
+    "text": "gvl response: {consentedVendors: Array(0), consentedPurposes: Array(0), legIntPurposes: Array(0), dateCreated: 2021-09-09T07:34:50.071Z, grants: Object}"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.watson.de/cc/js/dev32f/_gen_js",
+      "lineNumber": 133,
+      "columnNumber": 8
+    },
+    "text": " "
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.watson.de/cc/js/dev32f/_gen_js",
+      "lineNumber": 133,
+      "columnNumber": 25
+    },
+    "text": "###############################"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.watson.de/cc/js/dev32f/_gen_js",
+      "lineNumber": 133,
+      "columnNumber": 72
+    },
+    "text": " "
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.watson.de/cc/js/dev32f/_gen_js",
+      "lineNumber": 133,
+      "columnNumber": 89
+    },
+    "text": " "
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.watson.de/cc/js/dev32f/_gen_js",
+      "lineNumber": 133,
+      "columnNumber": 106
+    },
+    "text": " "
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data obtained!"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data: cmpId 6 consent false, legInt false."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Network is idle after 0.00s."
+  },
+  {
+    "type": "error",
+    "location": {
+      "url": "https://pre.ads.justpremium.com/v/2.0/t/xhr?i=1631172891372",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "Failed to load resource: the server responded with a status of 410 ()"
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062509",
+      "lineNumber": 5,
+      "columnNumber": 84240
+    },
+    "text": "updateCorrelator has been deprecated. Please see the Google Ad Manager help page on \"Pageviews in GPT\" for more information: https://support.google.com/admanager/answer/183281?hl=en"
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062509",
+      "lineNumber": 5,
+      "columnNumber": 116668
+    },
+    "text": "[GPT] updateCorrelator has been deprecated. See the Google Ad Manager help page on \"Creative selection for multiple ad slots\" for more information: https://support.google.com/admanager/answer/183281."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062509",
+      "lineNumber": 5,
+      "columnNumber": 116668
+    },
+    "text": "[GPT] Error in googletag.display: could not find div with id \"sdgAdServerContainer-stickyfooter\" in DOM for slot: 4444/mobile.watson.de/homepage_stickyfooter."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.watson.de/cc/js/dev32f/_gen_js",
+      "lineNumber": 151,
+      "columnNumber": 363
+    },
+    "text": "%cWATSON%c Event \"metaTagSlotResponded\" : topmobile2 color: #f40f97 color:black"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.watson.de/cc/js/dev32f/_gen_js",
+      "lineNumber": 151,
+      "columnNumber": 363
+    },
+    "text": "%cWATSON%c Event \"metaTagSlotResponded\" : topmobile3 color: #f40f97 color:black"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.watson.de/cc/js/dev32f/_gen_js",
+      "lineNumber": 151,
+      "columnNumber": 775
+    },
+    "text": "%cWATSON%c Event \"metaTagSlotEmpty\" : topmobile2 color: #f40f97 color:black"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.watson.de/cc/js/dev32f/_gen_js",
+      "lineNumber": 151,
+      "columnNumber": 571
+    },
+    "text": "%cWATSON%c Event \"metaTagSlotDone\" : topmobile2 color: #f40f97 color:black"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.watson.de/cc/js/dev32f/_gen_js",
+      "lineNumber": 151,
+      "columnNumber": 775
+    },
+    "text": "%cWATSON%c Event \"metaTagSlotEmpty\" : topmobile3 color: #f40f97 color:black"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.watson.de/cc/js/dev32f/_gen_js",
+      "lineNumber": 151,
+      "columnNumber": 571
+    },
+    "text": "%cWATSON%c Event \"metaTagSlotDone\" : topmobile3 color: #f40f97 color:black"
+  },
+  {
+    "type": "admeasure",
+    "text": "Minimum wait time reached after 5.00s."
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

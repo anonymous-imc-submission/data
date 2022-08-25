@@ -1,0 +1,87 @@
+[
+  {
+    "part": "measure-73",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:22:55.817Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "visit https://freepik.com/...",
+    "timestamp": "2021-09-09T13:22:56.311Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:23:04.915Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:23:04.944Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:23:06.475Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:23:06.476Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:23:06.544Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:23:06.575Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:23:06.626Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:23:07.171Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:23:25.841Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:23:25.841Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:23:25.850Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:23:25.852Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:23:25.894Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:23:30.856Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:23:30.917Z"
+  }
+]

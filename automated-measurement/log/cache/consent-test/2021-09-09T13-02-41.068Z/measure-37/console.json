@@ -1,0 +1,187 @@
+[
+  {
+    "part": "measure-37",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:09:42.192Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "visit https://extra.cz/...",
+    "timestamp": "2021-09-09T13:09:42.660Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[px openwrap] Pubmatic Openwrap called @ [object Object]",
+    "timestamp": "2021-09-09T13:09:45.914Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AD SYSTEM: Adform @ [object Object]",
+    "timestamp": "2021-09-09T13:09:47.557Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[px openwrap] GPT loaded @ [object Object]",
+    "timestamp": "2021-09-09T13:09:47.913Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:09:49.161Z"
+  },
+  {
+    "part": "console.log",
+    "message": "MTVDMP @ [object Object]",
+    "timestamp": "2021-09-09T13:09:51.536Z"
+  },
+  {
+    "part": "console.log",
+    "message": "master imHbReloadingAds:-1 @ [object Object]",
+    "timestamp": "2021-09-09T13:09:52.178Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[acc] version v1.3.10 @ [object Object]",
+    "timestamp": "2021-09-09T13:09:55.341Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[acc] criteo fn added @ [object Object]",
+    "timestamp": "2021-09-09T13:09:55.342Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[acc] both loaded @ [object Object]",
+    "timestamp": "2021-09-09T13:09:56.252Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[acc] render google_ad_client ca-pub-9985346289855124 @ [object Object]",
+    "timestamp": "2021-09-09T13:09:56.259Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[acc] Non blocking user. @ [object Object]",
+    "timestamp": "2021-09-09T13:09:56.277Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:09:56.899Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:09:56.902Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:09:57.092Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:09:57.093Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:09:57.116Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:09:57.121Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:09:57.152Z"
+  },
+  {
+    "part": "console.dir",
+    "message": "[Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:09:59.429Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Unrecognized feature: 'conversion-measurement'. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:08.211Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Origin trial controlled feature not enabled: 'attribution-reporting'. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:08.225Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "dialog accept failed: \n  - TimeoutError: page.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=primary]\"\n    ============================================================\n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-accept-btn-handler:visible,\n            .optanon-allow-all:visible,\n            .optanon-button-allow:visible,\n            #onetrust-pc-sdk #accept-recommended-btn-handler:visible\n        \"\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:10:27.817Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:10:47.772Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:10:47.772Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:52.943Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:11:44.648Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:11:44.648Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:50.005Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:11:57.093Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "TCF data: cmpId 7 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:11:57.093Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:11:57.101Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:11:57.101Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:12:02.102Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:12:02.194Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:12:02.208Z"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "part": "measure-12",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:07:27.667Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "visit https://radaronline.com/...",
+    "timestamp": "2021-09-09T13:07:28.073Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:07:29.816Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:07:29.819Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c2021-09-09T13:07:31.561Z %c[INFO]  %cJeeng: %cNo Publish date. api/getEntities prevented. color:DimGrey color:LimeGreen color:Black; font-weight: bold :  @ [object Object]",
+    "timestamp": "2021-09-09T13:07:31.592Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c2021-09-09T13:07:32.063Z %c[INFO]  %cJeeng: %cupdateServiceWorker: Registered ServiceWorker. color:DimGrey color:LimeGreen color:Black; font-weight: bold :  @ [object Object]",
+    "timestamp": "2021-09-09T13:07:32.090Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c2021-09-09T13:07:32.219Z %c[INFO]  %cJeeng: %cupdateServiceWorker: updated. Update Status {} color:DimGrey color:LimeGreen color:Black; font-weight: bold :  @ [object Object]",
+    "timestamp": "2021-09-09T13:07:32.232Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c2021-09-09T13:07:32.222Z %c[INFO]  %cJeeng: %cWidgets.browserNotificationModal: Native prompt color:DimGrey color:LimeGreen color:Black; font-weight: bold :  @ [object Object]",
+    "timestamp": "2021-09-09T13:07:32.232Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:07:32.697Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:32.698Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:07:32.793Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:33.697Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:07:33.895Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'checkAdUnitSetup' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:07:34.585Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'checkAdUnitSetup' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:07:34.676Z"
+  },
+  {
+    "part": "console.log",
+    "message": "indexed-db.js >>> Init @ [object Object]",
+    "timestamp": "2021-09-09T13:07:35.116Z"
+  },
+  {
+    "part": "console.log",
+    "message": "indexed-db.js >>> init DB - indexedDB @ [object Object]",
+    "timestamp": "2021-09-09T13:07:35.118Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:07:35.165Z"
+  },
+  {
+    "part": "console.log",
+    "message": "indexed-db.js >>> Init @ [object Object]",
+    "timestamp": "2021-09-09T13:07:35.252Z"
+  },
+  {
+    "part": "console.log",
+    "message": "indexed-db.js >>> init DB - indexedDB @ [object Object]",
+    "timestamp": "2021-09-09T13:07:35.253Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:07:35.269Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-pc-btn-handler:visible,\n            #onetrust-pc-sdk:visible\n        \" to be visible\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:07:59.840Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:08:24.382Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:08:24.382Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:08:29.415Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:09:19.922Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:09:19.922Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:09:24.982Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:09:32.698Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "TCF data: cmpId 9 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:09:32.698Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:09:32.707Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:09:32.708Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:09:37.708Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:09:37.784Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:09:37.795Z"
+  }
+]

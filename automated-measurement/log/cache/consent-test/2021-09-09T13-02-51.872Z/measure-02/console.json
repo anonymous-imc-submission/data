@@ -1,0 +1,177 @@
+[
+  {
+    "part": "measure-02",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:18.615Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "visit https://vix.com/...",
+    "timestamp": "2021-09-09T13:06:19.123Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:06:23.666Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:06:26.473Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:06:29.187Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:06:29.218Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:06:33.233Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:06:34.260Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:06:34.428Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:34.435Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:06:34.619Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:06:34.639Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:34.687Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:06:36.177Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:06:40.958Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:06:48.298Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:06:51.007Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:06:51.973Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:06:55.359Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:06:58.382Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-pc-btn-handler:visible,\n            #onetrust-pc-sdk:visible\n        \" to be visible\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:06:59.348Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:07:21.896Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:07:25.834Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:07:25.834Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:30.874Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:08:21.388Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:08:21.388Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:08:26.423Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:08:34.430Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "TCF data: cmpId 28 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:08:34.430Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:08:34.434Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:08:34.442Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:08:39.442Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:08:39.463Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:08:39.479Z"
+  }
+]

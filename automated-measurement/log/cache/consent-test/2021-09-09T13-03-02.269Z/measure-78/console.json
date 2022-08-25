@@ -1,0 +1,27 @@
+[
+  {
+    "part": "measure-78",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:27:41.697Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "visit https://vogue.co.jp/...",
+    "timestamp": "2021-09-09T13:27:42.795Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Permutive not available @ [object Object]",
+    "timestamp": "2021-09-09T13:28:03.633Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://vogue.co.jp/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:28:12.805Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:28:12.870Z"
+  }
+]

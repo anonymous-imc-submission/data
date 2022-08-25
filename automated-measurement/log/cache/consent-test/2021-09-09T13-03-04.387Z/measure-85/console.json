@@ -1,0 +1,1132 @@
+[
+  {
+    "part": "measure-85",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:28:23.277Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "visit https://news.at/...",
+    "timestamp": "2021-09-09T13:28:24.054Z"
+  },
+  {
+    "part": "console.log",
+    "message": "executeCallbackQueue @ [object Object]",
+    "timestamp": "2021-09-09T13:28:24.863Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: OneTrust Banner Custom Behaviour @ [object Object]",
+    "timestamp": "2021-09-09T13:28:24.865Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Cookie Compliance Init @ [object Object]",
+    "timestamp": "2021-09-09T13:28:24.865Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: GA Init @ [object Object]",
+    "timestamp": "2021-09-09T13:28:24.866Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: OneTrust Banner Custom Behaviour Reset @ [object Object]",
+    "timestamp": "2021-09-09T13:28:24.868Z"
+  },
+  {
+    "part": "console.log",
+    "message": "4 @ [object Object]",
+    "timestamp": "2021-09-09T13:28:24.869Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[] @ [object Object]",
+    "timestamp": "2021-09-09T13:28:24.872Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[Array(3),Array(3),Array(3),Array(3)] @ [object Object]",
+    "timestamp": "2021-09-09T13:28:24.875Z"
+  },
+  {
+    "part": "console.log",
+    "message": "4 @ [object Object]",
+    "timestamp": "2021-09-09T13:28:24.876Z"
+  },
+  {
+    "part": "console.log",
+    "message": "executeCallbackQueue @ [object Object]",
+    "timestamp": "2021-09-09T13:28:24.978Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: OneTrust Banner Custom Behaviour @ [object Object]",
+    "timestamp": "2021-09-09T13:28:24.979Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Cookie Compliance Init @ [object Object]",
+    "timestamp": "2021-09-09T13:28:24.980Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: GA Init @ [object Object]",
+    "timestamp": "2021-09-09T13:28:24.981Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: OneTrust Banner Custom Behaviour Reset @ [object Object]",
+    "timestamp": "2021-09-09T13:28:24.982Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: OEWA Init @ [object Object]",
+    "timestamp": "2021-09-09T13:28:24.983Z"
+  },
+  {
+    "part": "console.log",
+    "message": "5 @ [object Object]",
+    "timestamp": "2021-09-09T13:28:24.984Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[] @ [object Object]",
+    "timestamp": "2021-09-09T13:28:24.986Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[Array(3),Array(3),Array(3),Array(3),Array(3)] @ [object Object]",
+    "timestamp": "2021-09-09T13:28:24.987Z"
+  },
+  {
+    "part": "console.log",
+    "message": "5 @ [object Object]",
+    "timestamp": "2021-09-09T13:28:24.988Z"
+  },
+  {
+    "part": "console.log",
+    "message": "executeCallbackQueue @ [object Object]",
+    "timestamp": "2021-09-09T13:28:25.066Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: OneTrust Banner Custom Behaviour @ [object Object]",
+    "timestamp": "2021-09-09T13:28:25.067Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Cookie Compliance Init @ [object Object]",
+    "timestamp": "2021-09-09T13:28:25.069Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: GA Init @ [object Object]",
+    "timestamp": "2021-09-09T13:28:25.070Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: OneTrust Banner Custom Behaviour Reset @ [object Object]",
+    "timestamp": "2021-09-09T13:28:25.072Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: OEWA Init @ [object Object]",
+    "timestamp": "2021-09-09T13:28:25.072Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Adserver Init Optout @ [object Object]",
+    "timestamp": "2021-09-09T13:28:25.073Z"
+  },
+  {
+    "part": "console.log",
+    "message": "6 @ [object Object]",
+    "timestamp": "2021-09-09T13:28:25.075Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[] @ [object Object]",
+    "timestamp": "2021-09-09T13:28:25.075Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[Array(3),Array(3),Array(3),Array(3),Array(3),Array(3)] @ [object Object]",
+    "timestamp": "2021-09-09T13:28:25.078Z"
+  },
+  {
+    "part": "console.log",
+    "message": "6 @ [object Object]",
+    "timestamp": "2021-09-09T13:28:25.078Z"
+  },
+  {
+    "part": "console.log",
+    "message": "executeCallbackQueue @ [object Object]",
+    "timestamp": "2021-09-09T13:28:25.080Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: OneTrust Banner Custom Behaviour @ [object Object]",
+    "timestamp": "2021-09-09T13:28:25.082Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Cookie Compliance Init @ [object Object]",
+    "timestamp": "2021-09-09T13:28:25.086Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: GA Init @ [object Object]",
+    "timestamp": "2021-09-09T13:28:25.086Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: OneTrust Banner Custom Behaviour Reset @ [object Object]",
+    "timestamp": "2021-09-09T13:28:25.086Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: OEWA Init @ [object Object]",
+    "timestamp": "2021-09-09T13:28:25.097Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Adserver Init Optout @ [object Object]",
+    "timestamp": "2021-09-09T13:28:25.097Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Adserver Init Optin @ [object Object]",
+    "timestamp": "2021-09-09T13:28:25.097Z"
+  },
+  {
+    "part": "console.log",
+    "message": "7 @ [object Object]",
+    "timestamp": "2021-09-09T13:28:25.118Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[] @ [object Object]",
+    "timestamp": "2021-09-09T13:28:25.118Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[Array(3),Array(3),Array(3),Array(3),Array(3),Array(3),Array(3)] @ [object Object]",
+    "timestamp": "2021-09-09T13:28:25.118Z"
+  },
+  {
+    "part": "console.log",
+    "message": "7 @ [object Object]",
+    "timestamp": "2021-09-09T13:28:25.119Z"
+  },
+  {
+    "part": "console.log",
+    "message": "executeCallbackQueue @ [object Object]",
+    "timestamp": "2021-09-09T13:28:25.935Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: OneTrust Banner Custom Behaviour @ [object Object]",
+    "timestamp": "2021-09-09T13:28:25.936Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Cookie Compliance Init @ [object Object]",
+    "timestamp": "2021-09-09T13:28:25.937Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: GA Init @ [object Object]",
+    "timestamp": "2021-09-09T13:28:25.945Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: OneTrust Banner Custom Behaviour Reset @ [object Object]",
+    "timestamp": "2021-09-09T13:28:25.946Z"
+  },
+  {
+    "part": "console.log",
+    "message": "condition true, execute callbackOEWA Init @ [object Object]",
+    "timestamp": "2021-09-09T13:28:25.979Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Adserver Init Optout @ [object Object]",
+    "timestamp": "2021-09-09T13:28:25.985Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Adserver Init Optin @ [object Object]",
+    "timestamp": "2021-09-09T13:28:25.985Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Socialmedia Loads @ [object Object]",
+    "timestamp": "2021-09-09T13:28:25.985Z"
+  },
+  {
+    "part": "console.log",
+    "message": "8 @ [object Object]",
+    "timestamp": "2021-09-09T13:28:25.985Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[4] @ [object Object]",
+    "timestamp": "2021-09-09T13:28:25.985Z"
+  },
+  {
+    "part": "console.log",
+    "message": "remove executed callback (4) OEWA Init @ [object Object]",
+    "timestamp": "2021-09-09T13:28:25.985Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[Array(3),Array(3),Array(3),Array(3),Array(3),Array(3),Array(3)] @ [object Object]",
+    "timestamp": "2021-09-09T13:28:25.985Z"
+  },
+  {
+    "part": "console.log",
+    "message": "7 @ [object Object]",
+    "timestamp": "2021-09-09T13:28:25.985Z"
+  },
+  {
+    "part": "console.log",
+    "message": "executeCallbackQueue @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.055Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: OneTrust Banner Custom Behaviour @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.056Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Cookie Compliance Init @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.056Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: GA Init @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.056Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: OneTrust Banner Custom Behaviour Reset @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.058Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Adserver Init Optout @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.060Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Adserver Init Optin @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.063Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Socialmedia Loads @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.063Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Glomex Loader @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.064Z"
+  },
+  {
+    "part": "console.log",
+    "message": "8 @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.064Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[] @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.064Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[Array(3),Array(3),Array(3),Array(3),Array(3),Array(3),Array(3),Array(3)] @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.066Z"
+  },
+  {
+    "part": "console.log",
+    "message": "8 @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.067Z"
+  },
+  {
+    "part": "console.log",
+    "message": "executeCallbackQueue @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.068Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: OneTrust Banner Custom Behaviour @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.070Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Cookie Compliance Init @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.071Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: GA Init @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.075Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: OneTrust Banner Custom Behaviour Reset @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.075Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Adserver Init Optout @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.079Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Adserver Init Optin @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.079Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Socialmedia Loads @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.079Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Glomex Loader @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.079Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Premiumnet Google @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.085Z"
+  },
+  {
+    "part": "console.log",
+    "message": "9 @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.085Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[] @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.086Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[Array(3),Array(3),Array(3),Array(3),Array(3),Array(3),Array(3),Array(3),Array(3)] @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.086Z"
+  },
+  {
+    "part": "console.log",
+    "message": "9 @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.102Z"
+  },
+  {
+    "part": "console.log",
+    "message": "executeCallbackQueue @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.102Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: OneTrust Banner Custom Behaviour @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.102Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Cookie Compliance Init @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.102Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: GA Init @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.102Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: OneTrust Banner Custom Behaviour Reset @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.102Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Adserver Init Optout @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.102Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Adserver Init Optin @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.102Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Socialmedia Loads @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.102Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Glomex Loader @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.103Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Premiumnet Google @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.103Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Outbrain Script @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.103Z"
+  },
+  {
+    "part": "console.log",
+    "message": "10 @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.103Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[] @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.103Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[Array(3),Array(3),Array(3),Array(3),Array(3),Array(3),Array(3),Array(3),Array(3),Array(3)] @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.113Z"
+  },
+  {
+    "part": "console.log",
+    "message": "10 @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.113Z"
+  },
+  {
+    "part": "console.log",
+    "message": "executeCallbackQueue @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.182Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: OneTrust Banner Custom Behaviour @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.183Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Cookie Compliance Init @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.186Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: GA Init @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.186Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: OneTrust Banner Custom Behaviour Reset @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.188Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Adserver Init Optout @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.188Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Adserver Init Optin @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.189Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Socialmedia Loads @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.190Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Glomex Loader @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.191Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Premiumnet Google @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.192Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Outbrain Script @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.193Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: APA UVP Script @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.194Z"
+  },
+  {
+    "part": "console.log",
+    "message": "11 @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.195Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[] @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.196Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[Array(3),Array(3),Array(3),Array(3),Array(3),Array(3),Array(3),Array(3),Array(3),Array(3),Array(3)] @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.201Z"
+  },
+  {
+    "part": "console.log",
+    "message": "11 @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.201Z"
+  },
+  {
+    "part": "console.log",
+    "message": "executeCallbackQueue @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.201Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: OneTrust Banner Custom Behaviour @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.212Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Cookie Compliance Init @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.212Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: GA Init @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.217Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: OneTrust Banner Custom Behaviour Reset @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.217Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Adserver Init Optout @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.218Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Adserver Init Optin @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.222Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Socialmedia Loads @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.222Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Glomex Loader @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.222Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Premiumnet Google @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.222Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Outbrain Script @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.222Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: APA UVP Script @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.222Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Facebook Pixel @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.222Z"
+  },
+  {
+    "part": "console.log",
+    "message": "12 @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.222Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[] @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.225Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[Array(3),Array(3),Array(3),Array(3),Array(3),Array(3),Array(3),Array(3),Array(3),Array(3),Array(3),Array(3)] @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.225Z"
+  },
+  {
+    "part": "console.log",
+    "message": "12 @ [object Object]",
+    "timestamp": "2021-09-09T13:28:26.225Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GTM loaded @ [object Object]",
+    "timestamp": "2021-09-09T13:28:29.576Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: OneTrust Banner Custom Behaviour @ [object Object]",
+    "timestamp": "2021-09-09T13:28:29.585Z"
+  },
+  {
+    "part": "console.log",
+    "message": "condition true, execute callbackCookie Compliance Init @ [object Object]",
+    "timestamp": "2021-09-09T13:28:29.590Z"
+  },
+  {
+    "part": "console.log",
+    "message": "condition true, execute callbackGA Init @ [object Object]",
+    "timestamp": "2021-09-09T13:28:29.592Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: OneTrust Banner Custom Behaviour Reset @ [object Object]",
+    "timestamp": "2021-09-09T13:28:29.654Z"
+  },
+  {
+    "part": "console.log",
+    "message": "condition true, execute callbackAdserver Init Optout @ [object Object]",
+    "timestamp": "2021-09-09T13:28:29.678Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Adserver Init Optin @ [object Object]",
+    "timestamp": "2021-09-09T13:28:29.699Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Socialmedia Loads @ [object Object]",
+    "timestamp": "2021-09-09T13:28:29.706Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Glomex Loader @ [object Object]",
+    "timestamp": "2021-09-09T13:28:29.721Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Premiumnet Google @ [object Object]",
+    "timestamp": "2021-09-09T13:28:29.726Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Outbrain Script @ [object Object]",
+    "timestamp": "2021-09-09T13:28:29.730Z"
+  },
+  {
+    "part": "console.log",
+    "message": "condition true, execute callbackAPA UVP Script @ [object Object]",
+    "timestamp": "2021-09-09T13:28:29.734Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Facebook Pixel @ [object Object]",
+    "timestamp": "2021-09-09T13:28:29.754Z"
+  },
+  {
+    "part": "console.log",
+    "message": "12 @ [object Object]",
+    "timestamp": "2021-09-09T13:28:29.757Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[1,2,4,10] @ [object Object]",
+    "timestamp": "2021-09-09T13:28:29.765Z"
+  },
+  {
+    "part": "console.log",
+    "message": "remove executed callback (10) APA UVP Script @ [object Object]",
+    "timestamp": "2021-09-09T13:28:29.772Z"
+  },
+  {
+    "part": "console.log",
+    "message": "remove executed callback (4) Adserver Init Optout @ [object Object]",
+    "timestamp": "2021-09-09T13:28:29.784Z"
+  },
+  {
+    "part": "console.log",
+    "message": "remove executed callback (2) GA Init @ [object Object]",
+    "timestamp": "2021-09-09T13:28:29.791Z"
+  },
+  {
+    "part": "console.log",
+    "message": "remove executed callback (1) Cookie Compliance Init @ [object Object]",
+    "timestamp": "2021-09-09T13:28:29.793Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[Array(3),Array(3),Array(3),Array(3),Array(3),Array(3),Array(3),Array(3)] @ [object Object]",
+    "timestamp": "2021-09-09T13:28:29.800Z"
+  },
+  {
+    "part": "console.log",
+    "message": "8 @ [object Object]",
+    "timestamp": "2021-09-09T13:28:29.804Z"
+  },
+  {
+    "part": "console.log",
+    "message": "condition true, execute callbackOneTrust Banner Custom Behaviour @ [object Object]",
+    "timestamp": "2021-09-09T13:28:30.401Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: OneTrust Banner Custom Behaviour Reset @ [object Object]",
+    "timestamp": "2021-09-09T13:28:30.409Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Adserver Init Optin @ [object Object]",
+    "timestamp": "2021-09-09T13:28:30.412Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Socialmedia Loads @ [object Object]",
+    "timestamp": "2021-09-09T13:28:30.413Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Glomex Loader @ [object Object]",
+    "timestamp": "2021-09-09T13:28:30.413Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Premiumnet Google @ [object Object]",
+    "timestamp": "2021-09-09T13:28:30.413Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Outbrain Script @ [object Object]",
+    "timestamp": "2021-09-09T13:28:30.413Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Facebook Pixel @ [object Object]",
+    "timestamp": "2021-09-09T13:28:30.413Z"
+  },
+  {
+    "part": "console.log",
+    "message": "8 @ [object Object]",
+    "timestamp": "2021-09-09T13:28:30.415Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[0] @ [object Object]",
+    "timestamp": "2021-09-09T13:28:30.419Z"
+  },
+  {
+    "part": "console.log",
+    "message": "remove executed callback (0) OneTrust Banner Custom Behaviour @ [object Object]",
+    "timestamp": "2021-09-09T13:28:30.422Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[Array(3),Array(3),Array(3),Array(3),Array(3),Array(3),Array(3)] @ [object Object]",
+    "timestamp": "2021-09-09T13:28:30.423Z"
+  },
+  {
+    "part": "console.log",
+    "message": "7 @ [object Object]",
+    "timestamp": "2021-09-09T13:28:30.424Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:28:31.184Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:28:31.188Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The path \"https://component-vvs.glomex.com/glomex-embed/1/glomex-embed.js\" will be deprecated. Please switch to \"https://player.glomex.com/integration/1/glomex-player.js\". For questions, contact service@glomex.com. @ [object Object]",
+    "timestamp": "2021-09-09T13:28:31.334Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:28:31.497Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:28:31.501Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:28:31.537Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:28:31.542Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:28:31.567Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:28:31.612Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Unrecognized feature: 'web-share'. @ [object Object]",
+    "timestamp": "2021-09-09T13:28:32.121Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Unrecognized feature: 'monetization'. @ [object Object]",
+    "timestamp": "2021-09-09T13:28:32.122Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Allow attribute will take precedence over 'allowfullscreen'. @ [object Object]",
+    "timestamp": "2021-09-09T13:28:32.123Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:28:32.714Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:28:35.252Z"
+  },
+  {
+    "part": "console.log",
+    "message": "onLoad @ [object Object]",
+    "timestamp": "2021-09-09T13:28:36.188Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: OneTrust Banner Custom Behaviour Reset @ [object Object]",
+    "timestamp": "2021-09-09T13:28:36.197Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Adserver Init Optin @ [object Object]",
+    "timestamp": "2021-09-09T13:28:36.199Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Socialmedia Loads @ [object Object]",
+    "timestamp": "2021-09-09T13:28:36.205Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Glomex Loader @ [object Object]",
+    "timestamp": "2021-09-09T13:28:36.205Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Premiumnet Google @ [object Object]",
+    "timestamp": "2021-09-09T13:28:36.206Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Outbrain Script @ [object Object]",
+    "timestamp": "2021-09-09T13:28:36.207Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Facebook Pixel @ [object Object]",
+    "timestamp": "2021-09-09T13:28:36.208Z"
+  },
+  {
+    "part": "console.log",
+    "message": "7 @ [object Object]",
+    "timestamp": "2021-09-09T13:28:36.211Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[] @ [object Object]",
+    "timestamp": "2021-09-09T13:28:36.212Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[Array(3),Array(3),Array(3),Array(3),Array(3),Array(3),Array(3)] @ [object Object]",
+    "timestamp": "2021-09-09T13:28:36.212Z"
+  },
+  {
+    "part": "console.log",
+    "message": "7 @ [object Object]",
+    "timestamp": "2021-09-09T13:28:36.213Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://s0.2mdn.net/instream/video/client.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:28:36.354Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://pagead2.googlesyndication.com/omsdk/releases/live/omweb-v1.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:28:36.358Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://imasdk.googleapis.com/js/sdkloader/ima3.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:28:36.359Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GTM loaded @ [object Object]",
+    "timestamp": "2021-09-09T13:28:42.513Z"
+  },
+  {
+    "part": "console.log",
+    "message": "condition true, execute callbackOneTrust Banner Custom Behaviour Reset @ [object Object]",
+    "timestamp": "2021-09-09T13:28:42.523Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Adserver Init Optin @ [object Object]",
+    "timestamp": "2021-09-09T13:28:42.531Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Socialmedia Loads @ [object Object]",
+    "timestamp": "2021-09-09T13:28:42.535Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Glomex Loader @ [object Object]",
+    "timestamp": "2021-09-09T13:28:42.539Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Premiumnet Google @ [object Object]",
+    "timestamp": "2021-09-09T13:28:42.540Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Outbrain Script @ [object Object]",
+    "timestamp": "2021-09-09T13:28:42.541Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Facebook Pixel @ [object Object]",
+    "timestamp": "2021-09-09T13:28:42.543Z"
+  },
+  {
+    "part": "console.log",
+    "message": "7 @ [object Object]",
+    "timestamp": "2021-09-09T13:28:42.547Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[0] @ [object Object]",
+    "timestamp": "2021-09-09T13:28:42.557Z"
+  },
+  {
+    "part": "console.log",
+    "message": "remove executed callback (0) OneTrust Banner Custom Behaviour Reset @ [object Object]",
+    "timestamp": "2021-09-09T13:28:42.562Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[Array(3),Array(3),Array(3),Array(3),Array(3),Array(3)] @ [object Object]",
+    "timestamp": "2021-09-09T13:28:42.564Z"
+  },
+  {
+    "part": "console.log",
+    "message": "6 @ [object Object]",
+    "timestamp": "2021-09-09T13:28:42.564Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Adserver Init Optin @ [object Object]",
+    "timestamp": "2021-09-09T13:28:42.600Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Socialmedia Loads @ [object Object]",
+    "timestamp": "2021-09-09T13:28:42.605Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Glomex Loader @ [object Object]",
+    "timestamp": "2021-09-09T13:28:42.610Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Premiumnet Google @ [object Object]",
+    "timestamp": "2021-09-09T13:28:42.611Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Outbrain Script @ [object Object]",
+    "timestamp": "2021-09-09T13:28:42.612Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Skipped name: Facebook Pixel @ [object Object]",
+    "timestamp": "2021-09-09T13:28:42.613Z"
+  },
+  {
+    "part": "console.log",
+    "message": "6 @ [object Object]",
+    "timestamp": "2021-09-09T13:28:42.617Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[] @ [object Object]",
+    "timestamp": "2021-09-09T13:28:42.618Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[Array(3),Array(3),Array(3),Array(3),Array(3),Array(3)] @ [object Object]",
+    "timestamp": "2021-09-09T13:28:42.622Z"
+  },
+  {
+    "part": "console.log",
+    "message": "6 @ [object Object]",
+    "timestamp": "2021-09-09T13:28:42.624Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:28:42.701Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:28:42.706Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:28:42.715Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:28:42.719Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:28:42.885Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:28:47.716Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:28:47.808Z"
+  }
+]

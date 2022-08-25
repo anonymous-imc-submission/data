@@ -1,0 +1,144 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://mtonews.com/..."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://mtonews.com/runtime/alpha.js?v=2021-09-08-204801-8eae9bd-022266",
+      "lineNumber": 2,
+      "columnNumber": 101425
+    },
+    "text": "fun-hooks: referenced 'registerAdserver' but it was never created"
+  },
+  {
+    "type": "admeasure",
+    "text": "Looking for dialogs to reject..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting for __tcfapi..."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://gdpr-tcfv2.sp-prod.net/wrapperMessagingWithoutDetection.js",
+      "lineNumber": 0,
+      "columnNumber": 154615
+    },
+    "text": "Messaging without detection successfully executed."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint iframe found!"
+  },
+  {
+    "type": "admeasure",
+    "text": "__tcfapi found! Querying status..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingWaiting."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingLoaded."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://cdn.petametrics.com/999gba4qphtjrmpe-nbc.js?ts=75517",
+      "lineNumber": 0,
+      "columnNumber": 113007
+    },
+    "text": "LI: [showLiveWarnings]: [3349ms]: LiftIgniter send called before LiftIgniter init. The most typical reasons: (a) you omitted the call to init, (b) you are including our JavaScript snippet twice (this could be twice on the page, or once on the page and once in Google Tag Manager, or twice in Google Tag Manager). If you have more questions, please contact liftignitersupport@maven.io"
+  },
+  {
+    "type": "admeasure",
+    "text": "Button clicked: Consent Options"
+  },
+  {
+    "type": "admeasure",
+    "text": "Found Sourcepoint privacy manager."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: no type toggles."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Check for legitimate interest button..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Clicking legitimate interest button: Manage Settings"
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Find the save button."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint dialog rejected."
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data obtained!"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data: cmpId 6 consent false, legInt false."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting..."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://mtonews.com/runtime/alpha.js?v=2021-09-08-204801-8eae9bd-022266",
+      "lineNumber": 2,
+      "columnNumber": 101425
+    },
+    "text": "fun-hooks: referenced 'registerAdserver' but it was never created"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://gdpr-tcfv2.sp-prod.net/wrapperMessagingWithoutDetection.js",
+      "lineNumber": 0,
+      "columnNumber": 154615
+    },
+    "text": "Messaging without detection successfully executed."
+  },
+  {
+    "type": "error",
+    "location": {
+      "url": "https://gdpr-tcfv2.sp-prod.net/wrapperMessagingWithoutDetection.js",
+      "lineNumber": 0,
+      "columnNumber": 126378
+    },
+    "text": "Error: user did not consent to cookies\n    at https://cdn.petametrics.com/999gba4qphtjrmpe-nbc.js?ts=75517:1:22450\n    at https://cdn.petametrics.com/999gba4qphtjrmpe-nbc.js?ts=75517:1:158528\n    at https://gdpr-tcfv2.sp-prod.net/wrapperMessagingWithoutDetection.js:1:151546\n    at Object.getCustomVendorConsents (https://gdpr-tcfv2.sp-prod.net/wrapperMessagingWithoutDetection.js:1:151576)\n    at e.apiCall (https://gdpr-tcfv2.sp-prod.net/wrapperMessagingWithoutDetection.js:1:57141)\n    at https://cdn.petametrics.com/999gba4qphtjrmpe-nbc.js?ts=75517:1:158106\n    at t.getTCData [as callback] (https://gdpr-tcfv2.sp-prod.net/wrapperMessagingWithoutDetection.js:1:151167)\n    at t.e.invokeCallback (https://gdpr-tcfv2.sp-prod.net/wrapperMessagingWithoutDetection.js:1:30687)\n    at t.respond (https://gdpr-tcfv2.sp-prod.net/wrapperMessagingWithoutDetection.js:1:30080)\n    at t.e (https://gdpr-tcfv2.sp-prod.net/wrapperMessagingWithoutDetection.js:1:30552)"
+  },
+  {
+    "type": "admeasure",
+    "text": "Network is idle after 2.65s."
+  },
+  {
+    "type": "admeasure",
+    "text": "Minimum wait time reached after 5.00s."
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

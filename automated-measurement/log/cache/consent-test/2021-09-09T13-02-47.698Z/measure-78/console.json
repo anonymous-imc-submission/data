@@ -1,0 +1,102 @@
+[
+  {
+    "part": "measure-78",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:24:46.006Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "visit https://glamour.de/...",
+    "timestamp": "2021-09-09T13:24:46.127Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:24:46.905Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Permutive was not initialized. No consent to run on the page @ [object Object]",
+    "timestamp": "2021-09-09T13:24:47.004Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Invalid arguments: PubAdsService.refresh(). @ [object Object]",
+    "timestamp": "2021-09-09T13:24:47.673Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:24:49.276Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:24:49.277Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:24:49.431Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:24:49.431Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:24:49.443Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:24:49.446Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:24:49.467Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:24:49.473Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:25:02.726Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:25:02.726Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:25:02.752Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:25:02.770Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:25:03.443Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:25:07.762Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:25:07.807Z"
+  }
+]

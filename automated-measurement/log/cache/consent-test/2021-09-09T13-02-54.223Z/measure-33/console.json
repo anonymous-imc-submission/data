@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-33",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:10:57.735Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "visit https://vogue.com.tw/...",
+    "timestamp": "2021-09-09T13:10:58.130Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Permutive not available @ [object Object]",
+    "timestamp": "2021-09-09T13:11:04.743Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Permutive was not initialized. No consent to run on the page @ [object Object]",
+    "timestamp": "2021-09-09T13:11:09.927Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:11:11.044Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:11:11.047Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:11:11.359Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:11.359Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:11:11.389Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:11:11.392Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:11.452Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:11:11.467Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:11:18.101Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:11:18.102Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:11:18.121Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:11:18.123Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:11:18.247Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:11:23.122Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:11:23.157Z"
+  }
+]

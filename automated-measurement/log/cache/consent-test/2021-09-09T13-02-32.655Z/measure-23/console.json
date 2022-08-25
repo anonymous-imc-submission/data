@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-23",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:09:25.061Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "visit https://wysokieobcasy.pl/...",
+    "timestamp": "2021-09-09T13:09:25.274Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "page load error: Error: page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://wysokieobcasy.pl/\n=========================== logs ===========================\nnavigating to \"https://wysokieobcasy.pl/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:09:25.403Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:09:25.462Z"
+  }
+]

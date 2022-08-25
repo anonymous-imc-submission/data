@@ -1,0 +1,292 @@
+[
+  {
+    "part": "measure-43",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:10:56.564Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "visit https://lifeandstylemag.com/...",
+    "timestamp": "2021-09-09T13:10:56.985Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:10:58.245Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:10:58.254Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:10:59.022Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:10:59.733Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:11:00.128Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Permutive was not initialized. No consent to run on the page @ [object Object]",
+    "timestamp": "2021-09-09T13:11:01.401Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:11:01.592Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:11:01.999Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:11:02.153Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:11:02.241Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:11:02.342Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:11:02.444Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:11:02.543Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:11:02.664Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:11:03.633Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:11:04.747Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:11:04.877Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:11:05.348Z"
+  },
+  {
+    "part": "console.log",
+    "message": "{} @ [object Object]",
+    "timestamp": "2021-09-09T13:11:05.429Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:11:05.481Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:11:05.482Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:11:05.510Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c is_international - \"status\":true color: #10ac84 @ [object Object]",
+    "timestamp": "2021-09-09T13:11:05.573Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c Got: 1631193065439.6243 background: #27ae60; color: #000; padding: 2px 10px 2px 5px @ [object Object]",
+    "timestamp": "2021-09-09T13:11:05.728Z"
+  },
+  {
+    "part": "console.log",
+    "message": "permutive identity:  TypeError: Cannot read properties of null (reading 'user')\n    at Object.<anonymous> (https://www.lifeandstylemag.com/:1728:26)\n    at c (https://www.lifeandstylemag.com/_static/??-eJzTLy/QzcxLzilNSS3WzwKiwtLUokoopZebmaeXVayjj0+Rbm5melFiSSpUsX2uraGZkaWhiamZgXkWAK94IiE=:2:28327)\n    at Object.fireWith [as resolveWith] (https://www.lifeandstylemag.com/_static/??-eJzTLy/QzcxLzilNSS3WzwKiwtLUokoopZebmaeXVayjj0+Rbm5melFiSSpUsX2uraGZkaWhiamZgXkWAK94IiE=:2:29072)\n    at l (https://www.lifeandstylemag.com/_static/??-eJzTLy/QzcxLzilNSS3WzwKiwtLUokoopZebmaeXVayjj0+Rbm5melFiSSpUsX2uraGZkaWhiamZgXkWAK94IiE=:2:79901)\n    at XMLHttpRequest.<anonymous> (https://www.lifeandstylemag.com/_static/??-eJzTLy/QzcxLzilNSS3WzwKiwtLUokoopZebmaeXVayjj0+Rbm5melFiSSpUsX2uraGZkaWhiamZgXkWAK94IiE=:2:82355) @ [object Object]",
+    "timestamp": "2021-09-09T13:11:05.733Z"
+  },
+  {
+    "part": "console.log",
+    "message": "identity [Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:11:05.736Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:11:05.738Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:11:05.825Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:05.825Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:11:05.889Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:11:05.895Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:05.974Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:11:05.976Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:11:06.069Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[Facebook Pixel] - Duplicate Pixel ID: 499523380520690. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:06.715Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:11:07.024Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:11:07.027Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:11:07.065Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:11:07.071Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:11:07.132Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:11:07.250Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:11:07.309Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:11:07.896Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:11:08.804Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:11:09.076Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:11:09.984Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c2021-09-09T13:11:10.498Z %c[INFO]  %cJeeng: %cupdateServiceWorker: Force Popup. Stopping. color:DimGrey color:LimeGreen color:Black; font-weight: bold :  @ [object Object]",
+    "timestamp": "2021-09-09T13:11:10.549Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:11:10.746Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:11:11.307Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Error in googletag.display: could not find div with id \"skin\" in DOM for slot: /4216/ami.ls/skin. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:11.724Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:11:11.747Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c2021-09-09T13:11:11.829Z %c[INFO]  %cJeeng: %cProfiler: No user visits data to send... Stopping. color:DimGrey color:LimeGreen color:Black; font-weight: bold :  @ [object Object]",
+    "timestamp": "2021-09-09T13:11:11.837Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c2021-09-09T13:11:11.846Z %c[INFO]  %cJeeng: %cWidgets.browserNotificationModal: Native prompt color:DimGrey color:LimeGreen color:Black; font-weight: bold :  @ [object Object]",
+    "timestamp": "2021-09-09T13:11:11.851Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:11:11.912Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:11:12.065Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:11:12.111Z"
+  }
+]

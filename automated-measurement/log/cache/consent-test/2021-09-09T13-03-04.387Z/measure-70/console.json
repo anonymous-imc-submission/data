@@ -1,0 +1,57 @@
+[
+  {
+    "part": "measure-70",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:24:52.005Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "visit https://backchannel.com/...",
+    "timestamp": "2021-09-09T13:24:52.952Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Subscriptions Runtime: 0.1.22.183 @ [object Object]",
+    "timestamp": "2021-09-09T13:25:02.314Z"
+  },
+  {
+    "part": "console.log",
+    "message": "received a request for uspapi @ [object Object]",
+    "timestamp": "2021-09-09T13:25:14.638Z"
+  },
+  {
+    "part": "console.error",
+    "message": "CNE Player: Error fetching or parsing prebid Error: Empty\n    at new e (https://player.cnevids.com/inline/video/6131440c38d06979ca06fe75.js?autoplay=1&iu=3379%2Fconde.wired%2Fplayer%2Fbackchannel&muted=1&onReady=onPlayerReady6131440c38d06979ca06fe75&showSceneLogo=0&theme=dark&target=cne-video-6131440c38d06979ca06fe75:1:4777)\n    at v (https://player.cnevids.com/inline/video/6131440c38d06979ca06fe75.js?autoplay=1&iu=3379%2Fconde.wired%2Fplayer%2Fbackchannel&muted=1&onReady=onPlayerReady6131440c38d06979ca06fe75&showSceneLogo=0&theme=dark&target=cne-video-6131440c38d06979ca06fe75:1:60125)\n    at g (https://player.cnevids.com/inline/video/6131440c38d06979ca06fe75.js?autoplay=1&iu=3379%2Fconde.wired%2Fplayer%2Fbackchannel&muted=1&onReady=onPlayerReady6131440c38d06979ca06fe75&showSceneLogo=0&theme=dark&target=cne-video-6131440c38d06979ca06fe75:1:60393)\n    at https://player.cnevids.com/inline/video/6131440c38d06979ca06fe75.js?autoplay=1&iu=3379%2Fconde.wired%2Fplayer%2Fbackchannel&muted=1&onReady=onPlayerReady6131440c38d06979ca06fe75&showSceneLogo=0&theme=dark&target=cne-video-6131440c38d06979ca06fe75:1:61318\n    at async Promise.all (index 0)\n    at async Promise.all (index 0)\n    at async Promise.all (index 0) errorData => {embedParams: Object} @ [object Object]",
+    "timestamp": "2021-09-09T13:25:17.312Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AppMeasurement @ [object Object]",
+    "timestamp": "2021-09-09T13:25:18.097Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "cns.addTargeting function is not setup service function(){return{cnt_cm:t}} @ [object Object]",
+    "timestamp": "2021-09-09T13:25:21.808Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Analytics: library ready @ [object Object]",
+    "timestamp": "2021-09-09T13:25:21.995Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Analytics: digitalData has been updated {canonical: https://www.wired.com/category/backchannel/, contentID: , contentLength: all, contributor: , display: Backchannel} @ [object Object]",
+    "timestamp": "2021-09-09T13:25:21.995Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://backchannel.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:25:23.192Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:25:23.627Z"
+  }
+]

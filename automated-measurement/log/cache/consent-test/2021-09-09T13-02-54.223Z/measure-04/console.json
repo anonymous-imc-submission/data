@@ -1,0 +1,137 @@
+[
+  {
+    "part": "measure-04",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:05:27.242Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "visit https://houseandgarden.co.uk/...",
+    "timestamp": "2021-09-09T13:05:27.420Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A preload for 'https://www.houseandgarden.co.uk/static/fonts/MillerDisplay/MillerDisplay-LightItalic.woff2' is found, but is not used because the request credentials mode does not match. Consider taking a look at crossorigin attribute. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:27.802Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A preload for 'https://www.houseandgarden.co.uk/static/fonts/MillerDisplay/MillerDisplay-Roman.woff2' is found, but is not used because the request credentials mode does not match. Consider taking a look at crossorigin attribute. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:27.806Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A preload for 'https://www.houseandgarden.co.uk/static/fonts/MillerDisplay/MillerDisplay-Italic.woff2' is found, but is not used because the request credentials mode does not match. Consider taking a look at crossorigin attribute. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:27.807Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A preload for 'https://www.houseandgarden.co.uk/static/fonts/MillerDisplay/MillerDisplay-Semibold.woff2' is found, but is not used because the request credentials mode does not match. Consider taking a look at crossorigin attribute. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:27.808Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A preload for 'https://www.houseandgarden.co.uk/static/fonts/MillerDisplay/MillerDisplay-Bold.woff2' is found, but is not used because the request credentials mode does not match. Consider taking a look at crossorigin attribute. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:27.809Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:05:28.553Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:05:28.560Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:05:29.055Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:05:29.055Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:05:29.084Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:05:29.639Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:05:29.795Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:05:30.224Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.houseandgarden.co.uk/static/fonts/MillerDisplay/MillerDisplay-Roman.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:31.586Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.houseandgarden.co.uk/static/fonts/MillerDisplay/MillerDisplay-LightItalic.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:31.587Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.houseandgarden.co.uk/static/fonts/MillerDisplay/MillerDisplay-Italic.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:31.588Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.houseandgarden.co.uk/static/fonts/MillerDisplay/MillerDisplay-Semibold.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:31.588Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.houseandgarden.co.uk/static/fonts/MillerDisplay/MillerDisplay-Bold.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:31.589Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:05:35.667Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:05:35.668Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:05:35.674Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:05:35.679Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:05:35.731Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:05:40.679Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:05:40.688Z"
+  }
+]

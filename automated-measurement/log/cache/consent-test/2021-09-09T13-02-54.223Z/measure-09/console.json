@@ -1,0 +1,127 @@
+[
+  {
+    "part": "measure-09",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:05:58.830Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "visit https://theintell.com/...",
+    "timestamp": "2021-09-09T13:05:58.968Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:06:02.189Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:06:04.664Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:06:04.664Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:06:04.888Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:04.888Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:06:04.908Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:06:04.910Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:04.941Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:06:04.966Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:06:08.014Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:06:08.018Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - exchange-thumbnails-desktop-deal @ [object Object]",
+    "timestamp": "2021-09-09T13:06:08.134Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - exchange-thumbnails-desktop-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:06:08.137Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 400 () @ [object Object]",
+    "timestamp": "2021-09-09T13:06:08.519Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Failed to load thumbnail https://images.taboola.com/taboola/image/fetch/f_jpg%2Cq_auto%2Ch_384%2Cw_460%2Cc_fill%2Cg_faces:auto%2Ce_sharpen/https%3A//i1.wp.com/www.agloogloo.com/wp-content/uploads/2017/08/Julianne-Moore.jpg%3Fresize%3D662%252C441 for item=~~V1~~-2580226787302440644~~VKxLILZAGlO0XeXZ3mk4J2jU4vX4CBwbjq-HRsVyhK3TxvAnL2wqac4MyzR7uD46gj3kUkbS3FhelBtnsiJV6MhkDZRZzzIqDobN6rWmCPA3hYz5D3PLat6nhIftiT1lwdxwdlxkeV_Mfb3eos_TQer7KiyQLEuU3GhYKWBAgdlE6j8QT1hT-J61aXX1EcKbmZ_HzpTF6Uf6uRm4iBiUdoTZhvfldFWlR7CTHZuu_GTtWQ4PJW7nz3LbTbvf3t7XmNtafLKF85ZJ2Eeb6dQSeQ, loading https://i1.wp.com/www.agloogloo.com/wp-content/uploads/2017/08/Julianne-Moore.jpg?resize=662%2C441 thumbnail instead @ [object Object]",
+    "timestamp": "2021-09-09T13:06:08.580Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:06:08.891Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:06:21.020Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:06:21.021Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:06:21.026Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:06:21.051Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:06:26.026Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:06:41.029Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:06:41.090Z"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "part": "measure-91",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:22:50.122Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "visit https://freepik.es/...",
+    "timestamp": "2021-09-09T13:22:51.125Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:23:17.722Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:23:17.725Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:23:20.418Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:23:20.419Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:23:20.578Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:23:20.599Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:23:20.796Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:23:38.986Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:23:38.990Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:23:39.217Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:23:39.804Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:23:44.229Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "Network is idle after 16.4s.",
+    "timestamp": "2021-09-09T13:23:55.573Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:23:55.694Z"
+  }
+]

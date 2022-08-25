@@ -1,0 +1,102 @@
+[
+  {
+    "part": "measure-98",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:15:59.882Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "visit https://thetimesherald.com/...",
+    "timestamp": "2021-09-09T13:16:00.086Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:16:04.285Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:16:05.963Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:16:05.967Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:16:06.154Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:16:06.155Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:16:06.186Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:16:06.190Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:16:06.208Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:16:06.704Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:16:06.705Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:16:06.713Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:16:06.738Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:16:07.172Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:16:07.181Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CONNECTION_CLOSED @ [object Object]",
+    "timestamp": "2021-09-09T13:16:08.498Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Network is idle after 3.54s.",
+    "timestamp": "2021-09-09T13:16:10.260Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:16:11.713Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:16:11.737Z"
+  }
+]

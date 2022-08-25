@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-24",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:10:58.970Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "visit https://ehowenespanol.com/...",
+    "timestamp": "2021-09-09T13:10:59.351Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "page load error: Error: page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://ehowenespanol.com/\n=========================== logs ===========================\nnavigating to \"https://ehowenespanol.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:10:59.679Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:10:59.722Z"
+  }
+]

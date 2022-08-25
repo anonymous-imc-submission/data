@@ -1,0 +1,102 @@
+[
+  {
+    "part": "measure-36",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:15:09.844Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "visit https://dirtrider.com/...",
+    "timestamp": "2021-09-09T13:15:09.937Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SUPPRESS: false @ [object Object]",
+    "timestamp": "2021-09-09T13:15:16.845Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c------------- Cheetah Web Events: Posting Web Event ---------------\n{\"OrderDate\":\"9/9/2021 2:15:\",\"OrderSource\":\"Website\",\"ProductName\":\"dirtrider.com\",\"ProductCategoryName\":\"undefined\",\"ProductDescription\":\"https://www.dirtrider.com/\",\"ProductID\":\"/home\",\"Variable1\":\"undefined\"} background: #ffff33; color: #ff00ff @ [object Object]",
+    "timestamp": "2021-09-09T13:15:20.154Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:15:22.326Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:15:22.330Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:15:22.647Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:15:22.647Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:15:22.685Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:15:22.690Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:15:22.744Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:15:22.769Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:15:25.742Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:15:27.441Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:15:27.444Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:15:27.453Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:15:27.458Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:15:27.515Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:15:32.454Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:15:32.498Z"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-75",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:28:10.565Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "visit https://condenastdigital.com/...",
+    "timestamp": "2021-09-09T13:28:13.658Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "page load error: Error: page.goto: net::ERR_NAME_NOT_RESOLVED at https://condenastdigital.com/\n=========================== logs ===========================\nnavigating to \"https://condenastdigital.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:28:14.440Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:28:14.528Z"
+  }
+]

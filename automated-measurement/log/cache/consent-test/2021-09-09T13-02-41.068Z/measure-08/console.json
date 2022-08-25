@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-08",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:05:43.268Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "visit https://metasrc.com/...",
+    "timestamp": "2021-09-09T13:05:43.461Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://metasrc.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:06:13.461Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:06:13.473Z"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-80",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:29:50.365Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "visit https://ruidosonews.com/...",
+    "timestamp": "2021-09-09T13:29:53.812Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:30:01.052Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:30:18.866Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:30:21.858Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:30:21.887Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:30:22.299Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:30:22.306Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:30:22.324Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:30:22.336Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:30:22.488Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:30:22.492Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:30:25.470Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:30:25.476Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:30:45.883Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:30:45.886Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:30:45.979Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:30:45.991Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:30:45.992Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:30:50.988Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:30:51.045Z"
+  }
+]

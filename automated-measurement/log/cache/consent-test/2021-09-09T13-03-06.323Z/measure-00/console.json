@@ -1,0 +1,192 @@
+[
+  {
+    "part": "measure-00",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:15.279Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "visit https://dobrenoviny.sk/...",
+    "timestamp": "2021-09-09T13:06:15.627Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:18.024Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:06:22.745Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:06:22.747Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cAdSpirit Async%cAdd placement p13512x0 color:white; background-color:#66AADD; border-left:5px solid white; padding:3px; margin-right:10px;  //turbo.web2media.sk/adscript.php?async=p13512x0&wpcn=asm50339247x1631192783288&ref=https%3A%2F%2Fwww.dobrenoviny.sk%2F&swf=-1&scx=428&scy=926&wcx=0&wcy=0&dcx=0&vis=-1&tz=1631192783300&pid=170&gdpr_consent=[consentstring] @ [object Object]",
+    "timestamp": "2021-09-09T13:06:23.304Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cAdSpirit Async%cLoading scriptp13512x0 color:white; background-color:#66AADD; border-left:5px solid white; padding:3px; margin-right:10px;  //turbo.web2media.sk/adscript.php?async=p13512x0&wpcn=asm50339247x1631192783288&ref=https%3A%2F%2Fwww.dobrenoviny.sk%2F&swf=-1&scx=428&scy=926&wcx=0&wcy=0&dcx=0&vis=-1&tz=1631192783300&pid=170&gdpr_consent=[consentstring] @ [object Object]",
+    "timestamp": "2021-09-09T13:06:23.310Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cAdSpirit Async%cFetch GDPR data (Feedback: false / GDPR: 1 / Status:  / TCString: ) color:white; background-color:#66AADD; border-left:5px solid white; padding:3px; margin-right:10px;  @ [object Object]",
+    "timestamp": "2021-09-09T13:06:23.316Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cAdSpirit Async%cAdd placement p11188x0 color:white; background-color:#66AADD; border-left:5px solid white; padding:3px; margin-right:10px;  //turbo.web2media.sk/adscript.php?async=p11188x0&wpcn=asm26270898x1631192783345&ref=https%3A%2F%2Fwww.dobrenoviny.sk%2F&swf=-1&scx=428&scy=926&wcx=0&wcy=0&dcx=0&vis=-1&tz=1631192783348&pid=169&gdpr_consent=[consentstring] @ [object Object]",
+    "timestamp": "2021-09-09T13:06:23.352Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cAdSpirit Async%cLoading scriptp11188x0 color:white; background-color:#66AADD; border-left:5px solid white; padding:3px; margin-right:10px;  //turbo.web2media.sk/adscript.php?async=p11188x0&wpcn=asm26270898x1631192783345&ref=https%3A%2F%2Fwww.dobrenoviny.sk%2F&swf=-1&scx=428&scy=926&wcx=0&wcy=0&dcx=0&vis=-1&tz=1631192783348&pid=169&gdpr_consent=[consentstring] @ [object Object]",
+    "timestamp": "2021-09-09T13:06:23.354Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cAdSpirit Async%cFetch GDPR data (Feedback: false / GDPR: 1 / Status:  / TCString: ) color:white; background-color:#66AADD; border-left:5px solid white; padding:3px; margin-right:10px;  @ [object Object]",
+    "timestamp": "2021-09-09T13:06:23.363Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:06:23.603Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:23.611Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:06:23.894Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:06:23.900Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:23.915Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cAdSpirit Async%cPretargeting started for p13512x0 color:white; background-color:#66AADD; border-left:5px solid white; padding:3px; margin-right:10px;  @ [object Object]",
+    "timestamp": "2021-09-09T13:06:24.300Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cAdSpirit Async%cFetch GDPR data (Feedback: false / GDPR: 1 / Status:  / TCString: ) color:white; background-color:#66AADD; border-left:5px solid white; padding:3px; margin-right:10px;  @ [object Object]",
+    "timestamp": "2021-09-09T13:06:24.302Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cAdSpirit Async%cPretargeting started for p11188x0 color:white; background-color:#66AADD; border-left:5px solid white; padding:3px; margin-right:10px;  @ [object Object]",
+    "timestamp": "2021-09-09T13:06:24.331Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cAdSpirit Async%cFetch GDPR data (Feedback: false / GDPR: 1 / Status:  / TCString: ) color:white; background-color:#66AADD; border-left:5px solid white; padding:3px; margin-right:10px;  @ [object Object]",
+    "timestamp": "2021-09-09T13:06:24.333Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:06:24.467Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:06:25.077Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "TCF data: cmpId 10 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:06:25.081Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:06:25.096Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:06:25.099Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:06:25.221Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cAdSpirit Async%cPretargeting TIMEOUT for p13512x0 color:white; background-color:#66AADD; border-left:5px solid white; padding:3px; margin-right:10px;  @ [object Object]",
+    "timestamp": "2021-09-09T13:06:25.436Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cAdSpirit Async%cPretargeting DONE for p13512x0 color:white; background-color:#66AADD; border-left:5px solid white; padding:3px; margin-right:10px;  @ [object Object]",
+    "timestamp": "2021-09-09T13:06:25.443Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cAdSpirit Async%cGDPR wait timeout color:white; background-color:#66AADD; border-left:5px solid white; padding:3px; margin-right:10px;  @ [object Object]",
+    "timestamp": "2021-09-09T13:06:25.451Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cAdSpirit Async%cPretargeting added for p13512x0|c1037as_|1 color:white; background-color:#66AADD; border-left:5px solid white; padding:3px; margin-right:10px;  @ [object Object]",
+    "timestamp": "2021-09-09T13:06:25.453Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cAdSpirit Async%cPretargeting DONE for p13512x0|c1037as_|1 color:white; background-color:#66AADD; border-left:5px solid white; padding:3px; margin-right:10px;  @ [object Object]",
+    "timestamp": "2021-09-09T13:06:25.455Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cAdSpirit Async%cPretargeting TIMEOUT for p11188x0 color:white; background-color:#66AADD; border-left:5px solid white; padding:3px; margin-right:10px;  @ [object Object]",
+    "timestamp": "2021-09-09T13:06:25.462Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cAdSpirit Async%cPretargeting DONE for p11188x0 color:white; background-color:#66AADD; border-left:5px solid white; padding:3px; margin-right:10px;  @ [object Object]",
+    "timestamp": "2021-09-09T13:06:25.464Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cAdSpirit Async%cGDPR wait timeout color:white; background-color:#66AADD; border-left:5px solid white; padding:3px; margin-right:10px;  @ [object Object]",
+    "timestamp": "2021-09-09T13:06:25.470Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cAdSpirit Async%cPretargeting added for p11188x0|c1037as_|1 color:white; background-color:#66AADD; border-left:5px solid white; padding:3px; margin-right:10px;  @ [object Object]",
+    "timestamp": "2021-09-09T13:06:25.471Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cAdSpirit Async%cPretargeting DONE for p11188x0|c1037as_|1 color:white; background-color:#66AADD; border-left:5px solid white; padding:3px; margin-right:10px;  @ [object Object]",
+    "timestamp": "2021-09-09T13:06:25.476Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:06:30.097Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:06:30.229Z"
+  }
+]

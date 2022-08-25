@@ -1,0 +1,152 @@
+[
+  {
+    "part": "measure-07",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:29.772Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "visit https://moto.pl/...",
+    "timestamp": "2021-09-09T13:06:30.135Z"
+  },
+  {
+    "part": "console.log",
+    "message": "=========== AUTO PREBID 1.5.11 =================== @ [object Object]",
+    "timestamp": "2021-09-09T13:06:30.831Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c analytics_storage: denied, ad_storage: denied color: orange @ [object Object]",
+    "timestamp": "2021-09-09T13:06:31.006Z"
+  },
+  {
+    "part": "console.log",
+    "message": "consentVersion: new @ [object Object]",
+    "timestamp": "2021-09-09T13:06:33.685Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c window.AG.rodoAccepted -1 color: green @ [object Object]",
+    "timestamp": "2021-09-09T13:06:33.689Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:06:34.327Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:06:34.327Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:06:35.075Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c update analytics_storage: denied color: orange @ [object Object]",
+    "timestamp": "2021-09-09T13:06:35.091Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c update ad_storage: denied color: orange @ [object Object]",
+    "timestamp": "2021-09-09T13:06:35.092Z"
+  },
+  {
+    "part": "console.log",
+    "message": "consentVersion: new @ [object Object]",
+    "timestamp": "2021-09-09T13:06:35.094Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:06:35.340Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:35.340Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:06:35.438Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:06:35.452Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:35.536Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:06:35.589Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://static.im-g.pl/im/5/17283/m17283885.png was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:06:37.379Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:06:51.788Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:06:51.791Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:06:51.804Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:06:51.807Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c update analytics_storage: denied color: orange @ [object Object]",
+    "timestamp": "2021-09-09T13:06:51.872Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c update ad_storage: denied color: orange @ [object Object]",
+    "timestamp": "2021-09-09T13:06:51.876Z"
+  },
+  {
+    "part": "console.log",
+    "message": "consentVersion: new @ [object Object]",
+    "timestamp": "2021-09-09T13:06:51.878Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c window.AG.rodoAccepted -1 color: green @ [object Object]",
+    "timestamp": "2021-09-09T13:06:51.881Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:06:51.882Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:06:56.805Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:06:56.830Z"
+  }
+]

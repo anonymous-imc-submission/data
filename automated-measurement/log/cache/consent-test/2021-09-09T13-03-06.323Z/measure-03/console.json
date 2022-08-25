@@ -1,0 +1,122 @@
+[
+  {
+    "part": "measure-03",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:30.259Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "visit https://triphobo.com/...",
+    "timestamp": "2021-09-09T13:06:30.663Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Failed to decode downloaded font: https://ak1.jogurucdn.com/assets/web-fonts/font-awesome/fontawesome-webfont.eot?cache=250620181417 @ [object Object]",
+    "timestamp": "2021-09-09T13:06:31.927Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "OTS parsing error: invalid sfntVersion: 185401600 @ [object Object]",
+    "timestamp": "2021-09-09T13:06:31.928Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/. @ [object Object]",
+    "timestamp": "2021-09-09T13:06:32.460Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:06:35.738Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:06:35.739Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:06:36.338Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:36.339Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:06:36.365Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:06:36.369Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:36.383Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:06:36.415Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Failed to decode downloaded font: https://ak1.jogurucdn.com/assets/web-fonts/font-awesome/fontawesome-webfont.eot?cache=250620181417 @ [object Object]",
+    "timestamp": "2021-09-09T13:06:36.511Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "OTS parsing error: invalid sfntVersion: 185401600 @ [object Object]",
+    "timestamp": "2021-09-09T13:06:36.512Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Failed to decode downloaded font: https://ak1.jogurucdn.com/assets/web-fonts/font-awesome/fontawesome-webfont.eot?cache=250620181417 @ [object Object]",
+    "timestamp": "2021-09-09T13:06:36.632Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "OTS parsing error: invalid sfntVersion: 185401600 @ [object Object]",
+    "timestamp": "2021-09-09T13:06:36.633Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:06:36.747Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "TCF data: cmpId 10 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:06:36.750Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:06:36.762Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:06:36.819Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Network is idle after 0.81s.",
+    "timestamp": "2021-09-09T13:06:37.581Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:06:41.764Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:06:41.815Z"
+  }
+]

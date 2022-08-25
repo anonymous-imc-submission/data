@@ -1,0 +1,162 @@
+[
+  {
+    "part": "measure-03",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:05:25.862Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "visit https://m-w.com/...",
+    "timestamp": "2021-09-09T13:05:26.116Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:05:26.841Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Welcome to Home Redesign... @ [object Object]",
+    "timestamp": "2021-09-09T13:05:28.277Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://merriam-webster.com/assets/mw/static/app-css-images/global/icons/double-arrows-white.svg' from origin 'https://www.merriam-webster.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:29.717Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:05:29.729Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://c.amazon-adsystem.com/cdn/prod/config?src=3022&u=https%3A%2F%2Fwww.merriam-webster.com%2F' from origin 'https://www.merriam-webster.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:29.730Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:05:29.734Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://brightcombid.marphezis.com/hb?cb=VDlGQGpk' from origin 'https://www.merriam-webster.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'. The credentials mode of requests initiated by the XMLHttpRequest is controlled by the withCredentials attribute. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:31.982Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:05:31.986Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "'HTMLVideoElement.webkitDisplayingFullscreen' is deprecated. Please use 'Document.fullscreenElement' instead. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:32.326Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Origin trial controlled feature not enabled: 'trust-token-redemption'. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:32.333Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:05:32.604Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[BC]DataLayer available @ [object Object]",
+    "timestamp": "2021-09-09T13:05:32.743Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:05:34.723Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:05:34.729Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:05:34.925Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:05:34.930Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:05:34.951Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:05:34.959Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:05:34.994Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:05:35.018Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://merriam-webster.com/assets/mw/static/shared/mw-shared/css/onetrust/banner.min.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:37.745Z"
+  },
+  {
+    "part": "console.log",
+    "message": "removed: 1 @ [object Object]",
+    "timestamp": "2021-09-09T13:05:54.283Z"
+  },
+  {
+    "part": "console.log",
+    "message": "removed: 4 @ [object Object]",
+    "timestamp": "2021-09-09T13:05:54.324Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:05:54.353Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:05:54.353Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:05:54.368Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:05:54.370Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:05:54.730Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:05:59.368Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:05:59.406Z"
+  }
+]

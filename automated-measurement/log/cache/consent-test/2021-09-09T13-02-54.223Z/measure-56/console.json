@@ -1,0 +1,117 @@
+[
+  {
+    "part": "measure-56",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:16:31.332Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "visit https://tvn24bis.pl/...",
+    "timestamp": "2021-09-09T13:16:31.630Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "sentry - dsn not provided! @ [object Object]",
+    "timestamp": "2021-09-09T13:16:33.214Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:16:33.366Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:16:33.369Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[react-ga] ReactGA.initialize must be called first or GoogleAnalytics should be loaded manually @ [object Object]",
+    "timestamp": "2021-09-09T13:16:34.588Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:16:34.745Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:16:34.745Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:16:34.881Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:16:34.884Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:16:34.966Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:16:35.031Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button class=\"cookie-setting-link\" id=\"onetrust-pc-btn-…>Więcej opcji</button>\nattempting click action\n  waiting for element to be visible, enabled and stable\n  element is visible, enabled and stable\n  scrolling into view if needed\n  done scrolling\n  checking that element receives pointer events at (647,552.27)\n  element does receive pointer events\n  performing click action\n  click action done\n  waiting for scheduled navigations to finish\n============================================================",
+    "timestamp": "2021-09-09T13:16:37.057Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:16:39.686Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:17:10.760Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:17:10.763Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:17:10.770Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:17:10.772Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:17:10.829Z"
+  },
+  {
+    "part": "console.log",
+    "message": "13:17:10 +966 | TVNTools (v1.17.2) | gdprConsent | Approved by RODO Pop-up. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:10.974Z"
+  },
+  {
+    "part": "console.log",
+    "message": "13:17:11 +14 | TVNTools (v1.17.2) | gdprConsent | Approved by RODO Pop-up. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:11.015Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:17:15.770Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:17:15.827Z"
+  }
+]

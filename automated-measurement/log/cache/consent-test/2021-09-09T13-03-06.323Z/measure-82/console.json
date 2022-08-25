@@ -1,0 +1,162 @@
+[
+  {
+    "part": "measure-82",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:21:26.068Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "visit https://celebmafia.com/...",
+    "timestamp": "2021-09-09T13:21:27.016Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 412 (Precondition Failed) @ [object Object]",
+    "timestamp": "2021-09-09T13:21:34.060Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:21:52.759Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:21:52.814Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 1.4.1 @ [object Object]",
+    "timestamp": "2021-09-09T13:21:53.167Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Blocked a frame with origin \"https://1f28c925ef0ad7c933ad13547a671a78.safeframe.googlesyndication.com\" from accessing a cross-origin frame. @ [object Object]",
+    "timestamp": "2021-09-09T13:21:53.572Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Blocked a frame with origin \"https://1f28c925ef0ad7c933ad13547a671a78.safeframe.googlesyndication.com\" from accessing a cross-origin frame. @ [object Object]",
+    "timestamp": "2021-09-09T13:21:53.778Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:21:54.622Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:21:54.632Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:21:54.925Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Blocked a frame with origin \"https://1f28c925ef0ad7c933ad13547a671a78.safeframe.googlesyndication.com\" from accessing a cross-origin frame. @ [object Object]",
+    "timestamp": "2021-09-09T13:21:54.954Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Blocked a frame with origin \"https://1f28c925ef0ad7c933ad13547a671a78.safeframe.googlesyndication.com\" from accessing a cross-origin frame. @ [object Object]",
+    "timestamp": "2021-09-09T13:21:54.954Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:21:55.554Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://celebmafia.com/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js?ver=5.3.0 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:21:56.284Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://celebmafia.com/wp-includes/js/wp-embed.min.js?ver=5.4.2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:21:56.284Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://services.bilsyndication.com/adv1/?d=89 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:21:56.284Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:21:58.728Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ [object Object]",
+    "timestamp": "2021-09-09T13:21:59.401Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:22:02.608Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Error: apstag has already loaded - preventing duplicate load\n    at Module.<anonymous> (https://c.amazon-adsystem.com/aax2/apstag.js:2:83118)\n    at n (https://c.amazon-adsystem.com/aax2/apstag.js:2:110)\n    at Object.<anonymous> (https://c.amazon-adsystem.com/aax2/apstag.js:2:81166)\n    at n (https://c.amazon-adsystem.com/aax2/apstag.js:2:110)\n    at https://c.amazon-adsystem.com/aax2/apstag.js:2:902\n    at https://c.amazon-adsystem.com/aax2/apstag.js:2:912 @ [object Object]",
+    "timestamp": "2021-09-09T13:22:02.868Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Error: `apstag.init` was called multiple times with different pubIDs (66ef05f7-ad53-48f6-873a-ac7543370392 then 9cf0c4f1-7630-476b-9141-f4472e005192)\n    at h (https://c.amazon-adsystem.com/aax2/apstag.js:2:90847)\n    at Rt (https://c.amazon-adsystem.com/aax2/apstag.js:2:125980)\n    at https://c.amazon-adsystem.com/aax2/apstag.js:2:127080\n    at Object.init (https://c.amazon-adsystem.com/aax2/apstag.js:2:4051)\n    at u (https://biltag.bilsyndication.com/v1/1631087621/123f8b8c025f00b3442da8ba2b8f4ccd.js:1:524755)\n    at h (https://biltag.bilsyndication.com/v1/1631087621/123f8b8c025f00b3442da8ba2b8f4ccd.js:1:522724)\n    at c (https://biltag.bilsyndication.com/v1/1631087621/123f8b8c025f00b3442da8ba2b8f4ccd.js:1:522702)\n    at HTMLScriptElement.Q.o.onload.o.onreadystatechange (https://biltag.bilsyndication.com/v1/1631087621/123f8b8c025f00b3442da8ba2b8f4ccd.js:1:134905) @ [object Object]",
+    "timestamp": "2021-09-09T13:22:02.917Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Ignoring the PubAdsService.enableSingleRequest() call since the service is already enabled. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:02.948Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:22:08.137Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "TCF data: cmpId 10 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:22:08.142Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:22:08.157Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:22:08.157Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://gum.criteo.com/sid/json?origin=prebid&topUrl=https%3A%2F%2Fcelebmafia.com%2F&domain=celebmafia.com&gdprString=CPMRGiAPMRGiAAKAiAENBqCsAP_AAH_AACiQILtf_X__bX9j-_59f_t0eY1P9_r_v-Qzjhfdt-8F2L_W_L0X42E7NF36pq4KuR4Eu3LBIQNlHMHUTUmwaokVrzPsak2Mr6NKJ7LEmnMZO2dYGHtPn91TuZKY7_78__fz3z-v_t___9f37-3_3__5_X---_e_V399zLv9____39nN___9uCCgBJhqXkAXZljgybRpVCiBGFYSHQCgAooBhaJrABgcFOysAj1BCwAQmoCMCIEGIKMGAQACCQBIREBIAWCARAEQCAAEAKkBCAAiYBBYAWBgEAAoBoWIEUAQgSEGRwVHKYEBUi0UE9lYAlF3saYQhlvgRQKP6KjARrNECwMhIWDmOAJAS8AA.YAAAAAAAAAAA&cw=1&lsw=1' from origin 'https://celebmafia.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:09.027Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:22:09.038Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:22:09.441Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:22:13.158Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:22:13.602Z"
+  }
+]

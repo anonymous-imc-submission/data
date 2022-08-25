@@ -1,0 +1,70 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://climbing.com/..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Looking for dialogs to reject..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting for __tcfapi..."
+  },
+  {
+    "type": "admeasure",
+    "text": "__tcfapi found! Querying status..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingWaiting."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingLoaded."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Found a OneTrust dialog."
+  },
+  {
+    "type": "admeasure",
+    "text": "OneTrust non-tabbed: no accordion"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data obtained!"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data: cmpId 28 consent false, legInt true."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting..."
+  },
+  {
+    "type": "admeasure",
+    "text": "OneTrust dialog rejected."
+  },
+  {
+    "type": "admeasure",
+    "text": "Network is idle after 3.64s."
+  },
+  {
+    "type": "admeasure",
+    "text": "Minimum wait time reached after 5.00s."
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "part": "measure-94",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:36:26.529Z"
+  },
+  {
+    "part": "measure-94",
+    "message": "visit https://burlingtoncountytimes.com/...",
+    "timestamp": "2021-09-09T13:36:34.278Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:36:54.320Z"
+  },
+  {
+    "part": "measure-94",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://burlingtoncountytimes.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:37:04.324Z"
+  },
+  {
+    "part": "measure-94",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:37:04.464Z"
+  }
+]

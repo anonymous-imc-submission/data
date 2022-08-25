@@ -1,0 +1,102 @@
+[
+  {
+    "part": "measure-04",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:05:10.917Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "visit https://smartrvguide.com/...",
+    "timestamp": "2021-09-09T13:05:11.260Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://secure.statcounter.com/counter/counter.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:15.441Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://secure.statcounter.com/counter/counter.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:15.452Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:05:16.976Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:05:17.374Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:05:21.518Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:05:21.522Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:05:21.751Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:05:21.751Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:05:21.786Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:05:21.790Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:05:21.839Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:05:22.491Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:05:22.496Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:05:22.511Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:05:22.519Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:05:22.582Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:05:27.512Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:05:27.527Z"
+  }
+]

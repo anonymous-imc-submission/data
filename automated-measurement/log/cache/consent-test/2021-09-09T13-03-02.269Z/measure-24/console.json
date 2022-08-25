@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-24",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:10:01.555Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "visit https://ncaa.com/...",
+    "timestamp": "2021-09-09T13:10:02.726Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:10:24.771Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:10:24.772Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:10:26.112Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:26.117Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:10:26.173Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:10:26.176Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:26.218Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:10:26.235Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:10:29.963Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:10:33.166Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:10:33.172Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:10:33.184Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:10:33.309Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:10:38.186Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:10:53.186Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:10:53.258Z"
+  }
+]

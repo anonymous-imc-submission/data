@@ -1,0 +1,112 @@
+[
+  {
+    "part": "measure-37",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:11:35.982Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "visit https://livingstondaily.com/...",
+    "timestamp": "2021-09-09T13:11:36.305Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:11:43.173Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:11:47.367Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:11:47.372Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:11:47.949Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:47.949Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:11:48.230Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:11:48.249Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:48.317Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:11:49.004Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:11:49.007Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:11:49.018Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:11:49.021Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:11:49.337Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:11:49.356Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:11:49.591Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CONNECTION_CLOSED @ [object Object]",
+    "timestamp": "2021-09-09T13:11:50.945Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 431 (Request Header Fields Too Large) @ [object Object]",
+    "timestamp": "2021-09-09T13:11:52.040Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 414 (Request-URI Too Long) @ [object Object]",
+    "timestamp": "2021-09-09T13:11:53.217Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:11:54.019Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:11:54.094Z"
+  }
+]

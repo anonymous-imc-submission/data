@@ -1,0 +1,152 @@
+[
+  {
+    "part": "measure-45",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:17:33.411Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "visit https://destinytracker.com/...",
+    "timestamp": "2021-09-09T13:17:33.874Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "[bugsnag] Loaded! @ [object Object]",
+    "timestamp": "2021-09-09T13:17:36.443Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://api.tracker.gg/api/v1/destiny-2/db/items/top-insights' from origin 'https://destinytracker.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:37.387Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:17:37.398Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://api.tracker.gg/api/v2/destiny-2/guides/votes' from origin 'https://destinytracker.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:37.444Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:17:37.446Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://api.tracker.gg/api/v1/destiny-2/wrapper/interactions' from origin 'https://destinytracker.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:37.450Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:17:37.452Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:17:37.708Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:17:37.709Z"
+  },
+  {
+    "part": "console.log",
+    "message": "User Information Loaded false @ [object Object]",
+    "timestamp": "2021-09-09T13:17:37.751Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://api.tracker.gg/api/v2/destiny-2/system-status' from origin 'https://destinytracker.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:37.827Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:17:37.830Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://api.tracker.gg/api/v1/destiny-2/wrapper/interactions' from origin 'https://destinytracker.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:37.868Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:17:37.871Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:17:38.687Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:17:38.688Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:17:38.736Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:17:39.021Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:17:39.086Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:17:39.399Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:17:46.113Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:17:46.117Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:17:46.131Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:17:46.134Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:17:46.191Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 400 () @ [object Object]",
+    "timestamp": "2021-09-09T13:17:46.260Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:17:51.131Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:17:51.161Z"
+  }
+]

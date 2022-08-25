@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-20",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:09:57.398Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "visit https://motorsport.com/...",
+    "timestamp": "2021-09-09T13:09:58.230Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:10:12.313Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:10:12.323Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:10:12.966Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:12.966Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:10:13.085Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:10:13.090Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:13.141Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:10:13.249Z"
+  },
+  {
+    "part": "console.log",
+    "message": "operation GetWidgetMstvLive started @ [object Object]",
+    "timestamp": "2021-09-09T13:10:25.909Z"
+  },
+  {
+    "part": "console.log",
+    "message": "operation GetWidgetMstvLive took 521 to complete @ [object Object]",
+    "timestamp": "2021-09-09T13:10:26.425Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:10:28.593Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:10:28.598Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:10:28.614Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:10:28.618Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:10:29.623Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 401 () @ [object Object]",
+    "timestamp": "2021-09-09T13:10:32.949Z"
+  },
+  {
+    "part": "console.info",
+    "message": "{status: 401, message: JWT Token not found} @ [object Object]",
+    "timestamp": "2021-09-09T13:10:32.956Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:10:33.615Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:10:33.656Z"
+  }
+]

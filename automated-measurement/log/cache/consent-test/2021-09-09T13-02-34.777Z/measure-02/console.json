@@ -1,0 +1,147 @@
+[
+  {
+    "part": "measure-02",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:04:24.195Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "visit https://b1.ro/...",
+    "timestamp": "2021-09-09T13:04:24.463Z"
+  },
+  {
+    "part": "console.log",
+    "message": "1 @ [object Object]",
+    "timestamp": "2021-09-09T13:04:28.372Z"
+  },
+  {
+    "part": "console.log",
+    "message": "HasAdBlock : No @ [object Object]",
+    "timestamp": "2021-09-09T13:04:28.372Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Unrecognized feature: 'conversion-measurement'. @ [object Object]",
+    "timestamp": "2021-09-09T13:04:30.641Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Origin trial controlled feature not enabled: 'attribution-reporting'. @ [object Object]",
+    "timestamp": "2021-09-09T13:04:30.641Z"
+  },
+  {
+    "part": "console.log",
+    "message": "{wordpress: true, appId: 5c5402a1-88ef-43db-984b-1a09e883d401, allowLocalhostAsSecureOrigin: true, welcomeNotification: Object, path: https://www.b1tv.ro/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/} @ [object Object]",
+    "timestamp": "2021-09-09T13:04:31.816Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:04:32.195Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:04:32.203Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:04:32.980Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:04:32.987Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:04:33.039Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:04:33.047Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:04:33.093Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GDPR & Consent @ [object Object]",
+    "timestamp": "2021-09-09T13:04:33.699Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:04:33.883Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:04:33.889Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:04:33.916Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:04:33.931Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:04:33.947Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Div ID passed to googletag.display() does not match any defined slots: mobil_hp_p1. @ [object Object]",
+    "timestamp": "2021-09-09T13:04:34.700Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Div ID passed to googletag.display() does not match any defined slots: mobil_hp_p2. @ [object Object]",
+    "timestamp": "2021-09-09T13:04:34.704Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Div ID passed to googletag.display() does not match any defined slots: mobil_hp_p3. @ [object Object]",
+    "timestamp": "2021-09-09T13:04:34.708Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Div ID passed to googletag.display() does not match any defined slots: mobil_hp_p4. @ [object Object]",
+    "timestamp": "2021-09-09T13:04:34.712Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Div ID passed to googletag.display() does not match any defined slots: mobil_hp_p5. @ [object Object]",
+    "timestamp": "2021-09-09T13:04:34.714Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Div ID passed to googletag.display() does not match any defined slots: mobil_hp_p6. @ [object Object]",
+    "timestamp": "2021-09-09T13:04:34.726Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://www.b1tv.ro/ @ [object Object]",
+    "timestamp": "2021-09-09T13:04:38.512Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:04:38.921Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:04:38.949Z"
+  }
+]

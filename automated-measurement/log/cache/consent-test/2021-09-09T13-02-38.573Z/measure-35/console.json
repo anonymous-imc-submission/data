@@ -1,0 +1,117 @@
+[
+  {
+    "part": "measure-35",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:08:08.776Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "visit https://courier-journal.com/...",
+    "timestamp": "2021-09-09T13:08:08.835Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:08:10.464Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:08:13.087Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:08:15.377Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:08:15.381Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:08:15.661Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:08:15.661Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:08:15.690Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:08:15.696Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:08:15.736Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:08:16.328Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:08:16.329Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:08:16.332Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:08:16.340Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:08:16.389Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:08:17.027Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:08:17.034Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CONNECTION_CLOSED @ [object Object]",
+    "timestamp": "2021-09-09T13:08:18.256Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR @ [object Object]",
+    "timestamp": "2021-09-09T13:08:18.715Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CONNECTION_CLOSED @ [object Object]",
+    "timestamp": "2021-09-09T13:08:18.717Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:08:21.336Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:08:21.350Z"
+  }
+]

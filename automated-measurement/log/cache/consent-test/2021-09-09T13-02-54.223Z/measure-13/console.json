@@ -1,0 +1,117 @@
+[
+  {
+    "part": "measure-13",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:41.097Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "visit https://nieuws.nl/...",
+    "timestamp": "2021-09-09T13:06:41.198Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:06:49.889Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Error in googletag.display: could not find div with id \"semilo_asset\" in DOM for slot: /1015413/nieuws.nl-outstream-all-atf. @ [object Object]",
+    "timestamp": "2021-09-09T13:06:50.905Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "%c %c  background: #ffce59 background: #649ff1 Confiant script loading timed out @ [object Object]",
+    "timestamp": "2021-09-09T13:06:51.341Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Google Maps JavaScript API warning: InvalidKey https://developers.google.com/maps/documentation/javascript/error-messages#invalid-key @ [object Object]",
+    "timestamp": "2021-09-09T13:06:52.314Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Google Maps JavaScript API error: NotLoadingAPIFromGoogleMapsError\nhttps://developers.google.com/maps/documentation/javascript/error-messages#not-loading-api-from-google-maps-error @ [object Object]",
+    "timestamp": "2021-09-09T13:06:54.512Z"
+  },
+  {
+    "part": "console.error",
+    "message": "%c %c  background: #ffce59 background: #649ff1 Div element for slot 'semilo_asset' not found @ [object Object]",
+    "timestamp": "2021-09-09T13:06:55.198Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:06:55.629Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:06:55.649Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:06:56.034Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:56.044Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:06:56.143Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:06:56.145Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:56.146Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:06:56.175Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:07:03.973Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:07:03.974Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:07:03.983Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:07:03.983Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:07:04.175Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:07:08.983Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:07:09.018Z"
+  }
+]

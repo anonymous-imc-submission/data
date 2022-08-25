@@ -1,0 +1,182 @@
+[
+  {
+    "part": "measure-08",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:57.046Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "visit https://multichannel.com/...",
+    "timestamp": "2021-09-09T13:06:57.522Z"
+  },
+  {
+    "part": "console.log",
+    "message": "fep ga exc Cannot read properties of undefined (reading 'adTags') @ [object Object]",
+    "timestamp": "2021-09-09T13:06:58.146Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GA getUserDimensions null null @ [object Object]",
+    "timestamp": "2021-09-09T13:06:58.159Z"
+  },
+  {
+    "part": "console.log",
+    "message": "flexisites loaded successfully. @ [object Object]",
+    "timestamp": "2021-09-09T13:06:59.156Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "%c BORDEAUX  background: #800020; color: #ffffff setAssignSpaceOnLoad has been deprecated. This api call should be removed in the future. @ [object Object]",
+    "timestamp": "2021-09-09T13:07:00.631Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "%c BORDEAUX  background: #800020; color: #ffffff setEagerSpaceAllocation has been deprecated. This api call should be removed in the future. There is no replacement as this setting is now the default. @ [object Object]",
+    "timestamp": "2021-09-09T13:07:00.639Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DOMContentLoaded at 2844 @ [object Object]",
+    "timestamp": "2021-09-09T13:07:00.853Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Permutive was not initialized. No consent to run on the page @ [object Object]",
+    "timestamp": "2021-09-09T13:07:02.268Z"
+  },
+  {
+    "part": "console.log",
+    "message": "No archive filter present @ [object Object]",
+    "timestamp": "2021-09-09T13:07:03.031Z"
+  },
+  {
+    "part": "console.log",
+    "message": "no primary nav @ [object Object]",
+    "timestamp": "2021-09-09T13:07:03.223Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "USP is not accessible @ [object Object]",
+    "timestamp": "2021-09-09T13:07:04.203Z"
+  },
+  {
+    "part": "console.log",
+    "message": "No nav subscribe button present @ [object Object]",
+    "timestamp": "2021-09-09T13:07:05.034Z"
+  },
+  {
+    "part": "console.log",
+    "message": "PageLoad at 7077 @ [object Object]",
+    "timestamp": "2021-09-09T13:07:05.092Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:07:05.561Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:07:05.565Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "%c BORDEAUX  background: #800020; color: #ffffff Error ignored because of sample rate @ [object Object]",
+    "timestamp": "2021-09-09T13:07:05.737Z"
+  },
+  {
+    "part": "console.error",
+    "message": "%c BORDEAUX  background: #800020; color: #ffffff Error: CMP __tcfapi timeout after 5000ms\n    at https://bordeaux.futurecdn.net/bordeaux.js:16:31973 @ [object Object]",
+    "timestamp": "2021-09-09T13:07:05.742Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error: Consent not obtained for Permutive\n    at https://freyr.futurecdn.net/freyr.js:1:5985\n    at Generator.next (<anonymous>)\n    at a (https://freyr.futurecdn.net/freyr.js:1:4997) @ [object Object]",
+    "timestamp": "2021-09-09T13:07:06.917Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:07:06.987Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:06.988Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:07:07.327Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:07:07.340Z"
+  },
+  {
+    "part": "console.log",
+    "message": "FFTE Could not init app : ffte properties undefined @ [object Object]",
+    "timestamp": "2021-09-09T13:07:10.663Z"
+  },
+  {
+    "part": "console.log",
+    "message": "FFTE Could not init app : read more container null @ [object Object]",
+    "timestamp": "2021-09-09T13:07:10.664Z"
+  },
+  {
+    "part": "console.log",
+    "message": "FFTE Could not init app : expanding articles null @ [object Object]",
+    "timestamp": "2021-09-09T13:07:10.666Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:07:11.184Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:07:17.134Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://www.nexttv.com/multichannel-news @ [object Object]",
+    "timestamp": "2021-09-09T13:07:40.458Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://www.nexttv.com/multichannel-news @ [object Object]",
+    "timestamp": "2021-09-09T13:08:00.852Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Error getting pingLoaded: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:08:07.340Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "TCF data: cmpId 10 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:08:07.340Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:08:07.348Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:08:07.357Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:08:12.350Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:08:12.418Z"
+  }
+]

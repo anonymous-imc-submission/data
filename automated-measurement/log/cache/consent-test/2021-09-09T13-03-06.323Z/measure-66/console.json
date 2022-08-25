@@ -1,0 +1,132 @@
+[
+  {
+    "part": "measure-66",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:18:13.357Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "visit https://pcinvasion.com/...",
+    "timestamp": "2021-09-09T13:18:14.192Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:18:23.377Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:18:24.905Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'adpod' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:18:24.905Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:18:26.185Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:18:28.064Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:18:28.081Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:18:28.864Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:28.865Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:18:28.942Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:18:28.952Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:28.981Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:18:29.304Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:18:30.438Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "TCF data: cmpId 10 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:18:30.442Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:18:30.455Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:18:31.222Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] To reserve space and reduce layout shifts, consider setting min-width=320px, min-height=50px styles on the div element with id=div-gpt-ad-sticky-bottom. Learn more: https://developers.google.com/publisher-tag/guides/minimize-layout-shift @ [object Object]",
+    "timestamp": "2021-09-09T13:18:31.646Z"
+  },
+  {
+    "part": "console.log",
+    "message": "{status: success} @ [object Object]",
+    "timestamp": "2021-09-09T13:18:31.859Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Network is idle after 2.65s.",
+    "timestamp": "2021-09-09T13:18:33.108Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "This ad's html cannot be accessed using the getHtml method on googletag.Slot. Returning the empty string instead. @ [object Object]",
+    "timestamp": "2021-09-09T13:18:33.346Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "This ad's html cannot be accessed using the getHtml method on googletag.Slot. Returning the empty string instead. @ [object Object]",
+    "timestamp": "2021-09-09T13:18:34.141Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "This ad's html cannot be accessed using the getHtml method on googletag.Slot. Returning the empty string instead. @ [object Object]",
+    "timestamp": "2021-09-09T13:18:34.165Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:18:35.456Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:18:35.508Z"
+  }
+]

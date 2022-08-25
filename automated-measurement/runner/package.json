@@ -1,0 +1,21 @@
+{
+  "name": "admeasure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.ts",
+  "author": "Anonymized",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.30.0",
+    "@mdnx/tcf-types": "^1.2.0",
+    "@types/get-folder-size": "^3.0.1",
+    "@types/lodash-es": "^4.17.4",
+    "@types/har-format": "^1.2.7",
+    "chalk": "^4.1.2",
+    "commander": "^8.1.0",
+    "get-folder-size": "^3.1.0",
+    "lodash-es": "^4.17.21",
+    "playwright": "1.17.0-next-alpha-nov-1-2021",
+    "promise-parallel-throttle": "^3.3.0",
+    "public-ip": "^4.0.4"
+  }
+}

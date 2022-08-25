@@ -1,0 +1,122 @@
+[
+  {
+    "part": "measure-00",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:05:46.604Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "visit https://a1.ro/...",
+    "timestamp": "2021-09-09T13:05:46.972Z"
+  },
+  {
+    "part": "console.log",
+    "message": "1 @ [object Object]",
+    "timestamp": "2021-09-09T13:05:52.492Z"
+  },
+  {
+    "part": "console.log",
+    "message": "HasAdBlock : No @ [object Object]",
+    "timestamp": "2021-09-09T13:05:52.493Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:05:57.354Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:05:57.371Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:05:58.050Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:05:58.056Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:05:58.095Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:05:58.109Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:05:58.179Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:05:58.935Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:05:58.940Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:05:58.965Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:05:59.058Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CERT_AUTHORITY_INVALID @ [object Object]",
+    "timestamp": "2021-09-09T13:06:00.618Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:06:03.969Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://a1.ro/ @ [object Object]",
+    "timestamp": "2021-09-09T13:06:05.325Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://a1.ro/ @ [object Object]",
+    "timestamp": "2021-09-09T13:06:05.500Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://a1.ro/ @ [object Object]",
+    "timestamp": "2021-09-09T13:06:06.049Z"
+  },
+  {
+    "part": "console.log",
+    "message": " [  0.000s] [studio.sdk]   @ [object Object]",
+    "timestamp": "2021-09-09T13:06:08.323Z"
+  },
+  {
+    "part": "console.log",
+    "message": " [  1.174s] [studio.sdk] Using default ad parameters in test environment. Simulating local events.  @ [object Object]",
+    "timestamp": "2021-09-09T13:06:09.452Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Network is idle after 12.1s.",
+    "timestamp": "2021-09-09T13:06:11.051Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:06:11.233Z"
+  }
+]

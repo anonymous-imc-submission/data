@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-75",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:18:34.442Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "visit https://vvdailypress.com/...",
+    "timestamp": "2021-09-09T13:18:35.905Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:18:55.787Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:19:05.120Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:19:05.162Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:19:06.015Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:19:06.028Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:19:08.104Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:08.128Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:19:08.457Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:19:08.471Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:08.633Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:19:09.684Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:19:09.684Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:19:09.749Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:19:09.765Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:19:09.810Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:19:14.757Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:19:14.906Z"
+  }
+]

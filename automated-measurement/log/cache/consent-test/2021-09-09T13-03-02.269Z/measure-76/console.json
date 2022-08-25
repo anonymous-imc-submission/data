@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-76",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:27:22.636Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "visit https://autovit.ro/...",
+    "timestamp": "2021-09-09T13:27:22.885Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "react-i18next:: It seems you are still using the old wait option, you may migrate to the new useSuspense behaviour. @ [object Object]",
+    "timestamp": "2021-09-09T13:27:25.965Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:27:27.185Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:27:29.002Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:27:29.005Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:27:29.197Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:27:29.197Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:27:29.215Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:27:29.220Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:27:29.344Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:27:29.350Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:27:38.320Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:27:38.320Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:27:38.331Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:27:38.333Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:27:38.735Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:27:43.331Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:27:43.347Z"
+  }
+]

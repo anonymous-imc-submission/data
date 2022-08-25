@@ -1,0 +1,112 @@
+[
+  {
+    "part": "measure-70",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:12:14.778Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "visit https://indystar.com/...",
+    "timestamp": "2021-09-09T13:12:14.970Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:12:20.419Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:12:24.293Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:12:24.293Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:12:24.671Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:24.671Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:12:24.711Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:12:24.733Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:24.786Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:12:25.908Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:12:25.909Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:12:25.922Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:12:25.925Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:12:25.969Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:12:26.294Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:12:26.306Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CONNECTION_CLOSED @ [object Object]",
+    "timestamp": "2021-09-09T13:12:27.761Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR @ [object Object]",
+    "timestamp": "2021-09-09T13:12:28.303Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CONNECTION_CLOSED @ [object Object]",
+    "timestamp": "2021-09-09T13:12:28.323Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:12:30.923Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:12:30.937Z"
+  }
+]

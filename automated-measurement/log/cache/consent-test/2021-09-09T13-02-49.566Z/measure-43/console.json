@@ -1,0 +1,322 @@
+[
+  {
+    "part": "measure-43",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:18:08.725Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "visit https://nachrichten.at/...",
+    "timestamp": "2021-09-09T13:18:09.002Z"
+  },
+  {
+    "part": "console.log",
+    "message": "TP: oon: piano not loaded no consent @ [object Object]",
+    "timestamp": "2021-09-09T13:18:10.345Z"
+  },
+  {
+    "part": "console.log",
+    "message": "renderSlot_Top_mobil 3588774 @ [object Object]",
+    "timestamp": "2021-09-09T13:18:11.173Z"
+  },
+  {
+    "part": "console.log",
+    "message": "renderSlot_Middle_mobil 3588779 @ [object Object]",
+    "timestamp": "2021-09-09T13:18:11.175Z"
+  },
+  {
+    "part": "console.log",
+    "message": "renderSlot_Bottom_mobil 3588773 @ [object Object]",
+    "timestamp": "2021-09-09T13:18:11.176Z"
+  },
+  {
+    "part": "console.log",
+    "message": "renderSlot_x01_mobil 3615955 @ [object Object]",
+    "timestamp": "2021-09-09T13:18:11.177Z"
+  },
+  {
+    "part": "console.log",
+    "message": "add fadeout to justremembered @ [object Object]",
+    "timestamp": "2021-09-09T13:18:12.283Z"
+  },
+  {
+    "part": "console.log",
+    "message": "setze cookie eupubconsent-v2 @ [object Object]",
+    "timestamp": "2021-09-09T13:18:12.287Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cookie eupubconsent-v2 gesetzt @ [object Object]",
+    "timestamp": "2021-09-09T13:18:12.289Z"
+  },
+  {
+    "part": "console.log",
+    "message": "setze cookie OptanonConsent @ [object Object]",
+    "timestamp": "2021-09-09T13:18:12.290Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cookie OptanonConsent gesetzt @ [object Object]",
+    "timestamp": "2021-09-09T13:18:12.291Z"
+  },
+  {
+    "part": "console.log",
+    "message": "setze cookie euconsent-v2_backup @ [object Object]",
+    "timestamp": "2021-09-09T13:18:12.292Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cookie euconsent-v2_backup gesetzt @ [object Object]",
+    "timestamp": "2021-09-09T13:18:12.293Z"
+  },
+  {
+    "part": "console.log",
+    "message": "setze cookie euconsent-v2_backup @ [object Object]",
+    "timestamp": "2021-09-09T13:18:12.300Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cookie euconsent-v2_backup gesetzt @ [object Object]",
+    "timestamp": "2021-09-09T13:18:12.301Z"
+  },
+  {
+    "part": "console.log",
+    "message": "setze cookie euconsent-v2_backup @ [object Object]",
+    "timestamp": "2021-09-09T13:18:12.302Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cookie euconsent-v2_backup gesetzt @ [object Object]",
+    "timestamp": "2021-09-09T13:18:12.304Z"
+  },
+  {
+    "part": "console.log",
+    "message": " @ [object Object]",
+    "timestamp": "2021-09-09T13:18:13.152Z"
+  },
+  {
+    "part": "console.log",
+    "message": "fcmsUser_Customer_LoginLogout_Controller loaded @ [object Object]",
+    "timestamp": "2021-09-09T13:18:13.752Z"
+  },
+  {
+    "part": "console.log",
+    "message": "TP: OON: piano.js loading ... @ [object Object]",
+    "timestamp": "2021-09-09T13:18:14.266Z"
+  },
+  {
+    "part": "console.log",
+    "message": "TP: OON: piano.js loaded @ [object Object]",
+    "timestamp": "2021-09-09T13:18:14.273Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DOMContentLoaded @ [object Object]",
+    "timestamp": "2021-09-09T13:18:15.311Z"
+  },
+  {
+    "part": "console.log",
+    "message": "settcf called @ [object Object]",
+    "timestamp": "2021-09-09T13:18:15.443Z"
+  },
+  {
+    "part": "console.log",
+    "message": "tcf eventStatus is: cmpuishown @ [object Object]",
+    "timestamp": "2021-09-09T13:18:15.453Z"
+  },
+  {
+    "part": "console.log",
+    "message": "piano: OptanonWrapperCalled: ,C0001, @ [object Object]",
+    "timestamp": "2021-09-09T13:18:15.466Z"
+  },
+  {
+    "part": "console.log",
+    "message": "disable Pull to Refresh @ [object Object]",
+    "timestamp": "2021-09-09T13:18:15.493Z"
+  },
+  {
+    "part": "console.log",
+    "message": "### OptanonWrapper OptanonActiveGroups:,C0001, @ [object Object]",
+    "timestamp": "2021-09-09T13:18:15.494Z"
+  },
+  {
+    "part": "console.log",
+    "message": "start oon_ajax_load @ [object Object]",
+    "timestamp": "2021-09-09T13:18:15.632Z"
+  },
+  {
+    "part": "console.log",
+    "message": "loginControllerLoaded @ [object Object]",
+    "timestamp": "2021-09-09T13:18:15.643Z"
+  },
+  {
+    "part": "console.log",
+    "message": "not logged in @ [object Object]",
+    "timestamp": "2021-09-09T13:18:15.648Z"
+  },
+  {
+    "part": "console.log",
+    "message": "TP: oon: setting piano custom variable userState:notloggedin @ [object Object]",
+    "timestamp": "2021-09-09T13:18:15.661Z"
+  },
+  {
+    "part": "console.log",
+    "message": "TP: oon: dispatchevent jwtloaded @ [object Object]",
+    "timestamp": "2021-09-09T13:18:15.663Z"
+  },
+  {
+    "part": "console.log",
+    "message": "TP: OON: jwtLoaded -> XP init  @ [object Object]",
+    "timestamp": "2021-09-09T13:18:15.664Z"
+  },
+  {
+    "part": "console.log",
+    "message": "TP: Must supply a valid tp.aid before calling tp.init() @ [object Object]",
+    "timestamp": "2021-09-09T13:18:15.725Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Newsletterwidget - NOT logged in @ [object Object]",
+    "timestamp": "2021-09-09T13:18:15.728Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 400 () @ [object Object]",
+    "timestamp": "2021-09-09T13:18:15.896Z"
+  },
+  {
+    "part": "console.log",
+    "message": " oon_uvp disabled @ [object Object]",
+    "timestamp": "2021-09-09T13:18:15.948Z"
+  },
+  {
+    "part": "console.log",
+    "message": "... oon_uvp loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:18:15.950Z"
+  },
+  {
+    "part": "console.log",
+    "message": "window loaded @ [object Object]",
+    "timestamp": "2021-09-09T13:18:16.696Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[ABD] start beginTest @ [object Object]",
+    "timestamp": "2021-09-09T13:18:16.698Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[ABD] adding bait node to DOM @ [object Object]",
+    "timestamp": "2021-09-09T13:18:16.701Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:18:16.705Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:18:16.706Z"
+  },
+  {
+    "part": "console.log",
+    "message": "slickGliders found: 9 @ [object Object]",
+    "timestamp": "2021-09-09T13:18:16.784Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Slickglider Traueranzeigen init @ [object Object]",
+    "timestamp": "2021-09-09T13:18:17.237Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:18:17.890Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:17.891Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:18:18.124Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:18:18.129Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:18.143Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:18:18.185Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[ABD] exiting test loop - value: false @ [object Object]",
+    "timestamp": "2021-09-09T13:18:18.188Z"
+  },
+  {
+    "part": "console.log",
+    "message": "settcf called @ [object Object]",
+    "timestamp": "2021-09-09T13:18:26.796Z"
+  },
+  {
+    "part": "console.log",
+    "message": "tcf eventStatus is: useractioncomplete @ [object Object]",
+    "timestamp": "2021-09-09T13:18:26.798Z"
+  },
+  {
+    "part": "console.log",
+    "message": "piano: OptanonWrapperCalled: ,C0001, @ [object Object]",
+    "timestamp": "2021-09-09T13:18:26.805Z"
+  },
+  {
+    "part": "console.log",
+    "message": "### OptanonWrapper OptanonActiveGroups:,C0001, @ [object Object]",
+    "timestamp": "2021-09-09T13:18:26.812Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:18:26.830Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:18:26.830Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:18:26.835Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:18:26.842Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:18:26.925Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:18:31.843Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:18:31.988Z"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "part": "measure-32",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:10:50.817Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "visit https://csfd.cz/...",
+    "timestamp": "2021-09-09T13:10:50.971Z"
+  },
+  {
+    "part": "console.log",
+    "message": "steps:  [Object,Object,Object,Object,Object,Object,Object,Object,Object,Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:10:54.699Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:10:56.563Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:10:56.565Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:10:56.667Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:56.668Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:10:56.688Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:10:56.691Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:56.711Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:11:01.695Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:11:06.900Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SAS Adform passback leaderboard / FCID 1562 @ [object Object]",
+    "timestamp": "2021-09-09T13:11:08.215Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:11:09.232Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SAS Adform IM passback leaderboard / FCID 5337 @ [object Object]",
+    "timestamp": "2021-09-09T13:11:09.687Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:11:10.187Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SAS R2B2 passback leaderboard / FCID 520 @ [object Object]",
+    "timestamp": "2021-09-09T13:11:16.256Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:11:16.951Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-pc-btn-handler:visible,\n            #onetrust-pc-sdk:visible\n        \" to be visible\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:11:26.581Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:11:47.246Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:11:47.247Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:52.266Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:12:42.803Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:12:42.803Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:48.619Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:12:56.668Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "TCF data: cmpId 7 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:12:56.668Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:12:56.676Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:13:01.678Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:13:16.686Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:13:16.870Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:13:16.890Z"
+  }
+]

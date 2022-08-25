@@ -1,0 +1,117 @@
+[
+  {
+    "part": "measure-96",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:21:06.320Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "visit https://nieuws.nl/...",
+    "timestamp": "2021-09-09T13:21:14.534Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:21:24.459Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Error in googletag.display: could not find div with id \"semilo_asset\" in DOM for slot: /1015413/nieuws.nl-outstream-all-atf. @ [object Object]",
+    "timestamp": "2021-09-09T13:21:28.694Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "%c %c  background: #ffce59 background: #649ff1 Confiant script loading timed out @ [object Object]",
+    "timestamp": "2021-09-09T13:21:29.787Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Google Maps JavaScript API warning: InvalidKey https://developers.google.com/maps/documentation/javascript/error-messages#invalid-key @ [object Object]",
+    "timestamp": "2021-09-09T13:21:32.060Z"
+  },
+  {
+    "part": "console.error",
+    "message": "%c %c  background: #ffce59 background: #649ff1 Div element for slot 'semilo_asset' not found @ [object Object]",
+    "timestamp": "2021-09-09T13:21:33.206Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Google Maps JavaScript API error: NotLoadingAPIFromGoogleMapsError\nhttps://developers.google.com/maps/documentation/javascript/error-messages#not-loading-api-from-google-maps-error @ [object Object]",
+    "timestamp": "2021-09-09T13:21:33.527Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:21:39.138Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:21:39.160Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:21:40.020Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:21:40.023Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:21:40.162Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:21:40.250Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:21:40.296Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:21:43.503Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:21:43.507Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:21:43.554Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "Network is idle after 0.02s.",
+    "timestamp": "2021-09-09T13:21:43.576Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:21:44.356Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:21:44.396Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:21:48.571Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:21:48.735Z"
+  }
+]

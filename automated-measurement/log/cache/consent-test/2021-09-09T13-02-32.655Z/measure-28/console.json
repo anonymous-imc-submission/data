@@ -1,0 +1,82 @@
+[
+  {
+    "part": "measure-28",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:09:56.004Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "visit https://rtlnieuws.nl/...",
+    "timestamp": "2021-09-09T13:09:56.180Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:10:15.020Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:10:15.025Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:10:18.060Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:18.068Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:10:18.350Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:10:18.356Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:18.404Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:10:23.422Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "TCF data: cmpId 28 consent true, legInt false.",
+    "timestamp": "2021-09-09T13:10:23.423Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:10:23.451Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:10:23.459Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:10:24.345Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "Minimum wait time reached after 5.02s.",
+    "timestamp": "2021-09-09T13:10:28.475Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:10:28.592Z"
+  }
+]

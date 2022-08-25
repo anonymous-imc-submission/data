@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-81",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:20:40.849Z"
+  },
+  {
+    "part": "measure-81",
+    "message": "visit https://thecalifornian.com/...",
+    "timestamp": "2021-09-09T13:20:43.624Z"
+  },
+  {
+    "part": "measure-81",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://thecalifornian.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:21:13.802Z"
+  },
+  {
+    "part": "measure-81",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:21:14.144Z"
+  }
+]

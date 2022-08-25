@@ -1,0 +1,135 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://morgenweb.de/..."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.mannheimer-morgen.de/pu_mm_2020/espi-dist/js/app.pkg.88c3b3d8dcff55147fbba1d8bc1cb3674e4504db.js",
+      "lineNumber": 0,
+      "columnNumber": 115044
+    },
+    "text": "\tgetCustomData: t"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.mannheimer-morgen.de/pu_mm_2020/espi-dist/js/app.pkg.88c3b3d8dcff55147fbba1d8bc1cb3674e4504db.js",
+      "lineNumber": 0,
+      "columnNumber": 115044
+    },
+    "text": "\tgetCustomData: t"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.mannheimer-morgen.de/pu_mm_2020/espi-dist/js/app.pkg.88c3b3d8dcff55147fbba1d8bc1cb3674e4504db.js",
+      "lineNumber": 0,
+      "columnNumber": 115044
+    },
+    "text": "\tgetCustomData: t"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.mannheimer-morgen.de/pu_mm_2020/espi-dist/js/app.pkg.88c3b3d8dcff55147fbba1d8bc1cb3674e4504db.js",
+      "lineNumber": 0,
+      "columnNumber": 115044
+    },
+    "text": "\tgetCustomData: t"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://tm.dl.mannheimer-morgen.de/tm/a/container/init/5f33296ea0.js?&ntmData=_bineos6651d502d3648&rnd=19031014",
+      "lineNumber": 488,
+      "columnNumber": 8
+    },
+    "text": "abo-touchpoint "
+  },
+  {
+    "type": "admeasure",
+    "text": "Looking for dialogs to reject..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting for __tcfapi..."
+  },
+  {
+    "type": "admeasure",
+    "text": "__tcfapi found! Querying status..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingWaiting."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingLoaded."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-pc-btn-handler:visible,\n            #onetrust-pc-sdk:visible\n        \" to be visible\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")"
+  },
+  {
+    "type": "admeasure",
+    "text": "TC Data evaluation failed: Error: page.evaluate: timeout"
+  },
+  {
+    "type": "admeasure",
+    "text": "TC data: waiting for page to stabilize..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "TC Data evaluation failed: Error: page.evaluate: timeout"
+  },
+  {
+    "type": "admeasure",
+    "text": "TC data: waiting for page to stabilize..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Cannot get TCF data: getTCData timed out"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data: cmpId 21 consent null, legInt null."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Network is idle after 0.00s."
+  },
+  {
+    "type": "admeasure",
+    "text": "Minimum wait time reached after 5.00s."
+  },
+  {
+    "type": "admeasure",
+    "text": "TC Data evaluation failed: Error: page.evaluate: Target closed"
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "part": "measure-64",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:14:02.677Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "visit https://roadandtrack.com/...",
+    "timestamp": "2021-09-09T13:14:04.337Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service worker registration succeeded. @ [object Object]",
+    "timestamp": "2021-09-09T13:14:10.939Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:14:17.540Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://roadandtrack.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:14:34.674Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:14:35.913Z"
+  }
+]

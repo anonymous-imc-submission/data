@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-39",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:12:52.569Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "visit https://traveler.es/...",
+    "timestamp": "2021-09-09T13:12:52.808Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Permutive was not initialized. No consent to run on the page @ [object Object]",
+    "timestamp": "2021-09-09T13:12:55.003Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:12:55.697Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:12:55.698Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:12:56.049Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:56.053Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:12:56.064Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:12:56.067Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:56.112Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:12:56.119Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:13:01.670Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:13:01.671Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:13:01.677Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:13:01.678Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:13:01.731Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:13:06.677Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:13:06.691Z"
+  }
+]

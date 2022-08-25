@@ -1,0 +1,42 @@
+[
+  {
+    "part": "measure-94",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:21:16.547Z"
+  },
+  {
+    "part": "measure-94",
+    "message": "visit https://boatingmag.com/...",
+    "timestamp": "2021-09-09T13:21:17.911Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:21:24.901Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SUPPRESS: false @ [object Object]",
+    "timestamp": "2021-09-09T13:21:44.139Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Invalid GPT fixed size specification: [[[970,90],[728,90]],[[320,50]]] @ [object Object]",
+    "timestamp": "2021-09-09T13:21:45.157Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Bid Back Handler {} @ [object Object]",
+    "timestamp": "2021-09-09T13:21:45.677Z"
+  },
+  {
+    "part": "measure-94",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://boatingmag.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:21:47.926Z"
+  },
+  {
+    "part": "measure-94",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:21:47.998Z"
+  }
+]

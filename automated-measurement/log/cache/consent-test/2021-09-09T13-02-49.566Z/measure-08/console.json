@@ -1,0 +1,82 @@
+[
+  {
+    "part": "measure-08",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:07:49.969Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "visit https://sciencenotes.org/...",
+    "timestamp": "2021-09-09T13:07:50.161Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:07:52.143Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:07:55.277Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:07:55.277Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ [object Object]",
+    "timestamp": "2021-09-09T13:08:04.913Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ [object Object]",
+    "timestamp": "2021-09-09T13:08:04.921Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ [object Object]",
+    "timestamp": "2021-09-09T13:08:04.969Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ [object Object]",
+    "timestamp": "2021-09-09T13:08:04.984Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-pc-btn-handler:visible,\n            #onetrust-pc-sdk:visible\n        \" to be visible\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:08:25.304Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "__tcfapi not found: TimeoutError: page.waitForFunction: Timeout 30000ms exceeded.",
+    "timestamp": "2021-09-09T13:08:25.310Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "TCF data: cmpId null consent null, legInt null.",
+    "timestamp": "2021-09-09T13:08:25.310Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:08:25.311Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:08:25.316Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:08:30.312Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:08:30.444Z"
+  }
+]

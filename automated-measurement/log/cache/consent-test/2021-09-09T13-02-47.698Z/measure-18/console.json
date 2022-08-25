@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-18",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:09:23.635Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "visit https://vogue.mx/...",
+    "timestamp": "2021-09-09T13:09:23.951Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Permutive was not initialized. No consent to run on the page @ [object Object]",
+    "timestamp": "2021-09-09T13:09:35.896Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:09:39.374Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:09:39.375Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:09:40.155Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:09:40.156Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:09:40.201Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:09:40.221Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:09:40.324Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:09:40.381Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:09:56.799Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:09:56.803Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:09:56.821Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:09:56.824Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:09:57.068Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "ads.Invalid sizes: unable to define 'rail' on mobile..warn {definition: Object, slotName: rail} @ [object Object]",
+    "timestamp": "2021-09-09T13:09:57.180Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:10:01.821Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:10:01.850Z"
+  }
+]

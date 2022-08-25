@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-78",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:17:16.666Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "visit https://delish.com/...",
+    "timestamp": "2021-09-09T13:17:16.839Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service worker registration succeeded. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:19.742Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:17:27.061Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:17:38.356Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:17:38.359Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:17:39.167Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:17:39.167Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:17:39.245Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:17:39.249Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:17:39.303Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:17:40.427Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:17:40.430Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:17:40.443Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:17:40.447Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:17:40.663Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:17:45.444Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:17:45.478Z"
+  }
+]

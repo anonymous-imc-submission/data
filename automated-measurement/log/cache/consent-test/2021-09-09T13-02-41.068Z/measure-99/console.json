@@ -1,0 +1,122 @@
+[
+  {
+    "part": "measure-99",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:21:49.871Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "visit https://vibe.com/...",
+    "timestamp": "2021-09-09T13:21:50.844Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "Download the React DevTools for a better development experience: https://fb.me/react-devtools @ [object Object]",
+    "timestamp": "2021-09-09T13:22:01.470Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:22:07.852Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:22:07.898Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:22:09.750Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:09.756Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:22:09.794Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:22:09.801Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:09.838Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:22:10.575Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "TCF data: cmpId 28 consent true, legInt false.",
+    "timestamp": "2021-09-09T13:22:10.579Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:22:10.673Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:22:10.682Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:22:10.921Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://static.adsafeprotected.com/vans-adapter-google-ima.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.931Z"
+  },
+  {
+    "part": "console.log",
+    "message": "fonts loaded load @ [object Object]",
+    "timestamp": "2021-09-09T13:22:11.688Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Cannot find targeting attribute \"sponsored\" for \"publisher_ads\". @ [object Object]",
+    "timestamp": "2021-09-09T13:22:14.105Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Cannot find targeting attribute \"coppa\" for \"publisher_ads\". @ [object Object]",
+    "timestamp": "2021-09-09T13:22:14.108Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Cannot find targeting attribute \"ooos\" for \"publisher_ads\". @ [object Object]",
+    "timestamp": "2021-09-09T13:22:14.108Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Cannot find targeting attribute \"coppa\" for \"publisher_ads\". @ [object Object]",
+    "timestamp": "2021-09-09T13:22:14.109Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Cannot find targeting attribute \"vpd\" for \"publisher_ads\". @ [object Object]",
+    "timestamp": "2021-09-09T13:22:14.110Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:22:15.681Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:22:15.776Z"
+  }
+]

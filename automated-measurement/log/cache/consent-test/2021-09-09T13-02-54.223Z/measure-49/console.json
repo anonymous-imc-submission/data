@@ -1,0 +1,117 @@
+[
+  {
+    "part": "measure-49",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:14:33.815Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "visit https://rrstar.com/...",
+    "timestamp": "2021-09-09T13:14:34.235Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Subscriptions Runtime: 0.1.22.183 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:44.858Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to fetch at 'https://news.google.com/swg/_/api/v1/publication/rrstar.com/entitlements' from origin 'https://eu.rrstar.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled. @ [object Object]",
+    "timestamp": "2021-09-09T13:14:45.632Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:14:45.632Z"
+  },
+  {
+    "part": "console.log",
+    "message": "TP: swg: get entitlements failed Error: XHR Failed fetching (https://news.google.com/...): (Note: a CORS error above may indicate that this domain is not configured for Subscribe with Google)\n    at https://news.google.com/swg/js/v1/swg.js:211:104\n    at nrWrapper (https://eu.rrstar.com/:81:15034) @ [object Object]",
+    "timestamp": "2021-09-09T13:14:45.632Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:14:47.015Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:14:47.036Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:47.242Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:47.269Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:14:48.897Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:14:48.897Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:14:48.925Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:14:48.931Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:14:48.959Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:14:48.986Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:15:05.826Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:15:05.828Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:15:05.843Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:15:05.873Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:15:10.844Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:15:25.844Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:15:25.861Z"
+  }
+]

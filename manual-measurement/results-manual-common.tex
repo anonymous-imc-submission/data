@@ -1,0 +1,56 @@
+\definecolor{no-color}{HTML}{009e73}
+\definecolor{generic-color}{HTML}{F0E442}
+\definecolor{personalized-color}{HTML}{cc79a7}
+\centering
+\begin{tikzpicture}
+	
+	\newcommand{\manualAxes}{
+		\begin{scope}[xshift=-10pt]
+			\draw (-2pt,0) -- ++(0,1) -- ++(-2pt,0) node[left, inner xsep=1pt] {\scriptsize 100\%};
+			\draw (-3pt,.2) -- ++(1pt,0) (-3pt,.4) -- ++(1pt,0) (-3pt,.6) -- ++(1pt,0) (-3pt,.8) -- ++(1pt,0);
+			\draw (-2pt,0) -- ++(-2pt,0) node[left, inner xsep=1pt] {\scriptsize 0\%};
+		\end{scope}
+	}
+	\begin{scope}[x=5cm]
+		\dataAccept
+		\node[above] at (.5,1) {\small accept everything (N=\lenAccept)};
+		\manualAxes
+		
+		\path[fill=          no-color] (0,0)++(-2pt,0) rectangle ++(-8pt, \shareAcceptNoAds);
+		\path[fill=     generic-color] (0,0)++(-2pt,\shareAcceptNoAds) rectangle ++(-8pt, \shareAcceptGenericAds);
+		\path[fill=personalized-color] (0,0)++(-2pt,1) rectangle ++(-8pt, -\shareAcceptPersonalizedAds);
+	\end{scope}
+	\begin{scope}[yshift=-1.75cm, x=5cm]
+		\dataRejectSimple
+		\node[above] at (.5,1) {\small reject consent (N=\lenRejectSimple)};
+		\manualAxes
+		
+		\path[fill=          no-color] (0,0)++(-2pt,0) rectangle ++(-8pt, \shareRejectSimpleNoAds);
+		\path[fill=     generic-color] (0,0)++(-2pt,\shareRejectSimpleNoAds) rectangle ++(-8pt, \shareRejectSimpleGenericAds);
+		\path[fill=personalized-color] (0,0)++(-2pt,1) rectangle ++(-8pt, -\shareRejectSimplePersonalizedAds);
+	\end{scope}
+	\begin{scope}[yshift=-3.5cm, x=5cm]
+		\dataObjectLegint
+		\node[above] at (.5,1) {\small object to legitimate int. (N=\lenObjectLegint)};
+		\manualAxes
+		
+		\path[fill=          no-color] (0,0)++(-2pt,0) rectangle ++(-8pt, \shareObjectLegintNoAds);
+		\path[fill=     generic-color] (0,0)++(-2pt,\shareObjectLegintNoAds) rectangle ++(-8pt, \shareObjectLegintGenericAds);
+		\path[fill=personalized-color] (0,0)++(-2pt,1) rectangle ++(-8pt, -\shareObjectLegintPersonalizedAds);
+		
+		\node[below] at (.5,-1pt) {\footnotesize individual students\strut};
+		\draw (0,-4pt) -- ++(0,2pt) -- ++(5cm,0) -- ++(0,-2pt);
+		
+		\node[below] at (-6pt,-1pt) {\footnotesize avg.\strut};
+		\draw (-10pt,-4pt) -- ++(0,2pt) -- ++(8pt,0) -- ++(0,-2pt);
+	\end{scope}
+	
+	\node [rotate=90] at (-1.5,-1.5) {\footnotesize \% of observed websites};
+	
+	\begin{scope}[x=1ex,y=1ex, yshift=-4.3cm, xshift=-1.2cm]
+		\fill[no-color]              (0,0) rectangle (1,1) ++(0,-.5) node[right,black] {no ads\strut};
+		\fill[generic-color]     (4.5em,0) rectangle ++(1,1) ++(0,-.5) node[right,black] {generic ads\strut};
+		\fill[personalized-color] (11em,0) rectangle ++(1,1) ++(0,-.5) node[right,black] {personalized ads\strut};
+	\end{scope}
+	
+\end{tikzpicture}

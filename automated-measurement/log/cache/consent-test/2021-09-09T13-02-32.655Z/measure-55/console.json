@@ -1,0 +1,62 @@
+[
+  {
+    "part": "measure-55",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:14:45.921Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "visit https://dmax.de/...",
+    "timestamp": "2021-09-09T13:14:46.763Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:14:47.869Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:14:49.591Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:14:49.596Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "dialog accept failed: \n  - TimeoutError: page.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=primary]\"\n    ============================================================\n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-accept-btn-handler:visible,\n            .optanon-allow-all:visible,\n            .optanon-button-allow:visible,\n            #onetrust-pc-sdk #accept-recommended-btn-handler:visible\n        \"\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:15:19.629Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "__tcfapi not found: TimeoutError: page.waitForFunction: Timeout 30000ms exceeded.",
+    "timestamp": "2021-09-09T13:15:19.633Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "TCF data: cmpId null consent null, legInt null.",
+    "timestamp": "2021-09-09T13:15:19.638Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:15:19.649Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:15:19.657Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:15:24.664Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:15:25.207Z"
+  }
+]

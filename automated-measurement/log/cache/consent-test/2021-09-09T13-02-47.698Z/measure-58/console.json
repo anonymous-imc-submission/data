@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-58",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:19:30.793Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "visit https://veinteractive.com/...",
+    "timestamp": "2021-09-09T13:19:31.140Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Allow attribute will take precedence over 'allowfullscreen'. @ [object Object]",
+    "timestamp": "2021-09-09T13:19:31.776Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[CS] v5.5.0.79195 @ [object Object]",
+    "timestamp": "2021-09-09T13:19:34.771Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:19:37.578Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:19:37.587Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:19:37.901Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:37.902Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:19:37.942Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:19:37.946Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:37.952Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:19:37.966Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:19:42.605Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:19:42.605Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:19:42.616Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:19:42.623Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:19:42.638Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:19:47.619Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:19:47.659Z"
+  }
+]

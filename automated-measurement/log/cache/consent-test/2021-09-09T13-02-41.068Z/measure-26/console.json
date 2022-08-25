@@ -1,0 +1,192 @@
+[
+  {
+    "part": "measure-26",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:08:00.545Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "visit https://time.com/...",
+    "timestamp": "2021-09-09T13:08:00.726Z"
+  },
+  {
+    "part": "console.log",
+    "message": "PV value set to 1 @ [object Object]",
+    "timestamp": "2021-09-09T13:08:06.619Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:08:13.944Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:08:13.945Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://player.spokenlayer.net/js/chunk-e3a27ce2.e28b1747.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:08:15.377Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://player.spokenlayer.net/css/chunk-2c3b590a.1932f754.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:08:15.378Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://player.spokenlayer.net/js/chunk-5442b5f8.a907ddb7.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:08:15.379Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://player.spokenlayer.net/js/chunk-2c41a095.33f25860.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:08:15.380Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://player.spokenlayer.net/css/chunk-23a4461e.90ce5414.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:08:15.381Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://player.spokenlayer.net/js/polyfill-fetch.ed8a32f4.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:08:15.382Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://player.spokenlayer.net/js/chunk-9c1dc03c.6a89db00.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:08:15.383Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://player.spokenlayer.net/css/chunk-9c1dc03c.45aa513b.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:08:15.383Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://player.spokenlayer.net/css/chunk-e3a27ce2.8d05b36b.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:08:15.384Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://player.spokenlayer.net/css/chunk-5442b5f8.7764063c.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:08:15.385Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://player.spokenlayer.net/css/chunk-2c41a095.d3ea7c91.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:08:15.386Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://player.spokenlayer.net/js/chunk-2c3b590a.d5950a9d.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:08:15.387Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://player.spokenlayer.net/js/chunk-23a4461e.7af131b4.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:08:15.389Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:08:15.430Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:08:15.431Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:08:15.482Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:08:15.486Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:08:15.512Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Invalid arguments: Slot.setCollapseEmptyDiv(undefined, false). @ [object Object]",
+    "timestamp": "2021-09-09T13:08:17.266Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Invalid arguments: Slot.setCollapseEmptyDiv(undefined, false). @ [object Object]",
+    "timestamp": "2021-09-09T13:08:17.283Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:08:17.758Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:08:17.761Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:08:17.776Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:08:17.788Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:08:18.953Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Invalid arguments: Slot.setCollapseEmptyDiv(undefined, false). @ [object Object]",
+    "timestamp": "2021-09-09T13:08:19.573Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Refresh was throttled for slot: /21801468956/tim.mdp.mob/homepage/homepage. @ [object Object]",
+    "timestamp": "2021-09-09T13:08:19.609Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o2nvu&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Ftime.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:08:21.153Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an script pixel with URL:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o2nvu&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Ftime.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:08:21.161Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o2nvu&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Ftime.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:08:21.163Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an image pixel with URL:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o2nvu&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Ftime.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:08:21.166Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:08:22.776Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:08:22.812Z"
+  }
+]

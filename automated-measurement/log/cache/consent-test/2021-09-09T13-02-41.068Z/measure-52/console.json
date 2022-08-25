@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-52",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:12:51.145Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "visit https://harpersbazaar.com/...",
+    "timestamp": "2021-09-09T13:12:51.368Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service worker registration succeeded. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:51.870Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:12:52.924Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:12:54.204Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:12:54.213Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:12:54.446Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:54.447Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:12:54.480Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:12:54.485Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:54.528Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:12:55.176Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:12:55.179Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:12:55.196Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:12:55.199Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:12:55.205Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service worker registration succeeded. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:55.595Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:12:56.684Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:12:57.339Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:13:00.197Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:13:00.226Z"
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "part": "measure-53",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:20:30.363Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "visit https://espn.com.ve/...",
+    "timestamp": "2021-09-09T13:20:32.718Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/. @ [object Object]",
+    "timestamp": "2021-09-09T13:20:38.533Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:20:43.825Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:20:43.838Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Mixed Content: The page at 'https://www.espn.com.ve/' was loaded over HTTPS, but requested an insecure element 'http://a3.espncdn.com/combiner/i?img=%2Fredesign%2Fassets%2Fimg%2Ficons%2FESPN%2Dicon%2Dall%2Dsports%2Dcollege.png&w=80&h=80&scale=crop&cquality=40&location=origin'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ [object Object]",
+    "timestamp": "2021-09-09T13:20:43.929Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:20:49.037Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:20:49.037Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:20:49.243Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:20:49.248Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:20:49.281Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "'window.webkitStorageInfo' is deprecated. Please use 'navigator.webkitTemporaryStorage' or 'navigator.webkitPersistentStorage' instead. @ [object Object]",
+    "timestamp": "2021-09-09T13:20:49.399Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:20:49.886Z"
+  },
+  {
+    "part": "console.error",
+    "message": "%c[OneID]%c %c[%s]%c:  color:#2887b4;background-color:transparent;font-weight:bold color:#000;background-color:transparent;font-weight: color:#FC0C1B;background-color:#FFEFEF ERROR color:#000;background-color:transparent;font-weight: Already initialized @ [object Object]",
+    "timestamp": "2021-09-09T13:20:50.661Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button id=\"onetrust-pc-btn-handler\">Mostrar los propósitos</button>\nattempting click action\n  waiting for element to be visible, enabled and stable\n============================================================",
+    "timestamp": "2021-09-09T13:20:51.893Z"
+  },
+  {
+    "part": "console.error",
+    "message": "%c[OneID]%c %c[%s]%c:  color:#2887b4;background-color:transparent;font-weight:bold color:#000;background-color:transparent;font-weight: color:#FC0C1B;background-color:#FFEFEF ERROR color:#000;background-color:transparent;font-weight: Session not established @ [object Object]",
+    "timestamp": "2021-09-09T13:20:52.778Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:21:24.722Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:21:40.550Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:21:40.550Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:21:45.637Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".ot-pc-refuse-all-handler:visible, .save-preference-btn-handler:visible\"\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:21:55.265Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:22:36.183Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:22:36.183Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:41.226Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:22:49.042Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "TCF data: cmpId 28 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:22:49.042Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:22:49.076Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:22:49.079Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:22:54.076Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:22:54.250Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:22:54.339Z"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-46",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:09:06.931Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "visit https://livescore.in/...",
+    "timestamp": "2021-09-09T13:09:07.191Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:09:20.346Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Could not load beacon: undefined @ [object Object]",
+    "timestamp": "2021-09-09T13:09:20.346Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:09:20.538Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:09:20.553Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:09:21.154Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:09:21.154Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:09:21.196Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:09:21.201Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:09:21.355Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:09:22.192Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:09:22.194Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:09:22.208Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:09:22.331Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:09:22.436Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Could not load beacon: undefined @ [object Object]",
+    "timestamp": "2021-09-09T13:09:22.439Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cPubTag color: #fff; background: #ff8f1c; display: inline-block; padding: 1px 4px; border-radius: 3px; ERROR: can't display acceptable ad : the container \"crt-1363315\" is not visible @ [object Object]",
+    "timestamp": "2021-09-09T13:09:22.581Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:09:27.210Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:09:42.210Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:09:42.240Z"
+  }
+]

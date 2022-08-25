@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-35",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:11:51.122Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "visit https://videoquizstar.com/...",
+    "timestamp": "2021-09-09T13:11:52.347Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:12:06.367Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:12:06.371Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:12:06.952Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:06.953Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:12:06.993Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:12:06.999Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:07.003Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:12:07.090Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:12:07.683Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "TCF data: cmpId 10 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:12:07.686Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:12:07.697Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:12:07.808Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://rumcdn.geoedge.be/2a6d740c-229a-4600-97fd-8a33e276662c/grumi.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:09.391Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Network is idle after 2.57s.",
+    "timestamp": "2021-09-09T13:12:10.270Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:12:12.697Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:12:12.738Z"
+  }
+]

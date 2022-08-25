@@ -1,0 +1,257 @@
+[
+  {
+    "part": "measure-13",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:08:03.831Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "visit https://vanityfair.it/...",
+    "timestamp": "2021-09-09T13:08:03.960Z"
+  },
+  {
+    "part": "console.log",
+    "message": "domain: www.vanityfair.it @ [object Object]",
+    "timestamp": "2021-09-09T13:08:04.872Z"
+  },
+  {
+    "part": "console.log",
+    "message": "videoMc status: show @ [object Object]",
+    "timestamp": "2021-09-09T13:08:07.800Z"
+  },
+  {
+    "part": "console.log",
+    "message": "moatYieldReady @ [object Object]",
+    "timestamp": "2021-09-09T13:08:08.285Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 (Not Found) @ [object Object]",
+    "timestamp": "2021-09-09T13:08:08.870Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 (Not Found) @ [object Object]",
+    "timestamp": "2021-09-09T13:08:08.880Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 (Not Found) @ [object Object]",
+    "timestamp": "2021-09-09T13:08:08.881Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[NumeroBattute Derived] @ [object Object]",
+    "timestamp": "2021-09-09T13:08:08.934Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "VIDEOJS: WARN: this.options() has been deprecated and will be moved to the constructor in 6.0 @ [object Object]",
+    "timestamp": "2021-09-09T13:08:11.071Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "VIDEOJS: WARN: this.options() has been deprecated and will be moved to the constructor in 6.0 @ [object Object]",
+    "timestamp": "2021-09-09T13:08:11.074Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Mixed Content: The page at 'https://www.vanityfair.it/' was loaded over HTTPS, but requested an insecure XMLHttpRequest endpoint 'http://manifest.prod.boltdns.net/thumbnail/v1/390587179001/238010ba-98ee-43ae-b5fe-5aed2e92ed88/ce535f89-994a-4a5c-9bb5-a0c4ef8f3ebb/thumbnail.webvtt?fastly_token=NjEzYTVmNzBfZTEwNTkxZWYxYjFmNzRlY2Y5NWE3OTZjZjBiYjEwOTY2YjA3ZTEwMjJmZDkyZWJjMzg1YmQ0NjJlODViOWQ3ZQ%3D%3D'. This request has been blocked; the content must be served over HTTPS. @ [object Object]",
+    "timestamp": "2021-09-09T13:08:11.534Z"
+  },
+  {
+    "part": "console.error",
+    "message": "VIDEOJS: ERROR: Error: Internal XMLHttpRequest Error\n    at i (https://players.brightcove.net/390587179001/Bkl4ROfBZ_default/index.min.js:2:26041)\n    at XMLHttpRequest.c (https://players.brightcove.net/390587179001/Bkl4ROfBZ_default/index.min.js:2:25353) {body: undefined, headers: Object, statusCode: 0, method: undefined, url: undefined} @ [object Object]",
+    "timestamp": "2021-09-09T13:08:11.888Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[AdBlockDetectionScript]  ASSENTE @ [object Object]",
+    "timestamp": "2021-09-09T13:08:11.913Z"
+  },
+  {
+    "part": "console.log",
+    "message": "contentupdate - start @ [object Object]",
+    "timestamp": "2021-09-09T13:08:11.962Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Origin trial controlled feature not enabled: 'trust-token-redemption'. @ [object Object]",
+    "timestamp": "2021-09-09T13:08:12.626Z"
+  },
+  {
+    "part": "console.log",
+    "message": "OptanonWrapper: 1 @ [object Object]",
+    "timestamp": "2021-09-09T13:08:13.019Z"
+  },
+  {
+    "part": "console.log",
+    "message": "OptanonWrapper call init() @ [object Object]",
+    "timestamp": "2021-09-09T13:08:13.020Z"
+  },
+  {
+    "part": "console.log",
+    "message": "init: check OT configuration @ [object Object]",
+    "timestamp": "2021-09-09T13:08:13.022Z"
+  },
+  {
+    "part": "console.log",
+    "message": "{basic: false, performance: false, functional: false, targeting: false, social: false} @ [object Object]",
+    "timestamp": "2021-09-09T13:08:13.028Z"
+  },
+  {
+    "part": "console.log",
+    "message": "window.dataLayer.push: basic false @ [object Object]",
+    "timestamp": "2021-09-09T13:08:13.030Z"
+  },
+  {
+    "part": "console.log",
+    "message": "window.dataLayer.push: performance false @ [object Object]",
+    "timestamp": "2021-09-09T13:08:13.039Z"
+  },
+  {
+    "part": "console.log",
+    "message": "window.dataLayer.push: functional false @ [object Object]",
+    "timestamp": "2021-09-09T13:08:13.044Z"
+  },
+  {
+    "part": "console.log",
+    "message": "window.dataLayer.push: targeting false @ [object Object]",
+    "timestamp": "2021-09-09T13:08:13.047Z"
+  },
+  {
+    "part": "console.log",
+    "message": "window.dataLayer.push: social false @ [object Object]",
+    "timestamp": "2021-09-09T13:08:13.053Z"
+  },
+  {
+    "part": "console.log",
+    "message": "-----------------> CMP NO targeting consented @ [object Object]",
+    "timestamp": "2021-09-09T13:08:13.056Z"
+  },
+  {
+    "part": "console.log",
+    "message": "privacyString: 1--- @ [object Object]",
+    "timestamp": "2021-09-09T13:08:13.059Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:08:13.966Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:08:13.978Z"
+  },
+  {
+    "part": "console.log",
+    "message": "VIDEOJS: ima3-ad-error AdError 1005: There was a problem requesting ads from the server. Caused by: Error: 6 {emitter: SD, originalEvent: DC, type: ima3-ad-error, target: #document, relatedTarget: undefined} @ [object Object]",
+    "timestamp": "2021-09-09T13:08:14.250Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:08:14.425Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:08:14.433Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:08:14.464Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:08:14.472Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:08:14.477Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:08:14.533Z"
+  },
+  {
+    "part": "console.log",
+    "message": "OptanonWrapper: 2 @ [object Object]",
+    "timestamp": "2021-09-09T13:08:23.184Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:08:23.573Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:08:23.578Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:08:23.613Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:08:23.640Z"
+  },
+  {
+    "part": "console.log",
+    "message": "domain: www.vanityfair.it @ [object Object]",
+    "timestamp": "2021-09-09T13:08:24.252Z"
+  },
+  {
+    "part": "console.log",
+    "message": "moatYieldReady @ [object Object]",
+    "timestamp": "2021-09-09T13:08:24.798Z"
+  },
+  {
+    "part": "console.log",
+    "message": "videoMc status: show @ [object Object]",
+    "timestamp": "2021-09-09T13:08:26.195Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 (Not Found) @ [object Object]",
+    "timestamp": "2021-09-09T13:08:26.679Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 (Not Found) @ [object Object]",
+    "timestamp": "2021-09-09T13:08:26.688Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 (Not Found) @ [object Object]",
+    "timestamp": "2021-09-09T13:08:26.947Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[NumeroBattute Derived] @ [object Object]",
+    "timestamp": "2021-09-09T13:08:27.012Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Network is idle after 4.56s.",
+    "timestamp": "2021-09-09T13:08:28.180Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:08:28.614Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:08:28.697Z"
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "part": "measure-19",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:09:56.260Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "visit https://motorcyclistonline.com/...",
+    "timestamp": "2021-09-09T13:09:56.384Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SUPPRESS: false @ [object Object]",
+    "timestamp": "2021-09-09T13:10:02.622Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Origin trial controlled feature not enabled: 'trust-token-redemption'. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:04.187Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c------------- Cheetah Web Events: Posting Web Event ---------------\n{\"OrderDate\":\"9/9/2021 2:10:\",\"OrderSource\":\"Website\",\"ProductName\":\"motorcyclistonline.com\",\"ProductCategoryName\":\"undefined\",\"ProductDescription\":\"https://www.motorcyclistonline.com/\",\"ProductID\":\"/home\",\"Variable1\":\"undefined\"} background: #ffff33; color: #ff00ff @ [object Object]",
+    "timestamp": "2021-09-09T13:10:06.160Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:10:09.724Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:10:09.735Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:10:11.673Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:11.674Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:10:11.736Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:10:11.740Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:11.782Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:10:11.809Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://imasdk.googleapis.com/js/sdkloader/ima3.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:12.586Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://imasdk.googleapis.com/js/sdkloader/ima3.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:12.792Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:10:15.771Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:10:23.085Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:10:23.088Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:10:23.128Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:10:23.131Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:10:23.215Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:10:28.129Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:10:28.227Z"
+  }
+]

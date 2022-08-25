@@ -1,0 +1,177 @@
+[
+  {
+    "part": "measure-48",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:17:30.527Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "visit https://nba.com/...",
+    "timestamp": "2021-09-09T13:17:30.787Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Messaging without detection successfully executed. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:36.616Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "[pubSub] subscribing to dynamic-tile.events.adobe-target-fetched function(data) {\n                        initAnalytics(data);\n                    } @ [object Object]",
+    "timestamp": "2021-09-09T13:17:38.215Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[Facebook Pixel] - An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:39.179Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "[pubSub] subscribing to dynamic-tile.events.dynamic-tile-clicked function() {\n                s.events = \"event6,event197\";\n                s.linkTrackVars = \"prop39,eVar39,prop13,eVar7,tnt,events\";\n                s.linkTrackEvents = \"event6,event197\";\n                s.tl(true, \"o\", \"Target Tile Click\")\n            } @ [object Object]",
+    "timestamp": "2021-09-09T13:17:41.020Z"
+  },
+  {
+    "part": "console.log",
+    "message": "{page: Object, content: Object, user: Object} @ [object Object]",
+    "timestamp": "2021-09-09T13:17:42.048Z"
+  },
+  {
+    "part": "console.log",
+    "message": "eventData.path/articles/licensee_widget_scoreboard_sib3.html  targetPath: /articles/licensee_widget_scoreboard_sib3.html @ [object Object]",
+    "timestamp": "2021-09-09T13:17:43.445Z"
+  },
+  {
+    "part": "console.log",
+    "message": "eventData.path/articles/licensee_widget_scoreboard_sib3.html  targetPath: /articles/licensee_widget_scoreboard_sib3.html @ [object Object]",
+    "timestamp": "2021-09-09T13:17:43.666Z"
+  },
+  {
+    "part": "console.log",
+    "message": "eventData.path/articles/licensee_widget_scoreboard_sib3.html  targetPath: /articles/licensee_widget_scoreboard_sib3.html @ [object Object]",
+    "timestamp": "2021-09-09T13:17:43.968Z"
+  },
+  {
+    "part": "console.log",
+    "message": "eventData.path/articles/licensee_widget_scoreboard_sib3.html  targetPath: /articles/licensee_widget_scoreboard_sib3.html @ [object Object]",
+    "timestamp": "2021-09-09T13:17:44.010Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:17:44.180Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:17:44.196Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Sourcepoint iframe found!",
+    "timestamp": "2021-09-09T13:17:44.205Z"
+  },
+  {
+    "part": "console.log",
+    "message": "eventData.path/articles/licensee_widget_scoreboard_sib3.html  targetPath: /articles/licensee_widget_scoreboard_sib3.html @ [object Object]",
+    "timestamp": "2021-09-09T13:17:44.461Z"
+  },
+  {
+    "part": "console.log",
+    "message": "eventData.path/articles/licensee_widget_scoreboard_sib3.html  targetPath: /articles/licensee_widget_scoreboard_sib3.html @ [object Object]",
+    "timestamp": "2021-09-09T13:17:48.069Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:17:49.049Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:17:49.055Z"
+  },
+  {
+    "part": "console.log",
+    "message": "eventData.path/articles/licensee_widget_scoreboard_sib3.html  targetPath: /articles/licensee_widget_scoreboard_sib3.html @ [object Object]",
+    "timestamp": "2021-09-09T13:17:49.541Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:17:49.807Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:17:49.811Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:17:49.876Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Button clicked: Options",
+    "timestamp": "2021-09-09T13:17:51.188Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Found Sourcepoint privacy manager.",
+    "timestamp": "2021-09-09T13:17:53.046Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Sourcepoint: toggling type toggles.",
+    "timestamp": "2021-09-09T13:17:59.815Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Sourcepoint: Check for legitimate interest button...",
+    "timestamp": "2021-09-09T13:18:15.196Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Sourcepoint: no legitimate interest button found: No matching button found: ",
+    "timestamp": "2021-09-09T13:18:15.593Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Sourcepoint: Find the save button.",
+    "timestamp": "2021-09-09T13:18:15.595Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Sourcepoint dialog rejected.",
+    "timestamp": "2021-09-09T13:18:16.968Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:18:16.989Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "TCF data: cmpId 6 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:18:16.991Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:18:17.080Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:18:17.108Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:18:22.089Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:18:22.272Z"
+  }
+]

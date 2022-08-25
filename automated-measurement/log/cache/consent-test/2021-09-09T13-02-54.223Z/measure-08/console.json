@@ -1,0 +1,227 @@
+[
+  {
+    "part": "measure-08",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:05:43.679Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "visit https://paltalk.com/...",
+    "timestamp": "2021-09-09T13:05:43.901Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:44.366Z"
+  },
+  {
+    "part": "console.log",
+    "message": "www @ [object Object]",
+    "timestamp": "2021-09-09T13:05:45.734Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cookieLanguagenull @ [object Object]",
+    "timestamp": "2021-09-09T13:05:45.736Z"
+  },
+  {
+    "part": "console.log",
+    "message": "ReferenceError: QtBridge is not defined\n    at HTMLDocument.<anonymous> (https://www.paltalk.com/v/1.342.2397/pt-core.js:141:113)\n    at c (https://www.paltalk.com/v/1.342.2397/pt-core.js:7:26036)\n    at Object.fireWith [as resolveWith] (https://www.paltalk.com/v/1.342.2397/pt-core.js:7:26840)\n    at Function.ready (https://www.paltalk.com/v/1.342.2397/pt-core.js:7:3305)\n    at HTMLDocument.q (https://www.paltalk.com/v/1.342.2397/pt-core.js:7:717) @ [object Object]",
+    "timestamp": "2021-09-09T13:05:45.880Z"
+  },
+  {
+    "part": "console.log",
+    "message": "ReferenceError: QtBridge is not defined\n    at HTMLDocument.<anonymous> (https://www.paltalk.com/v/1.342.2397/pt-core.js:281:25)\n    at c (https://www.paltalk.com/v/1.342.2397/pt-core.js:7:26036)\n    at Object.fireWith [as resolveWith] (https://www.paltalk.com/v/1.342.2397/pt-core.js:7:26840)\n    at Function.ready (https://www.paltalk.com/v/1.342.2397/pt-core.js:7:3305)\n    at HTMLDocument.q (https://www.paltalk.com/v/1.342.2397/pt-core.js:7:717) @ [object Object]",
+    "timestamp": "2021-09-09T13:05:45.891Z"
+  },
+  {
+    "part": "console.log",
+    "message": "LINUX X86_64 @ [object Object]",
+    "timestamp": "2021-09-09T13:05:45.907Z"
+  },
+  {
+    "part": "console.log",
+    "message": "MOZILLA/5.0 (MACINTOSH; INTEL MAC OS X 10_15_7) APPLEWEBKIT/605.1.15 (KHTML, LIKE GECKO) VERSION/15.0 SAFARI/605.1.15 @ [object Object]",
+    "timestamp": "2021-09-09T13:05:45.910Z"
+  },
+  {
+    "part": "console.log",
+    "message": "false @ [object Object]",
+    "timestamp": "2021-09-09T13:05:45.911Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Detected Mac or Linux @ [object Object]",
+    "timestamp": "2021-09-09T13:05:45.912Z"
+  },
+  {
+    "part": "console.log",
+    "message": "de Would redirect to https://de.paltalk.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:05:46.550Z"
+  },
+  {
+    "part": "console.log",
+    "message": "{country_code: MA, country_name: Morocco, ip_addrs: 41.92.47.85, true_ip: 41.92.47.85, region: me} @ [object Object]",
+    "timestamp": "2021-09-09T13:05:46.894Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:49.031Z"
+  },
+  {
+    "part": "console.log",
+    "message": "de @ [object Object]",
+    "timestamp": "2021-09-09T13:05:50.120Z"
+  },
+  {
+    "part": "console.log",
+    "message": "de Would redirect to https://de.paltalk.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:05:50.126Z"
+  },
+  {
+    "part": "console.log",
+    "message": "ReferenceError: QtBridge is not defined\n    at HTMLDocument.<anonymous> (https://de.paltalk.com/v/1.342.2397/pt-core.js:141:113)\n    at c (https://de.paltalk.com/v/1.342.2397/pt-core.js:7:26036)\n    at Object.fireWith [as resolveWith] (https://de.paltalk.com/v/1.342.2397/pt-core.js:7:26840)\n    at Function.ready (https://de.paltalk.com/v/1.342.2397/pt-core.js:7:3305)\n    at HTMLDocument.q (https://de.paltalk.com/v/1.342.2397/pt-core.js:7:717) @ [object Object]",
+    "timestamp": "2021-09-09T13:05:50.275Z"
+  },
+  {
+    "part": "console.log",
+    "message": "ReferenceError: QtBridge is not defined\n    at HTMLDocument.<anonymous> (https://de.paltalk.com/v/1.342.2397/pt-core.js:281:25)\n    at c (https://de.paltalk.com/v/1.342.2397/pt-core.js:7:26036)\n    at Object.fireWith [as resolveWith] (https://de.paltalk.com/v/1.342.2397/pt-core.js:7:26840)\n    at Function.ready (https://de.paltalk.com/v/1.342.2397/pt-core.js:7:3305)\n    at HTMLDocument.q (https://de.paltalk.com/v/1.342.2397/pt-core.js:7:717) @ [object Object]",
+    "timestamp": "2021-09-09T13:05:50.286Z"
+  },
+  {
+    "part": "console.log",
+    "message": "LINUX X86_64 @ [object Object]",
+    "timestamp": "2021-09-09T13:05:50.301Z"
+  },
+  {
+    "part": "console.log",
+    "message": "MOZILLA/5.0 (MACINTOSH; INTEL MAC OS X 10_15_7) APPLEWEBKIT/605.1.15 (KHTML, LIKE GECKO) VERSION/15.0 SAFARI/605.1.15 @ [object Object]",
+    "timestamp": "2021-09-09T13:05:50.302Z"
+  },
+  {
+    "part": "console.log",
+    "message": "false @ [object Object]",
+    "timestamp": "2021-09-09T13:05:50.302Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Detected Mac or Linux @ [object Object]",
+    "timestamp": "2021-09-09T13:05:50.307Z"
+  },
+  {
+    "part": "console.log",
+    "message": "{country_code: US, country_name: USA, ip_addrs: 134.209.236.183, true_ip: 134.209.236.183, region: row} @ [object Object]",
+    "timestamp": "2021-09-09T13:05:51.182Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[Facebook Pixel] - Duplicate Pixel ID: 674152565970088. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:53.014Z"
+  },
+  {
+    "part": "console.log",
+    "message": "ERROR Thu Sep 09 2021 15:05:53 GMT+0200 (Mitteleuropäische Sommerzeit) null @ [object Object]",
+    "timestamp": "2021-09-09T13:05:53.666Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:05:56.450Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:05:56.845Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:05:56.845Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:05:57.221Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:05:57.222Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:05:57.355Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:05:57.363Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:05:57.401Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:05:57.408Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:05:59.221Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:06:00.762Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:06:03.435Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:06:03.437Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:06:03.447Z"
+  },
+  {
+    "part": "console.log",
+    "message": "ERROR Thu Sep 09 2021 15:06:03 GMT+0200 (Mitteleuropäische Sommerzeit) null @ [object Object]",
+    "timestamp": "2021-09-09T13:06:03.519Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:06:03.547Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:06:08.447Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:06:09.217Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:06:23.450Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:06:23.464Z"
+  }
+]

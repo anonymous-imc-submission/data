@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-05",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:51.815Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "visit https://stokesentinel.co.uk/...",
+    "timestamp": "2021-09-09T13:06:52.301Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "page load error: Error: page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://stokesentinel.co.uk/\n=========================== logs ===========================\nnavigating to \"https://stokesentinel.co.uk/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:06:52.446Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:06:52.509Z"
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://fupa.net/..."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://cdn-a.yieldlove.com/yieldlove_cmp.js?fupa.net",
+      "lineNumber": 7,
+      "columnNumber": 152409
+    },
+    "text": "Messaging without detection successfully executed."
+  },
+  {
+    "type": "admeasure",
+    "text": "Looking for dialogs to reject..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting for __tcfapi..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint iframe found!"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.fupa.net/chunk.495362b.js",
+      "lineNumber": 917,
+      "columnNumber": 59195
+    },
+    "text": "SW registered:  ServiceWorkerRegistration"
+  },
+  {
+    "type": "admeasure",
+    "text": "__tcfapi found! Querying status..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingWaiting."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingLoaded."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Button clicked: EINSTELLUNGEN"
+  },
+  {
+    "type": "admeasure",
+    "text": "Found Sourcepoint privacy manager."
+  },
+  {
+    "type": "error",
+    "location": {
+      "url": "https://www.fupa.net/cmp/customization.css?cachebuster=02112020",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "Failed to load resource: the server responded with a status of 404 ()"
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: toggling type toggles."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Check for legitimate interest button..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: no legitimate interest button found: No matching button found: "
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Find the save button."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint dialog rejected."
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data obtained!"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data: cmpId 6 consent false, legInt false."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Network is idle after 0.00s."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://www.fupa.net/chunk.495362b.js",
+      "lineNumber": 917,
+      "columnNumber": 59195
+    },
+    "text": "implement adUnitCodeToPid for new settings"
+  },
+  {
+    "type": "admeasure",
+    "text": "Minimum wait time reached after 5.00s."
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

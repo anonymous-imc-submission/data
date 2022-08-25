@@ -1,0 +1,362 @@
+[
+  {
+    "part": "measure-38",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:11:51.097Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "visit https://edp24.co.uk/...",
+    "timestamp": "2021-09-09T13:11:51.466Z"
+  },
+  {
+    "part": "console.log",
+    "message": "_cc4781 available, calling bcp() @ [object Object]",
+    "timestamp": "2021-09-09T13:11:52.905Z"
+  },
+  {
+    "part": "console.log",
+    "message": "initFloatingActionButtons [] @ [object Object]",
+    "timestamp": "2021-09-09T13:11:56.591Z"
+  },
+  {
+    "part": "console.log",
+    "message": "event search init @ [object Object]",
+    "timestamp": "2021-09-09T13:11:56.618Z"
+  },
+  {
+    "part": "console.log",
+    "message": "initFloatingActionButtons [] @ [object Object]",
+    "timestamp": "2021-09-09T13:11:57.574Z"
+  },
+  {
+    "part": "console.log",
+    "message": "👉 Linkpulse Tag: Executing @ [object Object]",
+    "timestamp": "2021-09-09T13:11:58.596Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GTM: Moat Yield Intelligence @ [object Object]",
+    "timestamp": "2021-09-09T13:11:58.700Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GTM: ComScore Tag @ [object Object]",
+    "timestamp": "2021-09-09T13:11:58.729Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GTM: Carbon Analytics tag @ [object Object]",
+    "timestamp": "2021-09-09T13:11:58.776Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GTM: Carbon Analytics tag, domain = //analytics.edp24.co.uk/script @ [object Object]",
+    "timestamp": "2021-09-09T13:11:58.778Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GTM: Quantcast tag @ [object Object]",
+    "timestamp": "2021-09-09T13:11:58.798Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GTM: CMP Shim tag @ [object Object]",
+    "timestamp": "2021-09-09T13:11:58.821Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GTM: Piano tag running, siteId = EasternDailyPress.c @ [object Object]",
+    "timestamp": "2021-09-09T13:11:58.846Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GTM: Piano tag running, pianoApplicationId = 2oYTXBPnpu @ [object Object]",
+    "timestamp": "2021-09-09T13:11:58.847Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GTM: Piano tag, AdBlocker script running @ [object Object]",
+    "timestamp": "2021-09-09T13:11:58.871Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GTM: Facebook pixel @ [object Object]",
+    "timestamp": "2021-09-09T13:11:58.900Z"
+  },
+  {
+    "part": "console.log",
+    "message": "👉 Linkpulse Tag: Finished @ [object Object]",
+    "timestamp": "2021-09-09T13:12:00.248Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GTM: Adnami tag @ [object Object]",
+    "timestamp": "2021-09-09T13:12:00.338Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GTM: Lotame tag. Note: Need genp @ [object Object]",
+    "timestamp": "2021-09-09T13:12:00.380Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GTM: Index Tag - new version, 185246-274284004442006, 22/11/2020 @ [object Object]",
+    "timestamp": "2021-09-09T13:12:00.649Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GTM: OneTrust Tag @ [object Object]",
+    "timestamp": "2021-09-09T13:12:00.653Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GTM: Nativo tag @ [object Object]",
+    "timestamp": "2021-09-09T13:12:04.483Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GTM: BM Analytics @ [object Object]",
+    "timestamp": "2021-09-09T13:12:04.540Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GTM: OneTrust CMP Tag @ [object Object]",
+    "timestamp": "2021-09-09T13:12:08.420Z"
+  },
+  {
+    "part": "console.log",
+    "message": "🔜👉 Omniture: Scripts loading @ [object Object]",
+    "timestamp": "2021-09-09T13:12:08.438Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:12:09.547Z"
+  },
+  {
+    "part": "console.log",
+    "message": "🔜👉 Omniture: Executing @ [object Object]",
+    "timestamp": "2021-09-09T13:12:11.996Z"
+  },
+  {
+    "part": "console.log",
+    "message": "🔜👉 Omniture firing: Finished @ [object Object]",
+    "timestamp": "2021-09-09T13:12:12.194Z"
+  },
+  {
+    "part": "console.error",
+    "message": "__tcfapi received invalid parameters. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:16.658Z"
+  },
+  {
+    "part": "console.error",
+    "message": "__tcfapi received invalid parameters. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:16.673Z"
+  },
+  {
+    "part": "console.error",
+    "message": "__tcfapi received invalid parameters. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:16.695Z"
+  },
+  {
+    "part": "console.error",
+    "message": "__tcfapi received invalid parameters. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:16.698Z"
+  },
+  {
+    "part": "console.error",
+    "message": "__tcfapi received invalid parameters. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:16.700Z"
+  },
+  {
+    "part": "console.error",
+    "message": "__tcfapi received invalid parameters. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:16.721Z"
+  },
+  {
+    "part": "console.error",
+    "message": "__tcfapi received invalid parameters. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:16.728Z"
+  },
+  {
+    "part": "console.error",
+    "message": "__tcfapi received invalid parameters. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:16.736Z"
+  },
+  {
+    "part": "console.error",
+    "message": "__tcfapi received invalid parameters. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:16.746Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GTM: OneTrust > OptanonWrapper() method has run @ [object Object]",
+    "timestamp": "2021-09-09T13:12:19.855Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GTM: OneTrust > OnetrustAdsConsent() method has run @ [object Object]",
+    "timestamp": "2021-09-09T13:12:19.871Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:12:20.199Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:12:20.206Z"
+  },
+  {
+    "part": "console.log",
+    "message": "display called for: ad-slot-wp @ [object Object]",
+    "timestamp": "2021-09-09T13:12:21.861Z"
+  },
+  {
+    "part": "console.log",
+    "message": "display called for: ad-slot-sticky @ [object Object]",
+    "timestamp": "2021-09-09T13:12:21.870Z"
+  },
+  {
+    "part": "console.log",
+    "message": "display called for: ad-slot-lb @ [object Object]",
+    "timestamp": "2021-09-09T13:12:21.949Z"
+  },
+  {
+    "part": "console.log",
+    "message": "display called for: ad-slot-mpu-1 @ [object Object]",
+    "timestamp": "2021-09-09T13:12:22.097Z"
+  },
+  {
+    "part": "console.log",
+    "message": "display called for: ad-slot-mpu-2 @ [object Object]",
+    "timestamp": "2021-09-09T13:12:22.104Z"
+  },
+  {
+    "part": "console.log",
+    "message": "display called for: ad-slot-mpu-3 @ [object Object]",
+    "timestamp": "2021-09-09T13:12:22.114Z"
+  },
+  {
+    "part": "console.log",
+    "message": "display called for: ad-slot-mpu-4 @ [object Object]",
+    "timestamp": "2021-09-09T13:12:22.201Z"
+  },
+  {
+    "part": "console.log",
+    "message": "display called for: ad-slot-mpu-5 @ [object Object]",
+    "timestamp": "2021-09-09T13:12:22.245Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:12:22.605Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:22.605Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:12:23.021Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:12:23.033Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:23.116Z"
+  },
+  {
+    "part": "console.error",
+    "message": "__tcfapi received invalid parameters. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:25.020Z"
+  },
+  {
+    "part": "console.error",
+    "message": "__tcfapi received invalid parameters. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:25.023Z"
+  },
+  {
+    "part": "console.error",
+    "message": "__tcfapi received invalid parameters. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:25.026Z"
+  },
+  {
+    "part": "console.error",
+    "message": "__tcfapi received invalid parameters. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:25.029Z"
+  },
+  {
+    "part": "console.error",
+    "message": "__tcfapi received invalid parameters. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:25.034Z"
+  },
+  {
+    "part": "console.error",
+    "message": "__tcfapi received invalid parameters. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:25.034Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Exception in queued GPT command TypeError: Cannot read properties of undefined (reading 'requestBids')\n    at Arguments.<anonymous> (<anonymous>:13:9)\n    at Fv.push (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js?31062485:6:117140)\n    at AJ.<anonymous> (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js?31062485:14:67608)\n    at AJ.push (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js?31062485:6:10934)\n    at <anonymous>:12:15\n    at hn.reactivateScriptTag (https://cdn-ukwest.onetrust.com/scripttemplates/6.21.0/otBannerSdk.js:7:155416)\n    at hn.reactivateTag (https://cdn-ukwest.onetrust.com/scripttemplates/6.21.0/otBannerSdk.js:7:155737)\n    at https://cdn-ukwest.onetrust.com/scripttemplates/6.21.0/otBannerSdk.js:7:156193\n    at Array.forEach (<anonymous>)\n    at hn.substitutePlainTextScriptTags (https://cdn-ukwest.onetrust.com/scripttemplates/6.21.0/otBannerSdk.js:7:156109) @ [object Object]",
+    "timestamp": "2021-09-09T13:12:25.240Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Exception in googletag.cmd function: TypeError: Cannot read properties of undefined (reading 'requestBids'). @ [object Object]",
+    "timestamp": "2021-09-09T13:12:25.262Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GTM: OneTrust > OptanonWrapper() method has run @ [object Object]",
+    "timestamp": "2021-09-09T13:12:25.302Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GTM: OneTrust > OnetrustAdsConsent() method has run @ [object Object]",
+    "timestamp": "2021-09-09T13:12:25.305Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:12:25.471Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:12:25.477Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:12:25.522Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:12:25.526Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:12:26.270Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:12:30.523Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:12:30.671Z"
+  }
+]

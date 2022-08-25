@@ -1,0 +1,132 @@
+[
+  {
+    "part": "measure-60",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:22:24.324Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "visit https://vogue.fr/...",
+    "timestamp": "2021-09-09T13:22:24.504Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Permutive was not initialized. No consent to run on the page @ [object Object]",
+    "timestamp": "2021-09-09T13:22:36.290Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:22:39.823Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:22:39.823Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:22:40.958Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:40.959Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:22:40.983Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:22:40.986Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:41.078Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:22:41.279Z"
+  },
+  {
+    "part": "console.log",
+    "message": "www.vogue.fr @ [object Object]",
+    "timestamp": "2021-09-09T13:23:05.735Z"
+  },
+  {
+    "part": "console.log",
+    "message": "vogue.fr @ [object Object]",
+    "timestamp": "2021-09-09T13:23:05.735Z"
+  },
+  {
+    "part": "console.log",
+    "message": "www.vogue.fr @ [object Object]",
+    "timestamp": "2021-09-09T13:23:05.735Z"
+  },
+  {
+    "part": "console.log",
+    "message": "vogue.fr @ [object Object]",
+    "timestamp": "2021-09-09T13:23:05.735Z"
+  },
+  {
+    "part": "console.log",
+    "message": "www.vogue.fr @ [object Object]",
+    "timestamp": "2021-09-09T13:23:05.759Z"
+  },
+  {
+    "part": "console.log",
+    "message": "vogue.fr @ [object Object]",
+    "timestamp": "2021-09-09T13:23:05.759Z"
+  },
+  {
+    "part": "console.log",
+    "message": "www.vogue.fr @ [object Object]",
+    "timestamp": "2021-09-09T13:23:05.770Z"
+  },
+  {
+    "part": "console.log",
+    "message": "vogue.fr @ [object Object]",
+    "timestamp": "2021-09-09T13:23:05.770Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:23:06.517Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:23:06.517Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:23:06.636Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:23:06.643Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:23:08.489Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:23:11.637Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:23:11.799Z"
+  }
+]

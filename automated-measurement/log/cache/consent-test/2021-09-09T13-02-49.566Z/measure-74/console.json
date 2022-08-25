@@ -1,0 +1,172 @@
+[
+  {
+    "part": "measure-74",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:26:48.434Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "visit https://edna.cz/...",
+    "timestamp": "2021-09-09T13:26:48.940Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The key \"\" is not recognized and ignored. @ [object Object]",
+    "timestamp": "2021-09-09T13:26:50.377Z"
+  },
+  {
+    "part": "console.log",
+    "message": "try to render adobe @ [object Object]",
+    "timestamp": "2021-09-09T13:26:51.397Z"
+  },
+  {
+    "part": "console.log",
+    "message": "rendered @ [object Object]",
+    "timestamp": "2021-09-09T13:26:51.406Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "VIDEOJS: WARN: Constructor logic via init() is deprecated; please use constructor() instead. @ [object Object]",
+    "timestamp": "2021-09-09T13:26:53.448Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "VIDEOJS: WARN: Constructor logic via init() is deprecated; please use constructor() instead. @ [object Object]",
+    "timestamp": "2021-09-09T13:26:53.454Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JSHandle@node @ [object Object]",
+    "timestamp": "2021-09-09T13:26:53.682Z"
+  },
+  {
+    "part": "console.log",
+    "message": "steps:  [Object,Object,Object,Object,Object,Object,Object,Object,Object,Object,Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:26:56.713Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "VIDEOJS: WARN: Constructor logic via init() is deprecated; please use constructor() instead. @ [object Object]",
+    "timestamp": "2021-09-09T13:27:09.988Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "VIDEOJS: WARN: Constructor logic via init() is deprecated; please use constructor() instead. @ [object Object]",
+    "timestamp": "2021-09-09T13:27:09.998Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Outstream wrapper of article was not found. @ [object Object]",
+    "timestamp": "2021-09-09T13:27:11.377Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:27:15.128Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:27:15.207Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:27:15.882Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:27:15.891Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:27:15.966Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:27:15.971Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:27:16.046Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:27:16.944Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-pc-btn-handler:visible,\n            #onetrust-pc-sdk:visible\n        \" to be visible\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:27:45.256Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:28:06.777Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:28:06.786Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:28:11.916Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:29:04.311Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:29:04.320Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:29:10.316Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:29:15.892Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "TCF data: cmpId 7 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:29:15.900Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:29:15.934Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:29:15.943Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:29:20.935Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:29:21.264Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:29:21.300Z"
+  }
+]

@@ -1,0 +1,387 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://tvtoday.de/..."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.tvtoday.de/",
+      "lineNumber": 89,
+      "columnNumber": 20
+    },
+    "text": "mobileAlternate: https://m.tvtoday.de/ "
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.tvtoday.de/",
+      "lineNumber": 431,
+      "columnNumber": 16
+    },
+    "text": "TftAdEngineBlocked:: false"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://cdn.privacy-mgmt.com/wrapperMessagingWithoutDetection.js",
+      "lineNumber": 0,
+      "columnNumber": 154615
+    },
+    "text": "Messaging without detection successfully executed."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.tvtoday.de/bundles/mobile/js/main.combined.js?10.67",
+      "lineNumber": 0,
+      "columnNumber": 253
+    },
+    "text": "%c Compiled on: Wed Mar 17 2021 14:48:13 GMT+0000 (Coordinated Universal Time) background:black; color: white;"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.tvtoday.de/bundles/mobile/js/main.combined.js?10.67",
+      "lineNumber": 0,
+      "columnNumber": 17734
+    },
+    "text": "this.players =  []"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.tvtoday.de/bundles/mobile/js/main.combined.js?10.67",
+      "lineNumber": 0,
+      "columnNumber": 17819
+    },
+    "text": "RW: video lib ready."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.tvtoday.de/bundles/mobile/js/main.combined.js?10.67",
+      "lineNumber": 0,
+      "columnNumber": 17167
+    },
+    "text": "RW: initPlayers"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.tvtoday.de/bundles/mobile/js/main.combined.js?10.67",
+      "lineNumber": 0,
+      "columnNumber": 6295
+    },
+    "text": "RW: Mediastage controller ready! yo123"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.tvtoday.de/bundles/mobile/js/main.combined.js?10.67",
+      "lineNumber": 0,
+      "columnNumber": 9075
+    },
+    "text": "constructing NewsletterWidget controller"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.tvtoday.de/bundles/mobile/js/main.combined.js?10.67",
+      "lineNumber": 0,
+      "columnNumber": 22728
+    },
+    "text": "Credits Controller: loaded"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.tvtoday.de/bundles/mobile/js/main.combined.js?10.67",
+      "lineNumber": 0,
+      "columnNumber": 23104
+    },
+    "text": "Fotocredits: RTLZWEI (4), Shutterstock, Shutterstock / Beto Chagas, Imago stock & people, Shutterstock (6), IMAGO / Andreas Weihs, Imago Images, 20th Century Fox, Paramount Home Entertainment, IMAGO / Everett Collection, Getty Images, Walt Disney Studios Motion Pictures Germany, Warner Bros. Entertainment Inc., Garden State, JIP Filmproduktion (2), déjà-vu film UG (2), Leonine (2), Filmwelt, Neue Visionen, Polyband, Arsenal Filmverleih, STUDIOCANAL, Universal Pictures, Drop-Out Cinema"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.tvtoday.de/",
+      "lineNumber": 4491,
+      "columnNumber": 27
+    },
+    "text": "AdBlockerNotDetected"
+  },
+  {
+    "type": "admeasure",
+    "text": "Looking for dialogs to reject..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting for __tcfapi..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint iframe found!"
+  },
+  {
+    "type": "admeasure",
+    "text": "__tcfapi found! Querying status..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingWaiting."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingLoaded."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Button clicked: Weitere Einstellungen"
+  },
+  {
+    "type": "admeasure",
+    "text": "Found Sourcepoint privacy manager."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: no type toggles."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Check for legitimate interest button..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Clicking legitimate interest button: Einstellungen anpassen"
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Find the save button."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint dialog rejected."
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data obtained!"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data: cmpId 6 consent false, legInt false."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting..."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.tvtoday.de/",
+      "lineNumber": 431,
+      "columnNumber": 16
+    },
+    "text": "TftAdEngineBlocked:: false"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://cdn.privacy-mgmt.com/wrapperMessagingWithoutDetection.js",
+      "lineNumber": 0,
+      "columnNumber": 154615
+    },
+    "text": "Messaging without detection successfully executed."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.tvtoday.de/bundles/mobile/js/main.combined.js?10.67",
+      "lineNumber": 0,
+      "columnNumber": 253
+    },
+    "text": "%c Compiled on: Wed Mar 17 2021 14:48:13 GMT+0000 (Coordinated Universal Time) background:black; color: white;"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.tvtoday.de/bundles/mobile/js/main.combined.js?10.67",
+      "lineNumber": 0,
+      "columnNumber": 17734
+    },
+    "text": "this.players =  []"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.tvtoday.de/bundles/mobile/js/main.combined.js?10.67",
+      "lineNumber": 0,
+      "columnNumber": 17819
+    },
+    "text": "RW: video lib ready."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.tvtoday.de/bundles/mobile/js/main.combined.js?10.67",
+      "lineNumber": 0,
+      "columnNumber": 17167
+    },
+    "text": "RW: initPlayers"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.tvtoday.de/bundles/mobile/js/main.combined.js?10.67",
+      "lineNumber": 0,
+      "columnNumber": 6295
+    },
+    "text": "RW: Mediastage controller ready! yo123"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.tvtoday.de/bundles/mobile/js/main.combined.js?10.67",
+      "lineNumber": 0,
+      "columnNumber": 9075
+    },
+    "text": "constructing NewsletterWidget controller"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.tvtoday.de/bundles/mobile/js/main.combined.js?10.67",
+      "lineNumber": 0,
+      "columnNumber": 22728
+    },
+    "text": "Credits Controller: loaded"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.tvtoday.de/bundles/mobile/js/main.combined.js?10.67",
+      "lineNumber": 0,
+      "columnNumber": 23104
+    },
+    "text": "Fotocredits: RTLZWEI (4), Shutterstock, Shutterstock / Beto Chagas, Imago stock & people, Shutterstock (6), IMAGO / Andreas Weihs, Imago Images, 20th Century Fox, Paramount Home Entertainment, IMAGO / Everett Collection, Getty Images, Walt Disney Studios Motion Pictures Germany, Warner Bros. Entertainment Inc., Garden State, JIP Filmproduktion (2), déjà-vu film UG (2), Leonine (2), Filmwelt, Neue Visionen, Polyband, Arsenal Filmverleih, STUDIOCANAL, Universal Pictures, Drop-Out Cinema"
+  },
+  {
+    "type": "info",
+    "location": {
+      "url": "https://acdn.adnxs-simple.com/ast/ast.js",
+      "lineNumber": 0,
+      "columnNumber": 78989
+    },
+    "text": "AST library loaded: 0.40.0"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.tvtoday.de/",
+      "lineNumber": 4491,
+      "columnNumber": 27
+    },
+    "text": "AdBlockerNotDetected"
+  },
+  {
+    "type": "startGroup",
+    "location": {
+      "url": "https://acdn.adnxs-simple.com/ast/mediation/0.40.0/mediation.js",
+      "lineNumber": 1,
+      "columnNumber": 5174
+    },
+    "text": "anx-mediation %cCONTINUE color: orange"
+  },
+  {
+    "type": "startGroupCollapsed",
+    "location": {
+      "url": "https://acdn.adnxs-simple.com/ast/mediation/0.40.0/mediation.js",
+      "lineNumber": 1,
+      "columnNumber": 5308
+    },
+    "text": "anx-mediation: %cNOBID %ccreative ids 149615223 color: orange color: black"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://acdn.adnxs-simple.com/ast/mediation/0.40.0/mediation.js",
+      "lineNumber": 1,
+      "columnNumber": 6157
+    },
+    "text": "anx-mediation:  INIT --"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://acdn.adnxs-simple.com/ast/mediation/0.40.0/mediation.js",
+      "lineNumber": 1,
+      "columnNumber": 6157
+    },
+    "text": "anx-mediation:  NOBID 244ms"
+  },
+  {
+    "type": "endGroup",
+    "location": {
+      "url": "https://acdn.adnxs-simple.com/ast/mediation/0.40.0/mediation.js",
+      "lineNumber": 1,
+      "columnNumber": 5396
+    },
+    "text": "console.groupEnd"
+  },
+  {
+    "type": "startGroupCollapsed",
+    "location": {
+      "url": "https://acdn.adnxs-simple.com/ast/mediation/0.40.0/mediation.js",
+      "lineNumber": 1,
+      "columnNumber": 5308
+    },
+    "text": "anx-mediation: %cCONTINUE %ccreative ids 309705376 color: orange color: black"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://acdn.adnxs-simple.com/ast/mediation/0.40.0/mediation.js",
+      "lineNumber": 1,
+      "columnNumber": 6157
+    },
+    "text": "anx-mediation:  CONTINUE 244ms"
+  },
+  {
+    "type": "endGroup",
+    "location": {
+      "url": "https://acdn.adnxs-simple.com/ast/mediation/0.40.0/mediation.js",
+      "lineNumber": 1,
+      "columnNumber": 5396
+    },
+    "text": "console.groupEnd"
+  },
+  {
+    "type": "endGroup",
+    "location": {
+      "url": "https://acdn.adnxs-simple.com/ast/mediation/0.40.0/mediation.js",
+      "lineNumber": 1,
+      "columnNumber": 5396
+    },
+    "text": "console.groupEnd"
+  },
+  {
+    "type": "admeasure",
+    "text": "Minimum wait time reached after 5.00s."
+  },
+  {
+    "type": "admeasure",
+    "text": "Network is idle after 7.92s."
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "part": "measure-94",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:34:31.779Z"
+  },
+  {
+    "part": "measure-94",
+    "message": "visit https://teamcoco.com/...",
+    "timestamp": "2021-09-09T13:34:33.019Z"
+  },
+  {
+    "part": "console.log",
+    "message": "TCONETRUST: countryCode not found @ [object Object]",
+    "timestamp": "2021-09-09T13:34:39.854Z"
+  },
+  {
+    "part": "measure-94",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:34:43.431Z"
+  },
+  {
+    "part": "measure-94",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:34:43.482Z"
+  },
+  {
+    "part": "console.log",
+    "message": "window.Optanon not yet loaded... @ [object Object]",
+    "timestamp": "2021-09-09T13:34:44.209Z"
+  },
+  {
+    "part": "console.log",
+    "message": "window.Optanon loaded. @ [object Object]",
+    "timestamp": "2021-09-09T13:34:44.903Z"
+  },
+  {
+    "part": "measure-94",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:34:46.276Z"
+  },
+  {
+    "part": "measure-94",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:34:53.335Z"
+  },
+  {
+    "part": "measure-94",
+    "message": "__tcfapi not found: TimeoutError: page.waitForFunction: Timeout 30000ms exceeded.",
+    "timestamp": "2021-09-09T13:35:13.729Z"
+  },
+  {
+    "part": "measure-94",
+    "message": "TCF data: cmpId null consent null, legInt null.",
+    "timestamp": "2021-09-09T13:35:13.729Z"
+  },
+  {
+    "part": "measure-94",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:35:13.733Z"
+  },
+  {
+    "part": "measure-94",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:35:13.733Z"
+  },
+  {
+    "part": "measure-94",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:35:18.734Z"
+  },
+  {
+    "part": "measure-94",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:35:18.778Z"
+  }
+]

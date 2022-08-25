@@ -1,0 +1,14 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://gala.fr/..."
+  },
+  {
+    "type": "admeasure",
+    "text": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://gala.fr/\", waiting until \"load\"\n============================================================"
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "part": "measure-26",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:12:27.893Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "visit https://cnbc.com/...",
+    "timestamp": "2021-09-09T13:12:28.011Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:12:29.980Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:12:29.983Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "cnbc geo region fetch Thu Sep 09 2021 14:12:31 GMT+0100 (British Summer Time) 30 @ [object Object]",
+    "timestamp": "2021-09-09T13:12:31.039Z"
+  },
+  {
+    "part": "console.log",
+    "message": "OneTrust: Optanon Init Load @ [object Object]",
+    "timestamp": "2021-09-09T13:12:32.336Z"
+  },
+  {
+    "part": "console.log",
+    "message": "registering event:  startCheckout @ [object Object]",
+    "timestamp": "2021-09-09T13:12:32.537Z"
+  },
+  {
+    "part": "console.log",
+    "message": "registering event:  customEvent @ [object Object]",
+    "timestamp": "2021-09-09T13:12:32.538Z"
+  },
+  {
+    "part": "console.log",
+    "message": "registering event:  checkoutClose @ [object Object]",
+    "timestamp": "2021-09-09T13:12:32.539Z"
+  },
+  {
+    "part": "console.log",
+    "message": "registering event:  checkoutComplete @ [object Object]",
+    "timestamp": "2021-09-09T13:12:32.540Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "[mps:loadJS] async:true, geo_data.js @ [object Object]",
+    "timestamp": "2021-09-09T13:12:32.722Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "[mps:loadJS] async:true, 185796-151042474895997.js @ [object Object]",
+    "timestamp": "2021-09-09T13:12:32.824Z"
+  },
+  {
+    "part": "console.log",
+    "message": "****** [mps] REDIRECTED: false → mps.cnbc.com ****** @ [object Object]",
+    "timestamp": "2021-09-09T13:12:32.849Z"
+  },
+  {
+    "part": "console.log",
+    "message": "--[executed]--> MPS Head Additions (1) @ [object Object]",
+    "timestamp": "2021-09-09T13:12:32.849Z"
+  },
+  {
+    "part": "console.log",
+    "message": "--[executed]--> MPS Header Additions (2) @ [object Object]",
+    "timestamp": "2021-09-09T13:12:32.914Z"
+  },
+  {
+    "part": "console.log",
+    "message": "--[executed]--> MPS Footer Additions (3) @ [object Object]",
+    "timestamp": "2021-09-09T13:12:32.951Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:12:33.380Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:12:33.855Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:33.867Z"
+  },
+  {
+    "part": "console.error",
+    "message": "{name: SlotValidationError, message: There was an issue with the configuration for this…null]]}\n- 'sizes' must have at least 1 valid item} @ [object Object]",
+    "timestamp": "2021-09-09T13:12:33.931Z"
+  },
+  {
+    "part": "console.error",
+    "message": "{name: SlotValidationError, message: There was an issue with the configuration for this…null]]}\n- 'sizes' must have at least 1 valid item} @ [object Object]",
+    "timestamp": "2021-09-09T13:12:33.938Z"
+  },
+  {
+    "part": "console.error",
+    "message": "{name: SlotValidationError, message: There was an issue with the configuration for this…null]]}\n- 'sizes' must have at least 1 valid item} @ [object Object]",
+    "timestamp": "2021-09-09T13:12:33.940Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:12:34.075Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Markit - CAT4 - Disabled @ [object Object]",
+    "timestamp": "2021-09-09T13:12:34.084Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Polar Native - CAT4 - Disabled @ [object Object]",
+    "timestamp": "2021-09-09T13:12:34.087Z"
+  },
+  {
+    "part": "console.log",
+    "message": "WPromote Pixels - CAT4 - Disabled @ [object Object]",
+    "timestamp": "2021-09-09T13:12:34.091Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AdmantX - CAT4 - Disabled @ [object Object]",
+    "timestamp": "2021-09-09T13:12:34.093Z"
+  },
+  {
+    "part": "console.log",
+    "message": "mParticle - CAT7 - Disabled @ [object Object]",
+    "timestamp": "2021-09-09T13:12:34.096Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AB Admiral - CAT7 - Disabled @ [object Object]",
+    "timestamp": "2021-09-09T13:12:34.100Z"
+  },
+  {
+    "part": "console.log",
+    "message": "BounceX - CAT4 - Disabled @ [object Object]",
+    "timestamp": "2021-09-09T13:12:34.102Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Facebook Pixels - CAT4 - Disabled @ [object Object]",
+    "timestamp": "2021-09-09T13:12:34.105Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Iterate Survey - CAT6 - Disabled @ [object Object]",
+    "timestamp": "2021-09-09T13:12:34.107Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Nielsen DCR Tagging - CAT4 - Disabled @ [object Object]",
+    "timestamp": "2021-09-09T13:12:34.110Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Omniture Click Linkcall - CAT7 - Disabled @ [object Object]",
+    "timestamp": "2021-09-09T13:12:34.113Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Omniture Scroll Linkcall - CAT7 - Disabled @ [object Object]",
+    "timestamp": "2021-09-09T13:12:34.116Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Omniture Search Quote Linkcall - CAT7 - Disabled @ [object Object]",
+    "timestamp": "2021-09-09T13:12:34.119Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Omniture Video Events - CAT7 - Disabled @ [object Object]",
+    "timestamp": "2021-09-09T13:12:34.123Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Parsely - CAT7 - Disabled @ [object Object]",
+    "timestamp": "2021-09-09T13:12:34.126Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Parsely Video - CAT7 - Disabled @ [object Object]",
+    "timestamp": "2021-09-09T13:12:34.129Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SailThru - CAT7 - Disabled @ [object Object]",
+    "timestamp": "2021-09-09T13:12:34.132Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:34.514Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:12:34.611Z"
+  },
+  {
+    "part": "console.log",
+    "message": "finished executing omniture now @ [object Object]",
+    "timestamp": "2021-09-09T13:12:34.643Z"
+  },
+  {
+    "part": "console.log",
+    "message": "OptanonWrapper called @ [object Object]",
+    "timestamp": "2021-09-09T13:12:34.924Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "[mps:loadJS] async:true, AppMeasurement.js?v=1.0 @ [object Object]",
+    "timestamp": "2021-09-09T13:12:35.059Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "**** LOADED: Omniture JS (AppMeasurement) @ [object Object]",
+    "timestamp": "2021-09-09T13:12:35.068Z"
+  },
+  {
+    "part": "console.log",
+    "message": "ADOBE CONSENT - OptanonConsent Cookie Exists @ [object Object]",
+    "timestamp": "2021-09-09T13:12:35.075Z"
+  },
+  {
+    "part": "console.log",
+    "message": "ADOBE CONSENT - CAT 7 - Deny All @ [object Object]",
+    "timestamp": "2021-09-09T13:12:35.078Z"
+  },
+  {
+    "part": "console.log",
+    "message": "ADOBE CONSENT - CAT 4 - Deny All @ [object Object]",
+    "timestamp": "2021-09-09T13:12:35.080Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:12:35.227Z"
+  },
+  {
+    "part": "console.log",
+    "message": "mParticle Identity - CAT7 - Disabled @ [object Object]",
+    "timestamp": "2021-09-09T13:12:36.963Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[mps/hb] HB startAdExecution begun @ [object Object]",
+    "timestamp": "2021-09-09T13:12:37.143Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button class=\"cookie-setting-link\" id=\"onetrust-pc-btn-…>Manage Choices</button>\nattempting click action\n  waiting for element to be visible, enabled and stable\n    element is not stable - waiting...\n  element is visible, enabled and stable\n  scrolling into view if needed\n  done scrolling\n  checking that element receives pointer events at (87.45,710.19)\n  <p class=\"ot-dpd-desc\">…</p> from <div id=\"onetrust-group-container\" class=\"ot-sdk-colu…>…</div> subtree intercepts pointer events\nretrying click action, attempt #1\n  waiting for element to be visible, enabled and stable\n  element is visible, enabled and stable\n  scrolling into view if needed\n  done scrolling\n  checking that element receives pointer events at (87.45,726.19)\n  <button class=\"ot-link-btn onetrust-vendors-list-handler\">↵                List of IAB Vendors↵            …</button> from <div id=\"onetrust-group-container\" class=\"ot-sdk-colu…>…</div> subtree intercepts pointer events\nretrying click action, attempt #2\n  waiting 20ms\n  waiting for element to be visible, enabled and stable\n  element is visible, enabled and stable\n  scrolling into view if needed\n  done scrolling\n  checking that element receives pointer events at (87.45,710.19)\n  <p class=\"ot-dpd-desc\">…</p> from <div id=\"onetrust-group-container\" class=\"ot-sdk-colu…>…</div> subtree intercepts pointer events\nretrying click action, attempt #3\n  waiting 100ms\n  waiting for element to be visible, enabled and stable\n  element is visible, enabled and stable\n  scrolling into view if needed\n  done scrolling\n  checking that element receives pointer events at (63.45,710.19)\n  <p class=\"ot-dpd-desc\">…</p> from <div id=\"onetrust-group-container\" class=\"ot-sdk-colu…>…</div> subtree intercepts pointer events\nretrying click action, attempt #4\n  waiting 100ms\n  waiting for element to be visible, enabled and stable\n  element is visible, enabled and stable\n  scrolling into view if needed\n  done scrolling\n  checking that element receives pointer events at (63.45,710.19)\n  <p class=\"ot-dpd-desc\">…</p> from <div id=\"onetrust-group-container\" class=\"ot-sdk-colu…>…</div> subtree intercepts pointer events\nretrying click action, attempt #5\n  waiting 500ms\n  waiting for element to be visible, enabled and stable\n============================================================",
+    "timestamp": "2021-09-09T13:12:37.235Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:12:39.744Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".ot-pc-refuse-all-handler:visible, .save-preference-btn-handler:visible\"\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:13:10.301Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:13:25.129Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:13:25.129Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:30.170Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:14:20.755Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:14:20.755Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:14:25.791Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:14:33.864Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "TCF data: cmpId 28 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:14:33.864Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:14:33.873Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:14:33.877Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:14:38.881Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:14:38.932Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:14:38.934Z"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "part": "measure-79",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:29:00.250Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "visit https://coursera.org/...",
+    "timestamp": "2021-09-09T13:29:01.436Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 500 () @ [object Object]",
+    "timestamp": "2021-09-09T13:29:02.111Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:29:02.637Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:29:02.658Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-pc-btn-handler:visible,\n            #onetrust-pc-sdk:visible\n        \" to be visible\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:29:32.694Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "__tcfapi not found: TimeoutError: page.waitForFunction: Timeout 30000ms exceeded.",
+    "timestamp": "2021-09-09T13:29:32.699Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "TCF data: cmpId null consent null, legInt null.",
+    "timestamp": "2021-09-09T13:29:32.699Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:29:32.706Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:29:32.710Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:29:37.707Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:29:37.722Z"
+  }
+]

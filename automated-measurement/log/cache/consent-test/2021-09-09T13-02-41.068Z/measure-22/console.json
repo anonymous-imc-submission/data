@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-22",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:07:30.202Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "visit https://mountain-forecast.com/...",
+    "timestamp": "2021-09-09T13:07:32.889Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:07:39.794Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:07:39.797Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:07:42.130Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:42.130Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:07:42.257Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:07:42.262Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:42.304Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:07:43.380Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:07:43.383Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:07:43.399Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:07:43.402Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:07:43.706Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2109032350000 https://www.mountain-forecast.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:07:45.411Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2109032350000 https://www.mountain-forecast.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:07:46.367Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:07:48.399Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:07:48.432Z"
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "part": "measure-69",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:28:50.457Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "visit https://mypalmbeachpost.com/...",
+    "timestamp": "2021-09-09T13:28:52.736Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:29:18.031Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:29:21.255Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:29:21.270Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:29:21.888Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:29:21.918Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:29:21.976Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:29:22.022Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:29:22.029Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:29:22.769Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button id=\"onetrust-pc-btn-handler\">Manage Cookies</button>\nattempting click action\n  waiting for element to be visible, enabled and stable\n  element is visible, enabled and stable\n  scrolling into view if needed\n  done scrolling\n  checking that element receives pointer events at (422.48,431.6)\n  element does receive pointer events\n  performing click action\n============================================================",
+    "timestamp": "2021-09-09T13:29:24.078Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Server did not respond to loadRBox @ [object Object]",
+    "timestamp": "2021-09-09T13:29:24.658Z"
+  },
+  {
+    "part": "console.log",
+    "message": "loadRBox failed, aborting. @ [object Object]",
+    "timestamp": "2021-09-09T13:29:24.658Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Invalid response from server: trc_json_response =\n{\"trc\":{}}\n @ [object Object]",
+    "timestamp": "2021-09-09T13:29:24.658Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:29:27.122Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:29:29.384Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:29:29.398Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:29:29.536Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:29:29.541Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:29:29.599Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:29:34.539Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:29:34.621Z"
+  }
+]

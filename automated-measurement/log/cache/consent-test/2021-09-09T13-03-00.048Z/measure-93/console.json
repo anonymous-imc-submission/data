@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-93",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:33:39.611Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "visit https://daily-stuff.com/...",
+    "timestamp": "2021-09-09T13:33:41.020Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pmrt enabled @ [object Object]",
+    "timestamp": "2021-09-09T13:33:43.691Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GDPR is ON @ [object Object]",
+    "timestamp": "2021-09-09T13:33:44.310Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Failed to execute 'write' on 'Document': It isn't possible to write into a document from an asynchronously-loaded external script unless it is explicitly opened. @ [object Object]",
+    "timestamp": "2021-09-09T13:33:46.724Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:33:55.530Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:33:55.581Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:33:58.894Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:33:58.899Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:33:58.964Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:33:58.980Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:33:59.405Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:33:59.413Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button class=\"cookie-setting-link\" id=\"onetrust-pc-btn-…>Show Purposes</button>\nattempting click action\n  waiting for element to be visible, enabled and stable\n  element is visible, enabled and stable\n  scrolling into view if needed\n  done scrolling\n  checking that element receives pointer events at (196.48,557.22)\n  element does receive pointer events\n  performing click action\n  click action done\n  waiting for scheduled navigations to finish\n============================================================",
+    "timestamp": "2021-09-09T13:34:01.439Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:34:28.271Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:34:28.285Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:34:28.483Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Network is idle after 0.02s.",
+    "timestamp": "2021-09-09T13:34:28.507Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:34:30.130Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Minimum wait time reached after 5.02s.",
+    "timestamp": "2021-09-09T13:34:33.503Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:34:33.772Z"
+  }
+]

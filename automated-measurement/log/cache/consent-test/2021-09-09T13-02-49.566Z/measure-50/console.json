@@ -1,0 +1,122 @@
+[
+  {
+    "part": "measure-50",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:19:49.789Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "visit https://autocar.co.uk/...",
+    "timestamp": "2021-09-09T13:19:50.722Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GA running @ [object Object]",
+    "timestamp": "2021-09-09T13:19:54.266Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GA disabled @ [object Object]",
+    "timestamp": "2021-09-09T13:19:54.267Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] To reserve space and reduce layout shifts, consider setting min-width=320px, min-height=50px styles on the div element with id=gpt_7294_banner2. Learn more: https://developers.google.com/publisher-tag/guides/minimize-layout-shift @ [object Object]",
+    "timestamp": "2021-09-09T13:19:56.116Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:19:57.058Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:19:57.058Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:19:59.093Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:59.094Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:19:59.965Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:19:59.979Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:20:00.009Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:20:00.335Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button class=\"cookie-setting-link\" id=\"onetrust-pc-btn-…>Cookie Settings</button>\nattempting click action\n  waiting for element to be visible, enabled and stable\n  element is visible, enabled and stable\n  scrolling into view if needed\n  done scrolling\n  checking that element receives pointer events at (196.48,579.55)\n  element does receive pointer events\n  performing click action\n  click action done\n  waiting for scheduled navigations to finish\n============================================================",
+    "timestamp": "2021-09-09T13:20:02.407Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:20:02.817Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:20:10.272Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:20:10.272Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:20:10.280Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:20:10.617Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Exception in slotRenderEnded event listener: \"TypeError: Cannot read properties of null (reading '1')\". @ [object Object]",
+    "timestamp": "2021-09-09T13:20:10.720Z"
+  },
+  {
+    "part": "console.error",
+    "message": "TypeError: Cannot read properties of null (reading '1')\n    at https://www.autocar.co.uk/sites/autocar.co.uk/files/advagg_js/js__IXz8z-CxwRdwL-3t8ZpsSiTkDJrnKkOAp5FVZ0Zmc8E__0P1Ak0C-hoKSPEnrC0opzsAtk7WssWopxgFXQ_ToGDU__mzsH96KIFkulw0ZKc694tm-lJbMEOqT1YYFi9do3M4M.js:1092:71\n    at Object.d [as Bb] (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:6:250195)\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:6:110559\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:6:10934\n    at Object._.Id (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:6:11180)\n    at xk.m (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:6:110497)\n    at zk (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:6:41747)\n    at Bk.next (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:6:42039)\n    at f (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:6:55011) @ [object Object]",
+    "timestamp": "2021-09-09T13:20:10.724Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:20:15.287Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:20:30.285Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:20:30.355Z"
+  }
+]

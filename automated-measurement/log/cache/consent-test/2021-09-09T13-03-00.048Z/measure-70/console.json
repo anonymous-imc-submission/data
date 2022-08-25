@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-70",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:26:36.098Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "visit https://japaneseemoticons.me/...",
+    "timestamp": "2021-09-09T13:26:36.290Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:26:37.128Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:26:37.546Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:26:38.656Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:26:40.481Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:26:40.494Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:26:41.352Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:26:41.352Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:26:41.382Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:26:41.389Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:26:41.508Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:26:41.518Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:26:45.708Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:26:52.709Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:26:52.724Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:26:52.839Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:26:52.846Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:26:52.855Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:26:57.852Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:26:58.049Z"
+  }
+]

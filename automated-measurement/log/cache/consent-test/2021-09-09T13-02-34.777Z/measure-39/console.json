@@ -1,0 +1,102 @@
+[
+  {
+    "part": "measure-39",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:10:06.072Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "visit https://palmbeachpost.com/...",
+    "timestamp": "2021-09-09T13:10:06.393Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:10:18.809Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Server did not respond to loadRBox @ [object Object]",
+    "timestamp": "2021-09-09T13:10:25.974Z"
+  },
+  {
+    "part": "console.log",
+    "message": "loadRBox failed, aborting. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:26.013Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Invalid response from server: trc_json_response =\n{\"trc\":{}}\n @ [object Object]",
+    "timestamp": "2021-09-09T13:10:26.031Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:10:27.209Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:10:27.229Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:10:27.833Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:27.834Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:10:28.154Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:10:28.160Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:28.248Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:10:29.363Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:10:29.365Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:10:29.425Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:10:29.426Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:10:29.454Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:10:34.426Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:10:34.464Z"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-78",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:32:13.172Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "visit https://bleacherreport.net/...",
+    "timestamp": "2021-09-09T13:32:15.472Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "page load error: Error: page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://bleacherreport.net/\n=========================== logs ===========================\nnavigating to \"https://bleacherreport.net/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:32:15.725Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:32:15.959Z"
+  }
+]

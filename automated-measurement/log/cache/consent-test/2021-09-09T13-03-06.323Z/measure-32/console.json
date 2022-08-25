@@ -1,0 +1,177 @@
+[
+  {
+    "part": "measure-32",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:11:26.282Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "visit https://dailyfeed.co.uk/...",
+    "timestamp": "2021-09-09T13:11:26.579Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:11:27.695Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o4w13&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.dailyfeed.co.uk%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:11:28.000Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o4w13&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.dailyfeed.co.uk%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:11:28.013Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an image pixel with URL:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o4w13&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.dailyfeed.co.uk%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:11:28.015Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o5i8d&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.dailyfeed.co.uk%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:11:28.019Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o5i8d&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.dailyfeed.co.uk%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:11:28.020Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an image pixel with URL:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o5i8d&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.dailyfeed.co.uk%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:11:28.038Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an script pixel with URL:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o4w13&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.dailyfeed.co.uk%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:11:28.559Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an script pixel with URL:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o5i8d&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.dailyfeed.co.uk%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:11:28.570Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o4w13&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.dailyfeed.co.uk%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:11:31.074Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an script pixel with URL:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o4w13&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.dailyfeed.co.uk%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:11:31.086Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o4w13&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.dailyfeed.co.uk%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:11:31.091Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an image pixel with URL:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o4w13&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.dailyfeed.co.uk%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:11:31.095Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o5i8d&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.dailyfeed.co.uk%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:11:31.099Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an script pixel with URL:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o5i8d&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.dailyfeed.co.uk%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:11:31.104Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o5i8d&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.dailyfeed.co.uk%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:11:31.105Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an image pixel with URL:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o5i8d&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.dailyfeed.co.uk%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:11:31.112Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 500 () @ [object Object]",
+    "timestamp": "2021-09-09T13:11:32.721Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:11:37.459Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:11:37.462Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:11:38.066Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:38.067Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:11:38.222Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:11:38.227Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:38.236Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:11:38.299Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:11:39.139Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "TCF data: cmpId 10 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:11:39.141Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:11:39.151Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:11:39.158Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:11:39.403Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:11:44.151Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:11:44.190Z"
+  }
+]

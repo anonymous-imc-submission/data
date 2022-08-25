@@ -1,0 +1,222 @@
+[
+  {
+    "part": "measure-89",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:22:31.331Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "visit https://spoti.fi/...",
+    "timestamp": "2021-09-09T13:22:32.189Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:22:52.004Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:22:52.028Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:22:54.522Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:54.532Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:22:54.641Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:22:54.652Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:54.839Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:22:59.992Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "TCF data: cmpId 28 consent true, legInt false.",
+    "timestamp": "2021-09-09T13:23:00.006Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:23:00.026Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:23:00.787Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:23:05.035Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nz9p8&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.spotify.com%2Fde%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:23:06.133Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an script pixel with URL:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nz9p8&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.spotify.com%2Fde%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:23:06.139Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nz9p8&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.spotify.com%2Fde%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:23:06.145Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an image pixel with URL:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nz9p8&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.spotify.com%2Fde%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:23:06.148Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nz9p8&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.spotify.com%2Fde%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:23:06.150Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an script pixel with URL:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nz9p8&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.spotify.com%2Fde%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:23:06.155Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nz9p8&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.spotify.com%2Fde%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:23:06.157Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an image pixel with URL:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nz9p8&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.spotify.com%2Fde%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:23:06.170Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nvi9b&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.spotify.com%2Fde%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:23:06.176Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an script pixel with URL:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nvi9b&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.spotify.com%2Fde%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:23:06.187Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nvi9b&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.spotify.com%2Fde%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:23:06.188Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an image pixel with URL:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nvi9b&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.spotify.com%2Fde%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:23:06.192Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=l61bk&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.spotify.com%2Fde%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:23:06.331Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an script pixel with URL:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=l61bk&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.spotify.com%2Fde%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:23:06.341Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=l61bk&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.spotify.com%2Fde%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:23:06.344Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an image pixel with URL:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=l61bk&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.spotify.com%2Fde%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:23:06.353Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nz9p8&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.spotify.com%2Fde%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:23:06.812Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an script pixel with URL:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nz9p8&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.spotify.com%2Fde%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:23:06.816Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nz9p8&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.spotify.com%2Fde%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:23:06.820Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an image pixel with URL:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nz9p8&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.spotify.com%2Fde%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:23:06.824Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nz9p8&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.spotify.com%2Fde%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:23:06.826Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an script pixel with URL:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nz9p8&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.spotify.com%2Fde%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:23:06.828Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nz9p8&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.spotify.com%2Fde%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:23:06.832Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an image pixel with URL:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nz9p8&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.spotify.com%2Fde%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:23:06.840Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nvi9b&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.spotify.com%2Fde%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:23:06.845Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an script pixel with URL:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nvi9b&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.spotify.com%2Fde%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:23:06.881Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nvi9b&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.spotify.com%2Fde%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:23:06.896Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an image pixel with URL:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nvi9b&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.spotify.com%2Fde%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:23:06.896Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "Network is idle after 14.9s.",
+    "timestamp": "2021-09-09T13:23:14.927Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:23:15.010Z"
+  }
+]

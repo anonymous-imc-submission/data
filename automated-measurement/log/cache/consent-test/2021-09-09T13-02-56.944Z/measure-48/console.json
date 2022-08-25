@@ -1,0 +1,62 @@
+[
+  {
+    "part": "measure-48",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:18:18.196Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "visit https://dailyprincetonian.com/...",
+    "timestamp": "2021-09-09T13:18:19.406Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:18:24.807Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Starting integration for pri @ [object Object]",
+    "timestamp": "2021-09-09T13:18:26.224Z"
+  },
+  {
+    "part": "console.log",
+    "message": "FP 6a481a34-5cc1-48de-acf8-ff4bea644014 @ [object Object]",
+    "timestamp": "2021-09-09T13:18:26.225Z"
+  },
+  {
+    "part": "console.log",
+    "message": "REF https://www.dailyprincetonian.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:18:26.230Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "It is recommended that a robustness level be specified. Not specifying the robustness level could result in unexpected behavior. @ [object Object]",
+    "timestamp": "2021-09-09T13:18:31.378Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://open.scdn.co/cdn/fonts/spoticon_regular_2.d319d911.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:18:38.475Z"
+  },
+  {
+    "part": "console.info",
+    "message": "%cPubfig:  background: #00C389; color: #fff; border-radius: 3px; padding: 3px pubfig.messaging.js - Init ========== LOADING MESSAGING ========== @ [object Object]",
+    "timestamp": "2021-09-09T13:18:40.487Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://www.dailyprincetonian.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:18:43.896Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://dailyprincetonian.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:18:49.423Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:18:49.484Z"
+  }
+]

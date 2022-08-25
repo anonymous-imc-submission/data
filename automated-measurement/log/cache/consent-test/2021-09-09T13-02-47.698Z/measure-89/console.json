@@ -1,0 +1,57 @@
+[
+  {
+    "part": "measure-89",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:27:30.292Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "visit https://bluewin.ch/...",
+    "timestamp": "2021-09-09T13:27:30.572Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://rcp.scsstatic.ch/etc.clientlibs/cq/testandtarget/clientlibs/testandtarget/atjs.201.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:27:33.033Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://rcp.scsstatic.ch/etc.clientlibs/cq/testandtarget/clientlibs/testandtarget/atjs.201.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:27:33.034Z"
+  },
+  {
+    "part": "console.error",
+    "message": "X-Frame-Options may only be set via an HTTP header sent along with a document. It may not be set inside <meta>. @ [object Object]",
+    "timestamp": "2021-09-09T13:27:39.958Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "Spark loader: init load script event page_load @ [object Object]",
+    "timestamp": "2021-09-09T13:27:41.430Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "AT: metric element not found {type: click, selector: HTML > BODY > DIV.main-wrapper:eq(0) > DIV.page:eq…ype(1) > A:nth-of-type(1) > IMG.story-image:eq(0), eventToken: oeAi/YAWmzxtRQFaYWClmQ==} @ [object Object]",
+    "timestamp": "2021-09-09T13:27:55.264Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "Spark loader: load_script by load_timer on top @ [object Object]",
+    "timestamp": "2021-09-09T13:27:57.167Z"
+  },
+  {
+    "part": "console.info",
+    "message": "AST library loaded: 0.33.0 @ [object Object]",
+    "timestamp": "2021-09-09T13:28:00.271Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://bluewin.ch/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:28:00.572Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:28:00.651Z"
+  }
+]

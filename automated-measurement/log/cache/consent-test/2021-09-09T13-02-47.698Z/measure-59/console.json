@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-59",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:19:42.808Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "visit https://appier.com/...",
+    "timestamp": "2021-09-09T13:19:43.555Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:20:04.470Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:20:04.474Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:20:07.036Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:20:07.036Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:20:07.101Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:20:07.110Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:20:07.247Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:20:07.288Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.appier.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.9.1 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:20:07.989Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:20:25.735Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:20:25.737Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:20:25.800Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:20:25.802Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:20:25.919Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:20:30.805Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:20:30.962Z"
+  }
+]

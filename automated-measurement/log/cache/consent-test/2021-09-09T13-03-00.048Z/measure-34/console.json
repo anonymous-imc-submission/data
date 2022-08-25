@@ -1,0 +1,132 @@
+[
+  {
+    "part": "measure-34",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:14:18.302Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "visit https://buckeyextra.com/...",
+    "timestamp": "2021-09-09T13:14:18.901Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:14:23.347Z"
+  },
+  {
+    "part": "console.log",
+    "message": "TP: Modal offer is already shown; must be one modal offer per time @ [object Object]",
+    "timestamp": "2021-09-09T13:14:27.689Z"
+  },
+  {
+    "part": "console.log",
+    "message": "TP: Could not initialize offer; check configuration @ [object Object]",
+    "timestamp": "2021-09-09T13:14:27.691Z"
+  },
+  {
+    "part": "console.log",
+    "message": "TP: Error: Could not initialize offer; check configuration\n    at h (https://cdn.tinypass.com/api/tinypass.min.js:1:221977)\n    at Object.error (https://cdn.tinypass.com/api/tinypass.min.js:1:227428)\n    at https://cdn.tinypass.com/api/tinypass.min.js:1:191563\n    at tt (https://cdn.tinypass.com/api/tinypass.min.js:1:211606)\n    at Object.waitCall (https://cdn.tinypass.com/api/tinypass.min.js:1:228437)\n    at https://cdn.tinypass.com/api/tinypass.min.js:1:191400\n    at tt (https://cdn.tinypass.com/api/tinypass.min.js:1:211606)\n    at Object.waitCall (https://cdn.tinypass.com/api/tinypass.min.js:1:228437)\n    at https://cdn.tinypass.com/api/tinypass.min.js:1:191353\n    at tt (https://cdn.tinypass.com/api/tinypass.min.js:1:211606) @ [object Object]",
+    "timestamp": "2021-09-09T13:14:27.693Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:14:30.712Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:14:30.767Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:14:31.567Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:14:31.567Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:14:31.642Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:14:31.642Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:14:32.083Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:14:32.086Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:33.426Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:33.520Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - exchange-thumbnails-mobile-deal @ [object Object]",
+    "timestamp": "2021-09-09T13:14:33.590Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - exchange-thumbnails-mobile-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:33.593Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbnails-feed-mobile-b @ [object Object]",
+    "timestamp": "2021-09-09T13:14:33.676Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:14:50.542Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:14:50.543Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:14:50.562Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:14:50.564Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:14:50.602Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:14:55.563Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:14:55.613Z"
+  }
+]

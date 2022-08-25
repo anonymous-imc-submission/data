@@ -1,0 +1,234 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://io9.com/..."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://gizmodo.com/x-kinja-static/assets/new-client/adManager.728cac2c89d132d8a876.js",
+      "lineNumber": 6,
+      "columnNumber": 11274
+    },
+    "text": "Bulbs was called before it initialized. undefined"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 45,
+      "columnNumber": 9
+    },
+    "text": "Else was calledchartbeat_facebook_freewheel_g_analytics_kargo_simplereach_synacor_trustx_twitter_zendesk_"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 45,
+      "columnNumber": 9
+    },
+    "text": "Else was calledchartbeat_facebook_freewheel_g_analytics_kargo_simplereach_synacor_trustx_twitter_zendesk_"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 45,
+      "columnNumber": 9
+    },
+    "text": "Else was calledchartbeat_facebook_freewheel_g_analytics_kargo_simplereach_synacor_trustx_twitter_zendesk_"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 45,
+      "columnNumber": 9
+    },
+    "text": "Else was calledchartbeat_facebook_freewheel_g_analytics_kargo_simplereach_synacor_trustx_twitter_zendesk_"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 45,
+      "columnNumber": 9
+    },
+    "text": "Else was calledchartbeat_facebook_freewheel_g_analytics_kargo_simplereach_synacor_trustx_twitter_zendesk_"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 45,
+      "columnNumber": 9
+    },
+    "text": "Else was calledchartbeat_facebook_freewheel_g_analytics_kargo_simplereach_synacor_trustx_twitter_zendesk_"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 45,
+      "columnNumber": 9
+    },
+    "text": "Else was calledchartbeat_facebook_freewheel_g_analytics_kargo_simplereach_synacor_trustx_twitter_zendesk_"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 45,
+      "columnNumber": 9
+    },
+    "text": "Else was calledchartbeat_facebook_freewheel_g_analytics_kargo_simplereach_synacor_trustx_twitter_zendesk_"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 45,
+      "columnNumber": 9
+    },
+    "text": "Else was calledchartbeat_facebook_freewheel_g_analytics_kargo_simplereach_synacor_trustx_twitter_zendesk_"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 45,
+      "columnNumber": 9
+    },
+    "text": "Else was calledchartbeat_facebook_freewheel_g_analytics_kargo_simplereach_synacor_trustx_twitter_zendesk_"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://gizmodo.com/io9",
+      "lineNumber": 60,
+      "columnNumber": 15
+    },
+    "text": "tcData gdprApplies true"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://gizmodo.com/io9",
+      "lineNumber": 63,
+      "columnNumber": 17
+    },
+    "text": "tcData publisherCC GB"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://gizmodo.com/io9",
+      "lineNumber": 67,
+      "columnNumber": 19
+    },
+    "text": "tcData removed listener 0"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://sourcepoint.gizmodo.com/wrapperMessagingWithoutDetection.js",
+      "lineNumber": 0,
+      "columnNumber": 154615
+    },
+    "text": "Messaging without detection successfully executed."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://x.kinja-static.com/assets/new-client/prebid-js-staging.78bc430954692b549e0e.js",
+      "lineNumber": 0,
+      "columnNumber": 46792
+    },
+    "text": "fun-hooks: referenced 'registerAdserver' but it was never created"
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062509",
+      "lineNumber": 5,
+      "columnNumber": 84240
+    },
+    "text": "updateCorrelator has been deprecated. Please see the Google Ad Manager help page on \"Pageviews in GPT\" for more information: https://support.google.com/admanager/answer/183281?hl=en"
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062509",
+      "lineNumber": 5,
+      "columnNumber": 116668
+    },
+    "text": "[GPT] updateCorrelator has been deprecated. See the Google Ad Manager help page on \"Creative selection for multiple ad slots\" for more information: https://support.google.com/admanager/answer/183281."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062509",
+      "lineNumber": 5,
+      "columnNumber": 116668
+    },
+    "text": "[GPT] Invalid arguments: PubAdsService.setTargeting('forcedAdZone', false)."
+  },
+  {
+    "type": "error",
+    "location": {
+      "url": "https://cd.connatix.com/connatix.playspace.js",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "Failed to load resource: the server responded with a status of 403 ()"
+  },
+  {
+    "type": "admeasure",
+    "text": "Looking for dialogs to reject..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting for __tcfapi..."
+  },
+  {
+    "type": "admeasure",
+    "text": "__tcfapi found! Querying status..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingWaiting."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingLoaded."
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data obtained!"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data: cmpId 6 consent false, legInt false."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Network is idle after 0.34s."
+  },
+  {
+    "type": "admeasure",
+    "text": "Minimum wait time reached after 5.00s."
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "part": "measure-63",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:17:33.554Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "visit https://challenges.fr/...",
+    "timestamp": "2021-09-09T13:17:34.251Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:17:55.739Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:17:55.753Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:17:59.369Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:17:59.375Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:18:00.582Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:18:00.588Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:00.692Z"
+  },
+  {
+    "part": "console.log",
+    "message": "define: /21775459675/FR_CHALLENGE/FR_Challenges.fr_DHTML_HP into pub_dhtml @ [object Object]",
+    "timestamp": "2021-09-09T13:18:01.257Z"
+  },
+  {
+    "part": "console.log",
+    "message": "define: /21775459675/FR_CHALLENGE/FR_Challenges.fr_BAN_ATF_HP into moneytag-BAN-ATF @ [object Object]",
+    "timestamp": "2021-09-09T13:18:01.263Z"
+  },
+  {
+    "part": "console.log",
+    "message": "define: /21775459675/FR_CHALLENGE/FR_Challenges.fr_MPU_MOB_ATF_HP into moneytag-MPU-ATF @ [object Object]",
+    "timestamp": "2021-09-09T13:18:01.274Z"
+  },
+  {
+    "part": "console.log",
+    "message": "define: /21775459675/FR_CHALLENGE/FR_Challenges.fr_MPU_MOB_MTF_HP into moneytag-MPU-MTF @ [object Object]",
+    "timestamp": "2021-09-09T13:18:01.285Z"
+  },
+  {
+    "part": "console.log",
+    "message": "define: /21775459675/FR_CHALLENGE/FR_Challenges.fr_MPU_MOB_BTF_HP into moneytag-MPU-BTF @ [object Object]",
+    "timestamp": "2021-09-09T13:18:01.296Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "VIDEOJS: WARN: A plugin named \"errors\" already exists. You may want to avoid re-registering plugins! @ [object Object]",
+    "timestamp": "2021-09-09T13:18:03.496Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "VIDEOJS: WARN: videojs.plugin() is deprecated; use videojs.registerPlugin() instead @ [object Object]",
+    "timestamp": "2021-09-09T13:18:03.506Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "VIDEOJS: WARN: videojs.plugin() is deprecated; use videojs.registerPlugin() instead @ [object Object]",
+    "timestamp": "2021-09-09T13:18:03.520Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:18:03.775Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Double Preroll status true @ [object Object]",
+    "timestamp": "2021-09-09T13:18:05.066Z"
+  },
+  {
+    "part": "console.log",
+    "message": "StandBy - Waiting for Cmp Response @ [object Object]",
+    "timestamp": "2021-09-09T13:18:05.519Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "dialog accept failed: \n  - TimeoutError: page.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=primary]\"\n    ============================================================\n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-accept-btn-handler:visible,\n            .optanon-allow-all:visible,\n            .optanon-button-allow:visible,\n            #onetrust-pc-sdk #accept-recommended-btn-handler:visible\n        \"\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:18:25.813Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:18:52.301Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:18:52.322Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:57.738Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:19:49.278Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:19:49.278Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:19:59.460Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "TCF data: cmpId 7 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:19:59.466Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:19:59.532Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:20:00.971Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:20:04.534Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:20:19.540Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:20:19.595Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:20:19.634Z"
+  }
+]

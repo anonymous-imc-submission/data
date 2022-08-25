@@ -1,0 +1,135 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://mundoprimaria.com/..."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://cdn-a.yieldlove.com/yieldlove-bidder.js?mundoprimaria.com_homeypaginasinternas_es",
+      "lineNumber": 14,
+      "columnNumber": 152409
+    },
+    "text": "Messaging without detection successfully executed."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.mundoprimaria.com/wp-includes/js/jquery/jquery-migrate.min.js",
+      "lineNumber": 1,
+      "columnNumber": 708
+    },
+    "text": "JQMIGRATE: Migrate is installed, version 3.3.2"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.mundoprimaria.com/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js",
+      "lineNumber": 0,
+      "columnNumber": 4321
+    },
+    "text": "q2w3_sidebar_options not found!"
+  },
+  {
+    "type": "admeasure",
+    "text": "Looking for dialogs to reject..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting for __tcfapi..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint iframe found!"
+  },
+  {
+    "type": "error",
+    "location": {
+      "url": "https://www.mundoprimaria.com/resources/cmp/customization.css",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "Failed to load resource: the server responded with a status of 404 ()"
+  },
+  {
+    "type": "admeasure",
+    "text": "__tcfapi found! Querying status..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingWaiting."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingLoaded."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Button clicked: Options"
+  },
+  {
+    "type": "admeasure",
+    "text": "Found Sourcepoint privacy manager."
+  },
+  {
+    "type": "error",
+    "location": {
+      "url": "https://www.mundoprimaria.com/resources/cmp/customization.css",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "Failed to load resource: the server responded with a status of 404 ()"
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: toggling type toggles."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Check for legitimate interest button..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: no legitimate interest button found: No matching button found: "
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Find the save button."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint dialog rejected."
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data obtained!"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data: cmpId 6 consent false, legInt false."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Network is idle after 0.00s."
+  },
+  {
+    "type": "admeasure",
+    "text": "Minimum wait time reached after 5.00s."
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

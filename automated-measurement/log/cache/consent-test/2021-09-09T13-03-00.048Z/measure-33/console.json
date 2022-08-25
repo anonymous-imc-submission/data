@@ -1,0 +1,112 @@
+[
+  {
+    "part": "measure-33",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:13:36.806Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "visit https://b1.ro/...",
+    "timestamp": "2021-09-09T13:13:37.375Z"
+  },
+  {
+    "part": "console.log",
+    "message": "1 @ [object Object]",
+    "timestamp": "2021-09-09T13:13:43.442Z"
+  },
+  {
+    "part": "console.log",
+    "message": "HasAdBlock : No @ [object Object]",
+    "timestamp": "2021-09-09T13:13:43.442Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Unrecognized feature: 'conversion-measurement'. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:51.930Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Origin trial controlled feature not enabled: 'attribution-reporting'. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:51.932Z"
+  },
+  {
+    "part": "console.log",
+    "message": "{wordpress: true, appId: 5c5402a1-88ef-43db-984b-1a09e883d401, allowLocalhostAsSecureOrigin: true, welcomeNotification: Object, path: https://www.b1tv.ro/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/} @ [object Object]",
+    "timestamp": "2021-09-09T13:13:52.885Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:13:53.076Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:13:53.078Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:13:53.567Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:53.568Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:13:53.622Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:13:53.633Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:53.767Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:13:53.781Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:14:13.391Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:14:13.395Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:14:13.412Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:14:13.417Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:14:13.477Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:14:18.413Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:14:18.469Z"
+  }
+]

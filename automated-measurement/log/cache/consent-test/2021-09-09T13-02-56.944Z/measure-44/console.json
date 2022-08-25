@@ -1,0 +1,167 @@
+[
+  {
+    "part": "measure-44",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:17:07.334Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "visit https://slidesgo.com/...",
+    "timestamp": "2021-09-09T13:17:08.012Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Invalid allowlist item(none) for feature geolocation. Allowlist item must be *, self or quoted url. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:08.265Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Invalid allowlist item(none) for feature midi. Allowlist item must be *, self or quoted url. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:08.271Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Invalid allowlist item(none) for feature notifications. Allowlist item must be *, self or quoted url. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:08.271Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Invalid allowlist item(none) for feature push. Allowlist item must be *, self or quoted url. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:08.271Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Invalid allowlist item(none) for feature sync-xhr. Allowlist item must be *, self or quoted url. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:08.271Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Invalid allowlist item(none) for feature microphone. Allowlist item must be *, self or quoted url. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:08.271Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Invalid allowlist item(none) for feature camera. Allowlist item must be *, self or quoted url. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:08.271Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Invalid allowlist item(none) for feature magnetometer. Allowlist item must be *, self or quoted url. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:08.271Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Invalid allowlist item(none) for feature gyroscope. Allowlist item must be *, self or quoted url. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:08.271Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Invalid allowlist item(none) for feature speaker. Allowlist item must be *, self or quoted url. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:08.274Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Invalid allowlist item(none) for feature vibrate. Allowlist item must be *, self or quoted url. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:08.274Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Invalid allowlist item(none) for feature payment. Allowlist item must be *, self or quoted url. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:08.274Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Unrecognized feature: 'notifications'. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:08.274Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Unrecognized feature: 'push'. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:08.274Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Unrecognized feature: 'speaker'. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:08.279Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Unrecognized feature: 'vibrate'. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:08.279Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:17:13.273Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:17:13.278Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:17:13.799Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:17:13.812Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:17:13.827Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:17:13.831Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:17:13.939Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:17:13.946Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:17:28.220Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:17:28.221Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:17:28.300Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:17:28.316Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:17:28.374Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:17:33.300Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:17:33.396Z"
+  }
+]

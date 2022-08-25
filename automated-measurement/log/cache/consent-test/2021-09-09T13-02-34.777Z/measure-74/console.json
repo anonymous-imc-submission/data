@@ -1,0 +1,187 @@
+[
+  {
+    "part": "measure-74",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:16:12.585Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "visit https://ontheflix.com/...",
+    "timestamp": "2021-09-09T13:16:12.771Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Mixed Content: The page at 'https://ontheflix.com/' was loaded over HTTPS, but requested an insecure script 'http://edge.quantserve.com/quant.js'. This request has been blocked; the content must be served over HTTPS. @ [object Object]",
+    "timestamp": "2021-09-09T13:16:15.975Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:16:18.342Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Choice CMP v1 is deprecated, please upgrade to Choice CMP v2. https://help.quantcast.com/hc/en-us/articles/360057828994-Quantcast-Choice-Deprecates-TCF-v1-1-version-with-holistic-move-to-TCF-v2-0 @ [object Object]",
+    "timestamp": "2021-09-09T13:16:19.470Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Web Push Notifications powered by Webpushr @ [object Object]",
+    "timestamp": "2021-09-09T13:16:19.529Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Invalid arguments: PubAdsService.refresh(). @ [object Object]",
+    "timestamp": "2021-09-09T13:16:21.825Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Boomerang: __uspapi: Invalid command: undefined @ [object Object]",
+    "timestamp": "2021-09-09T13:16:23.273Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:16:23.365Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://adserver-us.adtech.advertising.com/pubapi/3.0/10630.1/4225423/0/0/ADTECH;v=2;cmd=bid;cors=yes;alias=20b2d7fe8c6418c;misc=1631193379343;' from origin 'https://ontheflix.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:16:24.080Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:16:24.085Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://adserver-us.adtech.advertising.com/pubapi/3.0/10630.1/4225424/0/0/ADTECH;v=2;cmd=bid;cors=yes;alias=21776aae0cdc634;misc=1631193379343;' from origin 'https://ontheflix.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:16:24.086Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:16:24.086Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://adserver-us.adtech.advertising.com/pubapi/3.0/10630.1/4579446/0/0/ADTECH;v=2;cmd=bid;cors=yes;alias=229aa20abe3e71f;misc=1631193379344;' from origin 'https://ontheflix.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:16:24.086Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:16:24.086Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://adserver-us.adtech.advertising.com/pubapi/3.0/10630.1/4282287/0/0/ADTECH;v=2;cmd=bid;cors=yes;alias=23d70e46758d28;misc=1631193379344;' from origin 'https://ontheflix.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:16:24.086Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:16:24.087Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://adserver-us.adtech.advertising.com/pubapi/3.0/10630.1/4225426/0/0/ADTECH;v=2;cmd=bid;cors=yes;alias=244a58440fe85c4;misc=1631193379344;' from origin 'https://ontheflix.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:16:24.088Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:16:24.095Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c Push notifications powered by: FoxPush.com  background: #222; color: #bada55;font-size:20px; @ [object Object]",
+    "timestamp": "2021-09-09T13:16:24.282Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'checkAdUnitSetup' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:16:29.449Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'checkAdUnitSetup' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:16:29.491Z"
+  },
+  {
+    "part": "console.log",
+    "message": "indexed-db.js >>> Init @ [object Object]",
+    "timestamp": "2021-09-09T13:16:30.960Z"
+  },
+  {
+    "part": "console.log",
+    "message": "indexed-db.js >>> init DB - indexedDB @ [object Object]",
+    "timestamp": "2021-09-09T13:16:30.964Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:16:31.001Z"
+  },
+  {
+    "part": "console.log",
+    "message": "indexed-db.js >>> Init @ [object Object]",
+    "timestamp": "2021-09-09T13:16:31.057Z"
+  },
+  {
+    "part": "console.log",
+    "message": "indexed-db.js >>> init DB - indexedDB @ [object Object]",
+    "timestamp": "2021-09-09T13:16:31.060Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:16:31.083Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'checkAdUnitSetup' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:16:31.761Z"
+  },
+  {
+    "part": "console.log",
+    "message": "removing player @ [object Object]",
+    "timestamp": "2021-09-09T13:16:33.083Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:16:33.334Z"
+  },
+  {
+    "part": "console.log",
+    "message": "ERROR Thu Sep 09 2021 13:16:34 GMT+0000 (Koordinierte Weltzeit) [object Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:16:34.254Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Origin trial controlled feature not enabled: 'trust-token-redemption'. @ [object Object]",
+    "timestamp": "2021-09-09T13:16:35.813Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:16:35.998Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:16:36.286Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://ontheflix.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:16:42.837Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:16:43.105Z"
+  }
+]

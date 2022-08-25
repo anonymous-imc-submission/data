@@ -1,0 +1,112 @@
+[
+  {
+    "part": "measure-75",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:16:56.786Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "visit https://womansday.com/...",
+    "timestamp": "2021-09-09T13:16:56.909Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:16:58.812Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:16:59.366Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:16:59.375Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:17:00.093Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:17:00.093Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:17:00.125Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:17:00.129Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:17:00.168Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:17:00.743Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:17:00.744Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:17:00.750Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:17:00.799Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:17:02.777Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:17:05.300Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:17:05.750Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:17:05.969Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "This ad's html cannot be accessed using the getHtml method on googletag.Slot. Returning the empty string instead. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:07.646Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2109032350000 https://www.womansday.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:17:08.169Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Network is idle after 15.5s.",
+    "timestamp": "2021-09-09T13:17:16.240Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:17:16.630Z"
+  }
+]

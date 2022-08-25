@@ -1,0 +1,62 @@
+[
+  {
+    "part": "measure-40",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:10:19.870Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "visit https://protv.ro/...",
+    "timestamp": "2021-09-09T13:10:20.587Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "<link rel=preload> must have a valid `as` value @ [object Object]",
+    "timestamp": "2021-09-09T13:10:21.401Z"
+  },
+  {
+    "part": "console.log",
+    "message": "1 @ [object Object]",
+    "timestamp": "2021-09-09T13:10:31.046Z"
+  },
+  {
+    "part": "console.log",
+    "message": "HasAdBlock : No @ [object Object]",
+    "timestamp": "2021-09-09T13:10:31.047Z"
+  },
+  {
+    "part": "console.log",
+    "message": "CPMRE4HPMRE4HAcABBENBiCgAAAAAAAAAChQAAAAAAJggAQCogHyhILwACAAFwAUABUADIAHIAPABAADAAGUANAA1AB5AEMARQAmABPgCqAKwAWAA3gBzAD0AH4AQgAhoBEAESAI6ASwBLgCaAFKALcAYYAyABlwDUANUAbIA7wB7AD4gH2AfoBAACBwEXARgAjQBHACUgFBAKWAU8Aq4BcwDFAGsANoAbgA3gBxAD0AHyAQ2Ah0BF4CRAExAJlATYAnYBQ4CkQFNALFAWgAtgBcgC7wF5gMCAYMAwkBhoDDwGRAMkAZOAy4BnIDPgGkANOgawBrIDdYHIgcqA5cB0YDrAHjgPaAfKEAYwAOAA8AEgAfwBIgDNAG1AOYA5wB1AEHAJ-AUMA0QB1QEPgI9ASEAkUBKwCbQFPgKiAWEAugBdQC7QF5AMQAYsAyEBkYDJgGhANGAaUA1MBtADbgG6AOkAdgA7MB3QDwIHkgeUA90B8gD7AH7gQEDQKAArABcAEMAMgAZYA1ABsgDsAH4AQAAgoBGAClgFPAKvAWgBaQDWAG8AOqAfIBDoCKgEXgJEATYAnYBSIC5AGBAMJAYeAxgBk4DOQGeAM-AckA5QB1gD8AwA4AcwB1AENgJCASKAqIBfQDIwGhAN0AcSA7MB7oD5RAA0AEgA5gDeAIbASEAkUBUQDQgG6AOJAdmA90B8oiBCAFYAQwAyABlgDUAGyAOwAfgBAACMAFLAKeAVcA1gB1QD5AIdAReAkQBNgCdgFIgLkAYEAwkBh4DJwGcgM-AckA5QB1gD8BUCAACgAQwAmABcAEcAMsAagA7AB-AEYAI4AUsAq8BaAFpAN4AkEBMQCbAFNgLYAXIAvMBgQDDwGRAM5AZ4Az4BuQDkgHKAPwFADQBtADmAHgAQUA6oCPQEigKiAX0A0IBrwDiQH2DIDwAFAAhgBMAEcAMsAagA7IB9gH4ARgAjgBSwCrgFbAN4Ak4BMQCbAFogLYAXmAwIBh4DIgGcgM8AZ8A5IBygD4gH4DABgA2gBzADwALEAdUBHoCRQFRALyAaEA4kB9g4CuAAiABwAHgAXABIADkAH4AZAA0AB_AEiALMAZYAzQBtQDmAOcAdQA7AB3AEAAILAQcBCACIgE2gJ8An4BSwCoAFtAL1AYABgQDMgGsANeAbwA44B0gDqgHkAPkAhABD4CPQEhAJFgSsBK4CYgEygJtAUKApABSYCmAFTAKqAVsArsBZQC1AFxQLoAuoBfQDAgGIAMWAZCAyYBl4DQoGigaMA0oBpoDUwGvANoAbYA24BxMDjwOQAdIA7AB2YDtQHgQPJA8oB7oD4gH2QP2A_cdB3AAXABQAFQAMgAcgA-AEAALoAYABlADQANQAeAA-gCGAIoATAAnwBVAFYALEAXABdAC-AGIAMwAbwA5gB6AD8AIQAQ0AiACJAEdAJYAmABNACjAFKALEAW8AwgDDAGQAMoAaIA1ABsgDfAHeAPaAfYB-gD_AIHARYBGACOQEpASoAoIBTwCrgFigLQAtIBcwC6gF5AMUAbQA3ABxIDpgOoAegBDYCHQERAIqAReAkEBIgCVAEyAJsATsAocBTQCrAFigLQgWwBbIC4AFyALtAXeAvMBgwDCQGGgMPAYkAxgBjwDJAGTgMqAZYAy4BnIDPgGiQNIA0kBpYDTgGqgNYAbGA3UBxcDkgOVAcuA6MB1gDxwHpAPVAe0A-UB9cD8APxAgCQAZAAIAB-AGgAP4AkQBlgDagHMAc4A7AB4AEFAJ8AUsAsQBgADMgG8AOqAdsBD4CPQEhAJFASuAmIBNoChQFIAKTAVEArYBdAC8gF9AMCAaEA0UBpQDUwG2ANuAcSA7CB5IHlAPRAe6A-IB9gD9gH8EIIYACwAKAAZABcADEAIYATAApgBVAC4AF8AMQAZgA3gB6AEcALEAYQAygBqADfAHfAPsA_AB_gEYAI4ASkAoIBQwCngFXgLQAtIBcwDFAG0AOoAegBIICRAEnAJUATYApoBYoC0YFsAW0AuABcgC7QGHgMSAZEAycBnIDPAGfANEAaSA0sBqoDgAHJAOjAdYA7UB44D8CUD4ABAACwAKAAZAA5ADAAMQAeABEACYAFUALgAXwAxABmADaAIQAQ0AiACJAEcAKMAUoAtwBhADKAGqANkAd4A_ACMAEcAJOAU8Aq8BaAFpALqAYoA3AB1AD5AIdARUAi8BIgCbAFigLYAXaAvMBh4DIgGTgMsAZyAzwBnwDSAGsAOAAdYA7UB7QD8CQCgABwAFwAQgA5ACWAGQASIAuQBlgDUAG0AOYAdwBAACEgE-AKgAZkA14BvADqgH2AR6AkUBKwCbQFJgLKAXQAvoBiwDQgGlANyAcSA6QB2ADygH2QP3A_gpBTAAXABQAFQAMgAcgA-AEEAMAAygBoAGoAPIAhgCKAEwAJ4AUgAqgBYAC-AGIAMwAcwA_ACEAENAIgAiQBRgClAFiALcAYQAygBogDVAGyAO-AfYB-gEWAIwARwAlIBQQChgFXAK2AXMAvIBigDaAG4APQAh0BF4CRAEnAJsATsAocBYoC0AFsALgAXIAu0BeYDDQGHgMYAZEAyQBk4DLgGcgM8AZ9A0gDSYGsAayA2MBusDkwOUAcuA6wB2oDxwHtAPlAfgUAigAXABCACQAHIAPwArABkADaAI4ASIAuQBlgDUAGuANqAcwBzgDqAHcAPAAgABCQCKgEiAJOATYAncBPgE_AKWAWIAuoBgADXgG8AOqAdsA8gB_wEegJFATEAmUBNoCkAFMAKfAVEAqYBWwCuwF0ALyAX0AwIBiwDJgGhANEAaUA02BqQGpgNeAcSA7AB2YDygHugPiAfZA_YD-A.YAAAAAAAAAAA @ [object Object]",
+    "timestamp": "2021-09-09T13:10:37.721Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:10:38.841Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "15:10:41,429 com.stickyadstv.utils.Browser addEventListenerForTCData failed with err:  TypeError: Cannot read properties of undefined (reading 'bind')\n    at f.Vn (https://cdn.stickyadstv.com/mustang/vpaid-adapter.min.js:140:136)\n    at f.yp (https://cdn.stickyadstv.com/mustang/vpaid-adapter.min.js:142:136)\n    at s.callback (https://cdn.stickyadstv.com/mustang/vpaid-adapter.min.js:142:387)\n    at s.r.invokeCallback (https://cookie-cdn.cookiepro.com/scripttemplates/6.23.0/otTCF.js:1:49986)\n    at s.respond (https://cookie-cdn.cookiepro.com/scripttemplates/6.23.0/otTCF.js:1:50705)\n    at s.r (https://cookie-cdn.cookiepro.com/scripttemplates/6.23.0/otTCF.js:1:50131)\n    at new s (https://cookie-cdn.cookiepro.com/scripttemplates/6.23.0/otTCF.js:1:50969)\n    at o.apiCall (https://cookie-cdn.cookiepro.com/scripttemplates/6.23.0/otTCF.js:1:63576)\n    at f.ck (https://cdn.stickyadstv.com/mustang/vpaid-adapter.min.js:142:352)\n    at f.Qk (https://cdn.stickyadstv.com/mustang/vpaid-adapter.min.js:139:454) undefined @ [object Object]",
+    "timestamp": "2021-09-09T13:10:41.660Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 400 () @ [object Object]",
+    "timestamp": "2021-09-09T13:10:42.163Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ [object Object]",
+    "timestamp": "2021-09-09T13:10:50.434Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://protv.ro/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:10:50.604Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:10:50.667Z"
+  }
+]

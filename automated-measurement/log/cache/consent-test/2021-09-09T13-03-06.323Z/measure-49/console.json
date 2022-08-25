@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-49",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:14:44.357Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "visit https://amrkhaled.net/...",
+    "timestamp": "2021-09-09T13:14:50.103Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:14:52.729Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:14:52.744Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:14:53.531Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The googletag.pubads().definePassback function has been deprecated. The function may break in certain contexts, see https://developers.google.com/publisher-tag/guides/passback-tags#construct_passback_tags for how to correctly create a passback. @ [object Object]",
+    "timestamp": "2021-09-09T13:14:54.462Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 500 () @ [object Object]",
+    "timestamp": "2021-09-09T13:15:01.987Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://amrkhaled.net/ @ [object Object]",
+    "timestamp": "2021-09-09T13:15:03.109Z"
+  },
+  {
+    "part": "console.log",
+    "message": "ready @ [object Object]",
+    "timestamp": "2021-09-09T13:15:03.916Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:15:06.684Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:15:06.685Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "dialog accept failed: \n  - TimeoutError: page.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=primary]\"\n    ============================================================\n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-accept-btn-handler:visible,\n            .optanon-allow-all:visible,\n            .optanon-button-allow:visible,\n            #onetrust-pc-sdk #accept-recommended-btn-handler:visible\n        \"\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:15:36.752Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "__tcfapi not found: TimeoutError: page.waitForFunction: Timeout 30000ms exceeded.",
+    "timestamp": "2021-09-09T13:15:36.825Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "TCF data: cmpId null consent null, legInt null.",
+    "timestamp": "2021-09-09T13:15:36.825Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:15:36.844Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:15:36.858Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:15:41.845Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:15:41.916Z"
+  }
+]

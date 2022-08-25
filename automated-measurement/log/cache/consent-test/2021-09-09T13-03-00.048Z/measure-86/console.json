@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-86",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:32:02.380Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "visit https://vouchercloud.com/...",
+    "timestamp": "2021-09-09T13:32:07.918Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:32:21.382Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:32:21.402Z"
+  },
+  {
+    "part": "console.log",
+    "message": "ServiceWorker: https://www.vouchercloud.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:32:23.734Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:32:24.101Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:32:24.137Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:32:24.297Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:32:24.306Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:32:24.319Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:32:24.337Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:32:37.567Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:32:37.568Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:32:37.580Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:32:37.583Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:32:37.640Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:32:42.583Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:32:42.668Z"
+  }
+]

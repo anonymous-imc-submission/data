@@ -1,0 +1,62 @@
+[
+  {
+    "part": "measure-30",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:10:21.691Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "visit https://dailypuppy.com/...",
+    "timestamp": "2021-09-09T13:10:22.244Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 500 () @ [object Object]",
+    "timestamp": "2021-09-09T13:10:23.044Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:10:23.256Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:10:23.257Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-pc-btn-handler:visible,\n            #onetrust-pc-sdk:visible\n        \" to be visible\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:10:53.282Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "__tcfapi not found: TimeoutError: page.waitForFunction: Timeout 30000ms exceeded.",
+    "timestamp": "2021-09-09T13:10:53.293Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "TCF data: cmpId null consent null, legInt null.",
+    "timestamp": "2021-09-09T13:10:53.294Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:10:53.301Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:10:53.302Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:10:58.302Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:10:58.315Z"
+  }
+]

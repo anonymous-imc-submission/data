@@ -1,0 +1,42 @@
+[
+  {
+    "part": "measure-79",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:29:39.589Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "visit https://spektrum.de/...",
+    "timestamp": "2021-09-09T13:29:42.581Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://3193eac2.de.ioam.de/tx.io?st=mobspekw&cp=SDW_home&sv=ke&sc=yes&ct=0000000000&pt=CP&ps=lin&er=N22&rf=&r2=&ur=www.spektrum.de&xy=393x851x24&lo=GB%2FSlough&cb=0017&i2=0017be37681f964ba613a0c48&ep=1654466893&vr=434&id=ql1pml&i3=0017be37681f964ba613a0c48%3A1657459794505%3A1631194194505%3A.spektrum.de%3A1%3Amobspekw%3ASDW_home%3Anoevent%3A1631194194505&n1=2&dntt=0&lt=1631194194706&ev=&cs=h3ffu5&mo=1, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:29:54.809Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://3193eac2.de.ioam.de/tx.io?st=mobspekw&cp=SDW_home&sv=ke&sc=yes&ct=0000000000&pt=CP&ps=lin&er=N22&rf=&r2=&ur=www.spektrum.de&xy=393x851x24&lo=GB%2FSlough&cb=0017&i2=0017be37681f964ba613a0c48&ep=1654466893&vr=434&id=ql1pml&i3=0017be37681f964ba613a0c48%3A1657459794505%3A1631194194505%3A.spektrum.de%3A1%3Amobspekw%3ASDW_home%3Anoevent%3A1631194194505&n1=2&dntt=0&lt=1631194194706&ev=&cs=h3ffu5&mo=1, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:29:54.821Z"
+  },
+  {
+    "part": "console.log",
+    "message": "gdpr_GPT2_utils_AST_tcfv2strict_xandr > IQD.adapter.isGPT =  false  _  boolean @ [object Object]",
+    "timestamp": "2021-09-09T13:29:58.005Z"
+  },
+  {
+    "part": "console.log",
+    "message": "gdpr_GPT2_utils_AST_tcfv2strict_xandr > IQD.adapter.isAST =  false  _  boolean @ [object Object]",
+    "timestamp": "2021-09-09T13:29:58.006Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://spektrum.de/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:30:12.802Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:30:13.216Z"
+  }
+]

@@ -1,0 +1,225 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://dualshockers.com/..."
+  },
+  {
+    "type": "info",
+    "location": {
+      "url": "https://cdn.ampproject.org/v0.js",
+      "lineNumber": 4,
+      "columnNumber": 24611
+    },
+    "text": "Powered by AMP ⚡ HTML – Version 2108280007001 https://www.dualshockers.com/"
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://s.grvmedia.com/js/dualshockers-loader-min.js?v=2.23.1-5",
+      "lineNumber": 0,
+      "columnNumber": 165141
+    },
+    "text": "fun-hooks: referenced 'registerAdserver' but it was never created"
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+      "lineNumber": 5,
+      "columnNumber": 0
+    },
+    "text": "Failed to execute 'write' on 'Document': It isn't possible to write into a document from an asynchronously-loaded external script unless it is explicitly opened."
+  },
+  {
+    "type": "error",
+    "location": {
+      "url": "https://www.dualshockers.com/",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "Access to XMLHttpRequest at 'https://c.amazon-adsystem.com/cdn/prod/config?src=600&u=https%3A%2F%2Fwww.dualshockers.com%2F&pubid=4d2382bb-433d-4080-a0a8-605993b48b22' from origin 'https://www.dualshockers.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource."
+  },
+  {
+    "type": "error",
+    "location": {
+      "url": "https://c.amazon-adsystem.com/cdn/prod/config?src=600&u=https%3A%2F%2Fwww.dualshockers.com%2F&pubid=4d2382bb-433d-4080-a0a8-605993b48b22",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "Failed to load resource: net::ERR_FAILED"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://cmpv2.dualshockers.com/wrapperMessagingWithoutDetection.js",
+      "lineNumber": 0,
+      "columnNumber": 154615
+    },
+    "text": "Messaging without detection successfully executed."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://ccpa.sp-prod.net/ccpa.js",
+      "lineNumber": 0,
+      "columnNumber": 55949
+    },
+    "text": "CCPA script successfully executed."
+  },
+  {
+    "type": "info",
+    "location": {
+      "url": "https://ats.rlcdn.com/ats.js",
+      "lineNumber": 0,
+      "columnNumber": 147309
+    },
+    "text": "INFO - (ATS) Location of the user is in country that has GDPR regulation!"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://ats.rlcdn.com/ats.js",
+      "lineNumber": 0,
+      "columnNumber": 147309
+    },
+    "text": "DEBUG - (ATS) Called TCF API - no consent has been given."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://ats.rlcdn.com/ats.js",
+      "lineNumber": 0,
+      "columnNumber": 147309
+    },
+    "text": "DEBUG - (ATS) There is no such url parameter. \n Tried to fetch: email"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://ats.rlcdn.com/ats.js",
+      "lineNumber": 0,
+      "columnNumber": 147309
+    },
+    "text": "DEBUG - (ATS) There is no such url parameter. \n Tried to fetch: phoneNumber"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://ats.rlcdn.com/ats.js",
+      "lineNumber": 0,
+      "columnNumber": 147309
+    },
+    "text": "DEBUG - (ATS) There is no such url parameter. \n Tried to fetch: hashedPid"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://ats.rlcdn.com/ats.js",
+      "lineNumber": 0,
+      "columnNumber": 147309
+    },
+    "text": "DEBUG - (ATS) There is no such url parameter. \n Tried to fetch: envelope"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://ats.rlcdn.com/ats.js",
+      "lineNumber": 0,
+      "columnNumber": 147309
+    },
+    "text": "DEBUG - (ATS) Detection started! Library is configured to detect:  all"
+  },
+  {
+    "type": "info",
+    "location": {
+      "url": "https://ats.rlcdn.com/ats.js",
+      "lineNumber": 0,
+      "columnNumber": 147309
+    },
+    "text": "INFO - (ATS) Detection event type is  onblur"
+  },
+  {
+    "type": "admeasure",
+    "text": "Looking for dialogs to reject..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting for __tcfapi..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint iframe found!"
+  },
+  {
+    "type": "admeasure",
+    "text": "__tcfapi found! Querying status..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingWaiting."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingLoaded."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Button clicked: MY OPTIONS"
+  },
+  {
+    "type": "admeasure",
+    "text": "Found Sourcepoint privacy manager."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: toggling type toggles."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Check for legitimate interest button..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: no legitimate interest button found: No matching button found: "
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Find the save button."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint dialog rejected."
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data obtained!"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data: cmpId 6 consent false, legInt false."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Network is idle after 0.00s."
+  },
+  {
+    "type": "admeasure",
+    "text": "Minimum wait time reached after 5.00s."
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

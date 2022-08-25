@@ -1,0 +1,412 @@
+[
+  {
+    "part": "measure-59",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:13:42.605Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "visit https://condenast.com/...",
+    "timestamp": "2021-09-09T13:13:42.892Z"
+  },
+  {
+    "part": "console.log",
+    "message": "to/ @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.036Z"
+  },
+  {
+    "part": "console.log",
+    "message": "to/ @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.048Z"
+  },
+  {
+    "part": "console.log",
+    "message": "to#main-content @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.064Z"
+  },
+  {
+    "part": "console.log",
+    "message": "to/ @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.077Z"
+  },
+  {
+    "part": "console.log",
+    "message": "to/ @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.080Z"
+  },
+  {
+    "part": "console.log",
+    "message": "as/about @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.089Z"
+  },
+  {
+    "part": "console.log",
+    "message": "as/brands-and-markets/brands @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.091Z"
+  },
+  {
+    "part": "console.log",
+    "message": "as/stores @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.092Z"
+  },
+  {
+    "part": "console.log",
+    "message": "as/commercial @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.096Z"
+  },
+  {
+    "part": "console.log",
+    "message": "as/entertainment @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.099Z"
+  },
+  {
+    "part": "console.log",
+    "message": "as/news @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.102Z"
+  },
+  {
+    "part": "console.log",
+    "message": "as/careers @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.103Z"
+  },
+  {
+    "part": "console.log",
+    "message": "as/colleges @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.109Z"
+  },
+  {
+    "part": "console.log",
+    "message": "as/sustainability @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.111Z"
+  },
+  {
+    "part": "console.log",
+    "message": "as/diversity-inclusion @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.115Z"
+  },
+  {
+    "part": "console.log",
+    "message": "as/about @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.121Z"
+  },
+  {
+    "part": "console.log",
+    "message": "as/brands-and-markets/brands @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.122Z"
+  },
+  {
+    "part": "console.log",
+    "message": "as/stores @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.125Z"
+  },
+  {
+    "part": "console.log",
+    "message": "as/commercial @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.129Z"
+  },
+  {
+    "part": "console.log",
+    "message": "as/entertainment @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.132Z"
+  },
+  {
+    "part": "console.log",
+    "message": "as/news @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.135Z"
+  },
+  {
+    "part": "console.log",
+    "message": "as/careers @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.136Z"
+  },
+  {
+    "part": "console.log",
+    "message": "as/colleges @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.145Z"
+  },
+  {
+    "part": "console.log",
+    "message": "as/sustainability @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.149Z"
+  },
+  {
+    "part": "console.log",
+    "message": "as/diversity-inclusion @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.150Z"
+  },
+  {
+    "part": "console.log",
+    "message": "sliderContainer not built yet @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.170Z"
+  },
+  {
+    "part": "console.log",
+    "message": "to/ @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.201Z"
+  },
+  {
+    "part": "console.log",
+    "message": "to#our-brands @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.205Z"
+  },
+  {
+    "part": "console.log",
+    "message": "to#our-markets @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.208Z"
+  },
+  {
+    "part": "console.log",
+    "message": "to#our-people2 @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.210Z"
+  },
+  {
+    "part": "console.log",
+    "message": "to#passion-and-progress @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.216Z"
+  },
+  {
+    "part": "console.log",
+    "message": "to#conde-code @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.218Z"
+  },
+  {
+    "part": "console.log",
+    "message": "to/brands-and-markets @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.322Z"
+  },
+  {
+    "part": "console.log",
+    "message": "toabout#markets @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.382Z"
+  },
+  {
+    "part": "console.log",
+    "message": "to/careers @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.421Z"
+  },
+  {
+    "part": "console.log",
+    "message": "to/passion-and-progress @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.433Z"
+  },
+  {
+    "part": "console.log",
+    "message": "to/passion-and-progress @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.438Z"
+  },
+  {
+    "part": "console.log",
+    "message": "to/passion-and-progress @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.453Z"
+  },
+  {
+    "part": "console.log",
+    "message": "tohttp://code.condenast.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.492Z"
+  },
+  {
+    "part": "console.log",
+    "message": "as/contact @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.505Z"
+  },
+  {
+    "part": "console.log",
+    "message": "as/user-agreement @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.506Z"
+  },
+  {
+    "part": "console.log",
+    "message": "as/privacy-policy @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.518Z"
+  },
+  {
+    "part": "console.log",
+    "message": "as/modern-slavery-policy-statement @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.520Z"
+  },
+  {
+    "part": "console.log",
+    "message": "as/tax-strategy @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.525Z"
+  },
+  {
+    "part": "console.log",
+    "message": "as/codes-of-conduct @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.526Z"
+  },
+  {
+    "part": "console.log",
+    "message": "as/advertising-terms-conditions/#termsandconditions @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.530Z"
+  },
+  {
+    "part": "console.log",
+    "message": "to/ @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.640Z"
+  },
+  {
+    "part": "console.log",
+    "message": "to#our-brands @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.644Z"
+  },
+  {
+    "part": "console.log",
+    "message": "to#our-markets @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.652Z"
+  },
+  {
+    "part": "console.log",
+    "message": "to#our-people2 @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.656Z"
+  },
+  {
+    "part": "console.log",
+    "message": "to#passion-and-progress @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.660Z"
+  },
+  {
+    "part": "console.log",
+    "message": "to#conde-code @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.665Z"
+  },
+  {
+    "part": "console.log",
+    "message": "sliderContainer not built yet @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.920Z"
+  },
+  {
+    "part": "console.log",
+    "message": "to/ @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.926Z"
+  },
+  {
+    "part": "console.log",
+    "message": "to#our-brands @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.933Z"
+  },
+  {
+    "part": "console.log",
+    "message": "to#our-markets @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.937Z"
+  },
+  {
+    "part": "console.log",
+    "message": "to#our-people2 @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.940Z"
+  },
+  {
+    "part": "console.log",
+    "message": "to#passion-and-progress @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.942Z"
+  },
+  {
+    "part": "console.log",
+    "message": "to#conde-code @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.951Z"
+  },
+  {
+    "part": "console.log",
+    "message": "to/brands-and-markets @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.969Z"
+  },
+  {
+    "part": "console.log",
+    "message": "toabout#markets @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.999Z"
+  },
+  {
+    "part": "console.log",
+    "message": "to/careers @ [object Object]",
+    "timestamp": "2021-09-09T13:13:46.015Z"
+  },
+  {
+    "part": "console.log",
+    "message": "to/passion-and-progress @ [object Object]",
+    "timestamp": "2021-09-09T13:13:46.031Z"
+  },
+  {
+    "part": "console.log",
+    "message": "to/passion-and-progress @ [object Object]",
+    "timestamp": "2021-09-09T13:13:46.038Z"
+  },
+  {
+    "part": "console.log",
+    "message": "to/passion-and-progress @ [object Object]",
+    "timestamp": "2021-09-09T13:13:46.048Z"
+  },
+  {
+    "part": "console.log",
+    "message": "tohttp://code.condenast.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:13:46.072Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:13:47.620Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:13:47.635Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:13:48.175Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:48.178Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:13:48.279Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:13:48.289Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:48.453Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:13:49.105Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "TCF data: cmpId 28 consent true, legInt false.",
+    "timestamp": "2021-09-09T13:13:49.105Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:13:49.124Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:13:49.126Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:13:49.163Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:13:54.126Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:13:54.170Z"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "part": "measure-90",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:33:05.591Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "visit https://beaconjournal.com/...",
+    "timestamp": "2021-09-09T13:33:08.828Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:33:29.581Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:33:35.591Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:33:35.732Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:33:38.482Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:33:38.484Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:33:38.634Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:33:38.644Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:33:39.153Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:33:39.159Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:33:39.650Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:33:39.756Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button id=\"onetrust-pc-btn-handler\">Manage Cookies</button>\nattempting click action\n  waiting for element to be visible, enabled and stable\n  element is visible, enabled and stable\n  scrolling into view if needed\n  done scrolling\n  checking that element receives pointer events at (211.48,662.87)\n  element does receive pointer events\n  performing click action\n============================================================",
+    "timestamp": "2021-09-09T13:33:41.879Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:33:45.323Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:33:50.653Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:33:50.669Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:33:50.722Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:33:50.738Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:33:51.027Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:33:55.736Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:33:55.895Z"
+  }
+]

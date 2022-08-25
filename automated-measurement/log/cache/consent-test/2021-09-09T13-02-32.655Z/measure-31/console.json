@@ -1,0 +1,62 @@
+[
+  {
+    "part": "measure-31",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:10:44.361Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "visit https://askamanager.org/...",
+    "timestamp": "2021-09-09T13:10:44.959Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:10:51.524Z"
+  },
+  {
+    "part": "console.log",
+    "message": "In Comment ads: @ [object Object]",
+    "timestamp": "2021-09-09T13:10:52.620Z"
+  },
+  {
+    "part": "console.log",
+    "message": "0 @ [object Object]",
+    "timestamp": "2021-09-09T13:10:52.622Z"
+  },
+  {
+    "part": "console.log",
+    "message": "20 percent! @ [object Object]",
+    "timestamp": "2021-09-09T13:10:52.627Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:10:55.242Z"
+  },
+  {
+    "part": "console.log",
+    "message": "No Cookie! @ [object Object]",
+    "timestamp": "2021-09-09T13:10:56.526Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Exception in queued GPT command TypeError: Cannot read properties of null (reading 'nodeName')\n    at <anonymous>:100:30\n    at walkTheDOM (<anonymous>:88:21)\n    at Arguments.<anonymous> (<anonymous>:99:17)\n    at Fv.push (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js?31062485:6:117140)\n    at AJ.<anonymous> (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js?31062485:14:67608)\n    at AJ.push (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js?31062485:6:10934)\n    at <anonymous>:83:27\n    at Array.h.cmd.push (https://monu.delivery/site/9/4/c06a07-a2a2-4c8c-990e-e46428c29c41.js:48:128697)\n    at <anonymous>:82:18 @ [object Object]",
+    "timestamp": "2021-09-09T13:10:59.476Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Exception in googletag.cmd function: TypeError: Cannot read properties of null (reading 'nodeName'). @ [object Object]",
+    "timestamp": "2021-09-09T13:10:59.480Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://askamanager.org/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:11:15.029Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:11:15.273Z"
+  }
+]

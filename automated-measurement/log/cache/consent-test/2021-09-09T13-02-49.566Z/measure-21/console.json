@@ -1,0 +1,277 @@
+[
+  {
+    "part": "measure-21",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:10:53.500Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "visit https://estrelladigital.es/...",
+    "timestamp": "2021-09-09T13:10:53.614Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Error in googletag.defineSlot: Cannot create slot /52823577/Lateral_izquierda_1_300x600. Div element \"div-gpt-ad-1612893200592-0\" is already associated with another slot: /52823577/Lateral_izquierda_1_300x600. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:57.363Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Invalid arguments: googletag.defineSlot('/52823577/Lateral_izquierda_1_300x600', [300, 600], 'div-gpt-ad-1612893200592-0'). @ [object Object]",
+    "timestamp": "2021-09-09T13:10:57.365Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Exception in queued GPT command TypeError: Cannot read properties of null (reading 'addService')\n    at Arguments.<anonymous> (https://www.estrelladigital.es/:768:108)\n    at Fv.push (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:6:117140)\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:14:83850\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:6:10934\n    at Object._.Id (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:6:11180)\n    at f (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:14:83714)\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:14:83956\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:14:84570\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:14:84902 @ [object Object]",
+    "timestamp": "2021-09-09T13:10:57.373Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Exception in googletag.cmd function: TypeError: Cannot read properties of null (reading 'addService'). @ [object Object]",
+    "timestamp": "2021-09-09T13:10:57.374Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Error in googletag.defineSlot: Cannot create slot /52823577/Megabanner_1_728x90. Div element \"div-gpt-ad-1628243343337-0\" is already associated with another slot: /52823577/Megabanner_1_728x90. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:57.376Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Invalid arguments: googletag.defineSlot('/52823577/Megabanner_1_728x90', [[980, 90], [728, 90]], 'div-gpt-ad-1628243343337-0'). @ [object Object]",
+    "timestamp": "2021-09-09T13:10:57.377Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Exception in queued GPT command TypeError: Cannot read properties of null (reading 'addService')\n    at Arguments.<anonymous> (https://www.estrelladigital.es/:1132:112)\n    at Fv.push (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:6:117140)\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:14:83850\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:6:10934\n    at Object._.Id (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:6:11180)\n    at f (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:14:83714)\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:14:83956\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:14:84570\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:14:84902 @ [object Object]",
+    "timestamp": "2021-09-09T13:10:57.379Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Exception in googletag.cmd function: TypeError: Cannot read properties of null (reading 'addService'). @ [object Object]",
+    "timestamp": "2021-09-09T13:10:57.380Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Error in googletag.defineSlot: Cannot create slot /52823577/Jooble. Div element \"div-gpt-ad-1628244281550-0\" is already associated with another slot: /52823577/Jooble. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:57.390Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Invalid arguments: googletag.defineSlot('/52823577/Jooble', [300, 250], 'div-gpt-ad-1628244281550-0'). @ [object Object]",
+    "timestamp": "2021-09-09T13:10:57.391Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Exception in queued GPT command TypeError: Cannot read properties of null (reading 'addService')\n    at Arguments.<anonymous> (https://www.estrelladigital.es/:1638:87)\n    at Fv.push (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:6:117140)\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:14:83850\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:6:10934\n    at Object._.Id (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:6:11180)\n    at f (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:14:83714)\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:14:83956\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:14:84570\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:14:84902 @ [object Object]",
+    "timestamp": "2021-09-09T13:10:57.393Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Exception in googletag.cmd function: TypeError: Cannot read properties of null (reading 'addService'). @ [object Object]",
+    "timestamp": "2021-09-09T13:10:57.394Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Error in googletag.defineSlot: Cannot create slot /52823577/Megabanner_1_728x90. Div element \"div-gpt-ad-1628243343337-0\" is already associated with another slot: /52823577/Megabanner_1_728x90. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:57.408Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Invalid arguments: googletag.defineSlot('/52823577/Megabanner_1_728x90', [[980, 90], [728, 90]], 'div-gpt-ad-1628243343337-0'). @ [object Object]",
+    "timestamp": "2021-09-09T13:10:57.409Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Exception in queued GPT command TypeError: Cannot read properties of null (reading 'addService')\n    at Arguments.<anonymous> (https://www.estrelladigital.es/:1884:112)\n    at Fv.push (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:6:117140)\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:14:83850\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:6:10934\n    at Object._.Id (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:6:11180)\n    at f (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:14:83714)\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:14:83956\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:14:84570\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:14:84902 @ [object Object]",
+    "timestamp": "2021-09-09T13:10:57.411Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Exception in googletag.cmd function: TypeError: Cannot read properties of null (reading 'addService'). @ [object Object]",
+    "timestamp": "2021-09-09T13:10:57.413Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Error in googletag.defineSlot: Cannot create slot /52823577/Megabanner_1_728x90. Div element \"div-gpt-ad-1628243343337-0\" is already associated with another slot: /52823577/Megabanner_1_728x90. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:57.415Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Invalid arguments: googletag.defineSlot('/52823577/Megabanner_1_728x90', [[980, 90], [728, 90]], 'div-gpt-ad-1628243343337-0'). @ [object Object]",
+    "timestamp": "2021-09-09T13:10:57.416Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Exception in queued GPT command TypeError: Cannot read properties of null (reading 'addService')\n    at Arguments.<anonymous> (https://www.estrelladigital.es/:2071:112)\n    at Fv.push (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:6:117140)\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:14:83850\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:6:10934\n    at Object._.Id (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:6:11180)\n    at f (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:14:83714)\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:14:83956\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:14:84570\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:14:84902 @ [object Object]",
+    "timestamp": "2021-09-09T13:10:57.421Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Exception in googletag.cmd function: TypeError: Cannot read properties of null (reading 'addService'). @ [object Object]",
+    "timestamp": "2021-09-09T13:10:57.425Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Error in googletag.defineSlot: Cannot create slot /52823577/Megabanner_1_728x90. Div element \"div-gpt-ad-1628243343337-0\" is already associated with another slot: /52823577/Megabanner_1_728x90. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:57.426Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Invalid arguments: googletag.defineSlot('/52823577/Megabanner_1_728x90', [[980, 90], [728, 90]], 'div-gpt-ad-1628243343337-0'). @ [object Object]",
+    "timestamp": "2021-09-09T13:10:57.428Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Exception in queued GPT command TypeError: Cannot read properties of null (reading 'addService')\n    at Arguments.<anonymous> (https://www.estrelladigital.es/:2090:112)\n    at Fv.push (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:6:117140)\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:14:83850\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:6:10934\n    at Object._.Id (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:6:11180)\n    at f (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:14:83714)\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:14:83956\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:14:84570\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:14:84902 @ [object Object]",
+    "timestamp": "2021-09-09T13:10:57.429Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Exception in googletag.cmd function: TypeError: Cannot read properties of null (reading 'addService'). @ [object Object]",
+    "timestamp": "2021-09-09T13:10:57.431Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Error in googletag.defineSlot: Cannot create slot /52823577/Jooble. Div element \"div-gpt-ad-1618831078113-0\" is already associated with another slot: /52823577/Jooble. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:57.432Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Invalid arguments: googletag.defineSlot('/52823577/Jooble', [300, 250], 'div-gpt-ad-1618831078113-0'). @ [object Object]",
+    "timestamp": "2021-09-09T13:10:57.438Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Exception in queued GPT command TypeError: Cannot read properties of null (reading 'addService')\n    at Arguments.<anonymous> (https://www.estrelladigital.es/:2401:87)\n    at Fv.push (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:6:117140)\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:14:83850\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:6:10934\n    at Object._.Id (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:6:11180)\n    at f (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:14:83714)\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:14:83956\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:14:84570\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js:14:84902 @ [object Object]",
+    "timestamp": "2021-09-09T13:10:57.439Z"
+  },
+  {
+    "part": "console.log",
+    "message": "TSS: Body width smaller than options.minWidth. Init is delayed. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:57.909Z"
+  },
+  {
+    "part": "console.log",
+    "message": "TSS: Body width smaller than options.minWidth. Init is delayed. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:57.914Z"
+  },
+  {
+    "part": "console.log",
+    "message": "TSS: Body width smaller than options.minWidth. Init is delayed. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:57.915Z"
+  },
+  {
+    "part": "console.log",
+    "message": "TSS: Body width smaller than options.minWidth. Init is delayed. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:57.917Z"
+  },
+  {
+    "part": "console.log",
+    "message": "TSS: Body width smaller than options.minWidth. Init is delayed. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:57.918Z"
+  },
+  {
+    "part": "console.log",
+    "message": "TSS: Body width smaller than options.minWidth. Init is delayed. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:57.921Z"
+  },
+  {
+    "part": "console.log",
+    "message": "TSS: Body width smaller than options.minWidth. Init is delayed. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:57.923Z"
+  },
+  {
+    "part": "console.log",
+    "message": "TSS: Body width smaller than options.minWidth. Init is delayed. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:57.926Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:10:58.228Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:10:58.238Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:10:58.427Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:11:01.265Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:11:01.277Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:11:01.856Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:01.860Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:11:01.961Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:11:01.974Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:02.107Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:11:02.158Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:11:13.676Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:11:13.676Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:11:13.684Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:11:13.687Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:11:14.557Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:11:18.685Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:11:18.718Z"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-11",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:07:14.713Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "visit https://diretta.it/...",
+    "timestamp": "2021-09-09T13:07:14.865Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:07:24.880Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:07:24.886Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:07:25.368Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:25.368Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:07:25.414Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:07:25.426Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:25.468Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:07:25.513Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:07:43.733Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:07:43.736Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:07:43.747Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:07:43.900Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cPubTag color: #fff; background: #ff8f1c; display: inline-block; padding: 1px 4px; border-radius: 3px; ERROR: can't display acceptable ad : the container \"crt-1361610\" is not visible @ [object Object]",
+    "timestamp": "2021-09-09T13:07:44.469Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:07:48.748Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:08:03.759Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:08:03.808Z"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "part": "measure-27",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:12:09.613Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "visit https://islands.com/...",
+    "timestamp": "2021-09-09T13:12:09.896Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "[Zeus] CCPA string set to 1--- @ [object Object]",
+    "timestamp": "2021-09-09T13:12:13.579Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SUPPRESS: false @ [object Object]",
+    "timestamp": "2021-09-09T13:12:14.870Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:12:15.149Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "[Zeus] CCPA string set to 1--- @ [object Object]",
+    "timestamp": "2021-09-09T13:12:15.315Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cmpuishown @ [object Object]",
+    "timestamp": "2021-09-09T13:12:16.207Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c------------- Cheetah Web Events: Posting Web Event ---------------\n{\"OrderDate\":\"9/9/2021 3:12:\",\"OrderSource\":\"Website\",\"ProductName\":\"islands.com\",\"ProductCategoryName\":\"undefined\",\"ProductDescription\":\"https://www.islands.com/\",\"ProductID\":\"/home\",\"Variable1\":\"undefined\"} background: #ffff33; color: #ff00ff @ [object Object]",
+    "timestamp": "2021-09-09T13:12:16.338Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:12:16.543Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:12:16.549Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:12:16.741Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:12:16.761Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:16.761Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:12:16.782Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:12:16.785Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:16.799Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:12:16.859Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:12:19.742Z"
+  },
+  {
+    "part": "console.log",
+    "message": "useractioncomplete @ [object Object]",
+    "timestamp": "2021-09-09T13:12:20.970Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:12:21.000Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:12:21.002Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:12:21.008Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:12:21.010Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:12:21.119Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:12:26.009Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:12:26.030Z"
+  }
+]

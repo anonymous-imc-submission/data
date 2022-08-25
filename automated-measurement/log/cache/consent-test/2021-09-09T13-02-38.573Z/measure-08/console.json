@@ -1,0 +1,122 @@
+[
+  {
+    "part": "measure-08",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:04:53.696Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "visit https://puhutv.com/...",
+    "timestamp": "2021-09-09T13:04:53.967Z"
+  },
+  {
+    "part": "console.log",
+    "message": "user_login_control @ [object Object]",
+    "timestamp": "2021-09-09T13:04:57.817Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Failed to execute 'write' on 'Document': It isn't possible to write into a document from an asynchronously-loaded external script unless it is explicitly opened. @ [object Object]",
+    "timestamp": "2021-09-09T13:04:59.324Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nw7xi&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fpuhutv.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:04:59.640Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an script pixel with URL:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nw7xi&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fpuhutv.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:04:59.650Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nw7xi&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fpuhutv.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:04:59.651Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an image pixel with URL:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nw7xi&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fpuhutv.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:04:59.660Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Error in googletag.display: could not find div with id \"ad-div-ldb-mobile\" in DOM for slot: /37011203/Puhutv_Mobile/Anasayfa/Genel/320x50. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:00.196Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:05:01.488Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:05:01.491Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:05:02.907Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:05:02.907Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:05:02.968Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:05:02.977Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:05:03.018Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:05:03.461Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:05:03.464Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:05:03.483Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:05:03.657Z"
+  },
+  {
+    "part": "console.log",
+    "message": "{status: success} @ [object Object]",
+    "timestamp": "2021-09-09T13:05:03.847Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Network is idle after 0.84s.",
+    "timestamp": "2021-09-09T13:05:04.325Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:05:08.489Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:05:08.510Z"
+  }
+]

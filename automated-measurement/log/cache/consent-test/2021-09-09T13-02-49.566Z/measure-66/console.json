@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-66",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:23:51.238Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "visit https://redbookmag.com/...",
+    "timestamp": "2021-09-09T13:23:55.306Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:23:59.405Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:23:59.412Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:24:00.150Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:24:00.288Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:24:00.293Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:24:00.517Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:24:01.163Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:24:01.233Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:24:02.629Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:24:09.782Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:24:09.782Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:24:09.804Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:24:09.807Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:24:09.859Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:24:13.132Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:24:14.805Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:24:14.855Z"
+  }
+]

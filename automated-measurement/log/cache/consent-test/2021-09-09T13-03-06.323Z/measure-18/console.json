@@ -1,0 +1,127 @@
+[
+  {
+    "part": "measure-18",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:09:36.423Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "visit https://flashbak.com/...",
+    "timestamp": "2021-09-09T13:09:36.529Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 1.4.1 @ [object Object]",
+    "timestamp": "2021-09-09T13:09:37.295Z"
+  },
+  {
+    "part": "console.info",
+    "message": "⬡ Leya: Scheduled flush @ [object Object]",
+    "timestamp": "2021-09-09T13:09:37.524Z"
+  },
+  {
+    "part": "console.info",
+    "message": "⬡ Leya: Session Open @ [object Object]",
+    "timestamp": "2021-09-09T13:09:37.526Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Div ID passed to googletag.display() does not match any defined slots: Unit2. @ [object Object]",
+    "timestamp": "2021-09-09T13:09:40.243Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Div ID passed to googletag.display() does not match any defined slots: Unit10. @ [object Object]",
+    "timestamp": "2021-09-09T13:09:40.244Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Div ID passed to googletag.display() does not match any defined slots: div-gpt-ad-1572602700794-7. @ [object Object]",
+    "timestamp": "2021-09-09T13:09:40.246Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Div ID passed to googletag.display() does not match any defined slots: Sticky. @ [object Object]",
+    "timestamp": "2021-09-09T13:09:40.250Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Div ID passed to googletag.display() does not match any defined slots: Skin. @ [object Object]",
+    "timestamp": "2021-09-09T13:09:40.255Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:09:41.224Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:09:41.225Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:09:41.525Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:09:41.526Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:09:41.552Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:09:41.556Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:09:41.561Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:09:41.580Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:09:42.326Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "TCF data: cmpId 10 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:09:42.327Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:09:42.343Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:09:42.346Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:09:42.394Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:09:47.345Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:09:47.410Z"
+  }
+]

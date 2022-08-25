@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-71",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:25:07.583Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "visit https://elle.com/...",
+    "timestamp": "2021-09-09T13:25:07.704Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:25:11.026Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:25:11.837Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:25:11.842Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:25:13.069Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:25:13.076Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:25:13.737Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:25:13.746Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:25:13.969Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:25:14.031Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button class=\"cookie-setting-link\" id=\"onetrust-pc-btn-…>LEARN MORE</button>\nattempting click action\n  waiting for element to be visible, enabled and stable\n  element is visible, enabled and stable\n  scrolling into view if needed\n  done scrolling\n  checking that element receives pointer events at (563.48,548.6)\n  element does receive pointer events\n  performing click action\n============================================================",
+    "timestamp": "2021-09-09T13:25:16.060Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:25:25.461Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:25:25.467Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:25:25.486Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:25:25.491Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:25:25.553Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:25:30.494Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:25:30.738Z"
+  }
+]

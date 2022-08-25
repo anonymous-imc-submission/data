@@ -1,0 +1,122 @@
+[
+  {
+    "part": "measure-47",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:14:24.101Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "visit https://pigeonsandplanes.com/...",
+    "timestamp": "2021-09-09T13:14:24.388Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[ABD] start beginTest @ [object Object]",
+    "timestamp": "2021-09-09T13:14:33.398Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[ABD] adding bait node to DOM @ [object Object]",
+    "timestamp": "2021-09-09T13:14:33.403Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:14:33.414Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:14:33.419Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:14:34.183Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:14:34.186Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:14:34.246Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:14:34.263Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:14:34.370Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:14:34.434Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[ABD] exiting test loop - value: false @ [object Object]",
+    "timestamp": "2021-09-09T13:14:34.456Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://images.complex.com/complex/image/upload/v1580766573/FFFFFF-1_cyvbjp.png was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:14:36.740Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:14:38.302Z"
+  },
+  {
+    "part": "console.log",
+    "message": "applySettings: ca97dc63-3ad7-4ca3-9ed1-3745a38f135f, object @ [object Object]",
+    "timestamp": "2021-09-09T13:14:43.070Z"
+  },
+  {
+    "part": "console.log",
+    "message": "{layout: Object, html1: Object, button1: Object, button2: Object, vendor: Object} @ [object Object]",
+    "timestamp": "2021-09-09T13:14:43.070Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:14:48.327Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:14:48.329Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:14:48.557Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:14:48.563Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:14:48.565Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:14:53.560Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:14:53.600Z"
+  }
+]

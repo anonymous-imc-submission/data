@@ -1,0 +1,351 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://rheinpfalz.de/..."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.rheinpfalz.de/",
+      "lineNumber": 658,
+      "columnNumber": 12
+    },
+    "text": "mobile"
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://script.ioam.de/iam.js",
+      "lineNumber": 598,
+      "columnNumber": 0
+    },
+    "text": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://1991533c.de.ioam.de/tx.io?st=ron&cp=homepage&sv=ke&sc=yes&ct=0100000000&pt=CP&ps=lin&er=N22&rf=&r2=&ur=www.rheinpfalz.de&xy=393x851x24&lo=GB%2FSlough&cb=0012&i2=00127616ca925cf8d6139b470&ep=1656627870&vr=434&id=ql1pml&i3=00127616ca925cf8d6139b470%3A1660461830525%3A1631172230525%3A.rheinpfalz.de%3A1%3Aron%3Ahomepage%3Anoevent%3A1631172230525&n1=1&dntt=0&lt=1631172230530&ev=&cs=8e62xd&mo=1, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://script.ioam.de/iam.js",
+      "lineNumber": 598,
+      "columnNumber": 0
+    },
+    "text": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://1991533c.de.ioam.de/tx.io?st=ron&cp=homepage&sv=ke&sc=yes&ct=0100000000&pt=CP&ps=lin&er=N22&rf=&r2=&ur=www.rheinpfalz.de&xy=393x851x24&lo=GB%2FSlough&cb=0012&i2=00127616ca925cf8d6139b470&ep=1656627870&vr=434&id=ql1pml&i3=00127616ca925cf8d6139b470%3A1660461830525%3A1631172230525%3A.rheinpfalz.de%3A1%3Aron%3Ahomepage%3Anoevent%3A1631172230525&n1=1&dntt=0&lt=1631172230530&ev=&cs=8e62xd&mo=1, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.rheinpfalz.de/",
+      "lineNumber": 647,
+      "columnNumber": 14
+    },
+    "text": "onSPPMObjectReady function(e,t){var n;n=document.activeElement||null,D=n,e=e||H,f&&q.update(O(),!0);var r=W+\"?message_id=\".concat(e,\"&site_id=\").concat(u,\"&consent_origin=\").concat(_,\"&consentUUID=\").concat(S(\"cookies\",\"consentUUID\"),\"&mms_origin=\").concat(a,\"/mms/v2\");return t&&(r+=\"&pmTab=\".concat(t)),U(r,a,u,i,b,\"{}\",e,_,\"pm\",W,null,null,null,null,!0,G)}"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.rheinpfalz.de/",
+      "lineNumber": 512,
+      "columnNumber": 14
+    },
+    "text": "onMessageReceiveData"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://cdn.privacy-mgmt.com/wrapperMessagingWithoutDetection.js",
+      "lineNumber": 0,
+      "columnNumber": 154615
+    },
+    "text": "Messaging without detection successfully executed."
+  },
+  {
+    "type": "debug",
+    "location": {
+      "url": "https://www.rheinpfalz.de/",
+      "lineNumber": 1796,
+      "columnNumber": 13
+    },
+    "text": "JRX CRESID SERVICE: null"
+  },
+  {
+    "type": "debug",
+    "location": {
+      "url": "https://www.rheinpfalz.de/",
+      "lineNumber": 1798,
+      "columnNumber": 13
+    },
+    "text": "JRX CRESID GLOBAL: null"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.rheinpfalz.de/",
+      "lineNumber": 1812,
+      "columnNumber": 14
+    },
+    "text": "Sie sind nicht eingeloggt!"
+  },
+  {
+    "type": "debug",
+    "location": {
+      "url": "https://www.rheinpfalz.de/",
+      "lineNumber": 1813,
+      "columnNumber": 14
+    },
+    "text": "No cresid cookie."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.rheinpfalz.de/",
+      "lineNumber": 1270,
+      "columnNumber": 11
+    },
+    "text": "{stream_status: created, action_groups: Object, template_set: rhp_templates, product_ids: Array(0), type: none}"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.rheinpfalz.de/",
+      "lineNumber": 1271,
+      "columnNumber": 11
+    },
+    "text": "rhp_templates"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.rheinpfalz.de/",
+      "lineNumber": 1272,
+      "columnNumber": 11
+    },
+    "text": "undefined"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.rheinpfalz.de/",
+      "lineNumber": 1530,
+      "columnNumber": 13
+    },
+    "text": "CMS Snippet: Currently no special offer."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.rheinpfalz.de/",
+      "lineNumber": 509,
+      "columnNumber": 14
+    },
+    "text": "onMessageReady"
+  },
+  {
+    "type": "admeasure",
+    "text": "Looking for dialogs to reject..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting for __tcfapi..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint iframe found!"
+  },
+  {
+    "type": "admeasure",
+    "text": "__tcfapi found! Querying status..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingWaiting."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingLoaded."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.rheinpfalz.de/",
+      "lineNumber": 573,
+      "columnNumber": 16
+    },
+    "text": "No Ads. Missing Consent."
+  },
+  {
+    "type": "admeasure",
+    "text": "Button clicked: Einstellungen"
+  },
+  {
+    "type": "admeasure",
+    "text": "Found Sourcepoint privacy manager."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.rheinpfalz.de/",
+      "lineNumber": 509,
+      "columnNumber": 14
+    },
+    "text": "onMessageReady"
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://www.rheinpfalz.de/pu_rhp/scripts/latest.js",
+      "lineNumber": 20,
+      "columnNumber": 8
+    },
+    "text": "Snowplow: Warning: No tracker configured"
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://www.rheinpfalz.de/",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "The resource https://www.rheinpfalz.de/pu_rhp/fonts/fa-solid-900.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://www.rheinpfalz.de/",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "The resource https://www.rheinpfalz.de/pu_rhp/fonts/fa-regular-400.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://www.rheinpfalz.de/",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "The resource https://www.rheinpfalz.de/pu_rhp/fonts/fa-brands-400.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://www.rheinpfalz.de/",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "The resource https://www.rheinpfalz.de/pu_rhp/fonts/fa-light-300.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: no type toggles."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Check for legitimate interest button..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Clicking legitimate interest button: Wir arbeiten des Weiteren mit Partnern auf Basis des berechtigten Interesses und anderer rechtlicher Grundlagen ohne Einwilligung.Einstellungen bearbeiten"
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Find the save button."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.rheinpfalz.de/",
+      "lineNumber": 517,
+      "columnNumber": 14
+    },
+    "text": "onPrivacyManagerAction"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.rheinpfalz.de/",
+      "lineNumber": 518,
+      "columnNumber": 14
+    },
+    "text": "onPrivacyManagerAction {purposeConsent: none, vendorConsent: none, vendorList: undefined}"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.rheinpfalz.de/",
+      "lineNumber": 544,
+      "columnNumber": 16
+    },
+    "text": "vendorList none not in some or all."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint dialog rejected."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.rheinpfalz.de/",
+      "lineNumber": 581,
+      "columnNumber": 14
+    },
+    "text": "onConsentReady"
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://www.rheinpfalz.de/cms_minify/1/javascript/javascript_1631106260.js",
+      "lineNumber": 74,
+      "columnNumber": 0
+    },
+    "text": "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://www.rheinpfalz.de/",
+      "lineNumber": 598,
+      "columnNumber": 16
+    },
+    "text": "[]"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data obtained!"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data: cmpId 6 consent false, legInt true."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Network is idle after 0.00s."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://static-eu.cleverpush.com/channel/loader/zuiP3sW93KZL68MGt.js",
+      "lineNumber": 1,
+      "columnNumber": 119652
+    },
+    "text": "[CleverPush][HOST] User has manually denied notifications"
+  },
+  {
+    "type": "admeasure",
+    "text": "Minimum wait time reached after 5.00s."
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

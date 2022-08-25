@@ -1,0 +1,137 @@
+[
+  {
+    "part": "measure-07",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:55.274Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "visit https://deepika.com/...",
+    "timestamp": "2021-09-09T13:06:55.484Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 400 () @ [object Object]",
+    "timestamp": "2021-09-09T13:06:58.189Z"
+  },
+  {
+    "part": "console.log",
+    "message": "USP API frame not found  @ [object Object]",
+    "timestamp": "2021-09-09T13:06:58.997Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://saxp.zedo.com/asw/fm/3703/2/15/fm.js?c=2&a=0&f=&n=3703&r=129&d=15&adm=&q=&$=&s=2&ct=&z=0.0991213193142999&tt=0&tz=1&fw=&fh=&mw=&mh=&mxw=&mxh=&pu=https%3A%2F%2Fm.deepika.com%2F&ru=https%3A%2F%2Fdeepika.com%2F&pi=1631192818965&apv=&ap=&ovr=&ove=&hfs=&ce=UTF-8&zpu=m.deepika.com____1_&tpu=&usp=undefined, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:06:59.017Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://saxp.zedo.com/asw/fm/3703/2/15/fm.js?c=2&a=0&f=&n=3703&r=129&d=15&adm=&q=&$=&s=2&ct=&z=0.0991213193142999&tt=0&tz=1&fw=&fh=&mw=&mh=&mxw=&mxh=&pu=https%3A%2F%2Fm.deepika.com%2F&ru=https%3A%2F%2Fdeepika.com%2F&pi=1631192818965&apv=&ap=&ovr=&ove=&hfs=&ce=UTF-8&zpu=m.deepika.com____1_&tpu=&usp=undefined, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:06:59.021Z"
+  },
+  {
+    "part": "console.log",
+    "message": "@@@@@@@  @@@@@@@@  @@@@@@@@@  @@@@@@@@    @@        @@  @@     @@  @@@@@@@@  @@@@@@@   @@@@@@@@\n##   ##  ##        ##     ##  ##      ##  ##        ##  ##     ##  ##        ##   ##   ##      \n##   ##  ##        ##     ##  ##      ##  ##        ##  ##     ##  ##        ##   ##   ##       \n#######  #######   #########  ##      ##  ##   ##   ##  #########  ########  #######   ########\n###      ##        ##     ##  ##      ##  ##   ##   ##  ##     ##  ##        ###       ##       \n## ##    ##        ##     ##  ##      ##  ##   ##   ##  ##     ##  ##        ##  ##    ##       \n##   #   #######   ##     ##  ########    ############  ##     ##  ########  ##    ##  ########\n @ [object Object]",
+    "timestamp": "2021-09-09T13:06:59.659Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cHi there, fellow developer! Thanks for visiting.\nIf you’re an aspiring web developer,\nor business owner, make sure you check out our \nblog for tips and inspiration! \n                                \nLink: http://mobi.readwhere.com/ \n                                  \nWe’d love to hear what you think!\n\n— Team Readwhere\n background: #000; color: #fff;padding:2px 10px; @ [object Object]",
+    "timestamp": "2021-09-09T13:06:59.664Z"
+  },
+  {
+    "part": "console.log",
+    "message": "files updated @ [object Object]",
+    "timestamp": "2021-09-09T13:07:06.291Z"
+  },
+  {
+    "part": "console.log",
+    "message": "0x0 @ [object Object]",
+    "timestamp": "2021-09-09T13:07:06.309Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Failed to execute 'write' on 'Document': It isn't possible to write into a document from an asynchronously-loaded external script unless it is explicitly opened. @ [object Object]",
+    "timestamp": "2021-09-09T13:07:06.942Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service Worker is supported @ [object Object]",
+    "timestamp": "2021-09-09T13:07:08.804Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service Worker is ready :^) ServiceWorkerRegistration @ [object Object]",
+    "timestamp": "2021-09-09T13:07:10.267Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:07:11.584Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:07:11.863Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:07:11.864Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Info: The current domain is not authorized for OAuth operations. This will prevent signInWithPopup, signInWithRedirect, linkWithPopup and linkWithRedirect from working. Add your domain (m.deepika.com) to the OAuth redirect domains list in the Firebase console -> Auth section -> Sign in method tab. @ [object Object]",
+    "timestamp": "2021-09-09T13:07:14.978Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://mcmscache.epapr.in/mcms/417/3ea2b9c22ad90adc14012315d51a4500957912a6.png was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:07:15.047Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://m.deepika.com/themes/jupiter/deepika/homescreen/nw5x.png was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:07:15.048Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://m.deepika.com/images/search.png was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:07:15.048Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "dialog accept failed: \n  - TimeoutError: page.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=primary]\"\n    ============================================================\n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-accept-btn-handler:visible,\n            .optanon-allow-all:visible,\n            .optanon-button-allow:visible,\n            #onetrust-pc-sdk #accept-recommended-btn-handler:visible\n        \"\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:07:41.898Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "__tcfapi not found: TimeoutError: page.waitForFunction: Timeout 30000ms exceeded.",
+    "timestamp": "2021-09-09T13:07:41.910Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "TCF data: cmpId null consent null, legInt null.",
+    "timestamp": "2021-09-09T13:07:41.911Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:07:41.914Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:07:41.930Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:07:46.916Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:07:46.980Z"
+  }
+]

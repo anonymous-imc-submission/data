@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-26",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:10:53.274Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "visit https://pets4homes.co.uk/...",
+    "timestamp": "2021-09-09T13:10:54.029Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:10:55.252Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:10:55.255Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:10:56.447Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:56.451Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:10:56.507Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:57.556Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:10:57.652Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:10:57.992Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "LogRocket: App quota exceeded. Disabling ... @ [object Object]",
+    "timestamp": "2021-09-09T13:11:10.979Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "LogRocket: Session quota exceeded. Please upgrade your plan. Disabling ... @ [object Object]",
+    "timestamp": "2021-09-09T13:11:10.988Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:11:31.636Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:11:31.643Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:11:31.678Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:11:31.680Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:11:31.801Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:11:36.679Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:11:36.752Z"
+  }
+]

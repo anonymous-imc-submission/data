@@ -1,0 +1,207 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://transfermarkt.it/..."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://cdn.privacy-mgmt.com/wrapperMessagingWithoutDetection.js",
+      "lineNumber": 0,
+      "columnNumber": 154615
+    },
+    "text": "Messaging without detection successfully executed."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://nojazz.eu/int/client/transfermarkt/init.js",
+      "lineNumber": 0,
+      "columnNumber": 85064
+    },
+    "text": "TLM: page started at: 98"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://nojazz.eu/int/client/transfermarkt/init.js",
+      "lineNumber": 0,
+      "columnNumber": 21537
+    },
+    "text": "GenericSlicer: hiding ad unit: TRANSFERMARKT.IT_MWEB_HOME_SLICER at: 1219"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://tmssl.akamaized.net/js/main.js?lm=1630585013",
+      "lineNumber": 648,
+      "columnNumber": 12
+    },
+    "text": "here i go"
+  },
+  {
+    "type": "admeasure",
+    "text": "Looking for dialogs to reject..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting for __tcfapi..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint iframe found!"
+  },
+  {
+    "type": "admeasure",
+    "text": "__tcfapi found! Querying status..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingWaiting."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingLoaded."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Button clicked: GESTIRE LE IMPOSTAZIONI"
+  },
+  {
+    "type": "admeasure",
+    "text": "Found Sourcepoint privacy manager."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: no type toggles."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Check for legitimate interest button..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: no legitimate interest button found: No matching button found: Lavoriamo anche con alcuni fornitori su una base di interessi legittimi senza il loro consenso.personalizzare le impostazioni,Qui trovate una panoramica di tutti i fornitori di tecnologia con cui lavoriamo.Panoramica dei fornitori"
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Find the save button."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint dialog rejected."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://nojazz.eu/int/client/transfermarkt/init.js",
+      "lineNumber": 0,
+      "columnNumber": 73984
+    },
+    "text": "CMPL: TCDataChanged at: 20248"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://nojazz.eu/int/client/transfermarkt/init.js",
+      "lineNumber": 0,
+      "columnNumber": 52596
+    },
+    "text": "PREBID: TCDataChanged at: 20259"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://nojazz.eu/int/client/transfermarkt/init.js",
+      "lineNumber": 0,
+      "columnNumber": 57358
+    },
+    "text": "pixelWrapper: TCDataChanged at: 20461"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data obtained!"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data: cmpId 6 consent false, legInt true."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Network is idle after 0.00s."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://nojazz.eu/int/client/transfermarkt/init.js",
+      "lineNumber": 0,
+      "columnNumber": 53174
+    },
+    "text": "PREBID: bidsBack at: 20744"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://nojazz.eu/int/client/transfermarkt/init.js",
+      "lineNumber": 0,
+      "columnNumber": 64467
+    },
+    "text": "TRANSFERMARKT.IT_MWEB_HOME_SLICER has 1 failedTiers. currentTier: TRANSFERMARKT.IT_MWEB_HOME_SLICER_tier_0"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://nojazz.eu/int/client/transfermarkt/init.js",
+      "lineNumber": 0,
+      "columnNumber": 20967
+    },
+    "text": "GenericSlicer: opening ad unit: TRANSFERMARKT.IT_MWEB_HOME_SLICER at: 20919"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://nojazz.eu/int/client/transfermarkt/init.js",
+      "lineNumber": 0,
+      "columnNumber": 82087
+    },
+    "text": "TIER: dimensionsChanged on ugpt_TRANSFERMARKT.IT_MWEB_HOME_SLICER to {\"w\":336,\"h\":280} at: 20927"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "{status: success}"
+  },
+  {
+    "type": "admeasure",
+    "text": "Minimum wait time reached after 5.00s."
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

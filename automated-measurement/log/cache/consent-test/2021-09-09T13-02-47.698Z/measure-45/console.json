@@ -1,0 +1,102 @@
+[
+  {
+    "part": "measure-45",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:15:33.348Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "visit https://techlandia.com/...",
+    "timestamp": "2021-09-09T13:15:33.494Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Failed to execute 'write' on 'Document': It isn't possible to write into a document from an asynchronously-loaded external script unless it is explicitly opened. @ [object Object]",
+    "timestamp": "2021-09-09T13:15:34.564Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:15:36.210Z"
+  },
+  {
+    "part": "console.log",
+    "message": "{status: success} @ [object Object]",
+    "timestamp": "2021-09-09T13:15:36.403Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:15:36.563Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:15:36.565Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:15:36.824Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:15:36.824Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:15:36.902Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:15:37.287Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:15:37.612Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:15:37.818Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:15:47.310Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:15:47.314Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:15:47.332Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:15:47.334Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:15:47.349Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:15:52.333Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:15:52.377Z"
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-77",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:17:23.370Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "visit https://providencejournal.com/...",
+    "timestamp": "2021-09-09T13:17:24.969Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:17:47.824Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:17:47.865Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Server did not respond to loadRBox @ [object Object]",
+    "timestamp": "2021-09-09T13:17:48.692Z"
+  },
+  {
+    "part": "console.log",
+    "message": "loadRBox failed, aborting. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:48.776Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Invalid response from server: trc_json_response =\n{\"trc\":{}}\n @ [object Object]",
+    "timestamp": "2021-09-09T13:17:48.790Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:17:49.010Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:17:49.012Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:17:49.436Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:17:49.448Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:17:49.591Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:17:50.999Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:17:51.003Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:17:51.045Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:17:51.051Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:17:51.075Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:17:56.052Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:17:56.196Z"
+  }
+]

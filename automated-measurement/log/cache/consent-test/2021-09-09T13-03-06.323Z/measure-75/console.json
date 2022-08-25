@@ -1,0 +1,102 @@
+[
+  {
+    "part": "measure-75",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:20:18.200Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "visit https://newsit.gr/...",
+    "timestamp": "2021-09-09T13:20:19.016Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:20:26.096Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:20:26.106Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Debug: tcData.eventStatus:  cmpuishown @ [object Object]",
+    "timestamp": "2021-09-09T13:20:26.874Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:20:32.020Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:20:32.025Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:20:32.536Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:20:32.541Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:20:32.551Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:20:33.640Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Debug: tcData.eventStatus:  useractioncomplete @ [object Object]",
+    "timestamp": "2021-09-09T13:20:35.432Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:20:35.649Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "TCF data: cmpId 10 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:20:35.650Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:20:35.668Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:20:35.669Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:20:35.993Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://www.newsit.gr/ @ [object Object]",
+    "timestamp": "2021-09-09T13:20:40.019Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:20:40.670Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:20:40.754Z"
+  }
+]

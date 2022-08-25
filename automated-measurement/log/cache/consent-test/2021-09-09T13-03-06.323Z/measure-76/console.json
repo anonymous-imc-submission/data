@@ -1,0 +1,122 @@
+[
+  {
+    "part": "measure-76",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:20:19.645Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "visit https://thejasminebrand.com/...",
+    "timestamp": "2021-09-09T13:20:20.700Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:20:23.705Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:20:41.168Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:20:41.172Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:20:43.863Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:20:43.864Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:20:44.226Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:20:44.247Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:20:44.388Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "dialog accept failed: \n  - TimeoutError: page.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=primary]\"\n    ============================================================\n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-accept-btn-handler:visible,\n            .optanon-allow-all:visible,\n            .optanon-button-allow:visible,\n            #onetrust-pc-sdk #accept-recommended-btn-handler:visible\n        \"\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:21:11.324Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:21:35.640Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:21:35.644Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:21:41.082Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:22:32.171Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:22:32.175Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:38.662Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:22:43.865Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "TCF data: cmpId 3 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:22:43.870Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:22:43.879Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:22:43.884Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:22:48.879Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:22:49.015Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:22:49.034Z"
+  }
+]

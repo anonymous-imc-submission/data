@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-05",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:05:11.817Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "visit https://diezminutos.es/...",
+    "timestamp": "2021-09-09T13:05:12.059Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service worker registration succeeded. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:13.099Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:05:15.709Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:05:18.867Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:05:18.870Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:05:19.283Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:05:19.286Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:05:19.334Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:05:19.339Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:05:19.415Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:05:20.211Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:05:20.214Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:05:20.226Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:05:20.233Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:05:20.266Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service worker registration succeeded. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:20.942Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:05:23.124Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:05:24.129Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:05:25.227Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:05:25.245Z"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-66",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:11:53.975Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "visit https://oe24.at/...",
+    "timestamp": "2021-09-09T13:11:54.110Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:12:02.918Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:12:02.919Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:12:03.946Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:03.947Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:12:04.118Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:12:04.126Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:04.177Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:12:05.505Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:12:05.509Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:12:05.517Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:12:05.519Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:12:05.748Z"
+  },
+  {
+    "part": "console.log",
+    "message": "{client: vast, schedule: Object, admessage: ... noch XX Sekunden, autoplayadsmuted: true} @ [object Object]",
+    "timestamp": "2021-09-09T13:12:05.882Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "EmeEncryptionSchemePolyfill: Waiting to detect encryptionScheme support. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:07.773Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:12:10.520Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:12:10.621Z"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-95",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:15:29.690Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "visit https://motorcyclecruiser.com/...",
+    "timestamp": "2021-09-09T13:15:30.353Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SUPPRESS: false @ [object Object]",
+    "timestamp": "2021-09-09T13:15:38.749Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c------------- Cheetah Web Events: Posting Web Event ---------------\n{\"OrderDate\":\"9/9/2021 2:15:\",\"OrderSource\":\"Website\",\"ProductName\":\"motorcyclecruiser.com\",\"ProductCategoryName\":\"undefined\",\"ProductDescription\":\"https://www.motorcyclecruiser.com/\",\"ProductID\":\"/home\",\"Variable1\":\"undefined\"} background: #ffff33; color: #ff00ff @ [object Object]",
+    "timestamp": "2021-09-09T13:15:40.473Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:15:41.102Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:15:41.111Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:15:41.963Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:15:41.964Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:15:41.988Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:15:41.995Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:15:42.028Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:15:42.422Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:15:42.423Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:15:42.431Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:15:42.523Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Network is idle after 1.72s.",
+    "timestamp": "2021-09-09T13:15:44.155Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:15:47.432Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:15:47.468Z"
+  }
+]

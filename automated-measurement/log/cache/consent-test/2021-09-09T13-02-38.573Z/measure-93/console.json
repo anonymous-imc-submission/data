@@ -1,0 +1,87 @@
+[
+  {
+    "part": "measure-93",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:15:08.593Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "visit https://tv4.se/...",
+    "timestamp": "2021-09-09T13:15:11.964Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "[bugsnag] Loaded! @ [object Object]",
+    "timestamp": "2021-09-09T13:15:13.316Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:15:22.357Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:15:22.357Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:15:23.357Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:15:23.358Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:15:23.874Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:15:23.876Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:15:23.919Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:15:24.602Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "TCF data: cmpId 28 consent true, legInt false.",
+    "timestamp": "2021-09-09T13:15:24.605Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:15:24.629Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:15:24.635Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:15:24.889Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:15:29.631Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:15:29.685Z"
+  }
+]

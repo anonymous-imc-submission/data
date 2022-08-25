@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-22",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:10:15.593Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "visit https://irishmirror.ie/...",
+    "timestamp": "2021-09-09T13:10:15.810Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "page load error: Error: page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://irishmirror.ie/\n=========================== logs ===========================\nnavigating to \"https://irishmirror.ie/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:10:15.917Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:10:15.966Z"
+  }
+]

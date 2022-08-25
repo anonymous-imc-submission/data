@@ -1,0 +1,132 @@
+[
+  {
+    "part": "measure-37",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:12:12.744Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "visit https://cope.es/...",
+    "timestamp": "2021-09-09T13:12:12.910Z"
+  },
+  {
+    "part": "console.log",
+    "message": "pinto: Left @ [object Object]",
+    "timestamp": "2021-09-09T13:12:14.576Z"
+  },
+  {
+    "part": "console.log",
+    "message": "pinto: Left1 @ [object Object]",
+    "timestamp": "2021-09-09T13:12:15.469Z"
+  },
+  {
+    "part": "console.log",
+    "message": "pinto: Left2 @ [object Object]",
+    "timestamp": "2021-09-09T13:12:18.297Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:12:37.070Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:12:37.071Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:12:38.406Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:38.410Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:12:38.551Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:12:38.558Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:38.602Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "dialog accept failed: \n  - TimeoutError: page.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=primary]\"\n    ============================================================\n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-accept-btn-handler:visible,\n            .optanon-allow-all:visible,\n            .optanon-button-allow:visible,\n            #onetrust-pc-sdk #accept-recommended-btn-handler:visible\n        \"\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:13:07.488Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:13:29.342Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:13:29.348Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:34.633Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:14:25.448Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:14:25.449Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:14:30.833Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:14:38.410Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "TCF data: cmpId 7 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:14:38.410Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:14:38.420Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:14:38.422Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:14:43.421Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:14:43.463Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:14:43.480Z"
+  }
+]

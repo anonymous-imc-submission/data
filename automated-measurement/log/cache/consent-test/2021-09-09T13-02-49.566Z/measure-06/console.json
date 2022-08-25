@@ -1,0 +1,142 @@
+[
+  {
+    "part": "measure-06",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:07:28.484Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "visit https://ilsole24ore.com/...",
+    "timestamp": "2021-09-09T13:07:28.717Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Adv MPU_Top ilsole24ore.com/homepage true @ [object Object]",
+    "timestamp": "2021-09-09T13:07:31.602Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Adv Overlay ilsole24ore.com/homepage true @ [object Object]",
+    "timestamp": "2021-09-09T13:07:31.689Z"
+  },
+  {
+    "part": "console.log",
+    "message": "gt/crt not found @ [object Object]",
+    "timestamp": "2021-09-09T13:07:31.786Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Adv MaxTicker ilsole24ore.com/homepage true @ [object Object]",
+    "timestamp": "2021-09-09T13:07:31.962Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cookie  @ [object Object]",
+    "timestamp": "2021-09-09T13:07:33.010Z"
+  },
+  {
+    "part": "console.log",
+    "message": "fetchData [4074,Milano,/italia/lombardia/milano] meteo @ [object Object]",
+    "timestamp": "2021-09-09T13:07:33.019Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cookie 4074|Milano|/italia/lombardia/milano @ [object Object]",
+    "timestamp": "2021-09-09T13:07:33.059Z"
+  },
+  {
+    "part": "console.log",
+    "message": "fetchData [4074,Milano,/italia/lombardia/milano] meteo @ [object Object]",
+    "timestamp": "2021-09-09T13:07:33.061Z"
+  },
+  {
+    "part": "console.log",
+    "message": "gt/crt found @ [object Object]",
+    "timestamp": "2021-09-09T13:07:33.133Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Adv MPU_Top ilsole24ore.com/homepage true @ [object Object]",
+    "timestamp": "2021-09-09T13:07:33.218Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Adv SideToSideADV1 ilsole24ore.com/homepage true @ [object Object]",
+    "timestamp": "2021-09-09T13:07:33.835Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Adv Branded_Content_1 ilsole24ore.com/homepage true @ [object Object]",
+    "timestamp": "2021-09-09T13:07:33.942Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Adv Branded_Content_2 ilsole24ore.com/homepage true @ [object Object]",
+    "timestamp": "2021-09-09T13:07:33.948Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Adv MPU_Middle ilsole24ore.com/homepage true @ [object Object]",
+    "timestamp": "2021-09-09T13:07:34.193Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Adv MPU_Bottom ilsole24ore.com/homepage true @ [object Object]",
+    "timestamp": "2021-09-09T13:07:34.486Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Adv MaxTicker1 ilsole24ore.com/homepage true @ [object Object]",
+    "timestamp": "2021-09-09T13:07:34.520Z"
+  },
+  {
+    "part": "console.log",
+    "message": "--------------- init read-------------------------\n @ [object Object]",
+    "timestamp": "2021-09-09T13:07:38.016Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "{url: https://www.ilsole24ore.com/, title: Il Sole 24 Ore: notizie di economia, finanza, bors…isco, cronaca italiana ed esteri - Il Sole 24 ORE, type: frontpage, channel: mobile, paid: 0} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:38.020Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Cannot find targeting attribute \"crt_pb\" for \"/57491254/ilsole24ore.com/homepage/MPU_Top\". @ [object Object]",
+    "timestamp": "2021-09-09T13:07:38.527Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Cannot find targeting attribute \"crt_bidid\" for \"/57491254/ilsole24ore.com/homepage/MPU_Top\". @ [object Object]",
+    "timestamp": "2021-09-09T13:07:38.529Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Cannot find targeting attribute \"crt_pb\" for \"/57491254/ilsole24ore.com/homepage/MaxTicker\". @ [object Object]",
+    "timestamp": "2021-09-09T13:07:38.531Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Cannot find targeting attribute \"crt_bidid\" for \"/57491254/ilsole24ore.com/homepage/MaxTicker\". @ [object Object]",
+    "timestamp": "2021-09-09T13:07:38.535Z"
+  },
+  {
+    "part": "console.timeEnd",
+    "message": "a: 0.003173828125 ms @ [object Object]",
+    "timestamp": "2021-09-09T13:07:45.441Z"
+  },
+  {
+    "part": "console.timeEnd",
+    "message": "a: 0.002685546875 ms @ [object Object]",
+    "timestamp": "2021-09-09T13:07:45.520Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "page load error: Error: page.goto: Navigation failed because page crashed!\n=========================== logs ===========================\nnavigating to \"https://ilsole24ore.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:07:49.926Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:07:49.961Z"
+  }
+]

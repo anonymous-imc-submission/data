@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-74",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:20:07.290Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "visit https://gosugamers.net/...",
+    "timestamp": "2021-09-09T13:20:09.311Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o6cl5&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.gosugamers.net%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:20:23.942Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an script pixel with URL:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o6cl5&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.gosugamers.net%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:20:23.953Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o6cl5&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.gosugamers.net%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:20:23.960Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an image pixel with URL:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o6cl5&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.gosugamers.net%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:20:23.961Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:20:33.744Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:20:33.754Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:20:36.168Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:20:36.169Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:20:36.519Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:20:36.524Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:20:36.529Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:20:37.739Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:20:39.418Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "TCF data: cmpId 10 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:20:39.422Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:20:39.430Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:20:39.434Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:20:39.535Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:20:44.431Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:20:44.568Z"
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "part": "measure-99",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:22:36.129Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "visit https://fashiongonerogue.com/...",
+    "timestamp": "2021-09-09T13:22:38.718Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:22:42.544Z"
+  },
+  {
+    "part": "console.log",
+    "message": "not rate limited: 1631193789 @ [object Object]",
+    "timestamp": "2021-09-09T13:22:45.208Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:22:51.368Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:22:51.373Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:22:52.426Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:52.430Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:22:52.482Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:22:52.489Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:52.503Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "dialog accept failed: \n  - TimeoutError: page.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=primary]\"\n    ============================================================\n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-accept-btn-handler:visible,\n            .optanon-allow-all:visible,\n            .optanon-button-allow:visible,\n            #onetrust-pc-sdk #accept-recommended-btn-handler:visible\n        \"\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:23:21.588Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:23:43.115Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:23:43.116Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:23:48.200Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:24:38.858Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:24:38.860Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:24:44.010Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:24:52.432Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "TCF data: cmpId 46 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:24:52.436Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:24:52.468Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:24:52.475Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "Minimum wait time reached after 5.04s.",
+    "timestamp": "2021-09-09T13:24:57.562Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:24:58.323Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:24:58.329Z"
+  }
+]

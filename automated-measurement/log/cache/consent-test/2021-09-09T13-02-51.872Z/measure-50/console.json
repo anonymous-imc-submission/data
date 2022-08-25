@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-50",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:22:44.196Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "visit https://heraldnews.com/...",
+    "timestamp": "2021-09-09T13:22:45.009Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:23:06.115Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:23:06.179Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:23:07.311Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:23:07.312Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:23:07.711Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:23:07.717Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:23:07.971Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:23:07.980Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:23:08.153Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:23:08.202Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:23:24.278Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:23:24.283Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:23:24.316Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:23:24.326Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:23:29.324Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:23:44.343Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:23:44.580Z"
+  }
+]

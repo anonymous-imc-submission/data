@@ -1,0 +1,112 @@
+[
+  {
+    "part": "measure-36",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:11:59.728Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "visit https://allakhazam.com/...",
+    "timestamp": "2021-09-09T13:11:59.842Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu @ [object Object]",
+    "timestamp": "2021-09-09T13:12:02.238Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu @ [object Object]",
+    "timestamp": "2021-09-09T13:12:02.387Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'checkAdUnitSetup' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:12:02.620Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:12:04.014Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:12:04.015Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:12:04.159Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:04.160Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:12:04.185Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:12:04.189Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:04.212Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:12:04.252Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:12:17.124Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:12:17.130Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:12:17.139Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:12:17.145Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:12:17.202Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://c.amazon-adsystem.com/cdn/prod/config?src=600&u=https%3A%2F%2Fwww.fanbyte.com%2F&pubid=1953b87d-605c-4eaa-85c9-a121595b5e11' from origin 'https://www.fanbyte.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:17.221Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:12:17.223Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:12:22.140Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:12:22.181Z"
+  }
+]

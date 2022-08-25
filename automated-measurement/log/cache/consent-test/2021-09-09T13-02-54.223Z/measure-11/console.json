@@ -1,0 +1,122 @@
+[
+  {
+    "part": "measure-11",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:32.401Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "visit https://tv4play.se/...",
+    "timestamp": "2021-09-09T13:06:32.525Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "[bugsnag] Loaded! @ [object Object]",
+    "timestamp": "2021-09-09T13:06:33.553Z"
+  },
+  {
+    "part": "console.error",
+    "message": "video player error @ [object Object]",
+    "timestamp": "2021-09-09T13:06:36.465Z"
+  },
+  {
+    "part": "console.error",
+    "message": "video player error @ [object Object]",
+    "timestamp": "2021-09-09T13:06:36.475Z"
+  },
+  {
+    "part": "console.error",
+    "message": "video player error @ [object Object]",
+    "timestamp": "2021-09-09T13:06:36.483Z"
+  },
+  {
+    "part": "console.error",
+    "message": "video player error @ [object Object]",
+    "timestamp": "2021-09-09T13:06:36.546Z"
+  },
+  {
+    "part": "console.error",
+    "message": "video player error @ [object Object]",
+    "timestamp": "2021-09-09T13:06:36.571Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:06:36.991Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:06:37.000Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:06:38.003Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:38.003Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:06:38.039Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:06:38.039Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:38.054Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:06:38.140Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button tabindex=\"0\" class=\"cookie-setting-link\" id=\"one…>Cookie-inställningar</button>\nattempting click action\n  waiting for element to be visible, enabled and stable\n  element is visible, enabled and stable\n  scrolling into view if needed\n  done scrolling\n  checking that element receives pointer events at (568.12,401.02)\n  element does receive pointer events\n  performing click action\n  click action done\n  waiting for scheduled navigations to finish\n============================================================",
+    "timestamp": "2021-09-09T13:06:40.142Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:06:51.066Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:06:51.066Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:06:51.073Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:06:51.218Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:06:56.096Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:07:11.082Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:07:11.091Z"
+  }
+]

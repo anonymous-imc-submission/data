@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-04",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:05:58.862Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "visit https://theawesomedaily.com/...",
+    "timestamp": "2021-09-09T13:05:59.125Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:06:00.609Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 400 () @ [object Object]",
+    "timestamp": "2021-09-09T13:06:02.654Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:06:06.613Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 400 () @ [object Object]",
+    "timestamp": "2021-09-09T13:06:06.969Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:06:09.233Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:06:09.234Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:06:14.330Z"
+  },
+  {
+    "part": "console.log",
+    "message": "screenshotter start @ [object Object]",
+    "timestamp": "2021-09-09T13:06:16.331Z"
+  },
+  {
+    "part": "console.log",
+    "message": "take screenshot @ [object Object]",
+    "timestamp": "2021-09-09T13:06:19.947Z"
+  },
+  {
+    "part": "console.log",
+    "message": "screenshotter end @ [object Object]",
+    "timestamp": "2021-09-09T13:06:22.438Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-pc-btn-handler:visible,\n            #onetrust-pc-sdk:visible\n        \" to be visible\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:06:39.431Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "__tcfapi not found: TimeoutError: page.waitForFunction: Timeout 30000ms exceeded.",
+    "timestamp": "2021-09-09T13:06:39.448Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "TCF data: cmpId null consent null, legInt null.",
+    "timestamp": "2021-09-09T13:06:39.448Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:06:39.452Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:06:39.457Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:06:44.452Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:06:44.474Z"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-80",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:17:45.490Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "visit https://caller.com/...",
+    "timestamp": "2021-09-09T13:17:46.279Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Consent management does not appear to be set up correctly. No consent groups were found. @ [object Object]",
+    "timestamp": "2021-09-09T13:18:02.855Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:18:07.422Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:18:12.247Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:18:12.262Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:18:12.731Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:12.738Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:18:12.879Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:18:12.892Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:13.068Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:18:14.733Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:18:14.743Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:18:14.750Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:18:14.755Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Server did not respond to loadRBox @ [object Object]",
+    "timestamp": "2021-09-09T13:18:14.814Z"
+  },
+  {
+    "part": "console.log",
+    "message": "loadRBox failed, aborting. @ [object Object]",
+    "timestamp": "2021-09-09T13:18:14.830Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Invalid response from server: trc_json_response =\n{\"trc\":{}}\n @ [object Object]",
+    "timestamp": "2021-09-09T13:18:14.831Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:18:14.857Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:18:19.763Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:18:19.799Z"
+  }
+]

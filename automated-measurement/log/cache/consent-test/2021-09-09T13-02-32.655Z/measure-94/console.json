@@ -1,0 +1,27 @@
+[
+  {
+    "part": "measure-94",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:23:47.430Z"
+  },
+  {
+    "part": "measure-94",
+    "message": "visit https://otomoto.pl/...",
+    "timestamp": "2021-09-09T13:23:49.130Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "react-i18next:: It seems you are still using the old wait option, you may migrate to the new useSuspense behaviour. @ [object Object]",
+    "timestamp": "2021-09-09T13:24:01.483Z"
+  },
+  {
+    "part": "measure-94",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://otomoto.pl/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:24:19.235Z"
+  },
+  {
+    "part": "measure-94",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:24:19.503Z"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "part": "measure-43",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:17:51.153Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "visit https://arkadium.com/...",
+    "timestamp": "2021-09-09T13:17:51.318Z"
+  },
+  {
+    "part": "console.log",
+    "message": "ai @ [object Object]",
+    "timestamp": "2021-09-09T13:17:55.667Z"
+  },
+  {
+    "part": "console.log",
+    "message": "BUILD_ENV=production @ [object Object]",
+    "timestamp": "2021-09-09T13:17:56.435Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[react-ga] ReactGA.initialize must be called first or GoogleAnalytics should be loaded manually @ [object Object]",
+    "timestamp": "2021-09-09T13:18:00.295Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[react-ga] ReactGA.initialize must be called first or GoogleAnalytics should be loaded manually @ [object Object]",
+    "timestamp": "2021-09-09T13:18:00.296Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 400 () @ [object Object]",
+    "timestamp": "2021-09-09T13:18:06.317Z"
+  },
+  {
+    "part": "console.log",
+    "message": "HttpError: 400 -  for https://eagle-user-api-prod.arkadiumhosted.com/auth/refresh-token\n    at new t (https://www.arkadium.com/vendors.1cca75b3f2e5704ddd7f.bundle.js:2:29123)\n    at https://www.arkadium.com/vendors.1cca75b3f2e5704ddd7f.bundle.js:2:29020 @ [object Object]",
+    "timestamp": "2021-09-09T13:18:06.846Z"
+  },
+  {
+    "part": "console.log",
+    "message": "HttpError: 400 -  for https://eagle-user-api-prod.arkadiumhosted.com/auth/refresh-token\n    at new t (https://www.arkadium.com/vendors.1cca75b3f2e5704ddd7f.bundle.js:2:29123)\n    at https://www.arkadium.com/vendors.1cca75b3f2e5704ddd7f.bundle.js:2:29020 @ [object Object]",
+    "timestamp": "2021-09-09T13:18:06.848Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'checkAdUnitSetup' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:18:12.898Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:18:13.963Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:18:16.685Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:18:16.740Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:18:16.741Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:18:18.234Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:18.235Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:18:18.380Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:18:18.385Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:18.419Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:18:18.680Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:18:23.119Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:18:25.163Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:18:25.187Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:18:25.281Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:18:25.286Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:18:25.633Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:18:30.281Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:18:30.362Z"
+  }
+]

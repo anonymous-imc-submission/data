@@ -1,0 +1,37 @@
+[
+  {
+    "part": "measure-65",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:23:20.231Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "visit https://cycleworld.com/...",
+    "timestamp": "2021-09-09T13:23:21.005Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SUPPRESS: false @ [object Object]",
+    "timestamp": "2021-09-09T13:23:42.120Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Origin trial controlled feature not enabled: 'trust-token-redemption'. @ [object Object]",
+    "timestamp": "2021-09-09T13:23:47.717Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c------------- Cheetah Web Events: Posting Web Event ---------------\n{\"OrderDate\":\"9/9/2021 3:23:\",\"OrderSource\":\"Website\",\"ProductName\":\"cycleworld.com\",\"ProductCategoryName\":\"undefined\",\"ProductDescription\":\"https://www.cycleworld.com/\",\"ProductID\":\"/home\",\"Variable1\":\"undefined\"} background: #ffff33; color: #ff00ff @ [object Object]",
+    "timestamp": "2021-09-09T13:23:49.180Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://cycleworld.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:23:51.034Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:23:51.174Z"
+  }
+]

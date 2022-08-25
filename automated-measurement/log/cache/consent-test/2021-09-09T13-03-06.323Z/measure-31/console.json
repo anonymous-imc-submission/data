@@ -1,0 +1,127 @@
+[
+  {
+    "part": "measure-31",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:11:24.987Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "visit https://audiomack.com/...",
+    "timestamp": "2021-09-09T13:11:25.166Z"
+  },
+  {
+    "part": "console.log",
+    "message": "4 The audio could not be loaded, either because the server or network failed or because the format is not supported. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:28.542Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:11:29.142Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:11:34.224Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:11:34.730Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:11:34.733Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:11:35.095Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:35.096Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:11:35.124Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:11:35.129Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:35.134Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:11:35.162Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:11:35.682Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "TCF data: cmpId 10 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:11:35.684Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:11:35.690Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:11:35.693Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:11:35.858Z"
+  },
+  {
+    "part": "console.error",
+    "message": "FirebaseError: Installations: Create Installation request failed with error \"403 PERMISSION_DENIED: Requests from referer https://audiomack.com/ are blocked.\" (installations/request-failed).\n    at https://audiomack.com/static/dist/mobile/0.a162b795dbad46dcb352.chunk.js:179:443\n    at https://audiomack.com/static/dist/mobile/0.a162b795dbad46dcb352.chunk.js:468:1903\n    at Object.next (https://audiomack.com/static/dist/mobile/0.a162b795dbad46dcb352.chunk.js:468:2008)\n    at a (https://audiomack.com/static/dist/mobile/0.a162b795dbad46dcb352.chunk.js:468:747)\n    at nrWrapper (https://audiomack.com/:10:16531) @ [object Object]",
+    "timestamp": "2021-09-09T13:11:35.946Z"
+  },
+  {
+    "part": "console.info",
+    "message": "%cPubfig:  background: #00C389; color: #fff; border-radius: 3px; padding: 3px pubfig.messaging.js - Init ========== LOADING MESSAGING ========== @ [object Object]",
+    "timestamp": "2021-09-09T13:11:39.518Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://c.amazon-adsystem.com/cdn/prod/config?src=600&u=https%3A%2F%2Faudiomack.com%2F&pubid=0ab198dd-b265-462a-ae36-74e163ad6159' from origin 'https://audiomack.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:40.347Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:11:40.349Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:11:40.448Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:11:40.691Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:11:40.743Z"
+  }
+]

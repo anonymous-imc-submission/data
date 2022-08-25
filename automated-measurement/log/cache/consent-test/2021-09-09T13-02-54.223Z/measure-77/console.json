@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-77",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:22:00.133Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "visit https://thedailygreen.com/...",
+    "timestamp": "2021-09-09T13:22:01.292Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://thedailygreen.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:22:31.307Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:22:31.458Z"
+  }
+]

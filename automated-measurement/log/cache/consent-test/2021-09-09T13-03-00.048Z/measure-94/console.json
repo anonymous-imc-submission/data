@@ -1,0 +1,37 @@
+[
+  {
+    "part": "measure-94",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:33:49.335Z"
+  },
+  {
+    "part": "measure-94",
+    "message": "visit https://m-w.com/...",
+    "timestamp": "2021-09-09T13:33:51.519Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Welcome to Home Redesign... @ [object Object]",
+    "timestamp": "2021-09-09T13:33:57.153Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://merriam-webster.com/assets/mw/static/app-css-images/global/icons/double-arrows-white.svg' from origin 'https://www.merriam-webster.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:34:02.720Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:34:02.798Z"
+  },
+  {
+    "part": "measure-94",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://m-w.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:34:21.578Z"
+  },
+  {
+    "part": "measure-94",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:34:22.029Z"
+  }
+]

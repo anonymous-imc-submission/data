@@ -1,0 +1,91 @@
+\documentclass{standalonefigure}
+
+\begin{document}
+	\input{\paperroot/data/consent-test/stats.tex}
+	
+	\definecolor{ErrColor}{HTML}{CC79A7}
+	\definecolor{NeitherColor}{HTML}{009E73}
+	\definecolor{LegintColor}{HTML}{E69F00}
+	\definecolor{ConsentColor}{HTML}{0072B2}
+	\definecolor{BothColor}{HTML}{56B4E9}
+	
+	\begin{figure}
+		\centering
+		\begin{tikzpicture}[x=3.19cm,y=16pt]
+
+		\foreach \strat  [count=\x from 0] in {Accept, Reject} {
+			\foreach \cmp [count=\y from 0] in {OneTrust, Sourcepoint, Quantcast} {
+				
+				\node[left, inner xsep=0] at (-2pt, \y+.35) {\small\strut\cmp};
+				
+				\pgfmathsetmacro{\done}{0}
+				\foreach \part in {Err,Legint,Neither,Both, Consent} {
+					\def\val{\csname \cmp \strat \part \endcsname}
+
+					\path[fill=\part Color] (1.1*\x+\done,\y) rectangle ++(\val,12pt);
+					
+					\pgfmathsetmacro{\next}{\done+\val}
+					\global\let\done\next		
+				}
+			}
+		
+			\begin{scope}[yshift=-2pt]
+				\draw[line cap=rect]
+					(1.1*\x+0.0,0) -- ++(1,0)
+					(1.1*\x+0.0,0) -- ++(0,-4pt)
+					(1.1*\x+0.2,0) -- ++(0,-2pt)
+					(1.1*\x+0.4,0) -- ++(0,-2pt)
+					(1.1*\x+0.6,0) -- ++(0,-2pt)
+					(1.1*\x+0.8,0) -- ++(0,-2pt)
+					(1.1*\x+1.0,0) -- ++(0,-4pt);	  
+				\node[below right, inner xsep=1pt] at (1.1*\x,0) {\footnotesize $0\%$};
+				\node[below left, inner xsep=0pt] at (1.1*\x+1,0) {\footnotesize $100\%$};
+			\end{scope}
+		}
+	
+		%\draw[red,semithick] (1.05,-1pt) rectangle (1.44,3);
+		
+		%\node[draw=red,above right,minimum width=1.1cm,minimum height=1.65cm] at (1.075,-1pt) {};
+		
+		\node[align=left,fill=white, fill opacity=.9,text opacity=1, draw=red, rounded corners=4pt] at (1.77,1.85) (mistext) {\footnotesize User is mis-\\[-.5ex]\footnotesize represented};
+		
+%		\draw[->, red] (mistext) -- (1.15,2.4);
+%		\draw[->, red] (mistext) -- (1.23,1.4);
+		\draw[->, red] (mistext) -- (1.4,1.4);
+%		\draw[->, red] (mistext) -- (1.23,0.4);
+		\draw[->, red] (mistext) -- (1.35,0.4);
+		
+
+%		\draw[red,thick] (1.1,2)++(\QuantcastRejectErr,0) rectangle ++(\QuantcastRejectLegint,12pt);
+		\draw[red,thick] (1.1,1)++(\SourcepointRejectErr,0) rectangle ++(\SourcepointRejectLegint,12pt);
+		\draw[red,thick] (1.1,0)++(\OneTrustRejectErr,0) rectangle ++(\OneTrustRejectLegint,12pt);
+
+
+	
+		%\node at (0.8,4) {User\,action\,vs.\,consent\,decision\,sent\,to\,AdTech};
+		%\node[left, inner xsep=0] at (-2pt, 3.2) {\small\strut User\,Action};
+		\node at (0.5,3.2) {\small\strut Accept All};
+		\node at (1.6,3.2) {\small\strut Object All};
+		\node[inner sep=0] at (1.05,3.7) {\small\strut User Action};
+		
+		\small
+		\newcommand{\legend}[3]{                                                                                        
+			\path[fill=#2Color] (#1)++(-2pt,-2pt) rectangle ++(4pt,4pt) ++(0,-2pt) node[right] {\strut#3};
+		}
+
+		\begin{scope}[yshift=-1.2cm, xshift=-.15cm]
+			\node[right, inner sep=0] at (-.5,.4cm) {Website tells AdTech to process data based on...};
+			
+			\legend{-.4,0}{Both}{consent+leg.int.}
+			\legend{-.4,-.7}{Consent}{consent}
+			\legend{.5,0}{Neither}{no legal basis}
+			\legend{.5,-.7}{Legint}{leg.int.}
+			\legend{1.4,0}{Err}{no signal}
+			\path (1.4,-.7) ++ (-2pt,0) node[right, inner xsep=0] {\strut\scriptsize N=500 domains/bar};
+		\end{scope}
+		\end{tikzpicture}
+		\caption{User action in the consent dialog vs. consent decision sent to AdTech for the three leading consent dialog providers.}
+		\label{fig/results-auto-clicking}
+	\end{figure}
+	
+\end{document}

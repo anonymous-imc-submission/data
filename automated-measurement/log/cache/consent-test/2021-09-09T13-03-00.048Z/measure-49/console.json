@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-49",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:18:33.107Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "visit https://swtimes.com/...",
+    "timestamp": "2021-09-09T13:18:34.126Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:19:00.240Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:19:00.252Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:19:03.768Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:19:03.790Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:19:04.609Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:04.617Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:19:04.995Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:19:05.006Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:05.102Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:19:05.165Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:19:45.505Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:19:45.546Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:19:45.614Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:19:45.620Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:19:45.735Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:19:50.616Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:19:50.673Z"
+  }
+]

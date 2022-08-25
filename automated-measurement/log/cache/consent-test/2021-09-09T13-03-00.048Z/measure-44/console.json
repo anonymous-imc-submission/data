@@ -1,0 +1,87 @@
+[
+  {
+    "part": "measure-44",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:17:18.231Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "visit https://investopedia.com/...",
+    "timestamp": "2021-09-09T13:17:19.430Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:17:28.047Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:17:28.055Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:17:30.712Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:17:30.719Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:17:30.778Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:17:30.798Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:17:31.061Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:17:31.297Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:17:47.882Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:17:47.890Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:17:47.900Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:17:47.902Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:17:47.908Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:17:52.903Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:17:52.940Z"
+  }
+]

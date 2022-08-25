@@ -1,0 +1,127 @@
+[
+  {
+    "part": "measure-49",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:19:41.702Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "visit https://titulky.com/...",
+    "timestamp": "2021-09-09T13:19:41.815Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:19:50.013Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:19:50.029Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:19:52.142Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:19:52.143Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:19:52.602Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:52.603Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:19:52.719Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:19:52.731Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:52.750Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-pc-btn-handler:visible,\n            #onetrust-pc-sdk:visible\n        \" to be visible\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:20:22.207Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:20:43.671Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:20:43.671Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:20:48.946Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:21:39.529Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:21:39.529Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:21:44.858Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:21:52.603Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "TCF data: cmpId 7 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:21:52.603Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:21:52.620Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:21:57.631Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:22:12.622Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:22:12.776Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:22:12.802Z"
+  }
+]

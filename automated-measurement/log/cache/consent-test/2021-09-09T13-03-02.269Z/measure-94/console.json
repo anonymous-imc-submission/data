@@ -1,0 +1,27 @@
+[
+  {
+    "part": "measure-94",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:32:17.009Z"
+  },
+  {
+    "part": "measure-94",
+    "message": "visit https://bezrealitky.cz/...",
+    "timestamp": "2021-09-09T13:32:17.470Z"
+  },
+  {
+    "part": "console.log",
+    "message": "steps:  [Object,Object,Object,Object,Object,Object,Object,Object,Object,Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:32:43.124Z"
+  },
+  {
+    "part": "measure-94",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://bezrealitky.cz/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:32:47.485Z"
+  },
+  {
+    "part": "measure-94",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:32:47.543Z"
+  }
+]

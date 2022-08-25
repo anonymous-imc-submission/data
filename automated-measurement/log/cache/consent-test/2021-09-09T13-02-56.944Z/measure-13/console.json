@@ -1,0 +1,157 @@
+[
+  {
+    "part": "measure-13",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:07:40.500Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "visit https://metasrc.com/...",
+    "timestamp": "2021-09-09T13:07:40.806Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[RGEA] Event propertyId was not set; aborting @ [object Object]",
+    "timestamp": "2021-09-09T13:07:46.776Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[RGEA] propertyId: RGEA0002-d51de2fa-8c66-4187-9bc8-24c823ba960e @ [object Object]",
+    "timestamp": "2021-09-09T13:07:47.756Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "'HTMLVideoElement.webkitDisplayingFullscreen' is deprecated. Please use 'Document.fullscreenElement' instead. @ [object Object]",
+    "timestamp": "2021-09-09T13:07:53.054Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Origin trial controlled feature not enabled: 'trust-token-redemption'. @ [object Object]",
+    "timestamp": "2021-09-09T13:07:53.086Z"
+  },
+  {
+    "part": "console.log",
+    "message": "VIDEOJS: updateAdvancedSettings @ [object Object]",
+    "timestamp": "2021-09-09T13:07:54.054Z"
+  },
+  {
+    "part": "console.log",
+    "message": "VIDEOJS: updateAdvancedSettings @ [object Object]",
+    "timestamp": "2021-09-09T13:07:55.458Z"
+  },
+  {
+    "part": "console.error",
+    "message": "VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) The media could not be loaded, either because the server or network failed or because the format is not supported. hh @ [object Object]",
+    "timestamp": "2021-09-09T13:08:00.712Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:08:03.646Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:08:03.651Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:08:04.305Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:08:04.306Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:08:04.345Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:08:04.355Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:08:04.437Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:08:04.454Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.metasrc.com/assets/v/3.22.4/images/games/tft/tft_icon.png was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:08:06.784Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.metasrc.com/assets/v/3.22.4/images/games/lol/lol_icon_flat.png was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:08:06.786Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.metasrc.com/assets/v/3.22.4/images/games/valorant/valorant_icon.png was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:08:06.787Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.metasrc.com/assets/v/3.22.4/images/backgrounds/bg-summoners-rift.jpg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:08:06.788Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.metasrc.com/assets/v/3.22.4/images/games/valorant/valorant_icon_flat.png was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:08:06.788Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.metasrc.com/assets/v/3.22.4/images/games/tft/tft_icon_flat.png was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:08:06.790Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:10:04.307Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "TCF data: cmpId 28 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:10:04.307Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:10:04.315Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:10:09.316Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:10:24.318Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:10:24.385Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"#onetrust-consent-sdk .category-menu-switch-handler >> nth=0\"\n      selector resolved to visible <div role=\"tab\" tabindex=\"0\" aria-selected=\"true\" ari…>…</div>\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:10:24.398Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:10:24.422Z"
+  }
+]

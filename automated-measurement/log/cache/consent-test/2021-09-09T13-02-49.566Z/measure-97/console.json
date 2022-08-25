@@ -1,0 +1,27 @@
+[
+  {
+    "part": "measure-97",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:35:46.005Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "visit https://wowhead.com/...",
+    "timestamp": "2021-09-09T13:35:47.560Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'checkAdUnitSetup' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:36:09.970Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://wowhead.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:36:17.653Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:36:17.813Z"
+  }
+]

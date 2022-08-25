@@ -1,0 +1,177 @@
+[
+  {
+    "part": "measure-78",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:17:56.208Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "visit https://olx.pt/...",
+    "timestamp": "2021-09-09T13:17:57.315Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "NinjaTracker.init() @ [object Object]",
+    "timestamp": "2021-09-09T13:18:00.574Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "_loadScript() https://ninja.data.olxcdn.com/ninja-cee.js @ [object Object]",
+    "timestamp": "2021-09-09T13:18:00.583Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "NinjaTracker.onStartupPush() @ [object Object]",
+    "timestamp": "2021-09-09T13:18:00.590Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "NinjaTracker.registerEvent() #postNewAdLink @ [object Object]",
+    "timestamp": "2021-09-09T13:18:09.790Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "NinjaTracker.unregisterAsyncPayload() @ [object Object]",
+    "timestamp": "2021-09-09T13:18:09.790Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "_unregisterEvents() true @ [object Object]",
+    "timestamp": "2021-09-09T13:18:09.803Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "NinjaTracker.registerEvent() .maincategories-list a @ [object Object]",
+    "timestamp": "2021-09-09T13:18:09.804Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "NinjaTracker.registerEvent() .subcategories-list > ul a @ [object Object]",
+    "timestamp": "2021-09-09T13:18:09.826Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "NinjaTracker.registerEvent() .subcategories-title a @ [object Object]",
+    "timestamp": "2021-09-09T13:18:09.924Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "NinjaTracker.registerEvent() #cityField @ [object Object]",
+    "timestamp": "2021-09-09T13:18:09.924Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "NinjaTracker.registerEvent() #cityField @ [object Object]",
+    "timestamp": "2021-09-09T13:18:09.924Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "NinjaTracker.registerEvent() #cityField @ [object Object]",
+    "timestamp": "2021-09-09T13:18:09.924Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "NinjaTracker.registerEvent() #submit-searchmain @ [object Object]",
+    "timestamp": "2021-09-09T13:18:09.925Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "NinjaTracker.registerEvent() .observe-link @ [object Object]",
+    "timestamp": "2021-09-09T13:18:09.926Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "NinjaTracker.registerEvent() .observe-link @ [object Object]",
+    "timestamp": "2021-09-09T13:18:09.926Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "NinjaTracker.delayPush() {platform: desktop, url: /, event_type: click, action_type: session_start, user_status: unlogged} @ [object Object]",
+    "timestamp": "2021-09-09T13:18:10.432Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "NinjaTracker.push() {platform: desktop, url: /, event_type: pv, trackPage: home, action_type: home} @ [object Object]",
+    "timestamp": "2021-09-09T13:18:11.835Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "NinjaTracker.push() {platform: desktop, url: /, event_type: click, action_type: captcha_displayed, user_status: unlogged} @ [object Object]",
+    "timestamp": "2021-09-09T13:18:12.336Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:18:20.894Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:18:20.896Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:18:21.368Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:21.368Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:18:21.501Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:18:21.505Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:21.563Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:18:23.110Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:18:23.121Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:18:23.160Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "NinjaTracker.push() {platform: desktop, url: /, event_type: click, action_type: cookies_consent, user_status: unlogged} @ [object Object]",
+    "timestamp": "2021-09-09T13:18:23.898Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:18:24.071Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Network is idle after 4.58s.",
+    "timestamp": "2021-09-09T13:18:27.738Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:18:28.161Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:18:28.696Z"
+  }
+]

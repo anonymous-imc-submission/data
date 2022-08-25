@@ -1,0 +1,132 @@
+[
+  {
+    "part": "measure-12",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:05:18.045Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "visit https://universia.es/...",
+    "timestamp": "2021-09-09T13:05:18.233Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "resourceType nt:folder not found in mappings! @ [object Object]",
+    "timestamp": "2021-09-09T13:05:19.706Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[KEYCLOAK] Usage of legacy style promise methods such as `.error()` and `.success()` has been deprecated and support will be removed in future versions. Use standard style promise methods such as `.then() and `.catch()` instead. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:19.861Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:05:23.067Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:05:23.567Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:05:23.570Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:05:24.417Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:05:24.418Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:05:24.440Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:05:24.448Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:05:24.497Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:05:25.148Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:05:25.149Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:05:25.154Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:05:25.156Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:05:25.210Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o0649&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.universia.net%2Fes%2Fhome.html @ [object Object]",
+    "timestamp": "2021-09-09T13:05:25.879Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an script pixel with URL:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o0649&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.universia.net%2Fes%2Fhome.html @ [object Object]",
+    "timestamp": "2021-09-09T13:05:25.894Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o0649&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.universia.net%2Fes%2Fhome.html @ [object Object]",
+    "timestamp": "2021-09-09T13:05:25.896Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an image pixel with URL:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o0649&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.universia.net%2Fes%2Fhome.html @ [object Object]",
+    "timestamp": "2021-09-09T13:05:25.897Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The googletag.pubads().definePassback function has been deprecated. The function may break in certain contexts, see https://developers.google.com/publisher-tag/guides/passback-tags#construct_passback_tags for how to correctly create a passback. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:27.578Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The googletag.pubads().definePassback function has been deprecated. The function may break in certain contexts, see https://developers.google.com/publisher-tag/guides/passback-tags#construct_passback_tags for how to correctly create a passback. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:27.830Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://www.universia.net/es/home.html @ [object Object]",
+    "timestamp": "2021-09-09T13:05:29.733Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:05:30.154Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:05:30.184Z"
+  }
+]

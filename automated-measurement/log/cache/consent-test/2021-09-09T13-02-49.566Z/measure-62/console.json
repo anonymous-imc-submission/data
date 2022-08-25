@@ -1,0 +1,32 @@
+[
+  {
+    "part": "measure-62",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:22:49.079Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "visit https://seacoastonline.com/...",
+    "timestamp": "2021-09-09T13:22:50.026Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:23:19.472Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:23:19.496Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://seacoastonline.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:23:20.031Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:23:20.212Z"
+  }
+]

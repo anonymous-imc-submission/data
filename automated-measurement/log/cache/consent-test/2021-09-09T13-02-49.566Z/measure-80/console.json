@@ -1,0 +1,112 @@
+[
+  {
+    "part": "measure-80",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:29:21.397Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "visit https://hollywoodreporter.com/...",
+    "timestamp": "2021-09-09T13:29:22.867Z"
+  },
+  {
+    "part": "console.log",
+    "message": "CX bootstrap loader.... @ [object Object]",
+    "timestamp": "2021-09-09T13:29:27.676Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "Download the React DevTools for a better development experience: https://fb.me/react-devtools @ [object Object]",
+    "timestamp": "2021-09-09T13:29:28.392Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c cxb.selfLoading background: #0d47a1; color: #FFF @ [object Object]",
+    "timestamp": "2021-09-09T13:29:29.526Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:29:31.812Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:29:31.833Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:29:32.899Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:29:32.911Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:29:32.966Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:29:32.979Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:29:33.010Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:29:33.046Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://static.adsafeprotected.com/vans-adapter-google-ima.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:29:34.856Z"
+  },
+  {
+    "part": "console.log",
+    "message": "fonts loaded load @ [object Object]",
+    "timestamp": "2021-09-09T13:29:35.103Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:29:40.969Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:29:40.969Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:29:40.982Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:29:40.985Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:29:41.177Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:29:45.983Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:29:46.153Z"
+  }
+]

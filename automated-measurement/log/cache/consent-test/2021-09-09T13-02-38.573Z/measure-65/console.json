@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-65",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:11:49.079Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "visit https://htrnews.com/...",
+    "timestamp": "2021-09-09T13:11:49.155Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:11:52.197Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:11:53.238Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:11:53.239Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:11:53.305Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:53.305Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:11:53.328Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:11:53.331Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:53.345Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:11:53.627Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:11:53.628Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:11:53.630Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:11:53.660Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CONNECTION_CLOSED @ [object Object]",
+    "timestamp": "2021-09-09T13:11:54.945Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Network is idle after 3.78s.",
+    "timestamp": "2021-09-09T13:11:57.410Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:11:58.632Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:11:58.649Z"
+  }
+]

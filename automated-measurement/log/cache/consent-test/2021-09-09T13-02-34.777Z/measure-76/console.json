@@ -1,0 +1,132 @@
+[
+  {
+    "part": "measure-76",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:17:22.430Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "visit https://nieuws.nl/...",
+    "timestamp": "2021-09-09T13:17:45.396Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:18:08.521Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Google Maps JavaScript API warning: InvalidKey https://developers.google.com/maps/documentation/javascript/error-messages#invalid-key @ [object Object]",
+    "timestamp": "2021-09-09T13:18:09.759Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "%c %c  background: #ffce59 background: #649ff1 Confiant script loading timed out @ [object Object]",
+    "timestamp": "2021-09-09T13:18:09.960Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Google Maps JavaScript API error: NotLoadingAPIFromGoogleMapsError\nhttps://developers.google.com/maps/documentation/javascript/error-messages#not-loading-api-from-google-maps-error @ [object Object]",
+    "timestamp": "2021-09-09T13:18:12.345Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:18:13.498Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:18:13.513Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:18:15.129Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:15.132Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:18:15.191Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:18:15.201Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:15.218Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Error in googletag.display: could not find div with id \"semilo_asset\" in DOM for slot: /1015413/nieuws.nl-outstream-all-atf. @ [object Object]",
+    "timestamp": "2021-09-09T13:18:16.543Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:18:17.031Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:18:17.039Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:18:17.051Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:18:17.059Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:18:17.067Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:18:17.516Z"
+  },
+  {
+    "part": "console.error",
+    "message": "%c %c  background: #ffce59 background: #649ff1 Div element for slot 'semilo_asset' not found @ [object Object]",
+    "timestamp": "2021-09-09T13:18:17.992Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[Facebook Pixel] - Duplicate Pixel ID: 1138039862925527. @ [object Object]",
+    "timestamp": "2021-09-09T13:18:20.205Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c(00:35:276.20)%cJAdManager: version v2.36.413 initialized padding: 2px; background: rgba(0, 0, 0, 0.5); color: rgba(255, 255, 255, 1); padding: 2px; background: rgba( 0, 153, 204, 0.3); color: rgba( 0, 153, 204, 1); @ [object Object]",
+    "timestamp": "2021-09-09T13:18:20.803Z"
+  },
+  {
+    "part": "console.log",
+    "message": " (https://cdn.justpremium.com/js/v2.36.413/jpx.js:1:231262) @ [object Object]",
+    "timestamp": "2021-09-09T13:18:20.804Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:18:22.063Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:18:22.196Z"
+  }
+]

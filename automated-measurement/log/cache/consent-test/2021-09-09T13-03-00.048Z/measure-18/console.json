@@ -1,0 +1,117 @@
+[
+  {
+    "part": "measure-18",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:09:37.819Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "visit https://internships.com/...",
+    "timestamp": "2021-09-09T13:09:37.982Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID @ [object Object]",
+    "timestamp": "2021-09-09T13:09:40.020Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead @ [object Object]",
+    "timestamp": "2021-09-09T13:09:41.413Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead @ [object Object]",
+    "timestamp": "2021-09-09T13:09:41.414Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:09:43.072Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:09:43.077Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:09:44.558Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:09:44.559Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:09:44.645Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:09:44.651Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:09:44.660Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:09:44.942Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:09:48.082Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "rio-sdk-web Init was not called on client within 7000ms of being created @ [object Object]",
+    "timestamp": "2021-09-09T13:09:48.810Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:09:51.193Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:09:51.196Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:09:51.203Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:09:51.204Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:09:51.258Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "rio-sdk-web Init was not called on client within 7000ms of being created @ [object Object]",
+    "timestamp": "2021-09-09T13:09:52.029Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:09:56.204Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:09:56.249Z"
+  }
+]

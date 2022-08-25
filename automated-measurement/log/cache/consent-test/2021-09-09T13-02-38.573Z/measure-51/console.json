@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-51",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:10:08.293Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "visit https://hgtv.com/...",
+    "timestamp": "2021-09-09T13:10:08.448Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "page load error: Error: page.goto: net::ERR_CERT_DATE_INVALID at https://hgtv.com/\n=========================== logs ===========================\nnavigating to \"https://hgtv.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:10:08.720Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:10:08.737Z"
+  }
+]

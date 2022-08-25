@@ -1,0 +1,32 @@
+[
+  {
+    "part": "measure-52",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:18:39.714Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "visit https://oprahmag.com/...",
+    "timestamp": "2021-09-09T13:18:42.059Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service worker registration succeeded. @ [object Object]",
+    "timestamp": "2021-09-09T13:18:50.351Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:19:08.872Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://oprahmag.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:19:12.087Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:19:12.476Z"
+  }
+]

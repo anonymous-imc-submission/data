@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-35",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:13:45.697Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "visit https://teenvogue.com/...",
+    "timestamp": "2021-09-09T13:13:45.950Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:13:55.406Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:13:55.406Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:13:55.859Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:55.859Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:13:55.891Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:13:55.899Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:55.950Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:13:55.983Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:14:05.058Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:14:05.061Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:14:05.067Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:14:05.067Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:14:05.138Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "ads.Invalid sizes: unable to define 'rail' on mobile..warn {definition: Object, slotName: rail} @ [object Object]",
+    "timestamp": "2021-09-09T13:14:05.234Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:14:10.067Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:14:10.107Z"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "part": "measure-19",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:10:24.429Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "visit https://condenast.co.uk/...",
+    "timestamp": "2021-09-09T13:10:32.626Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:10:39.063Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:10:39.064Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:10:41.607Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:41.608Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:10:41.779Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:10:41.787Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:41.997Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:10:42.019Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button id=\"onetrust-pc-btn-handler\">Show Purposes</button>\nattempting click action\n  waiting for element to be visible, enabled and stable\n============================================================",
+    "timestamp": "2021-09-09T13:10:44.020Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:10:46.055Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - Error: page.click: Target crashed\n    =========================== logs ===========================\n    waiting for selector \".ot-pc-refuse-all-handler:visible, .save-preference-btn-handler:visible\"\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:11:09.081Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:12:41.608Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "TCF data: cmpId 28 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:12:41.609Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:12:41.616Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:12:41.617Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:12:46.617Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:12:46.629Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:12:46.629Z"
+  }
+]

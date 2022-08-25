@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-62",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:14:05.815Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "visit https://ithacajournal.com/...",
+    "timestamp": "2021-09-09T13:14:06.369Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:14:16.321Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:14:21.593Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:14:21.600Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:14:22.243Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:14:22.243Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:14:22.569Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:14:22.582Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:14:22.695Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:14:23.900Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:14:23.902Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:14:23.923Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:14:23.926Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:24.208Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:24.221Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:14:24.493Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:14:28.923Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:14:28.938Z"
+  }
+]

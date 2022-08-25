@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-85",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:22:35.557Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "visit https://parcelmonitor.com/...",
+    "timestamp": "2021-09-09T13:22:35.891Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 1.4.1 @ [object Object]",
+    "timestamp": "2021-09-09T13:22:44.421Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[2021-09-09T13:22:48.341Z][FollowDebug][LinkedFollow] useEffect @ [object Object]",
+    "timestamp": "2021-09-09T13:22:48.365Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:22:56.549Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:22:56.574Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:22:57.002Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:57.009Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:22:57.076Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:22:57.084Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:57.094Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:22:57.148Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:22:59.794Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "TCF data: cmpId 10 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:22:59.802Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:22:59.867Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:22:59.887Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:23:02.229Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Minimum wait time reached after 5.02s.",
+    "timestamp": "2021-09-09T13:23:04.926Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:23:05.081Z"
+  }
+]

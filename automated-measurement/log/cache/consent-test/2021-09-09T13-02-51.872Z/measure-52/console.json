@@ -1,0 +1,82 @@
+[
+  {
+    "part": "measure-52",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:23:44.631Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "visit https://motorsport.com/...",
+    "timestamp": "2021-09-09T13:23:46.039Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:24:10.038Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:24:10.040Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:24:13.881Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://cdn-1.motorsport.com/images/amp/2wBDJjM0/s800/max-verstappen-red-bull-racing.jpg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:24:14.672Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:24:16.332Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:24:16.333Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:24:17.072Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:24:17.089Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:24:17.098Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:24:17.100Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:24:17.120Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Network is idle after 4.01s.",
+    "timestamp": "2021-09-09T13:24:21.136Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:24:22.122Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:24:22.233Z"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-39",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:14:27.916Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "visit https://sportsrec.com/...",
+    "timestamp": "2021-09-09T13:14:28.139Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "page load error: Error: page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://sportsrec.com/\n=========================== logs ===========================\nnavigating to \"https://sportsrec.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:14:28.172Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:14:28.221Z"
+  }
+]

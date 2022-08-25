@@ -1,0 +1,177 @@
+[
+  {
+    "part": "measure-43",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:19:26.808Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "visit https://mediafax.ro/...",
+    "timestamp": "2021-09-09T13:19:28.028Z"
+  },
+  {
+    "part": "console.log",
+    "message": " @ [object Object]",
+    "timestamp": "2021-09-09T13:19:29.554Z"
+  },
+  {
+    "part": "console.log",
+    "message": "timestamp-cookie: @ [object Object]",
+    "timestamp": "2021-09-09T13:19:29.562Z"
+  },
+  {
+    "part": "console.log",
+    "message": "NaN @ [object Object]",
+    "timestamp": "2021-09-09T13:19:29.562Z"
+  },
+  {
+    "part": "console.log",
+    "message": "timestamp-bug @ [object Object]",
+    "timestamp": "2021-09-09T13:19:29.562Z"
+  },
+  {
+    "part": "console.log",
+    "message": "1623794400 @ [object Object]",
+    "timestamp": "2021-09-09T13:19:29.567Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:19:30.131Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:19:30.144Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isTablet -- false @ [object Object]",
+    "timestamp": "2021-09-09T13:19:31.245Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Invalid arguments: PubAdsService.refresh(). @ [object Object]",
+    "timestamp": "2021-09-09T13:19:35.109Z"
+  },
+  {
+    "part": "console.error",
+    "message": "JW Player Error 102630. For more information see https://developer.jwplayer.com/jw-player/docs/developer-guide/api/errors-reference#102630 @ [object Object]",
+    "timestamp": "2021-09-09T13:19:36.599Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed with logging active, version 3.0.0 @ [object Object]",
+    "timestamp": "2021-09-09T13:19:43.035Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "JQMIGRATE: jQuery.fn.bind() is deprecated @ [object Object]",
+    "timestamp": "2021-09-09T13:19:43.173Z"
+  },
+  {
+    "part": "console.trace",
+    "message": "console.trace @ [object Object]",
+    "timestamp": "2021-09-09T13:19:43.173Z"
+  },
+  {
+    "part": "console.log",
+    "message": "XHR ok @ [object Object]",
+    "timestamp": "2021-09-09T13:19:43.758Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Calendar loaded! @ [object Object]",
+    "timestamp": "2021-09-09T13:19:43.758Z"
+  },
+  {
+    "part": "console.log",
+    "message": "1 @ [object Object]",
+    "timestamp": "2021-09-09T13:19:45.052Z"
+  },
+  {
+    "part": "console.log",
+    "message": "HasAdBlock : No @ [object Object]",
+    "timestamp": "2021-09-09T13:19:45.052Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:19:53.095Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:19:53.102Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Refused to display 'https://www.facebook.com/' in a frame because it set 'X-Frame-Options' to 'deny'. @ [object Object]",
+    "timestamp": "2021-09-09T13:19:53.951Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:19:54.218Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:54.219Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:19:54.249Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:19:54.263Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:54.319Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:19:54.333Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:20:15.418Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:20:15.418Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:20:15.445Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:20:15.445Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:20:15.620Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:20:20.447Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:20:20.606Z"
+  }
+]

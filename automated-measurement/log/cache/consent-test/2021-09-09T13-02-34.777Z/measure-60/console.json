@@ -1,0 +1,82 @@
+[
+  {
+    "part": "measure-60",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:13:27.226Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "visit https://emathhelp.net/...",
+    "timestamp": "2021-09-09T13:13:27.981Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:13:34.285Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:13:34.290Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:13:35.015Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:35.020Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:13:35.039Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:13:35.042Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:35.162Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:13:36.915Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:13:36.919Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:13:36.934Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:13:36.938Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:13:36.983Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:13:41.936Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:13:41.956Z"
+  }
+]

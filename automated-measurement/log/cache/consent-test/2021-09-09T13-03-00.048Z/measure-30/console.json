@@ -1,0 +1,87 @@
+[
+  {
+    "part": "measure-30",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:12:52.452Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "visit https://gamesindustry.biz/...",
+    "timestamp": "2021-09-09T13:12:52.796Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:12:57.782Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:12:57.792Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:13:02.490Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:02.503Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:13:02.772Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:03.329Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:13:03.683Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:13:05.159Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:13:16.451Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:13:16.453Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:13:16.469Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:13:16.472Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:13:16.607Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:13:21.470Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:13:21.498Z"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-70",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:22:15.815Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "visit https://delmarvanow.com/...",
+    "timestamp": "2021-09-09T13:22:15.994Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:22:23.400Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:22:26.257Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:22:26.260Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:22:26.584Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:26.584Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:22:26.627Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:22:26.630Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:26.692Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:22:26.724Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:22:49.946Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:22:49.948Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:22:49.956Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:22:49.958Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:22:50.012Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:22:54.957Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:22:54.983Z"
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "part": "measure-21",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:09:08.540Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "visit https://ojogos.com.br/...",
+    "timestamp": "2021-09-09T13:09:08.714Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:09:14.021Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:09:17.064Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:09:17.076Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:09:18.689Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:09:18.690Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:09:18.769Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:09:18.778Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:09:18.879Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:09:19.880Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:09:19.888Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:09:19.928Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:09:19.944Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:09:20.048Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:09:24.939Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:09:24.994Z"
+  }
+]

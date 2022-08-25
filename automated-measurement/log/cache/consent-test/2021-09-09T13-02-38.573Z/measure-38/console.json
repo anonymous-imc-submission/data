@@ -1,0 +1,87 @@
+[
+  {
+    "part": "measure-38",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:08:28.931Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "visit https://flashresultats.fr/...",
+    "timestamp": "2021-09-09T13:08:29.037Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:08:40.846Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:08:40.847Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:08:41.521Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:08:41.521Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:08:41.544Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:08:41.547Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:08:41.570Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:08:42.457Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:08:42.458Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:08:42.472Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:08:42.614Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cPubTag color: #fff; background: #ff8f1c; display: inline-block; padding: 1px 4px; border-radius: 3px; ERROR: can't display acceptable ad : the container \"crt-1364441\" is not visible @ [object Object]",
+    "timestamp": "2021-09-09T13:08:43.170Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:08:47.474Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:09:02.489Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:09:02.556Z"
+  }
+]

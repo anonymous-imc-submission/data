@@ -1,0 +1,77 @@
+[
+  {
+    "part": "measure-46",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:13:16.176Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "visit https://m-w.com/...",
+    "timestamp": "2021-09-09T13:13:17.812Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:13:24.563Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Welcome to Home Redesign... @ [object Object]",
+    "timestamp": "2021-09-09T13:13:27.026Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://merriam-webster.com/assets/mw/static/app-css-images/global/icons/double-arrows-white.svg' from origin 'https://www.merriam-webster.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:28.481Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:13:28.493Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://c.amazon-adsystem.com/cdn/prod/config?src=3022&u=https%3A%2F%2Fwww.merriam-webster.com%2F' from origin 'https://www.merriam-webster.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:28.930Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:13:28.934Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://brightcombid.marphezis.com/hb?cb=MtK1LwNC' from origin 'https://www.merriam-webster.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'. The credentials mode of requests initiated by the XMLHttpRequest is controlled by the withCredentials attribute. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:34.477Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:13:34.479Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Origin trial controlled feature not enabled: 'trust-token-redemption'. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:38.848Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:13:41.514Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[BC]DataLayer available @ [object Object]",
+    "timestamp": "2021-09-09T13:13:41.744Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://m-w.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:13:47.877Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:13:48.157Z"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "part": "measure-63",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:21:54.640Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "visit https://nusport.nl/...",
+    "timestamp": "2021-09-09T13:21:58.313Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Messaging without detection successfully executed. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:03.990Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:22:06.180Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:22:06.229Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Sourcepoint iframe found!",
+    "timestamp": "2021-09-09T13:22:06.237Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:22:07.352Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:07.367Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:22:07.678Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:22:07.684Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:07.696Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Button clicked: Instellen",
+    "timestamp": "2021-09-09T13:22:09.426Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Found Sourcepoint privacy manager.",
+    "timestamp": "2021-09-09T13:22:09.670Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Sourcepoint: no type toggles.",
+    "timestamp": "2021-09-09T13:22:15.138Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Sourcepoint: Check for legitimate interest button...",
+    "timestamp": "2021-09-09T13:22:28.827Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Sourcepoint: no legitimate interest button found: No matching button found: ",
+    "timestamp": "2021-09-09T13:22:28.930Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Sourcepoint: Find the save button.",
+    "timestamp": "2021-09-09T13:22:28.930Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Sourcepoint dialog rejected.",
+    "timestamp": "2021-09-09T13:22:29.727Z"
+  },
+  {
+    "part": "console.log",
+    "message": "interaction complete @ [object Object]",
+    "timestamp": "2021-09-09T13:22:30.553Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:22:30.733Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "TCF data: cmpId 6 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:22:30.733Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:22:30.744Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Failed to decode downloaded font: https://www.nu.nl/static/vendor/fontawesome/fonts/fontawesome-webfont.eot?v=4.3.0 @ [object Object]",
+    "timestamp": "2021-09-09T13:22:34.985Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "OTS parsing error: invalid sfntVersion: 1854341632 @ [object Object]",
+    "timestamp": "2021-09-09T13:22:34.987Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:22:35.744Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SP referrer =  @ [object Object]",
+    "timestamp": "2021-09-09T13:22:36.020Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Messaging without detection successfully executed. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:36.500Z"
+  },
+  {
+    "part": "console.log",
+    "message": "tcf20 cookie set - first time @ [object Object]",
+    "timestamp": "2021-09-09T13:22:40.245Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Network is idle after 12.0s.",
+    "timestamp": "2021-09-09T13:22:42.794Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:22:42.857Z"
+  }
+]

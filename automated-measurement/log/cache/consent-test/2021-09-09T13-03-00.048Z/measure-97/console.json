@@ -1,0 +1,87 @@
+[
+  {
+    "part": "measure-97",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:34:29.853Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "visit https://breakingnews.ie/...",
+    "timestamp": "2021-09-09T13:34:40.804Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108280007001 https://www.breakingnews.ie/ @ [object Object]",
+    "timestamp": "2021-09-09T13:34:47.299Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The keyword 'slider-vertical' specified to an 'appearance' property is not standardized. It will be removed in the future. @ [object Object]",
+    "timestamp": "2021-09-09T13:35:02.991Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "Error: no head @ [object Object]",
+    "timestamp": "2021-09-09T13:35:03.577Z"
+  },
+  {
+    "part": "console.trace",
+    "message": "Error: no head @ [object Object]",
+    "timestamp": "2021-09-09T13:35:03.583Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The keyword 'slider-vertical' specified to an 'appearance' property is not standardized. It will be removed in the future. @ [object Object]",
+    "timestamp": "2021-09-09T13:35:04.327Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "Error: no head @ [object Object]",
+    "timestamp": "2021-09-09T13:35:05.904Z"
+  },
+  {
+    "part": "console.trace",
+    "message": "Error: no head @ [object Object]",
+    "timestamp": "2021-09-09T13:35:05.906Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The keyword 'slider-vertical' specified to an 'appearance' property is not standardized. It will be removed in the future. @ [object Object]",
+    "timestamp": "2021-09-09T13:35:06.952Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "Error: no head @ [object Object]",
+    "timestamp": "2021-09-09T13:35:07.518Z"
+  },
+  {
+    "part": "console.trace",
+    "message": "Error: no head @ [object Object]",
+    "timestamp": "2021-09-09T13:35:07.528Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The keyword 'slider-vertical' specified to an 'appearance' property is not standardized. It will be removed in the future. @ [object Object]",
+    "timestamp": "2021-09-09T13:35:08.292Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "Error: no head @ [object Object]",
+    "timestamp": "2021-09-09T13:35:08.556Z"
+  },
+  {
+    "part": "console.trace",
+    "message": "Error: no head @ [object Object]",
+    "timestamp": "2021-09-09T13:35:08.560Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://breakingnews.ie/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:35:10.821Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:35:10.866Z"
+  }
+]

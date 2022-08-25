@@ -1,0 +1,212 @@
+[
+  {
+    "part": "measure-00",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:05:32.991Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "visit https://marieclaire.com/...",
+    "timestamp": "2021-09-09T13:05:33.304Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service worker registration succeeded. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:35.327Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:05:38.351Z"
+  },
+  {
+    "part": "console.log",
+    "message": "site {name: Marie Claire, prefix: marie claire, domain: www.marieclaire.com, dartzone: , icxSiteId: 10058} @ [object Object]",
+    "timestamp": "2021-09-09T13:05:39.282Z"
+  },
+  {
+    "part": "console.log",
+    "message": "article {canonicalUrl: https://www.marieclaire.com/default/, formerShareCount: , pageUrl: https://www.marieclaire.com/default/, createDate: Object, id: marieclaire.section.9663804} @ [object Object]",
+    "timestamp": "2021-09-09T13:05:39.284Z"
+  },
+  {
+    "part": "console.log",
+    "message": "landing {header: wide, layout: Custom, value: Object, type: Homepage, sponsor: Array(0)} @ [object Object]",
+    "timestamp": "2021-09-09T13:05:39.286Z"
+  },
+  {
+    "part": "console.log",
+    "message": "datalayer {currency: $, propertyName: www.marieclaire.com, contentId: marieclaire.section.9663804, contentPublishDate: 1631192653, pageType: Homepage} @ [object Object]",
+    "timestamp": "2021-09-09T13:05:39.291Z"
+  },
+  {
+    "part": "console.log",
+    "message": "template: Homepage type: undefined pageType: Homepage @ [object Object]",
+    "timestamp": "2021-09-09T13:05:39.294Z"
+  },
+  {
+    "part": "console.log",
+    "message": "landing layout: Custom @ [object Object]",
+    "timestamp": "2021-09-09T13:05:39.304Z"
+  },
+  {
+    "part": "console.log",
+    "message": "article display: Homepage @ [object Object]",
+    "timestamp": "2021-09-09T13:05:39.320Z"
+  },
+  {
+    "part": "console.log",
+    "message": "MIN_DISTANCE 1200 @ [object Object]",
+    "timestamp": "2021-09-09T13:05:39.321Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Hybrid template = custom @ [object Object]",
+    "timestamp": "2021-09-09T13:05:39.336Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Injecting Taboola Head Script Start @ [object Object]",
+    "timestamp": "2021-09-09T13:05:39.336Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Taboola Head Script Start @ [object Object]",
+    "timestamp": "2021-09-09T13:05:39.347Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Taboola Head Script End @ [object Object]",
+    "timestamp": "2021-09-09T13:05:39.348Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Injecting Taboola Head Script End @ [object Object]",
+    "timestamp": "2021-09-09T13:05:39.348Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Injecting Taboola Script Article Widget Start @ [object Object]",
+    "timestamp": "2021-09-09T13:05:39.362Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Injecting Taboola Script Article Widget End @ [object Object]",
+    "timestamp": "2021-09-09T13:05:39.362Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Injecting Taboola Script Body Start @ [object Object]",
+    "timestamp": "2021-09-09T13:05:39.363Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Taboola Body Script Start @ [object Object]",
+    "timestamp": "2021-09-09T13:05:39.382Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Taboola Body Script End @ [object Object]",
+    "timestamp": "2021-09-09T13:05:39.382Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Injecting Taboola Script Body End @ [object Object]",
+    "timestamp": "2021-09-09T13:05:39.382Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Setting targeting: {site: marieclaire.com, url: https://www.marieclaire.com/default/, pagetype: Homepage, articleid: marieclaire.section.9663804, kw: Array(1)} @ [object Object]",
+    "timestamp": "2021-09-09T13:05:41.742Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:05:45.989Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:05:46.036Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:05:49.718Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:05:49.725Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:05:50.065Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:05:50.099Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:05:50.111Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:05:50.793Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:05:59.597Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "TCF data: cmpId 10 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:05:59.601Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:05:59.661Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:05:59.664Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Quantcast dialog rejected.",
+    "timestamp": "2021-09-09T13:05:59.777Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://tpc.googlesyndication.com/sodar/sodar2/224/runner.html' from origin 'https://www.marieclaire.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:06:02.688Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:02.703Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://tpc.googlesyndication.com') does not match the recipient window's origin ('https://www.marieclaire.com'). @ [object Object]",
+    "timestamp": "2021-09-09T13:06:02.819Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:06:04.663Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:06:04.726Z"
+  }
+]

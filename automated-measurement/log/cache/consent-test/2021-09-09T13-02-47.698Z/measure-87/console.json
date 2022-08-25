@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-87",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:27:12.616Z"
+  },
+  {
+    "part": "measure-87",
+    "message": "visit https://harpersbazaar.com/...",
+    "timestamp": "2021-09-09T13:27:12.884Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service worker registration succeeded. @ [object Object]",
+    "timestamp": "2021-09-09T13:27:13.641Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:27:15.604Z"
+  },
+  {
+    "part": "measure-87",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:27:16.455Z"
+  },
+  {
+    "part": "measure-87",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:27:16.457Z"
+  },
+  {
+    "part": "measure-87",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:27:17.803Z"
+  },
+  {
+    "part": "measure-87",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:27:17.803Z"
+  },
+  {
+    "part": "measure-87",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:27:17.827Z"
+  },
+  {
+    "part": "measure-87",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:27:17.836Z"
+  },
+  {
+    "part": "measure-87",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:27:17.914Z"
+  },
+  {
+    "part": "measure-87",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:27:17.938Z"
+  },
+  {
+    "part": "measure-87",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:27:26.006Z"
+  },
+  {
+    "part": "measure-87",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:27:26.008Z"
+  },
+  {
+    "part": "measure-87",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:27:26.014Z"
+  },
+  {
+    "part": "measure-87",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:27:26.015Z"
+  },
+  {
+    "part": "measure-87",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:27:26.080Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service worker registration succeeded. @ [object Object]",
+    "timestamp": "2021-09-09T13:27:26.626Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:27:29.395Z"
+  },
+  {
+    "part": "measure-87",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:27:31.014Z"
+  },
+  {
+    "part": "measure-87",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:27:31.038Z"
+  }
+]

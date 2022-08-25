@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-88",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:29:11.937Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "visit https://vibe.com/...",
+    "timestamp": "2021-09-09T13:29:15.910Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:29:28.431Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:29:28.457Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:29:31.326Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:29:31.343Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:29:31.416Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:29:31.463Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:29:31.528Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:29:31.541Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://static.adsafeprotected.com/vans-adapter-google-ima.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:29:31.569Z"
+  },
+  {
+    "part": "console.log",
+    "message": "fonts loaded load @ [object Object]",
+    "timestamp": "2021-09-09T13:29:31.698Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:29:50.801Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:29:50.806Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:29:50.831Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:29:50.841Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:29:51.062Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "Minimum wait time reached after 5.06s.",
+    "timestamp": "2021-09-09T13:29:55.894Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:29:56.001Z"
+  }
+]

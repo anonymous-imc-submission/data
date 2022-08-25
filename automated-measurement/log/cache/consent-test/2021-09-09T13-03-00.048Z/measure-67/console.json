@@ -1,0 +1,77 @@
+[
+  {
+    "part": "measure-67",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:25:54.801Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "visit https://thetrackernetwork.com/...",
+    "timestamp": "2021-09-09T13:25:56.387Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'. @ [object Object]",
+    "timestamp": "2021-09-09T13:25:56.804Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:25:56.924Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:26:00.504Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:26:00.568Z"
+  },
+  {
+    "part": "console.log",
+    "message": "recaptchacompat disabled @ [object Object]",
+    "timestamp": "2021-09-09T13:26:00.806Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "'window.webkitStorageInfo' is deprecated. Please use 'navigator.webkitTemporaryStorage' or 'navigator.webkitPersistentStorage' instead. @ [object Object]",
+    "timestamp": "2021-09-09T13:26:15.847Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-pc-btn-handler:visible,\n            #onetrust-pc-sdk:visible\n        \" to be visible\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:26:30.942Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "__tcfapi not found: TimeoutError: page.waitForFunction: Timeout 30000ms exceeded.",
+    "timestamp": "2021-09-09T13:26:30.953Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "TCF data: cmpId null consent null, legInt null.",
+    "timestamp": "2021-09-09T13:26:30.953Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:26:30.984Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:26:30.989Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:26:35.990Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:26:36.087Z"
+  }
+]

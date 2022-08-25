@@ -1,0 +1,82 @@
+[
+  {
+    "part": "measure-86",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:18:56.495Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "visit https://hyvesgames.nl/...",
+    "timestamp": "2021-09-09T13:18:56.978Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:19:08.449Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:19:08.450Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:19:09.784Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:09.785Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:19:10.033Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:19:10.042Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:10.108Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:19:10.795Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:19:10.803Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:19:10.815Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:19:10.821Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:19:11.059Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:19:15.818Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:19:15.857Z"
+  }
+]

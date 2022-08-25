@@ -1,0 +1,87 @@
+[
+  {
+    "part": "measure-22",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:09:12.822Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "visit https://okcupid.com/...",
+    "timestamp": "2021-09-09T13:09:13.221Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:09:29.989Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:09:30.002Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:09:31.389Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:09:31.390Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:09:31.511Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:09:31.516Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:09:31.539Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:09:32.419Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "TCF data: cmpId 28 consent true, legInt false.",
+    "timestamp": "2021-09-09T13:09:32.425Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:09:32.455Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:09:32.466Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:09:32.705Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Failed to execute 'write' on 'Document': It isn't possible to write into a document from an asynchronously-loaded external script unless it is explicitly opened. @ [object Object]",
+    "timestamp": "2021-09-09T13:09:33.844Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:09:37.456Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:09:37.518Z"
+  }
+]

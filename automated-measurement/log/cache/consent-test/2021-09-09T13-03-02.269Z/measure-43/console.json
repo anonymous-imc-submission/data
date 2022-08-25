@@ -1,0 +1,87 @@
+[
+  {
+    "part": "measure-43",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:16:22.849Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "visit https://tauntongazette.com/...",
+    "timestamp": "2021-09-09T13:16:23.298Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:16:32.359Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:16:32.361Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:16:32.925Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:16:32.925Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:16:32.951Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:16:32.954Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:16:32.975Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:16:33.000Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:16:55.622Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:16:55.624Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:16:55.635Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:16:55.669Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:17:00.640Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:17:15.638Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:17:15.664Z"
+  }
+]

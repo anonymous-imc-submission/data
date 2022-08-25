@@ -1,0 +1,137 @@
+[
+  {
+    "part": "measure-65",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:14:03.565Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "visit https://aerztezeitung.de/...",
+    "timestamp": "2021-09-09T13:15:12.517Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/. @ [object Object]",
+    "timestamp": "2021-09-09T13:15:16.469Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:15:24.874Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:15:24.905Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:15:26.960Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:15:26.961Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:15:27.029Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:15:27.033Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:15:27.055Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:15:27.887Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "TCF data: cmpId 28 consent true, legInt false.",
+    "timestamp": "2021-09-09T13:15:27.888Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:15:27.897Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:15:27.901Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:15:27.968Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/. @ [object Object]",
+    "timestamp": "2021-09-09T13:15:29.270Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "Call Ads_BA_AD with slot: BS @ [object Object]",
+    "timestamp": "2021-09-09T13:15:29.328Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "Call Ads_BA_AD with slot: SKY @ [object Object]",
+    "timestamp": "2021-09-09T13:15:29.329Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "Call Ads_BA_AD with slot: CAD @ [object Object]",
+    "timestamp": "2021-09-09T13:15:29.549Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isGpcEnabled=0&datestamp=Thu+Sep+09+2021+15:15:27+GMT+0200+(Mitteleuropäische+Sommerzeit)&version=6.22.0&isIABGlobal=false&hosts=&consentId=856007da-86d6-47e1-bb4f-cbc55ec9daf3&interactionCount=1&landingPath=NotLandingPage&groups=C0001:1,C0003:1,C0004:1,C0002:1,C0009:1,STACK42:1,gad:1 @ [object Object]",
+    "timestamp": "2021-09-09T13:15:30.097Z"
+  },
+  {
+    "part": "console.log",
+    "message": "__tcfapi is undefined while Adlib loading @ [object Object]",
+    "timestamp": "2021-09-09T13:15:30.100Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "done loading script: https://storage.googleapis.com/adlib/arztz_cons_adlib.js @ [object Object]",
+    "timestamp": "2021-09-09T13:15:30.105Z"
+  },
+  {
+    "part": "console.log",
+    "message": "__tcfapi exists while DOMContentLoaded @ [object Object]",
+    "timestamp": "2021-09-09T13:15:31.496Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "adcall: /4969/GE-B2M-MEDIC-O-AERZTEZEITUNG/homepage, 468,60,728,90,970,90,800,250,900,250,970,250,300,50,320,50,300,75,320,75,300,150,320,150, kw=FLB @ [object Object]",
+    "timestamp": "2021-09-09T13:15:32.207Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "adcall: /4969/GE-B2M-MEDIC-O-AERZTEZEITUNG/homepage, 180,150,300,250,336,280,620,150,468,60,300,50,320,50,300,75,320,75,300,150,320,150,800,250,900,250, kw=CAD2 @ [object Object]",
+    "timestamp": "2021-09-09T13:15:32.224Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:15:32.903Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:15:33.012Z"
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-48",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:21:24.246Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "visit https://dnj.com/...",
+    "timestamp": "2021-09-09T13:21:26.390Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:21:46.811Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:21:51.451Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:21:51.468Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:21:52.086Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:21:52.094Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:21:52.132Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:21:52.136Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:21:52.217Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:21:52.251Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:21:56.283Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:22:01.252Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:22:01.264Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:22:01.301Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:22:01.592Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:22:06.312Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:22:21.336Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:22:21.712Z"
+  }
+]

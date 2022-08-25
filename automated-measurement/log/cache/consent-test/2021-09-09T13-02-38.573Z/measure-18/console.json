@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-18",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:01.223Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "visit https://wellandgood.com/...",
+    "timestamp": "2021-09-09T13:06:01.409Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:06:09.292Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:06:09.293Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:06:10.076Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:10.077Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:06:10.137Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:11.116Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:06:11.353Z"
+  },
+  {
+    "part": "console.timeEnd",
+    "message": "a: 0.001953125 ms @ [object Object]",
+    "timestamp": "2021-09-09T13:06:11.444Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "dialog accept failed: \n  - TimeoutError: page.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=primary]\"\n    ============================================================\n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-accept-btn-handler:visible,\n            .optanon-allow-all:visible,\n            .optanon-button-allow:visible,\n            #onetrust-pc-sdk #accept-recommended-btn-handler:visible\n        \"\n      selector resolved to visible <button tabindex=\"0\" id=\"onetrust-accept-btn-handler\">I Accept</button>\n    attempting click action\n      waiting for element to be visible, enabled and stable\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:06:39.301Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:08:10.077Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "TCF data: cmpId 28 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:08:10.077Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:08:10.081Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:08:15.081Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:08:30.106Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:08:30.172Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:08:30.173Z"
+  }
+]

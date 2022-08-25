@@ -1,0 +1,242 @@
+[
+  {
+    "part": "measure-35",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:14:29.225Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "visit https://paltalk.com/...",
+    "timestamp": "2021-09-09T13:14:29.326Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'. @ [object Object]",
+    "timestamp": "2021-09-09T13:14:29.646Z"
+  },
+  {
+    "part": "console.log",
+    "message": "www @ [object Object]",
+    "timestamp": "2021-09-09T13:14:30.663Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cookieLanguagenull @ [object Object]",
+    "timestamp": "2021-09-09T13:14:30.665Z"
+  },
+  {
+    "part": "console.log",
+    "message": "ReferenceError: QtBridge is not defined\n    at HTMLDocument.<anonymous> (https://www.paltalk.com/v/1.342.2397/pt-core.js:141:113)\n    at c (https://www.paltalk.com/v/1.342.2397/pt-core.js:7:26036)\n    at Object.fireWith [as resolveWith] (https://www.paltalk.com/v/1.342.2397/pt-core.js:7:26840)\n    at Function.ready (https://www.paltalk.com/v/1.342.2397/pt-core.js:7:3305)\n    at HTMLDocument.q (https://www.paltalk.com/v/1.342.2397/pt-core.js:7:717) @ [object Object]",
+    "timestamp": "2021-09-09T13:14:30.812Z"
+  },
+  {
+    "part": "console.log",
+    "message": "ReferenceError: QtBridge is not defined\n    at HTMLDocument.<anonymous> (https://www.paltalk.com/v/1.342.2397/pt-core.js:281:25)\n    at c (https://www.paltalk.com/v/1.342.2397/pt-core.js:7:26036)\n    at Object.fireWith [as resolveWith] (https://www.paltalk.com/v/1.342.2397/pt-core.js:7:26840)\n    at Function.ready (https://www.paltalk.com/v/1.342.2397/pt-core.js:7:3305)\n    at HTMLDocument.q (https://www.paltalk.com/v/1.342.2397/pt-core.js:7:717) @ [object Object]",
+    "timestamp": "2021-09-09T13:14:30.821Z"
+  },
+  {
+    "part": "console.log",
+    "message": "LINUX X86_64 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:30.829Z"
+  },
+  {
+    "part": "console.log",
+    "message": "MOZILLA/5.0 (IPHONE; CPU IPHONE OS 14_4 LIKE MAC OS X) APPLEWEBKIT/605.1.15 (KHTML, LIKE GECKO) VERSION/15.0 MOBILE/15E148 SAFARI/604.1 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:30.830Z"
+  },
+  {
+    "part": "console.log",
+    "message": "false @ [object Object]",
+    "timestamp": "2021-09-09T13:14:30.831Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Detected iOS @ [object Object]",
+    "timestamp": "2021-09-09T13:14:30.832Z"
+  },
+  {
+    "part": "console.log",
+    "message": "en Would redirect to https://www.paltalk.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:14:31.232Z"
+  },
+  {
+    "part": "console.log",
+    "message": "{country_code: MA, country_name: Morocco, ip_addrs: 41.92.47.85, true_ip: 41.92.47.85, region: me} @ [object Object]",
+    "timestamp": "2021-09-09T13:14:31.714Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Error in fetch URL : https://cdn.cookielaw.org/consent/c2a7e04e-15f9-4d92-bf41-a0bae4676bc7/4343a4fd-b0e6-4506-90ed-d917377f3458/en.json Exception :TypeError: Failed to fetch @ [object Object]",
+    "timestamp": "2021-09-09T13:14:33.073Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Error in fetch URL : https://cdn.cookielaw.org/vendorlist/iab2Data.json Exception :TypeError: Failed to fetch @ [object Object]",
+    "timestamp": "2021-09-09T13:14:33.075Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'. @ [object Object]",
+    "timestamp": "2021-09-09T13:14:33.094Z"
+  },
+  {
+    "part": "console.log",
+    "message": "www @ [object Object]",
+    "timestamp": "2021-09-09T13:14:33.534Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cookieLanguageen @ [object Object]",
+    "timestamp": "2021-09-09T13:14:33.537Z"
+  },
+  {
+    "part": "console.log",
+    "message": "ReferenceError: QtBridge is not defined\n    at HTMLDocument.<anonymous> (https://www.paltalk.com/v/1.342.2397/pt-core.js:141:113)\n    at c (https://www.paltalk.com/v/1.342.2397/pt-core.js:7:26036)\n    at Object.fireWith [as resolveWith] (https://www.paltalk.com/v/1.342.2397/pt-core.js:7:26840)\n    at Function.ready (https://www.paltalk.com/v/1.342.2397/pt-core.js:7:3305)\n    at HTMLDocument.q (https://www.paltalk.com/v/1.342.2397/pt-core.js:7:717) @ [object Object]",
+    "timestamp": "2021-09-09T13:14:33.820Z"
+  },
+  {
+    "part": "console.log",
+    "message": "ReferenceError: QtBridge is not defined\n    at HTMLDocument.<anonymous> (https://www.paltalk.com/v/1.342.2397/pt-core.js:281:25)\n    at c (https://www.paltalk.com/v/1.342.2397/pt-core.js:7:26036)\n    at Object.fireWith [as resolveWith] (https://www.paltalk.com/v/1.342.2397/pt-core.js:7:26840)\n    at Function.ready (https://www.paltalk.com/v/1.342.2397/pt-core.js:7:3305)\n    at HTMLDocument.q (https://www.paltalk.com/v/1.342.2397/pt-core.js:7:717) @ [object Object]",
+    "timestamp": "2021-09-09T13:14:33.828Z"
+  },
+  {
+    "part": "console.log",
+    "message": "LINUX X86_64 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:33.833Z"
+  },
+  {
+    "part": "console.log",
+    "message": "MOZILLA/5.0 (IPHONE; CPU IPHONE OS 14_4 LIKE MAC OS X) APPLEWEBKIT/605.1.15 (KHTML, LIKE GECKO) VERSION/15.0 MOBILE/15E148 SAFARI/604.1 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:33.834Z"
+  },
+  {
+    "part": "console.log",
+    "message": "false @ [object Object]",
+    "timestamp": "2021-09-09T13:14:33.836Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Detected iOS @ [object Object]",
+    "timestamp": "2021-09-09T13:14:33.837Z"
+  },
+  {
+    "part": "console.log",
+    "message": "en Would redirect to https://www.paltalk.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:14:34.043Z"
+  },
+  {
+    "part": "console.log",
+    "message": "{country_code: MA, country_name: Morocco, ip_addrs: 41.92.47.85, true_ip: 41.92.47.85, region: me} @ [object Object]",
+    "timestamp": "2021-09-09T13:14:34.083Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[Facebook Pixel] - Duplicate Pixel ID: 674152565970088. @ [object Object]",
+    "timestamp": "2021-09-09T13:14:35.620Z"
+  },
+  {
+    "part": "console.log",
+    "message": "ERROR Thu Sep 09 2021 13:14:36 GMT+0000 (Coordinated Universal Time) null @ [object Object]",
+    "timestamp": "2021-09-09T13:14:36.314Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:14:38.038Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:14:38.039Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:14:38.225Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:14:38.226Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:14:38.263Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:14:38.267Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:14:38.320Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:14:38.345Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:14:38.647Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:14:42.070Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:14:43.599Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:14:47.308Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:14:47.309Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:14:47.323Z"
+  },
+  {
+    "part": "console.log",
+    "message": "ERROR Thu Sep 09 2021 14:14:47 GMT+0100 (British Summer Time) null @ [object Object]",
+    "timestamp": "2021-09-09T13:14:47.467Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:14:47.515Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:14:52.030Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:14:52.338Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:15:07.335Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:15:07.369Z"
+  }
+]

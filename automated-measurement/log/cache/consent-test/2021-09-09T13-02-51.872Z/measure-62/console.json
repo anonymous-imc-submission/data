@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-62",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:26:16.733Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "visit https://blueridgenow.com/...",
+    "timestamp": "2021-09-09T13:26:18.656Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://blueridgenow.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:26:48.791Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:26:48.931Z"
+  }
+]

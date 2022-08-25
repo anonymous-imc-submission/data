@@ -1,0 +1,87 @@
+[
+  {
+    "part": "measure-46",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:17:51.170Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "visit https://glamourmagazine.co.uk/...",
+    "timestamp": "2021-09-09T13:17:52.336Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:17:53.674Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:17:53.675Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:17:54.079Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:17:54.080Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:17:54.165Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:17:54.778Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:17:54.847Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:17:55.009Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:18:01.144Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:18:01.144Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:18:01.174Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:18:01.179Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:18:01.217Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:18:06.176Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:18:06.229Z"
+  }
+]

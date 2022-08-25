@@ -1,0 +1,82 @@
+[
+  {
+    "part": "measure-82",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:13:53.410Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "visit https://boredomtherapy.com/...",
+    "timestamp": "2021-09-09T13:13:53.585Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:13:56.978Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:13:56.979Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:13:57.525Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:57.526Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:13:57.566Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:13:57.570Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:57.600Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:13:58.997Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:13:58.997Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:13:59.042Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:13:59.043Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:13:59.045Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:14:04.044Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:14:04.117Z"
+  }
+]

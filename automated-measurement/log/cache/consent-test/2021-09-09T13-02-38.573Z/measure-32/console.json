@@ -1,0 +1,122 @@
+[
+  {
+    "part": "measure-32",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:07:51.028Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "visit https://bestproducts.com/...",
+    "timestamp": "2021-09-09T13:07:51.109Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service worker registration succeeded. @ [object Object]",
+    "timestamp": "2021-09-09T13:07:51.341Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:07:51.971Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:07:52.339Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:07:52.339Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:07:52.628Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:52.629Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:07:52.708Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:07:52.711Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:52.734Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:07:52.984Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:07:52.987Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:07:52.989Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:07:53.010Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service worker registration succeeded. @ [object Object]",
+    "timestamp": "2021-09-09T13:07:53.354Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:07:53.872Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:07:54.125Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 400 () @ [object Object]",
+    "timestamp": "2021-09-09T13:07:55.737Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "This ad's html cannot be accessed using the getHtml method on googletag.Slot. Returning the empty string instead. @ [object Object]",
+    "timestamp": "2021-09-09T13:07:56.023Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://www.bestproducts.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:07:56.227Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Network is idle after 4.36s.",
+    "timestamp": "2021-09-09T13:07:57.353Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:07:57.991Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:07:58.011Z"
+  }
+]

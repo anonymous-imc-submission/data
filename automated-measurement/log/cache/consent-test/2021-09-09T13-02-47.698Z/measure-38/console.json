@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-38",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:14:22.597Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "visit https://euro.cz/...",
+    "timestamp": "2021-09-09T13:14:22.827Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 1.4.1 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:24.805Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Google Vignette @ [object Object]",
+    "timestamp": "2021-09-09T13:14:25.213Z"
+  },
+  {
+    "part": "console.log",
+    "message": "steps:  [Object,Object,Object,Object,Object,Object,Object,Object,Object,Object,Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:14:29.319Z"
+  },
+  {
+    "part": "console.log",
+    "message": "steps:  [Object,Object,Object,Object,Object,Object,Object,Object,Object,Object,Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:14:29.363Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[acc] version v1.3.10 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:29.579Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[acc] criteo fn added @ [object Object]",
+    "timestamp": "2021-09-09T13:14:29.580Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[acc] both loaded @ [object Object]",
+    "timestamp": "2021-09-09T13:14:32.172Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[acc] render google_ad_client ca-pub-3375315304218610 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:32.175Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[acc] Non blocking user. @ [object Object]",
+    "timestamp": "2021-09-09T13:14:32.187Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/. @ [object Object]",
+    "timestamp": "2021-09-09T13:14:33.030Z"
+  },
+  {
+    "part": "console.log",
+    "message": "iinfo-area-stickyboard @ [object Object]",
+    "timestamp": "2021-09-09T13:14:38.192Z"
+  },
+  {
+    "part": "console.log",
+    "message": "iinfo-area-halfpagead-horni @ [object Object]",
+    "timestamp": "2021-09-09T13:14:38.215Z"
+  },
+  {
+    "part": "console.log",
+    "message": "iinfo-area-halfpagead-spodni @ [object Object]",
+    "timestamp": "2021-09-09T13:14:38.232Z"
+  },
+  {
+    "part": "console.log",
+    "message": "iinfo-area-big-rectangle @ [object Object]",
+    "timestamp": "2021-09-09T13:14:38.243Z"
+  },
+  {
+    "part": "console.error",
+    "message": "TypeError: Cannot read properties of undefined (reading 'getElementsByTagName')\n    at Object._getWrapper (<anonymous>:3:447)\n    at <anonymous>:10:105 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:42.050Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://euro.cz/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:14:52.826Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:14:52.879Z"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "part": "measure-86",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:24:21.651Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "visit https://timesrecordnews.com/...",
+    "timestamp": "2021-09-09T13:24:23.132Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:24:42.921Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:24:51.359Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:24:51.360Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://timesrecordnews.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:24:53.168Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:24:53.466Z"
+  }
+]

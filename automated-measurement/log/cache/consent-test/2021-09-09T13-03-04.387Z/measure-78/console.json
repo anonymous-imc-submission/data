@@ -1,0 +1,42 @@
+[
+  {
+    "part": "measure-78",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:26:33.444Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "visit https://vinted.com/...",
+    "timestamp": "2021-09-09T13:26:33.698Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=l4tre&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.vinted.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:26:37.910Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=l4tre&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.vinted.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:26:37.910Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an image pixel with URL:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=l4tre&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.vinted.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:26:37.911Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an script pixel with URL:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=l4tre&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.vinted.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:26:50.892Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://vinted.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:27:03.747Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:27:03.893Z"
+  }
+]

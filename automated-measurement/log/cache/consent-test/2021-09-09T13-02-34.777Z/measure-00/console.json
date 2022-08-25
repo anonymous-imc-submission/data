@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-00",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:04:24.192Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "visit https://nationalrail.co.uk/...",
+    "timestamp": "2021-09-09T13:04:24.415Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "page load error: Error: page.goto: net::ERR_CONNECTION_REFUSED at https://nationalrail.co.uk/\n=========================== logs ===========================\nnavigating to \"https://nationalrail.co.uk/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:04:24.561Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:04:24.584Z"
+  }
+]

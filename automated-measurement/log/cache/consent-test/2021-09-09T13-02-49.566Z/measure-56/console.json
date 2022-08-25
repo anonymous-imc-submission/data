@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-56",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:21:32.000Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "visit https://gq.com.tw/...",
+    "timestamp": "2021-09-09T13:21:32.220Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Permutive not available @ [object Object]",
+    "timestamp": "2021-09-09T13:21:34.987Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Permutive was not initialized. No consent to run on the page @ [object Object]",
+    "timestamp": "2021-09-09T13:21:38.714Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:21:40.138Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:21:40.143Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:21:40.596Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:21:40.599Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:21:40.612Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:21:40.622Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:21:40.674Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:21:40.685Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:21:46.560Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:21:46.563Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:21:46.570Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:21:46.570Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:21:46.681Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:21:51.571Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:21:51.603Z"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-04",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:11.240Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "visit https://gurl.com/...",
+    "timestamp": "2021-09-09T13:06:11.831Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://gurl.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:06:41.900Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:06:41.939Z"
+  }
+]

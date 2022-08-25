@@ -1,0 +1,112 @@
+[
+  {
+    "part": "measure-75",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:23:37.807Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "visit https://legalbeagle.com/...",
+    "timestamp": "2021-09-09T13:23:38.167Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Failed to execute 'write' on 'Document': It isn't possible to write into a document from an asynchronously-loaded external script unless it is explicitly opened. @ [object Object]",
+    "timestamp": "2021-09-09T13:23:41.739Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:23:42.340Z"
+  },
+  {
+    "part": "console.log",
+    "message": "{status: success} @ [object Object]",
+    "timestamp": "2021-09-09T13:23:43.906Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:23:45.283Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:23:45.287Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:23:45.661Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:23:45.661Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:23:45.724Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:23:45.727Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:23:45.761Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:23:45.824Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://legalbeagle.com/dist/css/widget-cite.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:23:47.753Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://legalbeagle.com/dist/css/widget-feedback.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:23:47.754Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:23:55.595Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:23:55.597Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:23:55.603Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:23:55.605Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:23:55.629Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:24:00.603Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:24:00.622Z"
+  }
+]

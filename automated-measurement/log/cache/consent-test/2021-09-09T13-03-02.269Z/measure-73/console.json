@@ -1,0 +1,137 @@
+[
+  {
+    "part": "measure-73",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:25:19.554Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "visit https://hyvesgames.nl/...",
+    "timestamp": "2021-09-09T13:25:21.073Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:25:27.066Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:25:35.306Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:25:35.313Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:25:36.632Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:25:36.636Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:25:36.826Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:25:36.829Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:25:37.149Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:25:37.234Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button id=\"onetrust-pc-btn-handler\">Nee, cookies beheren</button>\nattempting click action\n  waiting for element to be visible, enabled and stable\n============================================================",
+    "timestamp": "2021-09-09T13:25:40.417Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:25:43.571Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".ot-pc-refuse-all-handler:visible, .save-preference-btn-handler:visible\"\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:26:14.254Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:26:27.885Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:26:27.887Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:26:32.953Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:27:24.297Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:27:24.297Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:27:29.377Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:27:36.637Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "TCF data: cmpId 28 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:27:36.639Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:27:36.652Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:27:36.655Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:27:41.654Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:27:41.681Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:27:41.690Z"
+  }
+]

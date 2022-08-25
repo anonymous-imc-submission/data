@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-35",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:17:17.954Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "visit https://the-dispatch.com/...",
+    "timestamp": "2021-09-09T13:17:18.393Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:17:35.061Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:17:35.132Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:17:35.954Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:17:35.954Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:17:41.275Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:17:41.286Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:17:41.475Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:17:41.887Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:17:41.907Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:17:42.925Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button id=\"onetrust-pc-btn-handler\">Manage Cookies</button>\nattempting click action\n  waiting for element to be visible, enabled and stable\n  element is visible, enabled and stable\n  scrolling into view if needed\n  done scrolling\n  checking that element receives pointer events at (422.48,431.6)\n  element does receive pointer events\n  performing click action\n============================================================",
+    "timestamp": "2021-09-09T13:17:43.723Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:17:46.918Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:17:52.040Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:17:52.078Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:17:52.203Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:17:53.773Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Minimum wait time reached after 5.02s.",
+    "timestamp": "2021-09-09T13:17:57.221Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Timeout after 20.1s",
+    "timestamp": "2021-09-09T13:18:12.324Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:18:12.359Z"
+  }
+]

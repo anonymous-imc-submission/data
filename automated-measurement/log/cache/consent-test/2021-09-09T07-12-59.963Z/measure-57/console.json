@@ -1,0 +1,288 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://vip.de/..."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://sourcepoint.vip.de/wrapperMessagingWithoutDetection.js",
+      "lineNumber": 0,
+      "columnNumber": 154615
+    },
+    "text": "Messaging without detection successfully executed."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-T5M4B3H",
+      "lineNumber": 235,
+      "columnNumber": 205
+    },
+    "text": "Chartbeat MAB: Loading script from https://static.chartbeat.com/js/chartbeat_mab.js"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-T5M4B3H",
+      "lineNumber": 235,
+      "columnNumber": 205
+    },
+    "text": "INFOnline 2.0: Loading script from https://script.ioam.de/iam.js"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.vip.de/js/body-close.min.js?qypk10",
+      "lineNumber": 4,
+      "columnNumber": 460
+    },
+    "text": "Masonry initialized"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.vip.de/js/masters-custom.min.js?qypk10",
+      "lineNumber": 50,
+      "columnNumber": 146
+    },
+    "text": "Masters JS initialized."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.vip.de/js/masters-custom.min.js?qypk10",
+      "lineNumber": 58,
+      "columnNumber": 203
+    },
+    "text": "Gallery JS initialized."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.vip.de/js/masters-custom.min.js?qypk10",
+      "lineNumber": 72,
+      "columnNumber": 198
+    },
+    "text": "Recipe JS initialized."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-T5M4B3H",
+      "lineNumber": 235,
+      "columnNumber": 205
+    },
+    "text": "Chartbeat MAB: Script loaded successfully."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-T5M4B3H",
+      "lineNumber": 235,
+      "columnNumber": 205
+    },
+    "text": "INFOnline 2.0: Script loaded successfully."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://static.apester.com/js/sdk/latest/apester-sdk.js",
+      "lineNumber": 3,
+      "columnNumber": 253038
+    },
+    "text": "strip"
+  },
+  {
+    "type": "admeasure",
+    "text": "Looking for dialogs to reject..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting for __tcfapi..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint iframe found!"
+  },
+  {
+    "type": "admeasure",
+    "text": "__tcfapi found! Querying status..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingWaiting."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingLoaded."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://faststrip.apester.com/static/js/main.fe70a2e0.chunk.js",
+      "lineNumber": 0,
+      "columnNumber": 41716
+    },
+    "text": "Content is cached for offline use."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://renderer.apester.com/v2/static/main.a6453ce1fe8d468f3d6e.bundle.js",
+      "lineNumber": 0,
+      "columnNumber": 215314
+    },
+    "text": "Ape Player version : 3.29.16"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://static.apester.com/js/sdk/latest/apester-sdk.js",
+      "lineNumber": 3,
+      "columnNumber": 253038
+    },
+    "text": "interaction"
+  },
+  {
+    "type": "admeasure",
+    "text": "Button clicked: Einstellungen oder ablehnen"
+  },
+  {
+    "type": "admeasure",
+    "text": "Found Sourcepoint privacy manager."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: no type toggles."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Check for legitimate interest button..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Clicking legitimate interest button: Einstellungen"
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Find the save button."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint dialog rejected."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.vip.de/cms/index.php",
+      "lineNumber": 192,
+      "columnNumber": 28
+    },
+    "text": "Err emsAllowAdTracking TypeError: Cannot read properties of undefined (reading 'vendorGrant')\n    at https://www.vip.de/cms/index.php:191:92\n    at https://sourcepoint.vip.de/wrapperMessagingWithoutDetection.js:1:151546\n    at Object.getCustomVendorConsents (https://sourcepoint.vip.de/wrapperMessagingWithoutDetection.js:1:151576)\n    at e.apiCall (https://sourcepoint.vip.de/wrapperMessagingWithoutDetection.js:1:57141)\n    at https://www.vip.de/cms/index.php:179:13\n    at t.addEventListener [as callback] (https://sourcepoint.vip.de/wrapperMessagingWithoutDetection.js:1:151295)\n    at t.e.invokeCallback (https://sourcepoint.vip.de/wrapperMessagingWithoutDetection.js:1:30687)\n    at t.respond (https://sourcepoint.vip.de/wrapperMessagingWithoutDetection.js:1:30080)\n    at t.e (https://sourcepoint.vip.de/wrapperMessagingWithoutDetection.js:1:30552)\n    at new t (https://sourcepoint.vip.de/wrapperMessagingWithoutDetection.js:1:29975)"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data obtained!"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data: cmpId 6 consent false, legInt false."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Network is idle after 0.00s."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.vip.de/cms/index.php",
+      "lineNumber": 192,
+      "columnNumber": 28
+    },
+    "text": "Err emsAllowAdTracking TypeError: Cannot read properties of undefined (reading 'vendorGrant')\n    at https://www.vip.de/cms/index.php:191:92\n    at https://sourcepoint.vip.de/wrapperMessagingWithoutDetection.js:1:151546\n    at Object.getCustomVendorConsents (https://sourcepoint.vip.de/wrapperMessagingWithoutDetection.js:1:151576)\n    at e.apiCall (https://sourcepoint.vip.de/wrapperMessagingWithoutDetection.js:1:57141)\n    at https://www.vip.de/cms/index.php:179:13\n    at t.addEventListener [as callback] (https://sourcepoint.vip.de/wrapperMessagingWithoutDetection.js:1:151295)\n    at t.e.invokeCallback (https://sourcepoint.vip.de/wrapperMessagingWithoutDetection.js:1:30687)\n    at t.respond (https://sourcepoint.vip.de/wrapperMessagingWithoutDetection.js:1:30080)\n    at t.respond (https://sourcepoint.vip.de/wrapperMessagingWithoutDetection.js:1:119743)\n    at t.e (https://sourcepoint.vip.de/wrapperMessagingWithoutDetection.js:1:30552)"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://sourcepoint.vip.de/wrapperMessagingWithoutDetection.js",
+      "lineNumber": 0,
+      "columnNumber": 154615
+    },
+    "text": "Messaging without detection successfully executed."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 84
+    },
+    "text": "___tcloaded___"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 204
+    },
+    "text": "removed: 1"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.vip.de/js/body-close.min.js?qypk10",
+      "lineNumber": 4,
+      "columnNumber": 460
+    },
+    "text": "Masonry initialized"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.vip.de/js/masters-custom.min.js?qypk10",
+      "lineNumber": 50,
+      "columnNumber": 146
+    },
+    "text": "Masters JS initialized."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.vip.de/js/masters-custom.min.js?qypk10",
+      "lineNumber": 58,
+      "columnNumber": 203
+    },
+    "text": "Gallery JS initialized."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.vip.de/js/masters-custom.min.js?qypk10",
+      "lineNumber": 72,
+      "columnNumber": 198
+    },
+    "text": "Recipe JS initialized."
+  },
+  {
+    "type": "admeasure",
+    "text": "Minimum wait time reached after 5.00s."
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

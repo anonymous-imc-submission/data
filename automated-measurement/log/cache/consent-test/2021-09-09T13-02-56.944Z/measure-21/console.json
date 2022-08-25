@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-21",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:11:12.865Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "visit https://glamour.es/...",
+    "timestamp": "2021-09-09T13:11:13.031Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Div ID passed to googletag.display() does not match any defined slots: div-gpt-ad-7-135907. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:14.579Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Div ID passed to googletag.display() does not match any defined slots: div-gpt-ad-4-135907. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:14.595Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:11:14.958Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:11:14.959Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:11:15.177Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:15.178Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:11:15.198Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:11:15.203Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:15.245Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:11:15.254Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:11:19.358Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:11:19.360Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:11:19.369Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:11:19.371Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:11:19.619Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:11:24.370Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:11:24.402Z"
+  }
+]

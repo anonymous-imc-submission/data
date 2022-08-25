@@ -1,0 +1,112 @@
+[
+  {
+    "part": "measure-30",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:10:28.622Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "visit https://kijiji.it/...",
+    "timestamp": "2021-09-09T13:10:28.986Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A preload for 'https://www.kijiji.it/js/main.5e2c974ef.js?v=5e2c974ef' is found, but is not used because the request credentials mode does not match. Consider taking a look at crossorigin attribute. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:31.701Z"
+  },
+  {
+    "part": "console.log",
+    "message": "v2.37 @ [object Object]",
+    "timestamp": "2021-09-09T13:10:33.778Z"
+  },
+  {
+    "part": "console.log",
+    "message": "0.70 @ [object Object]",
+    "timestamp": "2021-09-09T13:10:36.449Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:10:40.547Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:10:40.551Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:10:41.801Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:41.803Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:10:41.857Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:10:41.862Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:41.916Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:10:43.215Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:10:43.220Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:10:43.231Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:10:43.236Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:10:43.832Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.kijiji.it/js/main.5e2c974ef.js?v=5e2c974ef was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:43.841Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.kijiji.it/img/logo-kijiji.svg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:43.843Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://www.kijiji.it/ @ [object Object]",
+    "timestamp": "2021-09-09T13:10:45.598Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:10:48.232Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:10:48.325Z"
+  }
+]

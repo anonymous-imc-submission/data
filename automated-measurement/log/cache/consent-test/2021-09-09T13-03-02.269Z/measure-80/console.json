@@ -1,0 +1,147 @@
+[
+  {
+    "part": "measure-80",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:28:11.507Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "visit https://hyperinzerce.cz/...",
+    "timestamp": "2021-09-09T13:28:11.956Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DisplayAcceptableAdIfAdblocked^^  @ [object Object]",
+    "timestamp": "2021-09-09T13:28:15.689Z"
+  },
+  {
+    "part": "console.log",
+    "message": "{zoneid: 1406726, containerid: crt-1406726, overrideZoneFloor: false} @ [object Object]",
+    "timestamp": "2021-09-09T13:28:15.689Z"
+  },
+  {
+    "part": "console.log",
+    "message": "window.criteo_pubtag.context^^  @ [object Object]",
+    "timestamp": "2021-09-09T13:28:15.699Z"
+  },
+  {
+    "part": "console.log",
+    "message": "t @ [object Object]",
+    "timestamp": "2021-09-09T13:28:15.699Z"
+  },
+  {
+    "part": "console.log",
+    "message": "e.containerid: crt-1406726 @ [object Object]",
+    "timestamp": "2021-09-09T13:28:15.700Z"
+  },
+  {
+    "part": "console.log",
+    "message": "r^^ @ [object Object]",
+    "timestamp": "2021-09-09T13:28:15.709Z"
+  },
+  {
+    "part": "console.log",
+    "message": "e @ [object Object]",
+    "timestamp": "2021-09-09T13:28:15.725Z"
+  },
+  {
+    "part": "console.log",
+    "message": "s^^ @ [object Object]",
+    "timestamp": "2021-09-09T13:28:15.725Z"
+  },
+  {
+    "part": "console.log",
+    "message": "e @ [object Object]",
+    "timestamp": "2021-09-09T13:28:15.725Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DisplayAcceptableAdIfAdblocked^^  @ [object Object]",
+    "timestamp": "2021-09-09T13:28:15.726Z"
+  },
+  {
+    "part": "console.log",
+    "message": "{zoneid: 1403239, containerid: crt-1403239, overrideZoneFloor: false} @ [object Object]",
+    "timestamp": "2021-09-09T13:28:15.760Z"
+  },
+  {
+    "part": "console.log",
+    "message": "window.criteo_pubtag.context^^  @ [object Object]",
+    "timestamp": "2021-09-09T13:28:15.760Z"
+  },
+  {
+    "part": "console.log",
+    "message": "t @ [object Object]",
+    "timestamp": "2021-09-09T13:28:15.760Z"
+  },
+  {
+    "part": "console.log",
+    "message": "e.containerid: crt-1403239 @ [object Object]",
+    "timestamp": "2021-09-09T13:28:15.760Z"
+  },
+  {
+    "part": "console.log",
+    "message": "r^^ @ [object Object]",
+    "timestamp": "2021-09-09T13:28:15.760Z"
+  },
+  {
+    "part": "console.log",
+    "message": "e @ [object Object]",
+    "timestamp": "2021-09-09T13:28:15.760Z"
+  },
+  {
+    "part": "console.log",
+    "message": "s^^ @ [object Object]",
+    "timestamp": "2021-09-09T13:28:15.760Z"
+  },
+  {
+    "part": "console.log",
+    "message": "e @ [object Object]",
+    "timestamp": "2021-09-09T13:28:15.761Z"
+  },
+  {
+    "part": "console.log",
+    "message": "jaja context @ [object Object]",
+    "timestamp": "2021-09-09T13:28:15.761Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AdBlocker: false @ [object Object]",
+    "timestamp": "2021-09-09T13:28:18.693Z"
+  },
+  {
+    "part": "console.log",
+    "message": "false @ [object Object]",
+    "timestamp": "2021-09-09T13:28:18.693Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AdBlocker: false @ [object Object]",
+    "timestamp": "2021-09-09T13:28:18.693Z"
+  },
+  {
+    "part": "console.log",
+    "message": "false @ [object Object]",
+    "timestamp": "2021-09-09T13:28:18.693Z"
+  },
+  {
+    "part": "console.log",
+    "message": "steps:  [Object,Object,Object,Object,Object,Object,Object,Object,Object,Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:28:21.572Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The googletag.pubads().definePassback function has been deprecated. The function may break in certain contexts, see https://developers.google.com/publisher-tag/guides/passback-tags#construct_passback_tags for how to correctly create a passback. @ [object Object]",
+    "timestamp": "2021-09-09T13:28:41.883Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://hyperinzerce.cz/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:28:41.966Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:28:42.055Z"
+  }
+]

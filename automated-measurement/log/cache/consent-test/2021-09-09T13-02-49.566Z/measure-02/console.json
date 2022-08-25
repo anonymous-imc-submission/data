@@ -1,0 +1,122 @@
+[
+  {
+    "part": "measure-02",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:10.336Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "visit https://rrstar.com/...",
+    "timestamp": "2021-09-09T13:06:10.742Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Consent management does not appear to be set up correctly. No consent groups were found. @ [object Object]",
+    "timestamp": "2021-09-09T13:06:18.856Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Subscriptions Runtime: 0.1.22.183 @ [object Object]",
+    "timestamp": "2021-09-09T13:06:24.686Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to fetch at 'https://news.google.com/swg/_/api/v1/publication/rrstar.com/entitlements' from origin 'https://eu.rrstar.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled. @ [object Object]",
+    "timestamp": "2021-09-09T13:06:26.549Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:26.552Z"
+  },
+  {
+    "part": "console.log",
+    "message": "TP: swg: get entitlements failed Error: XHR Failed fetching (https://news.google.com/...): (Note: a CORS error above may indicate that this domain is not configured for Subscribe with Google)\n    at https://news.google.com/swg/js/v1/swg.js:211:104\n    at nrWrapper (https://eu.rrstar.com/:81:15034) @ [object Object]",
+    "timestamp": "2021-09-09T13:06:26.567Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:06:27.858Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:06:27.876Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:06:30.620Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:06:30.624Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:06:30.935Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:30.936Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:06:30.981Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:06:30.988Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:31.228Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:06:31.245Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:06:50.935Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:06:50.939Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:06:50.947Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:06:50.959Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:06:51.030Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:06:55.954Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:06:55.979Z"
+  }
+]

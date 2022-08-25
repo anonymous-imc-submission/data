@@ -1,0 +1,142 @@
+[
+  {
+    "part": "measure-55",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:22:36.838Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "visit https://merriam-webster.com/...",
+    "timestamp": "2021-09-09T13:22:37.601Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:22:40.469Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Welcome to Home Redesign... @ [object Object]",
+    "timestamp": "2021-09-09T13:22:41.546Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://merriam-webster.com/assets/mw/static/app-css-images/global/icons/double-arrows-white.svg' from origin 'https://www.merriam-webster.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:42.860Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:22:42.890Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Origin trial controlled feature not enabled: 'trust-token-redemption'. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:46.960Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:22:48.666Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[BC]DataLayer available @ [object Object]",
+    "timestamp": "2021-09-09T13:22:48.776Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:22:50.349Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:22:50.360Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:22:50.606Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:50.610Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:22:50.649Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:22:50.652Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:50.765Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:22:50.805Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://merriam-webster.com/assets/mw/static/shared/mw-shared/css/onetrust/banner.min.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:53.184Z"
+  },
+  {
+    "part": "console.log",
+    "message": "removed: 1 @ [object Object]",
+    "timestamp": "2021-09-09T13:23:06.283Z"
+  },
+  {
+    "part": "console.log",
+    "message": "removed: 4 @ [object Object]",
+    "timestamp": "2021-09-09T13:23:06.457Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:23:06.949Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:23:06.997Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:23:07.062Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Network is idle after 0.03s.",
+    "timestamp": "2021-09-09T13:23:07.091Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:23:08.648Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Mixed Content: The page at 'https://www.merriam-webster.com/' was loaded over HTTPS, but requested an insecure element 'http://sync.1rx.io/usersync2/rmpssp?sub=duration&redir=https://ads.servenobid.com/sync?pid=321&uid=[RX_UUID]'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ [object Object]",
+    "timestamp": "2021-09-09T13:23:11.499Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Minimum wait time reached after 5.02s.",
+    "timestamp": "2021-09-09T13:23:12.079Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:23:12.223Z"
+  }
+]

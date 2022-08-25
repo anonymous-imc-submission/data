@@ -1,0 +1,162 @@
+[
+  {
+    "part": "measure-97",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:29:19.767Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "visit https://ntv.com.tr/...",
+    "timestamp": "2021-09-09T13:29:21.078Z"
+  },
+  {
+    "part": "console.log",
+    "message": "ad var @ [object Object]",
+    "timestamp": "2021-09-09T13:29:25.797Z"
+  },
+  {
+    "part": "console.log",
+    "message": "null @ [object Object]",
+    "timestamp": "2021-09-09T13:29:28.226Z"
+  },
+  {
+    "part": "console.log",
+    "message": "data push @ [object Object]",
+    "timestamp": "2021-09-09T13:29:33.186Z"
+  },
+  {
+    "part": "console.log",
+    "message": "worked @ [object Object]",
+    "timestamp": "2021-09-09T13:29:33.228Z"
+  },
+  {
+    "part": "console.log",
+    "message": "segmentify loaded @ [object Object]",
+    "timestamp": "2021-09-09T13:29:37.385Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:29:38.133Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:29:50.325Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:29:50.472Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:29:51.798Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:29:51.809Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:29:51.833Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:29:51.840Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:29:52.070Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:29:52.088Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button class=\"cookie-setting-link\" id=\"onetrust-pc-btn-…>Amaçları Göster</button>\nattempting click action\n  waiting for element to be visible, enabled and stable\n  element is visible, enabled and stable\n  scrolling into view if needed\n  done scrolling\n  checking that element receives pointer events at (83.9,715.19)\n  <div data-camp-id=\"32067\" close-on-click=\"true\" id=\"i…></div> intercepts pointer events\nretrying click action, attempt #1\n  waiting for element to be visible, enabled and stable\n  element is visible, enabled and stable\n  scrolling into view if needed\n  done scrolling\n  checking that element receives pointer events at (83.9,715.19)\n  <div data-camp-id=\"32067\" close-on-click=\"true\" id=\"i…></div> intercepts pointer events\nretrying click action, attempt #2\n  waiting 20ms\n============================================================",
+    "timestamp": "2021-09-09T13:29:54.102Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:29:56.699Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".ot-pc-refuse-all-handler:visible, .save-preference-btn-handler:visible\"\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:30:27.417Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:30:42.606Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:30:42.606Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:30:47.623Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:31:38.164Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:31:38.164Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:31:43.184Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:31:51.805Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "TCF data: cmpId 28 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:31:51.805Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:31:51.815Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:31:51.817Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:31:56.818Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:31:56.855Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:31:56.860Z"
+  }
+]

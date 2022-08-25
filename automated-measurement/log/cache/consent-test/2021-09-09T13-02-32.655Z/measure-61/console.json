@@ -1,0 +1,122 @@
+[
+  {
+    "part": "measure-61",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:15:44.566Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "visit https://citethisforme.com/...",
+    "timestamp": "2021-09-09T13:15:46.026Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GDPR is applicable in the EU @ [object Object]",
+    "timestamp": "2021-09-09T13:15:49.158Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:15:52.560Z"
+  },
+  {
+    "part": "console.log",
+    "message": "rio-sdk-web AMCV cookie not available, hitting demdex @ [object Object]",
+    "timestamp": "2021-09-09T13:15:55.345Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "rio-sdk-web Init was not called on client within 7000ms of being created @ [object Object]",
+    "timestamp": "2021-09-09T13:16:03.426Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:16:14.078Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:16:14.107Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:16:14.686Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:16:14.696Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:16:14.726Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:16:14.732Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:16:14.876Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:16:18.876Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:16:18.877Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:16:19.842Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:16:21.515Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Cannot find targeting attribute \"takeover\" for \"publisher_ads\". @ [object Object]",
+    "timestamp": "2021-09-09T13:16:22.026Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:16:24.850Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:16:29.013Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead @ [object Object]",
+    "timestamp": "2021-09-09T13:16:32.057Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead @ [object Object]",
+    "timestamp": "2021-09-09T13:16:32.059Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "Timeout after 20.1s",
+    "timestamp": "2021-09-09T13:16:39.918Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:16:40.227Z"
+  }
+]

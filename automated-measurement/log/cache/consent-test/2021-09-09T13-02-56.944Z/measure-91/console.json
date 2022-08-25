@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-91",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:30:23.259Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "visit https://winkgo.com/...",
+    "timestamp": "2021-09-09T13:30:25.752Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:30:27.321Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 412 (Precondition Failed) @ [object Object]",
+    "timestamp": "2021-09-09T13:30:30.700Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 412 (Precondition Failed) @ [object Object]",
+    "timestamp": "2021-09-09T13:30:31.982Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:30:33.599Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:30:47.387Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://winkgo.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:30:47.531Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://winkgo.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:30:47.631Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:30:50.155Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:30:50.181Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:30:52.543Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://winkgo.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:31:08.128Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://winkgo.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:31:08.694Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-pc-btn-handler:visible,\n            #onetrust-pc-sdk:visible\n        \" to be visible\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:31:20.409Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "__tcfapi not found: TimeoutError: page.waitForFunction: Timeout 30000ms exceeded.",
+    "timestamp": "2021-09-09T13:31:20.410Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "TCF data: cmpId null consent null, legInt null.",
+    "timestamp": "2021-09-09T13:31:20.411Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:31:20.421Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:31:20.422Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:31:25.422Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:31:25.493Z"
+  }
+]

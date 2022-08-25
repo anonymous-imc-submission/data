@@ -1,0 +1,147 @@
+[
+  {
+    "part": "measure-41",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:15:41.689Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "visit https://sctimes.com/...",
+    "timestamp": "2021-09-09T13:15:42.553Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:15:54.570Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:16:02.572Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:16:02.579Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:16:10.068Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:16:10.073Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:16:10.550Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:16:10.550Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:16:10.661Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:16:10.665Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:16:10.772Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:16:10.932Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button id=\"onetrust-pc-btn-handler\">Manage Cookies</button>\nattempting click action\n  waiting for element to be visible, enabled and stable\n============================================================",
+    "timestamp": "2021-09-09T13:16:12.979Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:16:16.202Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".ot-pc-refuse-all-handler:visible, .save-preference-btn-handler:visible\"\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:16:47.704Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:17:01.465Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:17:01.465Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:17:06.489Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:17:57.026Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:17:57.026Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:02.245Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:18:10.553Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "TCF data: cmpId 28 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:18:10.560Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:18:10.592Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:18:10.600Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:18:15.599Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:18:15.698Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:18:15.698Z"
+  }
+]

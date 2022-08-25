@@ -1,0 +1,612 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://jetzt.de/..."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://caching-production.jetzt.de/assets/cksn4eq3r0001xdy0azu5b9qj/apos-minified/anon-cksn4eq3r0001xdy0azu5b9qj.js",
+      "lineNumber": 4,
+      "columnNumber": 224460
+    },
+    "text": "IS_A 0 string"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 162
+    },
+    "text": "gdpr_GPT2_utils_AST_tcfv2strict_xandr > IQD.adapter.isGPT =  false  _  boolean"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 287
+    },
+    "text": "gdpr_GPT2_utils_AST_tcfv2strict_xandr > IQD.adapter.isAST =  false  _  boolean"
+  },
+  {
+    "type": "info",
+    "location": {
+      "url": "https://iqdtms.jetzt.de/cdn_jde_mob_digt/live/iqadcontroller.js.gz",
+      "lineNumber": 269,
+      "columnNumber": 388
+    },
+    "text": "AdController 2.02 Skipped invoking ´render()´ on adapter for ´iqadtile2´ because the position is disabled"
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://iqdtms.jetzt.de/cdn_jde_mob_digt/live/iqadcontroller.js.gz",
+      "lineNumber": 269,
+      "columnNumber": 388
+    },
+    "text": "AdController 2.02 Position iqadtile1 not rendered."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://iqdtms.jetzt.de/cdn_jde_mob_digt/live/iqadcontroller.js.gz",
+      "lineNumber": 269,
+      "columnNumber": 388
+    },
+    "text": "AdController 2.02 Position iqadtile161 not rendered."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://iqdtms.jetzt.de/cdn_jde_mob_digt/live/iqadcontroller.js.gz",
+      "lineNumber": 269,
+      "columnNumber": 388
+    },
+    "text": "AdController 2.02 Position iqadtile3 not rendered."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://iqdtms.jetzt.de/cdn_jde_mob_digt/live/iqadcontroller.js.gz",
+      "lineNumber": 269,
+      "columnNumber": 388
+    },
+    "text": "AdController 2.02 Position iqadtile4 not rendered."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://iqdtms.jetzt.de/cdn_jde_mob_digt/live/iqadcontroller.js.gz",
+      "lineNumber": 269,
+      "columnNumber": 388
+    },
+    "text": "AdController 2.02 Position iqadtile41 not rendered."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://iqdtms.jetzt.de/cdn_jde_mob_digt/live/iqadcontroller.js.gz",
+      "lineNumber": 269,
+      "columnNumber": 388
+    },
+    "text": "AdController 2.02 Position iqadtile42 not rendered."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://iqdtms.jetzt.de/cdn_jde_mob_digt/live/iqadcontroller.js.gz",
+      "lineNumber": 269,
+      "columnNumber": 388
+    },
+    "text": "AdController 2.02 Position iqadtile43 not rendered."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://iqdtms.jetzt.de/cdn_jde_mob_digt/live/iqadcontroller.js.gz",
+      "lineNumber": 269,
+      "columnNumber": 388
+    },
+    "text": "AdController 2.02 Position iqadtile51 not rendered."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://iqdtms.jetzt.de/cdn_jde_mob_digt/live/iqadcontroller.js.gz",
+      "lineNumber": 269,
+      "columnNumber": 388
+    },
+    "text": "AdController 2.02 Position iqadtile52 not rendered."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://iqdtms.jetzt.de/cdn_jde_mob_digt/live/iqadcontroller.js.gz",
+      "lineNumber": 269,
+      "columnNumber": 388
+    },
+    "text": "AdController 2.02 Position iqadtile53 not rendered."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://iqdtms.jetzt.de/cdn_jde_mob_digt/live/iqadcontroller.js.gz",
+      "lineNumber": 269,
+      "columnNumber": 388
+    },
+    "text": "AdController 2.02 Position iqadtile8 not rendered."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://iqdtms.jetzt.de/cdn_jde_mob_digt/live/iqadcontroller.js.gz",
+      "lineNumber": 269,
+      "columnNumber": 388
+    },
+    "text": "AdController 2.02 Position iqadtile81 not rendered."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://iqdtms.jetzt.de/cdn_jde_mob_digt/live/iqadcontroller.js.gz",
+      "lineNumber": 269,
+      "columnNumber": 388
+    },
+    "text": "AdController 2.02 Position iqadtile82 not rendered."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://iqdtms.jetzt.de/cdn_jde_mob_digt/live/iqadcontroller.js.gz",
+      "lineNumber": 269,
+      "columnNumber": 388
+    },
+    "text": "AdController 2.02 Position iqadtile83 not rendered."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://iqdtms.jetzt.de/cdn_jde_mob_digt/live/iqadcontroller.js.gz",
+      "lineNumber": 269,
+      "columnNumber": 388
+    },
+    "text": "AdController 2.02 Position iqadtile99 not rendered."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://iqdtms.jetzt.de/cdn_jde_mob_digt/live/iqadcontroller.js.gz",
+      "lineNumber": 269,
+      "columnNumber": 388
+    },
+    "text": "AdController 2.02 Position iqadtileOOP not rendered."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://consent-cdn.jetzt.de/wrapperMessagingWithoutDetection.js",
+      "lineNumber": 0,
+      "columnNumber": 154615
+    },
+    "text": "Messaging without detection successfully executed."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 1786
+    },
+    "text": "[window] > DOMContentLoaded ListenerCallback here - eventObj is  Event"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 1881
+    },
+    "text": "[window] > readystatechange ListenerCallback here - readyState is  complete"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 2073
+    },
+    "text": "[window] > load ListenerCallback here - eventObj is  Event"
+  },
+  {
+    "type": "admeasure",
+    "text": "Looking for dialogs to reject..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting for __tcfapi..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint iframe found!"
+  },
+  {
+    "type": "admeasure",
+    "text": "__tcfapi found! Querying status..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingWaiting."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingLoaded."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Button clicked: Einstellungen"
+  },
+  {
+    "type": "admeasure",
+    "text": "Found Sourcepoint privacy manager."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: no type toggles."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Check for legitimate interest button..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Clicking legitimate interest button: Berechtigtes Interesse"
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Find the save button."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint dialog rejected."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 920
+    },
+    "text": "gdpr_GPT2_utils_AST_tcfv2strict_xandr - entering xandr realm - may be wrapped in function to prevent too early exec"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 1051
+    },
+    "text": "window.IQGDPR_handle.adapter _  {isGPT: false, isAST: true}"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 1127
+    },
+    "text": "window.IQGDPR_handle.adapter.isAST _  true"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 1215
+    },
+    "text": "!!window.IQGDPR_handle.adapter.isAST _  true"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 1352
+    },
+    "text": "window.IQD.Slots.ini exists  function(t){var e=this;if(void 0===Tr(this,Vr)[Vr]){try{AdController.getEventDispatcher().on(\"before_template\",function(t){try{e.dispatch(\"ACBeforeTemplateEvent\",{slot:e.slots[t.domTarget],tile:t.domTarget}),e.slots[t.domTarget].dispatch(\"ACBeforeTemplateEvent\",{slot:e.slots[t.domTarget]})}catch(n){e.dispatch(\"ACBeforeTemplateEvent\",{tile:t.domTarget})}})}catch(t){}Tr(this,Vr)[Vr]=t,this.isIniGPT=!0,this.dispatch(\"iniGPT\"),Tr(this,Vr)[Vr].addEventListener(\"slotOnload\",function(t){for(var n in e.slots)e.slots[n].slotTile===t.slot.getSlotElementId()&&(e.slots[n].isOnLoaded=!0,e.slots[n].dispatch(\"FromGPTonLoad\",{slot:e.slots[n],slotGPT:t,event:\"onLoad\"}))}),Tr(this,Vr)[Vr].addEventListener(\"slotRenderEnded\",function(t){for(var n in e.slots)e.slots[n].slotTile===t.slot.getSlotElementId()&&(e.slots[n].size=t.size,e.slots[n].isRenderEnded=!0,e.slots[n].slotGPT=t,e.slots[n].dispatch(\"FromGPTrenderEnded\",{slot:e.slots[n],slotGPT:t,event:\"renderEnded\"}))})}}"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 1417
+    },
+    "text": "window.IQGDPR_handle.adapter _  {isGPT: false, isAST: true}"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 3057
+    },
+    "text": "window.IQD.Slots.ini exists after override function(_adapterObject){var _this=this,_slots=window.IQD.Slots.slots;console.log(\"typeof(_pubads) expect undefined \",typeof _pubads);console.log(\"_adapterObject \",_adapterObject);if(typeof _pubads===\"undefined\"){try{AdController.getEventDispatcher().on(\"before_template\",function(BeforeTemplateEvent){try{_this.dispatch(\"ACBeforeTemplateEvent\",{slot:_slots[BeforeTemplateEvent.domTarget],tile:BeforeTemplateEvent.domTarget});_slots[BeforeTemplateEvent.domTarget].dispatch(\"ACBeforeTemplateEvent\",{slot:_slots[BeforeTemplateEvent.domTarget]})}catch(e){_this.dispatch(\"ACBeforeTemplateEvent\",{tile:BeforeTemplateEvent.domTarget})}})}catch(e){}_pubads=_adapterObject;console.log(\"typeof(_pubads) expect apntag \",typeof _pubads);_this.isIniGPT=true;_this.dispatch(\"iniGPT\");_pubads.onEvent(\"adAvailable\",function(adObj){for(var d in _slots){console.log(\"gpt2astEvent - adAvailable\",_slots,\" _ \",adObj);if(_slots[d].slotTile==adObj.targetId){_slots[d].isOnLoaded=true;_slots[d].dispatch(\"FromGPTonLoad\",{slot:_slots[d],slotGPT:adObj,event:\"onLoad\"});console.log(\"gpt2astEvent - adAvailable\",_slots[d],\" _ \",adObj)}}});_pubads.onEvent(\"adLoaded\",function(adObj){for(var d in _slots){console.log(\"gpt2astEvent - adLoaded\",_slots,\" _ \",adObj);if(_slots[d].slotTile==adObj.targetId){_slots[d].size=[adObj.banner.width,adObj.banner.height];_slots[d].isRenderEnded=true;_slots[d].slotGPT=adObj;_slots[d].dispatch(\"FromGPTrenderEnded\",{slot:_slots[d],slotGPT:adObj,event:\"renderEnded\"});console.log(\"gpt2astEvent - adLoaded\",_slots[d],\" _ \",adObj)}}})}}"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data obtained!"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data: cmpId 6 consent false, legInt false."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Network is idle after 0.00s."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 176
+    },
+    "text": "typeof(window.myGetGptJS)  function"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 243
+    },
+    "text": "typeof(window.myXandrRequest) function"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 530
+    },
+    "text": "mySt  446"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 556
+    },
+    "text": "window.IQD_varPack.renderAfterDaisyBit  {iqadtileOOP: skip, iqadtile1: skip, iqadtile3: skip, iqadtile4: skip, iqadtile8: skip}"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 2188
+    },
+    "text": "[window] > myGetGlobal inside gdpr_adobe-launch_tcfv2strict.js called caller is =  function(){console.log(\"typeof(window.myGetGptJS) \",typeof window.myGetGptJS);console.log(\"typeof(window.myXandrRequest)\",typeof window.myXandrRequest);if(typeof window.myGetGptJS===\"function\"&&typeof window.myGetGlobal===\"function\"&&typeof window.myGetEmetriq===\"function\"&&typeof window.myGetHeaderBidding===\"function\"&&typeof window.myXandrRequest===\"function\"){console.log(\"mySt \",mySt);console.log(\"window.IQD_varPack.renderAfterDaisyBit \",window.IQD_varPack.renderAfterDaisyBit);try{window.myGetGeoedge()}catch(e){console.error(\"window.myGetGeoedge called - error \",e)}try{window.myGetGptJS()}catch(e){console.error(\"window.myGetGptJS called - error \",e)}try{window.myGetGlobal()}catch(e){console.error(\"window.myGetGlobal called - error \",e)}try{window.myGetEmetriq()}catch(e){console.error(\"window.myGetEmetriq called - error \",e)}try{window.myGetHeaderBidding()}catch(e){console.error(\"window.myGetHeaderBidding called - error \",e)}try{window.myGetGrapeshot()}catch(e){console.error(\"window.myGetGrapeshot called - error \",e)}var iatid=\"\";for(iatid in window.IQD_varPack.renderAfterDaisyBit){console.log(\"iatid\",iatid);console.log('typeof(\"AdController.render\") ',typeof AdController.render);AdController.render(iatid);window.IQD_varPack.renderAfterDaisyBit[iatid]=\"render\"}clearInterval(mySt)}}"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 3672
+    },
+    "text": "window.myGetGlobal > _siteIdMatchList.hasOwnProperty(_siteId):  true"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 3927
+    },
+    "text": "window.myGetGlobal > _adobeId:  EN9015395a234d4173854ccfa304a0bc6c"
+  },
+  {
+    "type": "error",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 1143
+    },
+    "text": "window.myGetGrapeshot called - error  TypeError: window.myGetGrapeshot is not a function\n    at <anonymous>:1:1110"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 1266
+    },
+    "text": "iatid iqadtileOOP"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 1293
+    },
+    "text": "typeof(\"AdController.render\")  function"
+  },
+  {
+    "type": "info",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 551
+    },
+    "text": "[AST.JS] in IQD.adapter.define() iqadtileOOP"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 6535
+    },
+    "text": "pbjsTypeError: Cannot read properties of undefined (reading 'targeting')"
+  },
+  {
+    "type": "info",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 551
+    },
+    "text": "[AST.JS] in IQD.adapter.render() iqadtileOOP"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 1266
+    },
+    "text": "iatid iqadtile1"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 1293
+    },
+    "text": "typeof(\"AdController.render\")  function"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 1266
+    },
+    "text": "iatid iqadtile3"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 1293
+    },
+    "text": "typeof(\"AdController.render\")  function"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 1266
+    },
+    "text": "iatid iqadtile4"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 1293
+    },
+    "text": "typeof(\"AdController.render\")  function"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 1266
+    },
+    "text": "iatid iqadtile8"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 1293
+    },
+    "text": "typeof(\"AdController.render\")  function"
+  },
+  {
+    "type": "info",
+    "location": {
+      "url": "https://acdn.adnxs.com/ast/ast.js",
+      "lineNumber": 0,
+      "columnNumber": 78989
+    },
+    "text": "AST library loaded: 0.40.0"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 7140
+    },
+    "text": "window.apntag.onEvent - adBadRequest > adObj  {code: 200, errMessage: parse, exception: undefined, targetId: iqadtileOOP}"
+  },
+  {
+    "type": "info",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 551
+    },
+    "text": "[AST.JS] in IQD.adapter.define() iqadtile1"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 6535
+    },
+    "text": "pbjsTypeError: Cannot read properties of undefined (reading 'targeting')"
+  },
+  {
+    "type": "info",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 551
+    },
+    "text": "[AST.JS] in IQD.adapter.render() iqadtile1"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 7256
+    },
+    "text": "window.apntag.onEvent - adNoBid > adObj  ht"
+  },
+  {
+    "type": "admeasure",
+    "text": "Minimum wait time reached after 5.00s."
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

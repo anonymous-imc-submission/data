@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-10",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:29.037Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "visit https://manrepeller.com/...",
+    "timestamp": "2021-09-09T13:06:29.279Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:06:33.721Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:06:33.722Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:06:34.065Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:06:37.088Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:37.089Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:06:37.171Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:38.407Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:06:38.530Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:06:39.451Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:06:56.524Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:06:56.524Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:06:56.531Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:06:56.533Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:06:56.618Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:07:01.532Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:07:01.560Z"
+  }
+]

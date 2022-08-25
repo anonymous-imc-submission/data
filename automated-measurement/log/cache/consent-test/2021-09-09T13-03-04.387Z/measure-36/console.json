@@ -1,0 +1,127 @@
+[
+  {
+    "part": "measure-36",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:15:01.853Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "visit https://sundaypost.com/...",
+    "timestamp": "2021-09-09T13:15:02.130Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:15:03.138Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:15:04.566Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DOMContentLoaded @ [object Object]",
+    "timestamp": "2021-09-09T13:15:07.280Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "JW Player Warning 324003. For more information see https://developer.jwplayer.com/jw-player/docs/developer-guide/api/errors-reference#324003 @ [object Object]",
+    "timestamp": "2021-09-09T13:15:13.274Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "JW Player Warning 324003. For more information see https://developer.jwplayer.com/jw-player/docs/developer-guide/api/errors-reference#324003 @ [object Object]",
+    "timestamp": "2021-09-09T13:15:14.846Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:15:16.044Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:15:16.052Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "JW Player Warning 324003. For more information see https://developer.jwplayer.com/jw-player/docs/developer-guide/api/errors-reference#324003 @ [object Object]",
+    "timestamp": "2021-09-09T13:15:16.069Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[cycle2] slideshow must be initialized before sending commands; \"destroy\" ignored @ [object Object]",
+    "timestamp": "2021-09-09T13:15:16.341Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:15:17.425Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:15:17.429Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "JW Player Warning 324003. For more information see https://developer.jwplayer.com/jw-player/docs/developer-guide/api/errors-reference#324003 @ [object Object]",
+    "timestamp": "2021-09-09T13:15:17.439Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:15:17.457Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:15:17.490Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:15:17.504Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:15:17.567Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:15:43.789Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:15:43.793Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:15:43.801Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:15:43.808Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:15:43.891Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:15:48.803Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:15:48.837Z"
+  }
+]

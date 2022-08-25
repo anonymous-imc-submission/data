@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-66",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:21:18.043Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "visit https://thetradedesk.com/...",
+    "timestamp": "2021-09-09T13:21:18.337Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 (Not Found) @ [object Object]",
+    "timestamp": "2021-09-09T13:21:19.694Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:21:23.671Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:21:23.678Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:21:26.728Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:21:26.756Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:21:26.878Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:21:26.896Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:21:26.935Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:21:26.944Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:21:35.416Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:21:35.417Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:21:35.453Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:21:35.457Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:21:35.487Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:21:40.455Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:21:40.504Z"
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "part": "measure-57",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:22:12.816Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "visit https://techwalla.com/...",
+    "timestamp": "2021-09-09T13:22:13.585Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c continent: EU  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:22:17.807Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Breakpoint Size: large  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:22:17.830Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Breakpoint Size: large  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:22:17.836Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c WARN %c Reve initializing  background: #FFFF00; color: #000000; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:22:17.923Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Conditional Delay: permutive is delayed by 0ms  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:22:17.923Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Loading IAS  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:22:17.928Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Loading Amazon Publisher Services: apstag.js  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:22:17.928Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Loading Index Exchange  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:22:17.944Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Loading Index ExchangeJWPlayer  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:22:17.950Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c setState: gptTargeting to [object Object]  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:22:17.950Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c setState: permutiveTargeting to undefined  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:22:17.956Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Permutive: Loaded with id 5814efa5-d41d-4a89-b176-1cc26fae87cd  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:22:17.989Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:22:19.500Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Breakpoint Size: large  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:22:19.619Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c ads.js defineAd() GTP #emailslider1-1  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:22:19.619Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Loading Google Publisher Tag: gpt.js  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:22:19.627Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Conditional Delay: gpt is delayed by 0ms  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:22:19.634Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c gpt.js defineSlot('/6117/dmd.techwalla/emailslider1-1', [1,3], 'emailslider1-1')  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:22:20.953Z"
+  },
+  {
+    "part": "console.log",
+    "message": "no popup, no personalization @ [object Object]",
+    "timestamp": "2021-09-09T13:22:20.967Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c WARN %c Permutive is ready  background: #FFFF00; color: #000000; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:22:21.210Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:22:26.502Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:22:26.505Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:22:26.879Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:26.880Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:22:26.909Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:22:26.921Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:26.934Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:22:26.993Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:22:30.602Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:22:36.105Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:22:36.126Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:22:36.150Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:22:36.152Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:22:36.851Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:22:41.151Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:22:41.241Z"
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "part": "measure-01",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:04:50.905Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "visit https://ruidosonews.com/...",
+    "timestamp": "2021-09-09T13:04:51.752Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:04:56.682Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:05:01.261Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:05:04.590Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:05:04.595Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:05:05.057Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:05:05.067Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:05:05.122Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:05:05.126Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:05:05.255Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:05:06.758Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:05:06.759Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:05:06.776Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:05:06.794Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:05:06.945Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:05:07.481Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:05:07.507Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 (Not Found) @ [object Object]",
+    "timestamp": "2021-09-09T13:05:10.011Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR @ [object Object]",
+    "timestamp": "2021-09-09T13:05:10.273Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR @ [object Object]",
+    "timestamp": "2021-09-09T13:05:10.318Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CONNECTION_CLOSED @ [object Object]",
+    "timestamp": "2021-09-09T13:05:10.336Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CONNECTION_CLOSED @ [object Object]",
+    "timestamp": "2021-09-09T13:05:11.658Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:05:11.791Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:05:11.813Z"
+  }
+]

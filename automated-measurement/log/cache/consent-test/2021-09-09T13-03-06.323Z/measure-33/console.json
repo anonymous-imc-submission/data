@@ -1,0 +1,162 @@
+[
+  {
+    "part": "measure-33",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:11:40.750Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "visit https://blitz.gg/...",
+    "timestamp": "2021-09-09T13:11:40.888Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:11:45.656Z"
+  },
+  {
+    "part": "console.log",
+    "message": "web /sw.js?version=web @ [object Object]",
+    "timestamp": "2021-09-09T13:11:46.948Z"
+  },
+  {
+    "part": "console.log",
+    "message": "ServiceWorker registration successful with scope:  https://blitz.gg/ @ [object Object]",
+    "timestamp": "2021-09-09T13:11:48.229Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%chenlo gamer\n          helllo you WONDERFUL GAMER\n   want to work on Blitz?\n     go apply for a job with us! color:green;font-size:30px; @ [object Object]",
+    "timestamp": "2021-09-09T13:11:48.505Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cwe are looking for:\n  - a good generalist (js/c++/rust/elixir??) color:red;font-size:20px; @ [object Object]",
+    "timestamp": "2021-09-09T13:11:48.507Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%csay hello to me directly: dali@blitz.gg color:blue;font-size:20px; @ [object Object]",
+    "timestamp": "2021-09-09T13:11:48.508Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Setting ads to horizontal @ [object Object]",
+    "timestamp": "2021-09-09T13:11:48.947Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://blitz.gg/static/css/vendor~6bd0612f.a79be255.chunk.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:50.828Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Error: unauthorized: unauthenticated\n    at https://blitz.gg/static/js/main.10789f1b.chunk.js:1:662741\n    at w (https://blitz.gg/static/js/vendor~4134d62c.6ece4786.chunk.js:1:60275)\n    at Generator._invoke (https://blitz.gg/static/js/vendor~4134d62c.6ece4786.chunk.js:1:60063)\n    at Generator.t.<computed> [as next] (https://blitz.gg/static/js/vendor~4134d62c.6ece4786.chunk.js:1:60454)\n    at r (https://blitz.gg/static/js/vendor~4134d62c.6ece4786.chunk.js:1:301687)\n    at u (https://blitz.gg/static/js/vendor~4134d62c.6ece4786.chunk.js:1:301889) @ [object Object]",
+    "timestamp": "2021-09-09T13:11:51.591Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o4mii&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fblitz.gg%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:11:51.604Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an script pixel with URL:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o4mii&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fblitz.gg%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:11:51.622Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o4mii&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fblitz.gg%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:11:51.626Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an image pixel with URL:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o4mii&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fblitz.gg%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:11:51.632Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:11:54.019Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:11:54.020Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:11:54.941Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:54.941Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "Debug: tcData.eventStatus:  cmpuishown @ [object Object]",
+    "timestamp": "2021-09-09T13:11:55.208Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:11:55.454Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:11:55.457Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:55.485Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:12:01.096Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "Debug: useractioncomplete @ [object Object]",
+    "timestamp": "2021-09-09T13:12:05.255Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:12:05.608Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "TCF data: cmpId 10 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:12:05.612Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:12:05.641Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:12:05.646Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:12:05.758Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:12:10.643Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:12:10.675Z"
+  }
+]

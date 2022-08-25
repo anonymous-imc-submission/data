@@ -1,0 +1,267 @@
+[
+  {
+    "part": "measure-32",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:13:29.416Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "visit https://jpost.com/...",
+    "timestamp": "2021-09-09T13:13:30.149Z"
+  },
+  {
+    "part": "console.log",
+    "message": "country DE @ [object Object]",
+    "timestamp": "2021-09-09T13:13:32.073Z"
+  },
+  {
+    "part": "console.log",
+    "message": "region HE @ [object Object]",
+    "timestamp": "2021-09-09T13:13:32.073Z"
+  },
+  {
+    "part": "console.log",
+    "message": "country testDE @ [object Object]",
+    "timestamp": "2021-09-09T13:13:32.073Z"
+  },
+  {
+    "part": "console.log",
+    "message": "gdpr is on @ [object Object]",
+    "timestamp": "2021-09-09T13:13:32.073Z"
+  },
+  {
+    "part": "console.log",
+    "message": "country1 DE @ [object Object]",
+    "timestamp": "2021-09-09T13:13:32.536Z"
+  },
+  {
+    "part": "console.log",
+    "message": "region1 HE @ [object Object]",
+    "timestamp": "2021-09-09T13:13:32.537Z"
+  },
+  {
+    "part": "console.log",
+    "message": "premium user not exists.  @ [object Object]",
+    "timestamp": "2021-09-09T13:13:33.190Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:13:34.933Z"
+  },
+  {
+    "part": "console.log",
+    "message": "changeTextOnetrust in cms site @ [object Object]",
+    "timestamp": "2021-09-09T13:13:34.975Z"
+  },
+  {
+    "part": "console.log",
+    "message": "changeTextOnetrust in cms site @ [object Object]",
+    "timestamp": "2021-09-09T13:13:35.458Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "/./ @ [object Object]",
+    "timestamp": "2021-09-09T13:13:35.933Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Ignoring the PubAdsService.enableSingleRequest() call since the service is already enabled. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:36.319Z"
+  },
+  {
+    "part": "console.log",
+    "message": "changeTextOnetrust in cms site @ [object Object]",
+    "timestamp": "2021-09-09T13:13:36.864Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:13:36.875Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o2fw7&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fm.jpost.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:13:37.481Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an script pixel with URL:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o2fw7&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fm.jpost.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:13:37.488Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o2fw7&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fm.jpost.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:13:37.490Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an image pixel with URL:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o2fw7&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fm.jpost.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:13:37.492Z"
+  },
+  {
+    "part": "console.log",
+    "message": "changeTextOnetrust in cms site @ [object Object]",
+    "timestamp": "2021-09-09T13:13:38.949Z"
+  },
+  {
+    "part": "console.log",
+    "message": "changeTextOnetrust in cms site @ [object Object]",
+    "timestamp": "2021-09-09T13:13:40.170Z"
+  },
+  {
+    "part": "console.log",
+    "message": "changeTextOnetrust in cms site @ [object Object]",
+    "timestamp": "2021-09-09T13:13:42.672Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://api.rlcdn.com/api/identity/envelope?pid=1323' from origin 'https://m.jpost.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:42.829Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:13:42.835Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] To reserve space and reduce layout shifts, consider setting min-width=300px, min-height=250px styles on the div element with id=24dbca63-e3c2-4de7-a336-a24bb1439529. Learn more: https://developers.google.com/publisher-tag/guides/minimize-layout-shift @ [object Object]",
+    "timestamp": "2021-09-09T13:13:43.252Z"
+  },
+  {
+    "part": "console.log",
+    "message": "changeTextOnetrust in cms site @ [object Object]",
+    "timestamp": "2021-09-09T13:13:43.557Z"
+  },
+  {
+    "part": "console.log",
+    "message": "changeTextOnetrust in cms site @ [object Object]",
+    "timestamp": "2021-09-09T13:13:44.137Z"
+  },
+  {
+    "part": "console.log",
+    "message": "changeTextOnetrust in cms site @ [object Object]",
+    "timestamp": "2021-09-09T13:13:46.892Z"
+  },
+  {
+    "part": "console.log",
+    "message": "changeTextOnetrust in cms site @ [object Object]",
+    "timestamp": "2021-09-09T13:13:47.222Z"
+  },
+  {
+    "part": "console.log",
+    "message": "changeTextOnetrust in cms site @ [object Object]",
+    "timestamp": "2021-09-09T13:13:48.701Z"
+  },
+  {
+    "part": "console.log",
+    "message": "changeTextOnetrust text We Care About Your Privacy @ [object Object]",
+    "timestamp": "2021-09-09T13:13:48.704Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:13:51.238Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:13:51.239Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:13:51.415Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:13:52.036Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:52.036Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:13:52.132Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:13:52.150Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:52.243Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:13:52.402Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:13:57.404Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:14:01.123Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:14:01.130Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:14:01.167Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:14:01.203Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:14:01.838Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:14:02.920Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:14:02.926Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:14:02.972Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Mixed Content: The page at 'https://m.jpost.com/' was loaded over HTTPS, but requested an insecure script 'http://ib.adnxs.com/ttj?id=21883983&size=[WIDTHxHEIGHT]&cb=[CACHEBUSTER]'. This request has been blocked; the content must be served over HTTPS. @ [object Object]",
+    "timestamp": "2021-09-09T13:14:03.073Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:14:06.178Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:14:06.434Z"
+  }
+]

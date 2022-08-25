@@ -1,0 +1,162 @@
+[
+  {
+    "part": "measure-34",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:14:06.449Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "visit https://bezrealitky.cz/...",
+    "timestamp": "2021-09-09T13:14:07.083Z"
+  },
+  {
+    "part": "console.log",
+    "message": "steps:  [Object,Object,Object,Object,Object,Object,Object,Object,Object,Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:14:16.404Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[acc] version v1.3.10 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:21.585Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[acc] criteo fn added @ [object Object]",
+    "timestamp": "2021-09-09T13:14:21.585Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "🚀 _satellite.notify is deprecated. Please use the `_satellite.logger` API. @ [object Object]",
+    "timestamp": "2021-09-09T13:14:21.658Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[acc] both loaded @ [object Object]",
+    "timestamp": "2021-09-09T13:14:22.393Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[acc] Non blocking user. @ [object Object]",
+    "timestamp": "2021-09-09T13:14:22.397Z"
+  },
+  {
+    "part": "console.log",
+    "message": "connected to server, waiting for connection ready message @ [object Object]",
+    "timestamp": "2021-09-09T13:14:23.744Z"
+  },
+  {
+    "part": "console.log",
+    "message": "connection to server is ready {ratingSent: false, status: INITIALIZED, state: READY, requirements: Array(0)} @ [object Object]",
+    "timestamp": "2021-09-09T13:14:24.061Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:14:26.729Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:14:26.736Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:14:27.150Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:14:27.151Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:14:27.204Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:14:27.209Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:14:27.238Z"
+  },
+  {
+    "part": "console.dir",
+    "message": "[Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:14:29.269Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-pc-btn-handler:visible,\n            #onetrust-pc-sdk:visible\n        \" to be visible\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:14:56.972Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:15:18.032Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:15:18.032Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:15:23.176Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:16:13.702Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:16:13.702Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:16:18.719Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:16:27.151Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "TCF data: cmpId 7 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:16:27.151Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:16:27.166Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:16:27.169Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:16:32.167Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:16:32.353Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:16:32.434Z"
+  }
+]

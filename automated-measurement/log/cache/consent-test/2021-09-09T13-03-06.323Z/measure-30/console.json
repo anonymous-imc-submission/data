@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-30",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:11:20.785Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "visit https://emedemujer.com/...",
+    "timestamp": "2021-09-09T13:11:21.096Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://emedemujer.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:11:51.096Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:11:51.119Z"
+  }
+]

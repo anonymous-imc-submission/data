@@ -1,0 +1,102 @@
+[
+  {
+    "part": "measure-51",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:11:52.771Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "visit https://seventeen.com/...",
+    "timestamp": "2021-09-09T13:11:53.239Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service worker registration succeeded. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:54.065Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:12:00.286Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:12:05.644Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:12:05.673Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:12:07.771Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:07.777Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:12:07.870Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:12:07.875Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:08.107Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:12:08.707Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:12:08.711Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:12:08.730Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:12:08.733Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:12:08.791Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service worker registration succeeded. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:09.628Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:12:13.294Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:12:13.738Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:12:13.797Z"
+  }
+]

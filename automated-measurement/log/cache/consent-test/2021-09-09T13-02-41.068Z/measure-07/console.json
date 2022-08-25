@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-07",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:05:27.537Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "visit https://poe.trade/...",
+    "timestamp": "2021-09-09T13:05:27.817Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:05:40.466Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:05:40.467Z"
+  },
+  {
+    "part": "console.log",
+    "message": "ERROR Thu Sep 09 2021 14:05:40 GMT+0100 (British Summer Time) null @ [object Object]",
+    "timestamp": "2021-09-09T13:05:40.509Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:05:44.473Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:05:44.473Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:05:44.887Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:05:44.893Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:05:44.931Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:05:49.492Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:05:49.496Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:05:49.502Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:05:49.508Z"
+  },
+  {
+    "part": "console.log",
+    "message": "ERROR Thu Sep 09 2021 14:05:49 GMT+0100 (British Summer Time) null @ [object Object]",
+    "timestamp": "2021-09-09T13:05:49.995Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:05:50.010Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:05:54.503Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:05:54.517Z"
+  }
+]

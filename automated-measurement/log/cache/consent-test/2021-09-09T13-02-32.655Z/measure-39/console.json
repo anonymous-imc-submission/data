@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-39",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:11:54.107Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "visit https://esquire.com/...",
+    "timestamp": "2021-09-09T13:11:56.982Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service worker registration succeeded. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:58.794Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:12:05.860Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:12:10.606Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:12:10.628Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:12:11.330Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:11.336Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:12:11.375Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:12:11.382Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:11.472Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:12:12.714Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:12:12.718Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:12:12.762Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:12:12.780Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:12:13.900Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service worker registration succeeded. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:15.915Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:12:17.770Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:12:17.868Z"
+  }
+]

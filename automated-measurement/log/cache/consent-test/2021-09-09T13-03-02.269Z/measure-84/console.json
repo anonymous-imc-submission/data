@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-84",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:28:44.280Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "visit https://wellandgood.com/...",
+    "timestamp": "2021-09-09T13:28:45.306Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:29:08.597Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:29:08.603Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:29:11.808Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:29:11.809Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:29:11.944Z"
+  },
+  {
+    "part": "console.timeEnd",
+    "message": "a: 0.023193359375 ms @ [object Object]",
+    "timestamp": "2021-09-09T13:29:13.169Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:29:13.524Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:29:14.096Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:29:15.069Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:31:11.810Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "TCF data: cmpId 28 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:31:11.810Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:31:11.813Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:31:16.836Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:31:31.822Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:31:31.870Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n============================================================",
+    "timestamp": "2021-09-09T13:31:31.874Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:31:31.902Z"
+  }
+]

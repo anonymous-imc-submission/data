@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-98",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:34:33.810Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "visit https://details.com/...",
+    "timestamp": "2021-09-09T13:34:39.537Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://details.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:35:09.648Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:35:09.785Z"
+  }
+]

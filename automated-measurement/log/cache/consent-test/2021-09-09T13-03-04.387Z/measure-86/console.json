@@ -1,0 +1,102 @@
+[
+  {
+    "part": "measure-86",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:28:47.835Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "visit https://tennessean.com/...",
+    "timestamp": "2021-09-09T13:28:48.381Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:29:02.771Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:29:10.581Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:29:10.594Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:29:11.211Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:29:11.231Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:29:12.614Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:29:12.616Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:29:12.791Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:29:12.802Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:29:12.936Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:29:13.005Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:29:47.252Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:29:47.262Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:29:47.306Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:29:47.308Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:29:52.308Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:30:07.342Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:30:07.584Z"
+  }
+]

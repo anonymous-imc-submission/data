@@ -1,0 +1,87 @@
+[
+  {
+    "part": "measure-59",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:17:00.205Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "visit https://insurads.com/...",
+    "timestamp": "2021-09-09T13:17:00.871Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:17:03.872Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:17:03.898Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:17:04.987Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:17:04.988Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:17:05.074Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:17:05.100Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:17:05.149Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:17:05.208Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:17:07.314Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "TCF data: cmpId 10 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:17:07.318Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:17:07.334Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:17:07.340Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:17:07.379Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:17:12.336Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:17:12.376Z"
+  }
+]

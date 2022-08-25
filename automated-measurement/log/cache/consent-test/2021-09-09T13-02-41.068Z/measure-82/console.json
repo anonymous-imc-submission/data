@@ -1,0 +1,112 @@
+[
+  {
+    "part": "measure-82",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:18:03.585Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "visit https://otomoto.pl/...",
+    "timestamp": "2021-09-09T13:18:05.039Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "react-i18next:: It seems you are still using the old wait option, you may migrate to the new useSuspense behaviour. @ [object Object]",
+    "timestamp": "2021-09-09T13:18:15.239Z"
+  },
+  {
+    "part": "console.error",
+    "message": "AXIOS ERROR: timeout exceeded. Method: get url:/user/favorites/ defaultBaseURL:https://www.otomoto.pl/api/v1/ @ [object Object]",
+    "timestamp": "2021-09-09T13:18:17.910Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "t @ [object Object]",
+    "timestamp": "2021-09-09T13:18:17.919Z"
+  },
+  {
+    "part": "console.error",
+    "message": "AXIOS ERROR: timeout exceeded. Method: get url:/category defaultBaseURL:https://www.otomoto.pl/api/v1/ @ [object Object]",
+    "timestamp": "2021-09-09T13:18:17.926Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Can't load categories @ [object Object]",
+    "timestamp": "2021-09-09T13:18:17.928Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:18:24.900Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:18:24.907Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:18:26.012Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:26.015Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:18:26.160Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:18:26.170Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:26.197Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:18:29.012Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:18:29.014Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:18:29.029Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:18:29.034Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:18:29.568Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2109032350000 https://www.otomoto.pl/ @ [object Object]",
+    "timestamp": "2021-09-09T13:18:31.167Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:18:34.030Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:18:34.094Z"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-95",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:33:55.936Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "visit https://shreveporttimes.com/...",
+    "timestamp": "2021-09-09T13:33:59.436Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://shreveporttimes.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:34:29.524Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:34:29.813Z"
+  }
+]

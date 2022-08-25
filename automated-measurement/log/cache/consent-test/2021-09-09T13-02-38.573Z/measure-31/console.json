@@ -1,0 +1,147 @@
+[
+  {
+    "part": "measure-31",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:07:42.522Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "visit https://pigeonsandplanes.com/...",
+    "timestamp": "2021-09-09T13:07:42.592Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[ABD] start beginTest @ [object Object]",
+    "timestamp": "2021-09-09T13:07:45.467Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[ABD] adding bait node to DOM @ [object Object]",
+    "timestamp": "2021-09-09T13:07:45.468Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:07:45.470Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:07:45.470Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:07:45.532Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:45.532Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:07:45.541Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:07:45.542Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:45.562Z"
+  },
+  {
+    "part": "console.log",
+    "message": "data = {accountId: 6e763a77-b5b9-4613-a077-2f54e86b8050, eventName: PAGE_VIEW, gtmOnSuccess: , gtmOnFailure: , gtmTagId: 207} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:45.786Z"
+  },
+  {
+    "part": "console.log",
+    "message": "data = {accountId: 6e763a77-b5b9-4613-a077-2f54e86b8050, eventName: PAGE_VIEW, gtmOnSuccess: , gtmOnFailure: , gtmTagId: 207} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:45.797Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:07:45.841Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:07:45.842Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:07:45.844Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:07:45.892Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:07:46.090Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[ABD] exiting test loop - value: false @ [object Object]",
+    "timestamp": "2021-09-09T13:07:46.281Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://www.complex.com/pigeons-and-planes/ @ [object Object]",
+    "timestamp": "2021-09-09T13:07:48.453Z"
+  },
+  {
+    "part": "console.log",
+    "message": "14:07:48.000 [MOBKOI] Bootstrapping direct @ [object Object]",
+    "timestamp": "2021-09-09T13:07:48.474Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://images.complex.com/complex/image/upload/v1580766573/FFFFFF-1_cyvbjp.png was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:07:48.576Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CONNECTION_REFUSED @ [object Object]",
+    "timestamp": "2021-09-09T13:07:49.231Z"
+  },
+  {
+    "part": "console.log",
+    "message": "14:07:49.241 [MOBKOI] initialise v1.102.0 in friendly iframe @ [object Object]",
+    "timestamp": "2021-09-09T13:07:49.242Z"
+  },
+  {
+    "part": "console.log",
+    "message": "received a request for uspapi @ [object Object]",
+    "timestamp": "2021-09-09T13:07:49.780Z"
+  },
+  {
+    "part": "console.timeEnd",
+    "message": "a: 0.003173828125 ms @ [object Object]",
+    "timestamp": "2021-09-09T13:07:50.436Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:07:50.845Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Network is idle after 5.13s.",
+    "timestamp": "2021-09-09T13:07:50.976Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:07:51.010Z"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "part": "measure-25",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:11:24.526Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "visit https://livestrong.com/...",
+    "timestamp": "2021-09-09T13:11:24.844Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "<source src> with a <picture> parent is invalid and therefore ignored. Please use <source srcset> instead. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:25.873Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:11:29.409Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:11:29.447Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c continent: EU  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:11:30.208Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Breakpoint Size: small  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:11:30.215Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Breakpoint Size: small  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:11:30.217Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c =======i am mobile :)  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:11:30.220Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c WARN %c Reve initializing  background: #FFFF00; color: #000000; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:11:30.223Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Conditional Delay: permutive is delayed by 0ms  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:11:30.234Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Loading IAS  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:11:30.236Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Loading Amazon Publisher Services: apstag.js  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:11:30.251Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c setState: gptTargeting to [object Object]  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:11:30.265Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c setState: permutiveTargeting to undefined  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:11:30.267Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Permutive: Loaded with id 5814efa5-d41d-4a89-b176-1cc26fae87cd  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:11:30.309Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:11:31.723Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:31.723Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:11:31.833Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:32.274Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:11:32.424Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c WARN %c Permutive is ready  background: #FFFF00; color: #000000; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:11:32.573Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:11:33.688Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 503 () @ [object Object]",
+    "timestamp": "2021-09-09T13:11:34.569Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button class=\"cookie-setting-link\" id=\"onetrust-pc-btn-…>Show Purposes</button>\nattempting click action\n  waiting for element to be visible, enabled and stable\n============================================================",
+    "timestamp": "2021-09-09T13:11:36.053Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:11:38.596Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".ot-pc-refuse-all-handler:visible, .save-preference-btn-handler:visible\"\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:12:09.152Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:12:22.934Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:12:22.934Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:27.956Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:13:18.628Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:13:18.628Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:26.126Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:13:31.724Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "TCF data: cmpId 28 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:13:31.727Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:13:31.744Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:13:31.750Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:13:36.745Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:13:36.773Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:13:36.800Z"
+  }
+]

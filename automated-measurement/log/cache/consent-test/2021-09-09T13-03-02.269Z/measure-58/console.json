@@ -1,0 +1,102 @@
+[
+  {
+    "part": "measure-58",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:20:47.126Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "visit https://deadline.com/...",
+    "timestamp": "2021-09-09T13:20:47.324Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "Download the React DevTools for a better development experience: https://fb.me/react-devtools @ [object Object]",
+    "timestamp": "2021-09-09T13:20:50.512Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:20:52.810Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:20:52.812Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://static.adsafeprotected.com/vans-adapter-google-ima.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:20:56.640Z"
+  },
+  {
+    "part": "console.log",
+    "message": "fonts loaded @ [object Object]",
+    "timestamp": "2021-09-09T13:20:56.701Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:20:57.936Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:20:57.939Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:20:57.964Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:20:57.971Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:20:57.990Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:20:57.999Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:21:10.923Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:21:10.924Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:21:10.934Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:21:10.944Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:21:11.009Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:21:15.940Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:21:16.070Z"
+  }
+]

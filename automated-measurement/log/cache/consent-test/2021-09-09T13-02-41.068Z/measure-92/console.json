@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-92",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:20:32.498Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "visit https://flashscore.ro/...",
+    "timestamp": "2021-09-09T13:20:33.315Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://flashscore.ro/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:21:03.421Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:21:03.559Z"
+  }
+]

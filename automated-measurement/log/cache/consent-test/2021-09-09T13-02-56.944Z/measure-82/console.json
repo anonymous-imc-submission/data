@@ -1,0 +1,87 @@
+[
+  {
+    "part": "measure-82",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:26:57.808Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "visit https://lovescout24.de/...",
+    "timestamp": "2021-09-09T13:26:58.195Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:27:15.033Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:27:15.111Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:27:17.966Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:27:17.973Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:27:18.138Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:27:18.174Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:27:18.450Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:27:18.460Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:28:00.898Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:28:00.902Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:28:00.964Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:28:00.980Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:28:01.230Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:28:05.971Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:28:06.049Z"
+  }
+]

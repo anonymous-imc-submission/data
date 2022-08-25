@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-51",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:12:22.102Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "visit https://classicandsportscar.com/...",
+    "timestamp": "2021-09-09T13:12:22.426Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:12:29.060Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:12:29.061Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:12:29.416Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:29.420Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:12:29.441Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:12:29.445Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:29.475Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:12:31.089Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "TCF data: cmpId 28 consent true, legInt false.",
+    "timestamp": "2021-09-09T13:12:31.091Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:12:31.101Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:12:31.329Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2109032350000 https://classicandsportscar.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:12:32.510Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2109032350000 https://classicandsportscar.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:12:32.623Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:12:36.102Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:12:51.104Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:12:51.137Z"
+  }
+]

@@ -1,0 +1,717 @@
+[
+  {
+    "part": "measure-36",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:14:06.221Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "visit https://investing.com/...",
+    "timestamp": "2021-09-09T13:14:06.519Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GDPR:1 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:07.421Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isCCPA:0 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:07.421Z"
+  },
+  {
+    "part": "console.log",
+    "message": "enter interval @ [object Object]",
+    "timestamp": "2021-09-09T13:14:07.512Z"
+  },
+  {
+    "part": "console.log",
+    "message": "enter interval @ [object Object]",
+    "timestamp": "2021-09-09T13:14:07.966Z"
+  },
+  {
+    "part": "console.log",
+    "message": "enter interval @ [object Object]",
+    "timestamp": "2021-09-09T13:14:08.103Z"
+  },
+  {
+    "part": "console.log",
+    "message": "enter interval @ [object Object]",
+    "timestamp": "2021-09-09T13:14:08.396Z"
+  },
+  {
+    "part": "console.log",
+    "message": "fraud: {\"fraudScore\":100,\"suspScore\":2,\"se\":0,\"bpCats\":-1,\"status\":\"score\",\"n\":1} @ [object Object]",
+    "timestamp": "2021-09-09T13:14:08.521Z"
+  },
+  {
+    "part": "console.log",
+    "message": "enter interval @ [object Object]",
+    "timestamp": "2021-09-09T13:14:08.946Z"
+  },
+  {
+    "part": "console.log",
+    "message": "stream: https://stream333.forexpros.com:443 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:09.388Z"
+  },
+  {
+    "part": "console.log",
+    "message": "appsFlyerUrl:  https://app.appsflyer.com/com.fusionmedia.investing?pid=direct_inv&c=mobile_web&af_channel=/&af_adset=com&af_ad=install_popup @ [object Object]",
+    "timestamp": "2021-09-09T13:14:09.395Z"
+  },
+  {
+    "part": "console.log",
+    "message": "enter interval @ [object Object]",
+    "timestamp": "2021-09-09T13:14:09.571Z"
+  },
+  {
+    "part": "console.log",
+    "message": "server jp b1 web4.forexpros.com @ [object Object]",
+    "timestamp": "2021-09-09T13:14:09.673Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Opening transport: websocket  url:https://stream333.forexpros.com:443/echo/750/bblc35op  RTO:2529 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:10.509Z"
+  },
+  {
+    "part": "console.log",
+    "message": "open-fx @ [object Object]",
+    "timestamp": "2021-09-09T13:14:10.920Z"
+  },
+  {
+    "part": "console.log",
+    "message": "pid-166: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:10.921Z"
+  },
+  {
+    "part": "console.log",
+    "message": "pid-169: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:10.928Z"
+  },
+  {
+    "part": "console.log",
+    "message": "pid-172: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:10.930Z"
+  },
+  {
+    "part": "console.log",
+    "message": "pid-27: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:10.932Z"
+  },
+  {
+    "part": "console.log",
+    "message": "pid-178: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:10.935Z"
+  },
+  {
+    "part": "console.log",
+    "message": "pid-8873: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:10.948Z"
+  },
+  {
+    "part": "console.log",
+    "message": "pid-8839: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:10.950Z"
+  },
+  {
+    "part": "console.log",
+    "message": "pid-8874: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:10.952Z"
+  },
+  {
+    "part": "console.log",
+    "message": "pid-8826: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:10.953Z"
+  },
+  {
+    "part": "console.log",
+    "message": "pid-8859: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:10.954Z"
+  },
+  {
+    "part": "console.log",
+    "message": "pid-1: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:10.956Z"
+  },
+  {
+    "part": "console.log",
+    "message": "pid-2: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:10.957Z"
+  },
+  {
+    "part": "console.log",
+    "message": "pid-3: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:10.959Z"
+  },
+  {
+    "part": "console.log",
+    "message": "pid-7: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:10.962Z"
+  },
+  {
+    "part": "console.log",
+    "message": "pid-5: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:10.964Z"
+  },
+  {
+    "part": "console.log",
+    "message": "pid-8849: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:10.971Z"
+  },
+  {
+    "part": "console.log",
+    "message": "pid-8833: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:10.976Z"
+  },
+  {
+    "part": "console.log",
+    "message": "pid-8830: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:10.977Z"
+  },
+  {
+    "part": "console.log",
+    "message": "pid-8862: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:10.977Z"
+  },
+  {
+    "part": "console.log",
+    "message": "pid-8836: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:10.977Z"
+  },
+  {
+    "part": "console.log",
+    "message": "pid-945629: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:10.981Z"
+  },
+  {
+    "part": "console.log",
+    "message": "pid-1173409: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:10.981Z"
+  },
+  {
+    "part": "console.log",
+    "message": "pid-1058142: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:10.981Z"
+  },
+  {
+    "part": "console.log",
+    "message": "pid-1057391: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:10.981Z"
+  },
+  {
+    "part": "console.log",
+    "message": "pid-1062537: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:10.987Z"
+  },
+  {
+    "part": "console.log",
+    "message": "pid-6408: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:10.987Z"
+  },
+  {
+    "part": "console.log",
+    "message": "pid-941155: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:10.987Z"
+  },
+  {
+    "part": "console.log",
+    "message": "pid-44334: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:10.987Z"
+  },
+  {
+    "part": "console.log",
+    "message": "pid-8082: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:10.995Z"
+  },
+  {
+    "part": "console.log",
+    "message": "pid-243: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:10.995Z"
+  },
+  {
+    "part": "console.log",
+    "message": "pid-8880: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:10.995Z"
+  },
+  {
+    "part": "console.log",
+    "message": "pid-8907: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.002Z"
+  },
+  {
+    "part": "console.log",
+    "message": "pid-8895: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.002Z"
+  },
+  {
+    "part": "console.log",
+    "message": "pid-8886: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.002Z"
+  },
+  {
+    "part": "console.log",
+    "message": "pid-8986: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.002Z"
+  },
+  {
+    "part": "console.log",
+    "message": "pid-525: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.017Z"
+  },
+  {
+    "part": "console.log",
+    "message": "pid-504: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.017Z"
+  },
+  {
+    "part": "console.log",
+    "message": "pid-44554: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.017Z"
+  },
+  {
+    "part": "console.log",
+    "message": "pid-14202: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.017Z"
+  },
+  {
+    "part": "console.log",
+    "message": "pid-651: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.017Z"
+  },
+  {
+    "part": "console.log",
+    "message": "event-436360: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.017Z"
+  },
+  {
+    "part": "console.log",
+    "message": "event-436293: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.027Z"
+  },
+  {
+    "part": "console.log",
+    "message": "event-436294: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.027Z"
+  },
+  {
+    "part": "console.log",
+    "message": "event-435403: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.027Z"
+  },
+  {
+    "part": "console.log",
+    "message": "event-435402: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.028Z"
+  },
+  {
+    "part": "console.log",
+    "message": "event-435401: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.037Z"
+  },
+  {
+    "part": "console.log",
+    "message": "event-436314: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.037Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-1: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.037Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-4: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.037Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-3: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.056Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-20: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.056Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-1014: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.056Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-1027: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.056Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-1037: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.056Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-2: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.056Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-166: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.056Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-169: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.071Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-172: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.072Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-27: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.072Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-178: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.072Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-8873: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.072Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-8839: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.072Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-8874: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.079Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-8826: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.079Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-8859: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.079Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-7: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.079Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-5: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.079Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-8849: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.079Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-8833: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.079Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-8830: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.091Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-8862: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.091Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-8836: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.091Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-945629: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.091Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-1173409: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.102Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-1058142: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.102Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-1057391: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.102Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-1062537: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.102Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-6408: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.102Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-941155: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.114Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-44334: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.114Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-8082: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.114Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-243: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.114Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-8880: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.114Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-8907: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.114Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-8895: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.129Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-8886: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.129Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-8986: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.129Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-525: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.129Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-504: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.129Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-44554: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.129Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-14202: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.139Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenExch-651: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.139Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenPair-8873: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.139Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenPair-8839: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.139Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenPair-8874: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.139Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenPair-8826: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.139Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenPair-8859: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.152Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenPair-1: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.152Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenPair-2: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.152Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenPair-3: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.152Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenPair-7: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.152Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenPair-5: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.173Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenPair-8849: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.173Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenPair-8833: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.173Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenPair-8830: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.173Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenPair-8862: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.173Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenPair-8836: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.173Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenPair-8880: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.173Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenPair-8907: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.173Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenPair-8895: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.181Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenPair-8886: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.181Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isOpenPair-8986: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.181Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:14:11.814Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:14:11.815Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:14:12.696Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:14:12.696Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:14:12.748Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:14:12.753Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:14:12.814Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:14:12.833Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:14:22.879Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:14:22.879Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:14:22.890Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:14:22.894Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:14:22.970Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:14:27.891Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:14:27.907Z"
+  }
+]

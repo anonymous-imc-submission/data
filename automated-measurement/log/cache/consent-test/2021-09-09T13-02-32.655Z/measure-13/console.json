@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-13",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:07:20.663Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "visit https://sctimes.com/...",
+    "timestamp": "2021-09-09T13:07:21.180Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:07:30.250Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:07:37.947Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:07:37.954Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:07:39.705Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:07:39.708Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:07:40.184Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:40.184Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:07:40.245Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:07:40.251Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:40.286Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:07:41.399Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:07:41.403Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:07:41.411Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:07:41.418Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:07:41.773Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:07:46.415Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:07:46.435Z"
+  }
+]

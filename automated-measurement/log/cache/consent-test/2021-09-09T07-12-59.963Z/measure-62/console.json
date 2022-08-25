@@ -1,0 +1,14 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://observer.co.uk/..."
+  },
+  {
+    "type": "admeasure",
+    "text": "page load error: Error: page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://observer.co.uk/\n=========================== logs ===========================\nnavigating to \"https://observer.co.uk/\", waiting until \"load\"\n============================================================"
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

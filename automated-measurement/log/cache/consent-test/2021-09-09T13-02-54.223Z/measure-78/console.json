@@ -1,0 +1,122 @@
+[
+  {
+    "part": "measure-78",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:22:31.503Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "visit https://espn.com.au/...",
+    "timestamp": "2021-09-09T13:22:31.995Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:35.025Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[OneID] [%s]:  ERROR Already initialized @ [object Object]",
+    "timestamp": "2021-09-09T13:22:39.291Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[OneID] [%s]:  ERROR Session not established @ [object Object]",
+    "timestamp": "2021-09-09T13:22:45.908Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:22:48.817Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:22:48.848Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:22:49.805Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:49.807Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:22:49.864Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:22:49.867Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:49.917Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:22:49.920Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:23:23.467Z"
+  },
+  {
+    "part": "console.log",
+    "message": "consent sync callback complete @ [object Object]",
+    "timestamp": "2021-09-09T13:23:25.222Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:23:25.330Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:23:25.333Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:23:25.342Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:23:25.344Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:23:26.041Z"
+  },
+  {
+    "part": "console.log",
+    "message": "update: ad _dcf:0 @ [object Object]",
+    "timestamp": "2021-09-09T13:23:27.847Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/. @ [object Object]",
+    "timestamp": "2021-09-09T13:23:29.699Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:23:30.343Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:23:30.384Z"
+  }
+]

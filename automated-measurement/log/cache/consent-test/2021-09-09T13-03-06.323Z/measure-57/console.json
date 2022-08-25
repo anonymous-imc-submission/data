@@ -1,0 +1,142 @@
+[
+  {
+    "part": "measure-57",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:16:40.428Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "visit https://comingsoon.it/...",
+    "timestamp": "2021-09-09T13:16:40.708Z"
+  },
+  {
+    "part": "console.info",
+    "message": "CS-Referrer @direct @ [object Object]",
+    "timestamp": "2021-09-09T13:16:41.622Z"
+  },
+  {
+    "part": "console.log",
+    "message": "EVOLUTION ADV: OPTILOAD ENABLED @ [object Object]",
+    "timestamp": "2021-09-09T13:16:48.993Z"
+  },
+  {
+    "part": "console.log",
+    "message": "EVOLUTION ADV: Q29taW5jaWFtbyBiZW5lISBJbnZpYSBsYSB0dWEgY2FuZGlkYXR1cmEgYSBpbmZvQGV2b2x1dGlvbmFkdi5pdCBzcGVjaWZpY2FuZG8gbmVsbCdvZ2dldHRvIFRBTkEgTElCRVJBIFRVVFRJ @ [object Object]",
+    "timestamp": "2021-09-09T13:16:49.059Z"
+  },
+  {
+    "part": "console.info",
+    "message": "[INFO]: Adblock=%s False @ [object Object]",
+    "timestamp": "2021-09-09T13:16:50.746Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:16:50.777Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:16:50.782Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cmpuishown @ [object Object]",
+    "timestamp": "2021-09-09T13:16:50.956Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:16:51.242Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:16:51.243Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:16:51.430Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:16:51.440Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:16:51.458Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:16:52.884Z"
+  },
+  {
+    "part": "console.log",
+    "message": "useractioncomplete @ [object Object]",
+    "timestamp": "2021-09-09T13:16:53.726Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:16:53.926Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "TCF data: cmpId 10 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:16:53.930Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:16:53.943Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:16:53.949Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:16:54.013Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:16:55.066Z"
+  },
+  {
+    "part": "console.log",
+    "message": "EVOLUTION ADV: === PB/OPTILOAD v4.43.0/4.7.1 === @ [object Object]",
+    "timestamp": "2021-09-09T13:16:55.078Z"
+  },
+  {
+    "part": "console.log",
+    "message": "EVOLUTION ADV: OPTILOAD READY @ [object Object]",
+    "timestamp": "2021-09-09T13:16:55.101Z"
+  },
+  {
+    "part": "console.info",
+    "message": "DFP avviaOpti right @ [object Object]",
+    "timestamp": "2021-09-09T13:16:55.107Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/. @ [object Object]",
+    "timestamp": "2021-09-09T13:16:55.160Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:16:58.943Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:16:59.064Z"
+  }
+]

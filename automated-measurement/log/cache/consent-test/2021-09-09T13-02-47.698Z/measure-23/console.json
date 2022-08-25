@@ -1,0 +1,202 @@
+[
+  {
+    "part": "measure-23",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:10:57.130Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "visit https://ihned.cz/...",
+    "timestamp": "2021-09-09T13:10:57.282Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://i0.cz/sashec/js/sashec.bundle.min.js?v=75518, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:58.181Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://i0.cz/sashec/js/sashec.bundle.min.js?v=75518, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:58.193Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://assets.adobedtm.com/e949270ea86e/34b1ac91e175/launch-d4b74124264a.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:58.282Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://assets.adobedtm.com/e949270ea86e/34b1ac91e175/launch-d4b74124264a.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:58.303Z"
+  },
+  {
+    "part": "console.log",
+    "message": "steps:  [Object,Object,Object,Object,Object,Object,Object,Object,Object,Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:11:02.232Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://secure-assets.rubiconproject.com/utils/xapi/multi-sync.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:05.392Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://secure-assets.rubiconproject.com/utils/xapi/multi-sync.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:05.406Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead @ [object Object]",
+    "timestamp": "2021-09-09T13:11:06.844Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead @ [object Object]",
+    "timestamp": "2021-09-09T13:11:06.875Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead @ [object Object]",
+    "timestamp": "2021-09-09T13:11:06.877Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead @ [object Object]",
+    "timestamp": "2021-09-09T13:11:06.878Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead @ [object Object]",
+    "timestamp": "2021-09-09T13:11:06.880Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead @ [object Object]",
+    "timestamp": "2021-09-09T13:11:06.882Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead @ [object Object]",
+    "timestamp": "2021-09-09T13:11:06.898Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead @ [object Object]",
+    "timestamp": "2021-09-09T13:11:06.903Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SASHEC: Postscribe - error rendering a-mediumrectangle-1 because: Uncaught TypeError: Cannot read properties of null (reading 'style') - : 1 with code\n----\n<!-- spir.czMonS[196_C13596__1_129002] --> <!-- Yield_Adform_premiumsquare /FCID=129002/FLIGHT_ID=73431 --> <!-- pouziva adform placement script --> <style id=\"prg-adf-prmsq1-stylesheet\">     @media (orientation: portrait) and (min-width: 415px) and (max-width: 1024px) {         adfm-ad {             max-width: 480px;             max-height: 480px;             margin-bottom: 20px;         }     }          @media (orientation: landscape) and (max-width: 991px) {         adfm-ad {             max-width: 480px;             max-height: 480px;             margin-bottom: 20px;         }     } </style> <div class=\"eco-adf-wrapper-p2\" id=\"sas_adform_mobile\">     <div class=\"eco-adf-wrapper-p1\">         <div class=\"eco-adf-wrapper-prmsq1\" id=\"sas_73431_129002\">             <!-- Adform publisher tag --> <!-- Tag for ihned - ihned_premium-square-pos1_pmp placement --> <script type=\"text/javascript\" src=\"https://adx.adform.net/adx/?mid=1077286&rnd=54476689&gdpr=&gdpr_consent=\"></script>         </div>     </div>      </div> <script> /* adfm-ad sync tag style rewrite */ var adfAd = document.querySelector(\".eco-adf-wrapper-prmsq1 > adfm-ad\"); adfAd.style.cssText = \"width: \"+(screen.width)+\"px; height:\"+(screen.width)+\"px;display: block;position: relative;inset: 0px auto auto 0px;margin: 0px auto;padding: 0px; left: 50%; margin-left:-\"+(screen.width / 2)+\"px\"; </script> <!-- eof Yield_Adform_premiumsquare --> <!-- spir.czMonE -->  <img src=\"https://a.centrum.cz/cent/count/FCID=129002/random=54476689/viewid=45591070/site=ihned/area=hp/passback=0/device=m/template=hp/uc=0/size=mediumrectangle,is/pos=1\" width=\"1\" height=\"1\" border=\"0\" style=\"display:none\" /> <!-- ADVID=3372/CAMPID=13596/FLIGHTID=73431/FCID=129002/SIZE=mediumrectangle,is/POS=1/DATETIME=2021-09-09 13:11:05/PASSBACK=0 --> @ [object Object]",
+    "timestamp": "2021-09-09T13:11:09.853Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:11:16.176Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:11:19.497Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:11:19.503Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:11:20.638Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:20.639Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:11:20.765Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:11:20.776Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:20.852Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-pc-btn-handler:visible,\n            #onetrust-pc-sdk:visible\n        \" to be visible\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:11:49.560Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:12:11.557Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:12:11.557Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:16.584Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:13:07.089Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:13:07.089Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:12.109Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:13:20.639Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "TCF data: cmpId 7 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:13:20.639Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:13:20.647Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:13:20.649Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:13:25.649Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:13:25.732Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:13:25.750Z"
+  }
+]

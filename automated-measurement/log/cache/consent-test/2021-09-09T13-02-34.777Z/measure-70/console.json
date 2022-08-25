@@ -1,0 +1,277 @@
+[
+  {
+    "part": "measure-70",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:15:33.529Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "visit https://stylist.co.uk/...",
+    "timestamp": "2021-09-09T13:15:34.374Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "[bugsnag] Loaded! @ [object Object]",
+    "timestamp": "2021-09-09T13:15:39.539Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:15:49.490Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:15:49.501Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:15:50.200Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:15:50.201Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:15:50.249Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:15:50.252Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:15:50.306Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:15:50.621Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:15:50.623Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:15:50.632Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:15:50.635Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:15:50.795Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cPrebid display: inline-block; color: #fff; background: #3b88c3; padding: 1px 4px; border-radius: 3px; MESSAGE: Using custom price granularity @ [object Object]",
+    "timestamp": "2021-09-09T13:15:52.256Z"
+  },
+  {
+    "part": "console.info",
+    "message": "%cPrebid display: inline-block; color: #fff; background: #3b88c3; padding: 1px 4px; border-radius: 3px; INFO: consentManagement module has been activated... @ [object Object]",
+    "timestamp": "2021-09-09T13:15:52.262Z"
+  },
+  {
+    "part": "console.info",
+    "message": "%cPrebid display: inline-block; color: #fff; background: #3b88c3; padding: 1px 4px; border-radius: 3px; INFO: enabling currency support [Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:15:52.270Z"
+  },
+  {
+    "part": "console.info",
+    "message": "%cPrebid display: inline-block; color: #fff; background: #3b88c3; padding: 1px 4px; border-radius: 3px; INFO: Installing addBidResponse decorator for currency module [https://cdn.jsdelivr.net/gh/prebid/currency-file@1/latest.json?date=20210909] @ [object Object]",
+    "timestamp": "2021-09-09T13:15:52.272Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "%cPrebid display: inline-block; color: #fff; background: #3b88c3; padding: 1px 4px; border-radius: 3px; WARNING: TCF2: enforcing P1 and P2 by default @ [object Object]",
+    "timestamp": "2021-09-09T13:15:52.281Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cPrebid display: inline-block; color: #fff; background: #3b88c3; padding: 1px 4px; border-radius: 3px; MESSAGE: Emitting event for: auctionDebug @ [object Object]",
+    "timestamp": "2021-09-09T13:15:52.283Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cPrebid%cgroupm display: inline-block; color: #fff; background: #3b88c3; padding: 1px 4px; border-radius: 3px; display: inline-block; color: #fff; background: #aaa; padding: 1px 4px; border-radius: 3px; MESSAGE: Emitting event for: noBid @ [object Object]",
+    "timestamp": "2021-09-09T13:15:52.546Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cPrebid%cgroupm display: inline-block; color: #fff; background: #3b88c3; padding: 1px 4px; border-radius: 3px; display: inline-block; color: #fff; background: #aaa; padding: 1px 4px; border-radius: 3px; MESSAGE: Emitting event for: bidderDone @ [object Object]",
+    "timestamp": "2021-09-09T13:15:52.550Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nzg0t&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.stylist.co.uk%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:15:52.556Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an script pixel with URL:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nzg0t&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.stylist.co.uk%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:15:52.563Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nzg0t&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.stylist.co.uk%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:15:52.563Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an image pixel with URL:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nzg0t&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.stylist.co.uk%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:15:52.564Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cPrebid%cappnexus display: inline-block; color: #fff; background: #3b88c3; padding: 1px 4px; border-radius: 3px; display: inline-block; color: #fff; background: #aaa; padding: 1px 4px; border-radius: 3px; MESSAGE: Emitting event for: noBid @ [object Object]",
+    "timestamp": "2021-09-09T13:15:52.573Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cPrebid%cappnexus display: inline-block; color: #fff; background: #3b88c3; padding: 1px 4px; border-radius: 3px; display: inline-block; color: #fff; background: #aaa; padding: 1px 4px; border-radius: 3px; MESSAGE: Emitting event for: bidderDone @ [object Object]",
+    "timestamp": "2021-09-09T13:15:52.575Z"
+  },
+  {
+    "part": "console.info",
+    "message": "%cPrebid%cozone display: inline-block; color: #fff; background: #3b88c3; padding: 1px 4px; border-radius: 3px; display: inline-block; color: #fff; background: #aaa; padding: 1px 4px; border-radius: 3px; INFO: OZONE: interpretResponse time: 1631193352575 . Time between buildRequests done and interpretResponse start was 366ms @ [object Object]",
+    "timestamp": "2021-09-09T13:15:52.582Z"
+  },
+  {
+    "part": "console.info",
+    "message": "%cPrebid%cozone display: inline-block; color: #fff; background: #3b88c3; padding: 1px 4px; border-radius: 3px; display: inline-block; color: #fff; background: #aaa; padding: 1px 4px; border-radius: 3px; INFO: OZONE: serverResponse, request {body: Object, headers: Object} {method: POST, url: https://elb.the-ozone-project.com/openrtb2/auction, data: {\"device\":{\"w\":1280,\"h\":720},\"site\":{\"publisher\":{…-b992-4628-8faf-a6e4bf343992\"},\"user\":{\"ext\":{}}}, bidderRequest: Object} @ [object Object]",
+    "timestamp": "2021-09-09T13:15:52.585Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cPrebid%cozone display: inline-block; color: #fff; background: #3b88c3; padding: 1px 4px; border-radius: 3px; display: inline-block; color: #fff; background: #aaa; padding: 1px 4px; border-radius: 3px; MESSAGE: Emitting event for: noBid @ [object Object]",
+    "timestamp": "2021-09-09T13:15:52.585Z"
+  },
+  {
+    "part": "console.info",
+    "message": "%cPrebid display: inline-block; color: #fff; background: #3b88c3; padding: 1px 4px; border-radius: 3px; INFO: Bids Received for Auction with id: adc1750f-b992-4628-8faf-a6e4bf343992 [] @ [object Object]",
+    "timestamp": "2021-09-09T13:15:52.628Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cPrebid display: inline-block; color: #fff; background: #3b88c3; padding: 1px 4px; border-radius: 3px; MESSAGE: Emitting event for: auctionEnd @ [object Object]",
+    "timestamp": "2021-09-09T13:15:52.628Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cPrebid display: inline-block; color: #fff; background: #3b88c3; padding: 1px 4px; border-radius: 3px; MESSAGE: Emitting event for: tcf2Enforcement @ [object Object]",
+    "timestamp": "2021-09-09T13:15:52.631Z"
+  },
+  {
+    "part": "console.info",
+    "message": "%cPrebid display: inline-block; color: #fff; background: #3b88c3; padding: 1px 4px; border-radius: 3px; INFO: Invoking pbjs.setTargetingForGPTAsync [Array(1)] @ [object Object]",
+    "timestamp": "2021-09-09T13:15:52.645Z"
+  },
+  {
+    "part": "console.info",
+    "message": "%cPrebid display: inline-block; color: #fff; background: #3b88c3; padding: 1px 4px; border-radius: 3px; INFO: allowTargetingKeys - allowed keys [ hb_bidder, hb_adid, hb_pb, hb_size, hb_deal, hb_source, hb_format, hb_uuid, hb_cache_id, hb_cache_host, hb_native_title, hb_native_body, hb_native_body2, hb_native_privacy, hb_native_privicon, hb_native_brand, hb_native_image, hb_native_icon, hb_native_linkurl, hb_native_displayurl, hb_native_cta, hb_native_rating, hb_native_address, hb_native_downloads, hb_native_likes, hb_native_phone, hb_native_price, hb_native_saleprice, hb_renderer_url, hb_adTemplate ] @ [object Object]",
+    "timestamp": "2021-09-09T13:15:52.645Z"
+  },
+  {
+    "part": "console.info",
+    "message": "%cPrebid display: inline-block; color: #fff; background: #3b88c3; padding: 1px 4px; border-radius: 3px; INFO: allowTargetingKeys - removed keys [  ] @ [object Object]",
+    "timestamp": "2021-09-09T13:15:52.645Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cPrebid display: inline-block; color: #fff; background: #3b88c3; padding: 1px 4px; border-radius: 3px; MESSAGE: Emitting event for: setTargeting @ [object Object]",
+    "timestamp": "2021-09-09T13:15:52.645Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cPrebid%cozone display: inline-block; color: #fff; background: #3b88c3; padding: 1px 4px; border-radius: 3px; display: inline-block; color: #fff; background: #aaa; padding: 1px 4px; border-radius: 3px; MESSAGE: Emitting event for: bidderDone @ [object Object]",
+    "timestamp": "2021-09-09T13:15:52.645Z"
+  },
+  {
+    "part": "console.info",
+    "message": "%cPrebid%cozone display: inline-block; color: #fff; background: #3b88c3; padding: 1px 4px; border-radius: 3px; display: inline-block; color: #fff; background: #aaa; padding: 1px 4px; border-radius: 3px; INFO: OZONE: getUserSyncs optionsType, serverResponse, gdprConsent, cookieSyncBag {iframeEnabled: true, pixelEnabled: true} [Object] undefined {publisherId: OZONETSG0001, siteId: 4204204213, userIdObject: Object} @ [object Object]",
+    "timestamp": "2021-09-09T13:15:52.646Z"
+  },
+  {
+    "part": "console.info",
+    "message": "%cPrebid%cozone display: inline-block; color: #fff; background: #3b88c3; padding: 1px 4px; border-radius: 3px; display: inline-block; color: #fff; background: #aaa; padding: 1px 4px; border-radius: 3px; INFO: OZONE: getUserSyncs going to return cookie sync url : https://elb.the-ozone-project.com/static/load-cookie.html?gdpr=0&gdpr_consent=&publisherId=OZONETSG0001&siteId=4204204213&cb=1631193352609&bidder=ozone @ [object Object]",
+    "timestamp": "2021-09-09T13:15:52.646Z"
+  },
+  {
+    "part": "console.info",
+    "message": "%cPrebid display: inline-block; color: #fff; background: #3b88c3; padding: 1px 4px; border-radius: 3px; INFO: currencyRates set to {\"dataAsOf\":\"2021-09-08T00:00:00.000Z\",\"generatedAt\":\"2021-09-08T15:00:47.966Z\",\"conversions\":{\"USD\":{\"USD\":1,\"JPY\":110.18009638961698,\"BGN\":1.653673797243595,\"CZK\":21.471209943349958,\"DKK\":6.2873087004312165,\"GBP\":0.726075927961444,\"HUF\":296.0514077957216,\"PLN\":3.819903610383022,\"RON\":4.184915870465883,\"SEK\":8.602350553817535,\"CHF\":0.9206053944364588,\"ISK\":127.33575716580704,\"NOK\":8.679293142808827,\"HRK\":6.3236661875369915,\"RUB\":73.24427158197345,\"TRY\":8.446013359262704,\"AUD\":1.3551196414982667,\"BRL\":5.218398579521434,\"CAD\":1.266762492601674,\"CNY\":6.457766128350384,\"HKD\":7.7763591781516865,\"IDR\":14264.902342098585,\"ILS\":3.207575885685296,\"INR\":73.56937515853555,\"KRW\":1165.0883571488966,\"MXN\":19.896338885600745,\"MYR\":4.154477044051745,\"NZD\":1.4063583326287308,\"PHP\":50.12429187452439,\"SGD\":1.3451424706180772,\"THB\":32.73019362475691,\"ZAR\":14.275725035934725,\"EUR\":0.8455229559482539},\"GBP\":{\"USD\":1.3772664283302087,\"JPY\":151.7473478276059,\"BGN\":2.2775494043529396,\"CZK\":29.57157663060566,\"DKK\":8.659299197652347,\"GBP\":1,\"HUF\":407.7416650169436,\"PLN\":5.2610250020378935,\"RON\":5.763744133778952,\"SEK\":11.84772862250067,\"CHF\":1.2679189034970246,\"ISK\":175.37526347047384,\"NOK\":11.953699067227186,\"HRK\":8.70937314406158,\"RUB\":100.87687631735237,\"TRY\":11.632410652940973,\"AUD\":1.8663607886064304,\"BRL\":7.187125173220919,\"CAD\":1.74466945372818,\"CNY\":8.894064490584933,\"HKD\":10.71011843070581,\"IDR\":19646.571099181347,\"ILS\":4.417686583675893,\"INR\":101.32463055908143,\"KRW\":1604.6370803395712,\"MXN\":27.40255959381878,\"MYR\":5.72182176004099,\"NZD\":1.9369301177319995,\"PHP\":69.0345044426071,\"SGD\":1.8526195661034317,\"THB\":45.07819687212512,\"ZAR\":19.661476832065958,\"EUR\":1.1645103816100522}}} @ [object Object]",
+    "timestamp": "2021-09-09T13:15:52.690Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.stylist.co.uk/images/app/uploads/2021/09/09094810/emma-raducunu-1680x1120.jpg?w=260&h=1&fit=max&auto=format%2Ccompress was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:15:52.702Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.stylist.co.uk/images/app/uploads/2021/09/07102129/cricket111-1680x1120.png?w=260&h=1&fit=max&auto=format%2Ccompress was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:15:52.702Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.stylist.co.uk/images/app/uploads/2021/09/09091504/hero-image-5-crop-1631177312-1620x1080.png?w=550&h=1&fit=max&auto=format%2Ccompress was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:15:52.702Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.stylist.co.uk/images/app/uploads/2021/09/08103857/gettyimages-1142991259-1120x1120.jpg?w=550&h=1&fit=max&auto=format%2Ccompress was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:15:52.702Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.stylist.co.uk/images/app/uploads/2021/09/08170350/image-from-ios-2-crop-1631181971-1170x780.jpg?w=550&h=1&fit=max&auto=format%2Ccompress was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:15:52.703Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.stylist.co.uk/images/app/uploads/2021/09/09110812/gettyimages-1286487400-1680x1120.jpg?w=550&h=1&fit=max&auto=format%2Ccompress was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:15:52.703Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.stylist.co.uk/images/app/uploads/2021/09/07174324/loves_beauty_bottom_210908_online_v1-1680x1120.png?w=260&h=1&fit=max&auto=format%2Ccompress was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:15:52.704Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.stylist.co.uk/images/app/uploads/2021/09/09102528/anna-friel-crop-1631179571-1280x853.jpg?w=550&h=1&fit=max&auto=format%2Ccompress was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:15:52.705Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.stylist.co.uk/images/app/uploads/2021/09/09110438/bey-1680x1120.png?w=550&h=1&fit=max&auto=format%2Ccompress was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:15:52.705Z"
+  },
+  {
+    "part": "console.info",
+    "message": "%cPrebid display: inline-block; color: #fff; background: #3b88c3; padding: 1px 4px; border-radius: 3px; INFO: Invoking pbjs.onEvent [bidWon,] @ [object Object]",
+    "timestamp": "2021-09-09T13:15:53.890Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:15:55.633Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:15:55.739Z"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-45",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:14:08.566Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "visit https://esquire.co.uk/...",
+    "timestamp": "2021-09-09T13:14:09.013Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service worker registration succeeded. @ [object Object]",
+    "timestamp": "2021-09-09T13:14:10.643Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:14:13.242Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:14:15.221Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:14:15.223Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:14:17.994Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:14:17.995Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:14:18.083Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:14:18.093Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:14:18.435Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:14:18.593Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:14:27.873Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:14:27.873Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:14:27.880Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:14:27.882Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:14:27.946Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service worker registration succeeded. @ [object Object]",
+    "timestamp": "2021-09-09T13:14:28.768Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:14:29.947Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:14:32.881Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:14:32.912Z"
+  }
+]

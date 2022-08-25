@@ -1,0 +1,144 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://wieistmeineip.de/..."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.asadcdn.com/adlib/pages/wieistmeineip.js",
+      "lineNumber": 0,
+      "columnNumber": 67746
+    },
+    "text": "%cAdLib v5.5.17 master loaded background-color:#0000ff;color:#fff;padding:3px;"
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://script.ioam.de/iam.js",
+      "lineNumber": 598,
+      "columnNumber": 0
+    },
+    "text": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://1991533c.de.ioam.de/tx.io?st=mobcombi&cp=mob_w_de_root&sv=ke&mg=yes&sc=yes&ct=0100000000&pt=CP&ps=lin&er=N22&rf=&r2=&ur=www.wieistmeineip.de&xy=393x851x24&lo=GB%2FSlough&cb=0012&i2=00127616ca925cf8d6139b470&ep=1656627870&vr=434&id=ql1pml&i3=00127616ca925cf8d6139b470%3A1662362384285%3A1631171984285%3A.wieistmeineip.de%3A1%3Amobcombi%3Amob_w_de_root%3Anoevent%3A1631171984285&n1=1&dntt=0&lt=1631171984335&ev=&cs=p3rbia&mo=1, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://script.ioam.de/iam.js",
+      "lineNumber": 598,
+      "columnNumber": 0
+    },
+    "text": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://1991533c.de.ioam.de/tx.io?st=mobcombi&cp=mob_w_de_root&sv=ke&mg=yes&sc=yes&ct=0100000000&pt=CP&ps=lin&er=N22&rf=&r2=&ur=www.wieistmeineip.de&xy=393x851x24&lo=GB%2FSlough&cb=0012&i2=00127616ca925cf8d6139b470&ep=1656627870&vr=434&id=ql1pml&i3=00127616ca925cf8d6139b470%3A1662362384285%3A1631171984285%3A.wieistmeineip.de%3A1%3Amobcombi%3Amob_w_de_root%3Anoevent%3A1631171984285&n1=1&dntt=0&lt=1631171984335&ev=&cs=p3rbia&mo=1, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://gdpr-tcfv2.sp-prod.net/wrapperMessagingWithoutDetection.js",
+      "lineNumber": 0,
+      "columnNumber": 154615
+    },
+    "text": "Messaging without detection successfully executed."
+  },
+  {
+    "type": "error",
+    "location": {
+      "url": "https://ipcheck-aaaa.wieistmeineip.de/callback/?callback=jQuery34103385407578564037_1631171983843&targetid=ipv6&_=1631171983844",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED"
+  },
+  {
+    "type": "admeasure",
+    "text": "Looking for dialogs to reject..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting for __tcfapi..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint iframe found!"
+  },
+  {
+    "type": "admeasure",
+    "text": "__tcfapi found! Querying status..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingWaiting."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingLoaded."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Button clicked: Einstellungen oder ablehnen"
+  },
+  {
+    "type": "admeasure",
+    "text": "Found Sourcepoint privacy manager."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: no type toggles."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Check for legitimate interest button..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Clicking legitimate interest button: Berechtigtes Interesse"
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Find the save button."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint dialog rejected."
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data obtained!"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data: cmpId 345 consent false, legInt false."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Network is idle after 0.00s."
+  },
+  {
+    "type": "info",
+    "location": {
+      "url": "https://www.asadcdn.com/adlib/libmodules/mew/ast.84297ee1.js",
+      "lineNumber": 0,
+      "columnNumber": 73492
+    },
+    "text": "AST library loaded: 0.40.0"
+  },
+  {
+    "type": "admeasure",
+    "text": "Minimum wait time reached after 5.00s."
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

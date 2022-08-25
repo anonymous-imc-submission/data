@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-98",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:32:28.430Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "visit https://greetingsisland.com/...",
+    "timestamp": "2021-09-09T13:32:46.867Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://greetingsisland.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:33:17.013Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:33:17.222Z"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "part": "measure-69",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:14:59.154Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "visit https://lenconnect.com/...",
+    "timestamp": "2021-09-09T13:14:59.306Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Consent management does not appear to be set up correctly. No consent groups were found. @ [object Object]",
+    "timestamp": "2021-09-09T13:15:04.772Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Consent management does not appear to be set up correctly. No consent groups were found. @ [object Object]",
+    "timestamp": "2021-09-09T13:15:07.382Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Consent management does not appear to be set up correctly. No consent groups were found. @ [object Object]",
+    "timestamp": "2021-09-09T13:15:07.431Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Consent management does not appear to be set up correctly. No consent groups were found. @ [object Object]",
+    "timestamp": "2021-09-09T13:15:09.052Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Consent management does not appear to be set up correctly. No consent groups were found. @ [object Object]",
+    "timestamp": "2021-09-09T13:15:09.104Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:15:10.239Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:15:10.240Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:15:10.514Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:15:10.515Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:15:10.543Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:15:10.547Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:15:10.599Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:15:11.113Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:15:13.380Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:15:13.390Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:16:01.376Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:16:01.380Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:16:06.449Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:16:56.965Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:16:56.965Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:17:01.985Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:17:10.519Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "TCF data: cmpId 28 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:17:10.519Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:17:10.539Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:17:10.542Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:17:15.545Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:17:15.636Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:17:15.650Z"
+  }
+]

@@ -1,0 +1,337 @@
+[
+  {
+    "part": "measure-02",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:05:19.974Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "visit https://vanityfair.it/...",
+    "timestamp": "2021-09-09T13:05:20.309Z"
+  },
+  {
+    "part": "console.log",
+    "message": "domain: www.vanityfair.it @ [object Object]",
+    "timestamp": "2021-09-09T13:05:21.925Z"
+  },
+  {
+    "part": "console.log",
+    "message": "moatYieldReady @ [object Object]",
+    "timestamp": "2021-09-09T13:05:24.125Z"
+  },
+  {
+    "part": "console.log",
+    "message": "videoMc status: show @ [object Object]",
+    "timestamp": "2021-09-09T13:05:30.066Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 (Not Found) @ [object Object]",
+    "timestamp": "2021-09-09T13:05:33.496Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 (Not Found) @ [object Object]",
+    "timestamp": "2021-09-09T13:05:34.319Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 (Not Found) @ [object Object]",
+    "timestamp": "2021-09-09T13:05:34.319Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[NumeroBattute Derived] @ [object Object]",
+    "timestamp": "2021-09-09T13:05:34.733Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "VIDEOJS: WARN: this.options() has been deprecated and will be moved to the constructor in 6.0 @ [object Object]",
+    "timestamp": "2021-09-09T13:05:42.255Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "VIDEOJS: WARN: this.options() has been deprecated and will be moved to the constructor in 6.0 @ [object Object]",
+    "timestamp": "2021-09-09T13:05:42.265Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[AdBlockDetectionScript]  ASSENTE @ [object Object]",
+    "timestamp": "2021-09-09T13:05:42.429Z"
+  },
+  {
+    "part": "console.log",
+    "message": "contentupdate - start @ [object Object]",
+    "timestamp": "2021-09-09T13:05:43.900Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "'HTMLVideoElement.webkitDisplayingFullscreen' is deprecated. Please use 'Document.fullscreenElement' instead. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:44.240Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Origin trial controlled feature not enabled: 'trust-token-redemption'. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:44.262Z"
+  },
+  {
+    "part": "console.log",
+    "message": "OptanonWrapper: 1 @ [object Object]",
+    "timestamp": "2021-09-09T13:05:45.400Z"
+  },
+  {
+    "part": "console.log",
+    "message": "OptanonWrapper call init() @ [object Object]",
+    "timestamp": "2021-09-09T13:05:45.401Z"
+  },
+  {
+    "part": "console.log",
+    "message": "init: check OT configuration @ [object Object]",
+    "timestamp": "2021-09-09T13:05:45.405Z"
+  },
+  {
+    "part": "console.log",
+    "message": "{basic: false, performance: false, functional: false, targeting: false, social: false} @ [object Object]",
+    "timestamp": "2021-09-09T13:05:45.418Z"
+  },
+  {
+    "part": "console.log",
+    "message": "window.dataLayer.push: basic false @ [object Object]",
+    "timestamp": "2021-09-09T13:05:45.428Z"
+  },
+  {
+    "part": "console.log",
+    "message": "window.dataLayer.push: performance false @ [object Object]",
+    "timestamp": "2021-09-09T13:05:45.443Z"
+  },
+  {
+    "part": "console.log",
+    "message": "window.dataLayer.push: functional false @ [object Object]",
+    "timestamp": "2021-09-09T13:05:45.454Z"
+  },
+  {
+    "part": "console.log",
+    "message": "window.dataLayer.push: targeting false @ [object Object]",
+    "timestamp": "2021-09-09T13:05:45.467Z"
+  },
+  {
+    "part": "console.log",
+    "message": "window.dataLayer.push: social false @ [object Object]",
+    "timestamp": "2021-09-09T13:05:45.470Z"
+  },
+  {
+    "part": "console.log",
+    "message": "-----------------> CMP NO targeting consented @ [object Object]",
+    "timestamp": "2021-09-09T13:05:45.482Z"
+  },
+  {
+    "part": "console.log",
+    "message": "privacyString: 1--- @ [object Object]",
+    "timestamp": "2021-09-09T13:05:45.494Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:05:47.990Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:05:47.991Z"
+  },
+  {
+    "part": "console.log",
+    "message": "VIDEOJS: ima3-ad-error AdError 1005: There was a problem requesting ads from the server. Caused by: Error: 6 {emitter: SD, originalEvent: DC, type: ima3-ad-error, target: #document, relatedTarget: undefined} @ [object Object]",
+    "timestamp": "2021-09-09T13:05:48.963Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:05:49.120Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:05:49.123Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:05:49.183Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:05:49.191Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:05:49.358Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:05:49.432Z"
+  },
+  {
+    "part": "console.log",
+    "message": "OptanonWrapper: 2 @ [object Object]",
+    "timestamp": "2021-09-09T13:06:19.752Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:06:20.881Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:06:20.884Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:06:20.921Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:06:20.933Z"
+  },
+  {
+    "part": "console.log",
+    "message": "domain: www.vanityfair.it @ [object Object]",
+    "timestamp": "2021-09-09T13:06:21.876Z"
+  },
+  {
+    "part": "console.log",
+    "message": "moatYieldReady @ [object Object]",
+    "timestamp": "2021-09-09T13:06:22.958Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[NumeroBattute Derived] @ [object Object]",
+    "timestamp": "2021-09-09T13:06:25.259Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:06:25.922Z"
+  },
+  {
+    "part": "console.log",
+    "message": "videoMc status: show @ [object Object]",
+    "timestamp": "2021-09-09T13:06:27.260Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 (Not Found) @ [object Object]",
+    "timestamp": "2021-09-09T13:06:29.318Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 (Not Found) @ [object Object]",
+    "timestamp": "2021-09-09T13:06:29.342Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 (Not Found) @ [object Object]",
+    "timestamp": "2021-09-09T13:06:29.351Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[AdBlockDetectionScript]  ASSENTE @ [object Object]",
+    "timestamp": "2021-09-09T13:06:32.096Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "VIDEOJS: WARN: this.options() has been deprecated and will be moved to the constructor in 6.0 @ [object Object]",
+    "timestamp": "2021-09-09T13:06:34.158Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "VIDEOJS: WARN: this.options() has been deprecated and will be moved to the constructor in 6.0 @ [object Object]",
+    "timestamp": "2021-09-09T13:06:34.168Z"
+  },
+  {
+    "part": "console.log",
+    "message": "OptanonWrapper: 1 @ [object Object]",
+    "timestamp": "2021-09-09T13:06:34.510Z"
+  },
+  {
+    "part": "console.log",
+    "message": "OptanonWrapper call init() @ [object Object]",
+    "timestamp": "2021-09-09T13:06:34.512Z"
+  },
+  {
+    "part": "console.log",
+    "message": "init: check OT configuration @ [object Object]",
+    "timestamp": "2021-09-09T13:06:34.515Z"
+  },
+  {
+    "part": "console.log",
+    "message": "{basic: true, performance: false, functional: false, targeting: false, social: false} @ [object Object]",
+    "timestamp": "2021-09-09T13:06:34.533Z"
+  },
+  {
+    "part": "console.log",
+    "message": "window.dataLayer.push: basic true @ [object Object]",
+    "timestamp": "2021-09-09T13:06:34.539Z"
+  },
+  {
+    "part": "console.log",
+    "message": "window.dataLayer.push: performance false @ [object Object]",
+    "timestamp": "2021-09-09T13:06:34.547Z"
+  },
+  {
+    "part": "console.log",
+    "message": "window.dataLayer.push: functional false @ [object Object]",
+    "timestamp": "2021-09-09T13:06:34.562Z"
+  },
+  {
+    "part": "console.log",
+    "message": "window.dataLayer.push: targeting false @ [object Object]",
+    "timestamp": "2021-09-09T13:06:34.579Z"
+  },
+  {
+    "part": "console.log",
+    "message": "window.dataLayer.push: social false @ [object Object]",
+    "timestamp": "2021-09-09T13:06:34.606Z"
+  },
+  {
+    "part": "console.log",
+    "message": "-----------------> CMP NO targeting consented @ [object Object]",
+    "timestamp": "2021-09-09T13:06:34.618Z"
+  },
+  {
+    "part": "console.log",
+    "message": "privacyString: 1--- @ [object Object]",
+    "timestamp": "2021-09-09T13:06:34.628Z"
+  },
+  {
+    "part": "console.log",
+    "message": "contentupdate - start @ [object Object]",
+    "timestamp": "2021-09-09T13:06:35.272Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "'HTMLVideoElement.webkitDisplayingFullscreen' is deprecated. Please use 'Document.fullscreenElement' instead. @ [object Object]",
+    "timestamp": "2021-09-09T13:06:36.467Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Origin trial controlled feature not enabled: 'trust-token-redemption'. @ [object Object]",
+    "timestamp": "2021-09-09T13:06:36.472Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "Network is idle after 17.8s.",
+    "timestamp": "2021-09-09T13:06:38.739Z"
+  },
+  {
+    "part": "measure-02",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:06:38.775Z"
+  }
+]

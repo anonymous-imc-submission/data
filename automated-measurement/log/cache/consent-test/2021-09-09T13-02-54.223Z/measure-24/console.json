@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-24",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:08:55.691Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "visit https://mademan.com/...",
+    "timestamp": "2021-09-09T13:08:57.400Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://mademan.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:09:27.400Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:09:27.415Z"
+  }
+]

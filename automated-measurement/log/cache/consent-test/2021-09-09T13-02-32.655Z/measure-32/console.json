@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-32",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:10:48.332Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "visit https://cycleworld.com/...",
+    "timestamp": "2021-09-09T13:10:51.432Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://cycleworld.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:11:21.504Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:11:21.736Z"
+  }
+]

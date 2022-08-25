@@ -1,0 +1,171 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://whats-on-netflix.com/..."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.whats-on-netflix.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2",
+      "lineNumber": 1,
+      "columnNumber": 708
+    },
+    "text": "JQMIGRATE: Migrate is installed, version 3.3.2"
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+      "lineNumber": 5,
+      "columnNumber": 0
+    },
+    "text": "Failed to execute 'write' on 'Document': It isn't possible to write into a document from an asynchronously-loaded external script unless it is explicitly opened."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://cmpv2.whats-on-netflix.com/wrapperMessagingWithoutDetection.js",
+      "lineNumber": 0,
+      "columnNumber": 154615
+    },
+    "text": "Messaging without detection successfully executed."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://ccpa.sp-prod.net/ccpa.js",
+      "lineNumber": 0,
+      "columnNumber": 55949
+    },
+    "text": "CCPA script successfully executed."
+  },
+  {
+    "type": "admeasure",
+    "text": "Looking for dialogs to reject..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting for __tcfapi..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint iframe found!"
+  },
+  {
+    "type": "admeasure",
+    "text": "__tcfapi found! Querying status..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingWaiting."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingLoaded."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.whats-on-netflix.com/wp-content/plugins/super-progressive-web-apps/public/js/register-sw.js",
+      "lineNumber": 3,
+      "columnNumber": 40
+    },
+    "text": "SuperPWA service worker ready"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.whats-on-netflix.com/",
+      "lineNumber": 386,
+      "columnNumber": 10
+    },
+    "text": "about to initialize OneSignal"
+  },
+  {
+    "type": "admeasure",
+    "text": "Button clicked: MY OPTIONS"
+  },
+  {
+    "type": "admeasure",
+    "text": "Found Sourcepoint privacy manager."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: toggling type toggles."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://www.whats-on-netflix.com/",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "The resource https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;700&display=swap was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Check for legitimate interest button..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: no legitimate interest button found: No matching button found: "
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Find the save button."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint dialog rejected."
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data obtained!"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data: cmpId 6 consent false, legInt false."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting..."
+  },
+  {
+    "type": "error",
+    "location": {
+      "url": "https://c1.adform.net/serving/cookie/match?party=14&redirect=https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTI4NzUmdGw9NDMyMDA=&piggybackCookie=[PLACE%20YOUR%20PIGGYBACK%20COOKIES%20HERE]&gdpr=1&gdpr_consent=CPMQSBsPMQSBsAGABBENBqCgAAAAAAAAAAwIAAAAAAAA.YAAAAAAAAAAA",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "Failed to load resource: the server responded with a status of 403 ()"
+  },
+  {
+    "type": "error",
+    "location": {
+      "url": "https://ib.adnxs.com/getuid?https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTc4JnRsPTE1NzY4MDA=&piggybackCookie=$UID&gdpr=1&gdpr_consent=CPMQSBsPMQSBsAGABBENBqCgAAAAAAAAAAwIAAAAAAAA.YAAAAAAAAAAA",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "Failed to load resource: the server responded with a status of 400 (Request failed due to privacy signals)"
+  },
+  {
+    "type": "admeasure",
+    "text": "Minimum wait time reached after 5.00s."
+  },
+  {
+    "type": "admeasure",
+    "text": "Timeout after 20.0s"
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

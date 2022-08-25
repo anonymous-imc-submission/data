@@ -1,0 +1,177 @@
+[
+  {
+    "part": "measure-09",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:09:19.514Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "visit https://saveur.com/...",
+    "timestamp": "2021-09-09T13:09:19.886Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.0 @ [object Object]",
+    "timestamp": "2021-09-09T13:09:20.800Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:09:23.349Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SUPPRESS: false @ [object Object]",
+    "timestamp": "2021-09-09T13:09:26.143Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error in Optanon wrapper, please review your code. ReferenceError: __tcfapi is not defined @ [object Object]",
+    "timestamp": "2021-09-09T13:09:28.464Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:09:28.587Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:09:28.848Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:09:28.849Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://adserver-us.adtech.advertising.com/pubapi/3.0/11700.1/5116803/0/0/ADTECH;v=2;cmd=bid;cors=yes;alias=49525698189d1ac;misc=1631192969328;' from origin 'https://www.saveur.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:09:29.846Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:09:29.849Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://adserver-us.adtech.advertising.com/pubapi/3.0/11700.1/5116797/0/0/ADTECH;v=2;cmd=bid;cors=yes;alias=50395fdbf82a222;misc=1631192969328;' from origin 'https://www.saveur.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:09:29.852Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:09:29.855Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://adserver-us.adtech.advertising.com/pubapi/3.0/11700.1/5116802/0/0/ADTECH;v=2;cmd=bid;cors=yes;alias=5376c422cdc31ab;misc=1631192969329;' from origin 'https://www.saveur.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:09:29.856Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:09:29.859Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://adserver-us.adtech.advertising.com/pubapi/3.0/11700.1/5116797/0/0/ADTECH;v=2;cmd=bid;cors=yes;alias=528147ec52f450c;misc=1631192969329;' from origin 'https://www.saveur.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:09:29.864Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:09:29.868Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://adserver-us.adtech.advertising.com/pubapi/3.0/11700.1/5116802/0/0/ADTECH;v=2;cmd=bid;cors=yes;alias=5191624bf4d67b3;misc=1631192969329;' from origin 'https://www.saveur.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:09:29.869Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:09:30.297Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:09:30.492Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.saveur.com/uploads/2019/10/31/SDMIRKQACOYFSZSZLYW25NAMHA.jpg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:09:32.215Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button class=\"cookie-setting-link\" id=\"onetrust-pc-btn-…>Cookies Settings</button>\nattempting click action\n  waiting for element to be visible, enabled and stable\n  element is visible, enabled and stable\n  scrolling into view if needed\n  done scrolling\n============================================================",
+    "timestamp": "2021-09-09T13:09:32.493Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:09:36.203Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:09:40.544Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ [object Object]",
+    "timestamp": "2021-09-09T13:09:42.917Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Blocked a frame with origin \"https://437a9f0971387bcab93eb34e6f34d7c8.safeframe.googlesyndication.com\" from accessing a cross-origin frame. @ [object Object]",
+    "timestamp": "2021-09-09T13:09:43.587Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Blocked a frame with origin \"https://437a9f0971387bcab93eb34e6f34d7c8.safeframe.googlesyndication.com\" from accessing a cross-origin frame. @ [object Object]",
+    "timestamp": "2021-09-09T13:09:43.596Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 504 () @ [object Object]",
+    "timestamp": "2021-09-09T13:09:50.264Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "__tcfapi not found: TimeoutError: page.waitForFunction: Timeout 30000ms exceeded.",
+    "timestamp": "2021-09-09T13:09:58.878Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "TCF data: cmpId null consent null, legInt null.",
+    "timestamp": "2021-09-09T13:09:58.878Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:09:58.893Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:09:58.894Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:10:03.894Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - Error: page.click: Target closed\n    =========================== logs ===========================\n    waiting for selector \".ot-pc-refuse-all-handler:visible, .save-preference-btn-handler:visible\"\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:10:03.985Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:10:03.999Z"
+  }
+]

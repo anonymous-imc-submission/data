@@ -1,0 +1,152 @@
+[
+  {
+    "part": "measure-52",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:15:26.245Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "visit https://vinted.com/...",
+    "timestamp": "2021-09-09T13:15:26.884Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=l4tre&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.vinted.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:15:28.900Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=l4tre&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.vinted.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:15:28.900Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an image pixel with URL:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=l4tre&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.vinted.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:15:28.900Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an script pixel with URL:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=l4tre&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.vinted.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:15:31.860Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:15:41.683Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:15:41.693Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:15:43.631Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:15:43.635Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:15:43.874Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:15:43.880Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:15:43.987Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:15:45.330Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button class=\"cookie-setting-link\" id=\"onetrust-pc-btn-…>Manage cookies</button>\nattempting click action\n  waiting for element to be visible, enabled and stable\n============================================================",
+    "timestamp": "2021-09-09T13:15:47.344Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:15:49.948Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".ot-pc-refuse-all-handler:visible, .save-preference-btn-handler:visible\"\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:16:20.655Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:16:36.286Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:16:36.288Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:16:41.339Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:17:31.850Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:17:31.850Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:17:36.936Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:17:43.635Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "TCF data: cmpId 28 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:17:43.638Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:17:43.646Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:17:43.648Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:17:48.647Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:17:48.669Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:17:48.687Z"
+  }
+]

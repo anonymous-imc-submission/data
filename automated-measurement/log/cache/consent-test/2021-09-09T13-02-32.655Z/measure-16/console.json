@@ -1,0 +1,507 @@
+[
+  {
+    "part": "measure-16",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:07:46.450Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "visit https://iflscience.com/...",
+    "timestamp": "2021-09-09T13:07:46.796Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[article] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:51.193Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[homepage] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:51.720Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[article] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:51.779Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[homepage,category,team-member] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:51.785Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[static-page] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:51.801Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[article,category,homepage] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:54.913Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AD-TAG SKIP responsive {type: dfp, name: 2__adbar_sticky, checksum: 5db5c2507ffe94f9f4f21ab176ecb860, repeatable: false, container_id: CONTAINER_ADBAR_STICKY} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:54.916Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[article,category,homepage] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:54.918Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AD-TAG SKIP responsive {type: dfp, name: 3__below_header, checksum: 878931c070160baead5c236211552aac, repeatable: false, container_id: CONTAINER_BELOW_HEADER} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:54.920Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[article] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:54.925Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AD-TAG SKIP path {type: dfp, name: 4__sidebar, checksum: b533690c8e6630596e5a8c888db3c3a2, repeatable: false, container_id: CONTAINER_SIDEBAR_1} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:54.925Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[article,category,homepage] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:54.927Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AD-TAG SKIP responsive {type: dfp, name: 5__sidebar_sticky, checksum: 31ad2582e562f0a93ae8f4996f8d6367, repeatable: false, container_id: CONTAINER_SIDEBAR_STICKY} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:54.930Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[article] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:54.930Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AD-TAG SKIP path {type: dfp, name: 6__sidebar_video, checksum: 6b7cc288878b0d35cfbf0bc7e74c0409, repeatable: false, container_id: CONTAINER_SIDEBAR_STICKY} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:54.939Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[article] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:54.939Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AD-TAG SKIP path {type: dfp, name: 7__above_article, checksum: 6efd082ccced836a338f2e78351ea0b8, repeatable: false, container_id: CONTAINER_ABOVE_ARTICLE} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:54.940Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[article] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:54.946Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AD-TAG SKIP path {type: dfp, name: 9__below_article, checksum: d5972e22517ca4d280ca0ff17de782c6, repeatable: false, container_id: CONTAINER_BELOW_ARTICLE_COMMENTS} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:54.946Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AD-TAG SKIP repeatable {type: dfp, name: 10__article_intext, checksum: 30fc7c4233e92745c9d497d4e04af6fe, repeatable: true, repeatable_type: content} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:54.946Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[category] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:54.950Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AD-TAG SKIP path {type: dfp, name: 11__below_featured, checksum: 57f5cbe6c05b343f2c49ea69cecb8334, repeatable: false, container_id: CONTAINER_BELOW_CATEGORY_FEATURED} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:54.951Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[category] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:54.951Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AD-TAG SKIP path {type: dfp, name: 12__above_stories, checksum: 97c0bb4132685f5f93cca62321e88d19, repeatable: false, container_id: CONTAINER_BELOW_CATEGORY_FEATURED} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:54.951Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[category] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:54.965Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AD-TAG SKIP path {type: dfp, name: 13__above_stories, checksum: 3ae5fd95909a41b753dff59fa4f8f552, repeatable: false, container_id: CONTAINER_BELOW_CATEGORY_TITLE} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:54.965Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[category] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:54.965Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AD-TAG SKIP path {type: dfp, name: 14__above_stories, checksum: 524c35e0a8bd395477a1458e6a3bcb71, repeatable: false, container_id: CONTAINER_CATEGORY_REPEATABLE_1} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:54.975Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[category] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:54.975Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AD-TAG SKIP path {type: dfp, name: 15__above_stories, checksum: 5721a3c5ab1543332e07d2990d3ac766, repeatable: false, container_id: CONTAINER_SIDEBAR_1} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:54.975Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[homepage] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:54.975Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AD-TAG SKIP responsive {type: dfp, name: 16__above_title, checksum: 151ac55d7df710659525988bff0942d0, repeatable: false, container_id: CONTAINER_ABOVE_MORE_SCIENCE_TITLE} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:54.987Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[homepage] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:54.996Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[homepage] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:55.009Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[homepage] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:55.023Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[homepage] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:55.030Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[article] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:55.039Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AD-TAG SKIP path {type: dfp, name: 21_outstream, checksum: d660acfd04751949bf8947c32d8d5da9, repeatable: false, container_id: CONTAINER_BELOW_ARTICLE_CONTENT} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:55.040Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[article] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:55.057Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AD-TAG SKIP path {type: outbrain, name: Below Article Thumbnails, repeatable: false, container_id: CONTAINER_BELOW_ARTICLE_CONTENT, container_append: <div id=\"outbrain-456654654565647456\"><div class=\"…\"AR_1\" data-ob-template=\"IFLScience\"></div></div>} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:55.066Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[article] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:55.077Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AD-TAG SKIP path {type: outbrain, name: Below Article Thumbnails 2, repeatable: false, container_id: CONTAINER_BELOW_ARTICLE_CONTENT, container_append: <div id=\"outbrain-32443234424323423\"><div class=\"O…\"AR_2\" data-ob-template=\"IFLScience\"></div></div>} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:55.077Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[article] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:55.078Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AD-TAG SKIP path {type: outbrain, name: Sidebar Thumbnails, repeatable: false, container_id: CONTAINER_SIDEBAR_2, container_append: <div id=\"outbrain-4564532424576543\"><div class=\"OU…\"SB_1\" data-ob-template=\"IFLScience\"></div></div>} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:55.096Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[article] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:55.096Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AD-TAG SKIP path {type: outbrain, name: Below Article Thumbnails Mobile, repeatable: false, container_id: CONTAINER_BELOW_ARTICLE_CONTENT, container_append: <div id=\"outbrain-2345612332211112\"><div class=\"OU…\"MB_1\" data-ob-template=\"IFLScience\"></div></div>} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:55.096Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[article] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:55.097Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AD-TAG SKIP path {type: outbrain, name: Below Article Thumbnails Paginated, repeatable: false, container_id: CONTAINER_BELOW_ARTICLE_CONTENT, container_append: <div id=\"outbrain-877545455687445465\"><div class=\"…\"AR_3\" data-ob-template=\"IFLScience\"></div></div>} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:55.097Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[article] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:55.097Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AD-TAG SKIP path {type: outbrain, name: Below Article Thumbnails 2 Paginated, repeatable: false, container_id: CONTAINER_BELOW_ARTICLE_CONTENT, container_append: <div id=\"outbrain-435345343278899\"><div class=\"OUT…\"AR_4\" data-ob-template=\"IFLScience\"></div></div>} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:55.115Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[article] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:55.115Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AD-TAG SKIP path {type: outbrain, name: Sidebar Thumbnails Paginated, repeatable: false, container_id: CONTAINER_SIDEBAR_2, container_append: <div id=\"outbrain-665744563423423476\"><div class=\"…\"SB_2\" data-ob-template=\"IFLScience\"></div></div>} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:55.115Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[article] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:55.115Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AD-TAG SKIP path {type: outbrain, name: Below Article Thumbnails Mobile Paginated, repeatable: false, container_id: CONTAINER_BELOW_ARTICLE_CONTENT, container_append: <div id=\"outbrain-45345345122111\"><div class=\"OUTB…\"MB_2\" data-ob-template=\"IFLScience\"></div></div>} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:55.115Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AD-TAG REPEATABLE loading repeatable adverts @ [object Object]",
+    "timestamp": "2021-09-09T13:07:55.122Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AD-TAG REPEATABLE TAG {type: dfp, name: 10__article_intext, checksum: 30fc7c4233e92745c9d497d4e04af6fe, repeatable: true, repeatable_type: content} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:55.122Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[article] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:55.128Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AD-TAG REPEATABLE SKIP path {type: dfp, name: 10__article_intext, checksum: 30fc7c4233e92745c9d497d4e04af6fe, repeatable: true, repeatable_type: content} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:55.129Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DFP DEFINE [Object,Object,Object,Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:55.170Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DFP LAZY-LOAD-CONFIG {enabled: true, offset: 500} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:55.379Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DFP REGISTER-VIEWABILITY-LISTENER {type: dfp, name: 17__above_stories, checksum: eb2405ea906f0010f02c75456d5a985d, repeatable: false, container_id: CONTAINER_ABOVE_MORE_SCIENCE_TITLE} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:55.380Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DFP LAZY-LOAD-CONFIG {enabled: true, offset: 500} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:55.393Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DFP REGISTER-VIEWABILITY-LISTENER {type: dfp, name: 18__above_stories, checksum: 47a6f348ce9bfa8e92f48f3f252d76e6, repeatable: false, container_id: CONTAINER_ABOVE_TOP_STORIES_TITLE} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:55.394Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DFP LAZY-LOAD-CONFIG {enabled: true, offset: 500} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:55.400Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DFP REGISTER-VIEWABILITY-LISTENER {type: dfp, name: 19__above_stories, checksum: 9b902678d6249e0dcf51b9288ee1831d, repeatable: false, container_id: CONTAINER_ABOVE_TRENDING_STORIES_TITLE} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:55.405Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DFP LAZY-LOAD-CONFIG {enabled: true, offset: 500} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:55.409Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DFP REGISTER-VIEWABILITY-LISTENER {type: dfp, name: 20__above_stories, checksum: 7851720107857b25408808422ce2915d, repeatable: false, container_id: CONTAINER_SIDEBAR_1} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:55.420Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DFP LOAD-A9-BIDS {type: dfp, name: 18__above_stories, checksum: 47a6f348ce9bfa8e92f48f3f252d76e6, repeatable: false, container_id: CONTAINER_ABOVE_TOP_STORIES_TITLE} [Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:55.634Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DFP LOAD-A9-BIDS {type: dfp, name: 19__above_stories, checksum: 9b902678d6249e0dcf51b9288ee1831d, repeatable: false, container_id: CONTAINER_ABOVE_TRENDING_STORIES_TITLE} [Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:55.663Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://c.amazon-adsystem.com/cdn/prod/config?src=600&u=https%3A%2F%2Fiflscience.com%2F&pubid=374dd1ee-0562-41dd-858b-3a3c1c96a233' from origin 'https://iflscience.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:07:58.609Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:07:58.611Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DFP LOADED-A9-BIDS {type: dfp, name: 18__above_stories, checksum: 47a6f348ce9bfa8e92f48f3f252d76e6, repeatable: false, container_id: CONTAINER_ABOVE_TOP_STORIES_TITLE} [Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:58.927Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DFP LOADED-A9-BIDS {type: dfp, name: 19__above_stories, checksum: 9b902678d6249e0dcf51b9288ee1831d, repeatable: false, container_id: CONTAINER_ABOVE_TRENDING_STORIES_TITLE} [Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:58.945Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DFP DEFINE-SLOT /21613095723/above_stories [Array(2),Array(2),Array(2)] div-gpt-ad-1503415127585-0-5 @ [object Object]",
+    "timestamp": "2021-09-09T13:08:01.202Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DFP SLOT-TARGETING {type: dfp, name: 17__above_stories, checksum: eb2405ea906f0010f02c75456d5a985d, repeatable: false, container_id: CONTAINER_ABOVE_MORE_SCIENCE_TITLE} position BTF @ [object Object]",
+    "timestamp": "2021-09-09T13:08:01.222Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[homepage] @ [object Object]",
+    "timestamp": "2021-09-09T13:08:01.229Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DFP SLOT-TARGETING-DYNAMIC {type: dfp, name: 17__above_stories, checksum: eb2405ea906f0010f02c75456d5a985d, repeatable: false, container_id: CONTAINER_ABOVE_MORE_SCIENCE_TITLE} [article_id,category,category_id,title,publish_date,tags,template,responsive,paginated,current_page,route,segment] {tags: undefined, responsive: mobile, paginated: 0, current_page: 1, route: homepage} @ [object Object]",
+    "timestamp": "2021-09-09T13:08:01.237Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DFP DEFINE-SLOT /21613095723/above_stories [Array(2),Array(2),Array(2)] div-gpt-ad-1503415127585-0-6 @ [object Object]",
+    "timestamp": "2021-09-09T13:08:01.245Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DFP SLOT-TARGETING {type: dfp, name: 18__above_stories, checksum: 47a6f348ce9bfa8e92f48f3f252d76e6, repeatable: false, container_id: CONTAINER_ABOVE_TOP_STORIES_TITLE} position ATF @ [object Object]",
+    "timestamp": "2021-09-09T13:08:01.248Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[homepage] @ [object Object]",
+    "timestamp": "2021-09-09T13:08:01.250Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DFP SLOT-TARGETING-DYNAMIC {type: dfp, name: 18__above_stories, checksum: 47a6f348ce9bfa8e92f48f3f252d76e6, repeatable: false, container_id: CONTAINER_ABOVE_TOP_STORIES_TITLE} [article_id,category,category_id,title,publish_date,tags,template,responsive,paginated,current_page,route,segment] {tags: undefined, responsive: mobile, paginated: 0, current_page: 1, route: homepage} @ [object Object]",
+    "timestamp": "2021-09-09T13:08:01.262Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DFP DEFINE-SLOT /21613095723/above_stories [Array(2),Array(2),Array(2)] div-gpt-ad-1503415127585-0-7 @ [object Object]",
+    "timestamp": "2021-09-09T13:08:01.270Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DFP SLOT-TARGETING {type: dfp, name: 19__above_stories, checksum: 9b902678d6249e0dcf51b9288ee1831d, repeatable: false, container_id: CONTAINER_ABOVE_TRENDING_STORIES_TITLE} position BTF @ [object Object]",
+    "timestamp": "2021-09-09T13:08:01.274Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[homepage] @ [object Object]",
+    "timestamp": "2021-09-09T13:08:01.276Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DFP SLOT-TARGETING-DYNAMIC {type: dfp, name: 19__above_stories, checksum: 9b902678d6249e0dcf51b9288ee1831d, repeatable: false, container_id: CONTAINER_ABOVE_TRENDING_STORIES_TITLE} [article_id,category,category_id,title,publish_date,tags,template,responsive,paginated,current_page,route,segment] {tags: undefined, responsive: mobile, paginated: 0, current_page: 1, route: homepage} @ [object Object]",
+    "timestamp": "2021-09-09T13:08:01.278Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DFP DEFINE-SLOT /21613095723/above_stories [Array(2),Array(2),Array(2)] div-gpt-ad-1503415127585-0-8 @ [object Object]",
+    "timestamp": "2021-09-09T13:08:01.291Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DFP SLOT-TARGETING {type: dfp, name: 20__above_stories, checksum: 7851720107857b25408808422ce2915d, repeatable: false, container_id: CONTAINER_SIDEBAR_1} position BTF @ [object Object]",
+    "timestamp": "2021-09-09T13:08:01.298Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[homepage] @ [object Object]",
+    "timestamp": "2021-09-09T13:08:01.301Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DFP SLOT-TARGETING-DYNAMIC {type: dfp, name: 20__above_stories, checksum: 7851720107857b25408808422ce2915d, repeatable: false, container_id: CONTAINER_SIDEBAR_1} [article_id,category,category_id,title,publish_date,tags,template,responsive,paginated,current_page,route,segment] {tags: undefined, responsive: mobile, paginated: 0, current_page: 1, route: homepage} @ [object Object]",
+    "timestamp": "2021-09-09T13:08:01.305Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DFP REFRESH {type: dfp, name: 18__above_stories, checksum: 47a6f348ce9bfa8e92f48f3f252d76e6, repeatable: false, container_id: CONTAINER_ABOVE_TOP_STORIES_TITLE} @ [object Object]",
+    "timestamp": "2021-09-09T13:08:01.349Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DFP REFRESH {type: dfp, name: 19__above_stories, checksum: 9b902678d6249e0dcf51b9288ee1831d, repeatable: false, container_id: CONTAINER_ABOVE_TRENDING_STORIES_TITLE} @ [object Object]",
+    "timestamp": "2021-09-09T13:08:01.359Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Ignoring the PubAdsService.enableSingleRequest() call since the service is already enabled. @ [object Object]",
+    "timestamp": "2021-09-09T13:08:01.361Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Error in googletag.display: could not find div with id \"ADP_42025_336X280_98d9c64f-9c94-4601-980b-89437556c121\" in DOM for slot: /103512698/22442096954. @ [object Object]",
+    "timestamp": "2021-09-09T13:08:01.378Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Error in googletag.display: could not find div with id \"ADP_42025_336X280_f049f52b-78b4-4813-8bea-10f118d05702\" in DOM for slot: /103512698/22463234483. @ [object Object]",
+    "timestamp": "2021-09-09T13:08:01.394Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Confiant native init @ [object Object]",
+    "timestamp": "2021-09-09T13:08:02.213Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://onetag-sys.com/prebid-request' from origin 'https://iflscience.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:08:12.266Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:08:12.270Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://iflscience.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:08:16.796Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:08:16.946Z"
+  }
+]

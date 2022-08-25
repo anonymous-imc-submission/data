@@ -1,0 +1,144 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://itpro.co.uk/..."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://itpuk-mms.itpro.co.uk/wrapperMessagingWithoutDetection.js",
+      "lineNumber": 0,
+      "columnNumber": 154615
+    },
+    "text": "Messaging without detection successfully executed."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://t075.itpro.co.uk/plugin/library/160b6768045c174b47d48479947002ea",
+      "lineNumber": 26,
+      "columnNumber": 708
+    },
+    "text": "JQMIGRATE: Migrate is installed, version 3.3.2"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://t075.itpro.co.uk/script.js",
+      "lineNumber": 153,
+      "columnNumber": 40
+    },
+    "text": "[BC]DataLayer available"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.itpro.co.uk/assets/e63665ce9df7018e7b9d.bundle.js",
+      "lineNumber": 0,
+      "columnNumber": 154087
+    },
+    "text": "no adUnitPath provided"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.itpro.co.uk/assets/e63665ce9df7018e7b9d.bundle.js",
+      "lineNumber": 0,
+      "columnNumber": 154087
+    },
+    "text": "no adUnitPath provided"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 191
+    },
+    "text": "SyntaxError: Unexpected token u in JSON at position 0\n    at JSON.parse (<anonymous>)\n    at eval (eval at w.<computed>.e (https://www.googletagmanager.com/gtm.js?id=GTM-THSM3B8:3:56), <anonymous>:1:28)\n    at eval (eval at w.<computed>.e (https://www.googletagmanager.com/gtm.js?id=GTM-THSM3B8:3:56), <anonymous>:1:201)\n    at Object.w.<computed>.e (https://www.googletagmanager.com/gtm.js?id=GTM-THSM3B8:3:56)\n    at https://www.googletagmanager.com/gtm.js?id=GTM-THSM3B8:298:234\n    at ef (https://www.googletagmanager.com/gtm.js?id=GTM-THSM3B8:103:499)\n    at ff (https://www.googletagmanager.com/gtm.js?id=GTM-THSM3B8:104:107)\n    at ff (https://www.googletagmanager.com/gtm.js?id=GTM-THSM3B8:104:426)\n    at ff (https://www.googletagmanager.com/gtm.js?id=GTM-THSM3B8:104:333)\n    at gf (https://www.googletagmanager.com/gtm.js?id=GTM-THSM3B8:103:591)"
+  },
+  {
+    "type": "admeasure",
+    "text": "Looking for dialogs to reject..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting for __tcfapi..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint iframe found!"
+  },
+  {
+    "type": "admeasure",
+    "text": "__tcfapi found! Querying status..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingWaiting."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingLoaded."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Button clicked: MORE OPTIONS"
+  },
+  {
+    "type": "admeasure",
+    "text": "Found Sourcepoint privacy manager."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: toggling type toggles."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Check for legitimate interest button..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: no legitimate interest button found: No matching button found: "
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Find the save button."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint dialog rejected."
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data obtained!"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data: cmpId 6 consent false, legInt false."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Network is idle after 0.00s."
+  },
+  {
+    "type": "admeasure",
+    "text": "Minimum wait time reached after 5.00s."
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

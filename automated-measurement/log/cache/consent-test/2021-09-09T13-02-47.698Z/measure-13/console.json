@@ -1,0 +1,127 @@
+[
+  {
+    "part": "measure-13",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:07:35.471Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "visit https://newyorker.com/...",
+    "timestamp": "2021-09-09T13:07:35.698Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:07:49.172Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "'HTMLVideoElement.webkitDisplayingFullscreen' is deprecated. Please use 'Document.fullscreenElement' instead. @ [object Object]",
+    "timestamp": "2021-09-09T13:07:51.889Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Origin trial controlled feature not enabled: 'trust-token-redemption'. @ [object Object]",
+    "timestamp": "2021-09-09T13:07:51.894Z"
+  },
+  {
+    "part": "console.error",
+    "message": "VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) The media could not be loaded, either because the server or network failed or because the format is not supported. at @ [object Object]",
+    "timestamp": "2021-09-09T13:07:53.435Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:07:54.255Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:07:54.261Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:07:54.509Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:54.509Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:07:54.526Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:07:54.530Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:54.581Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:07:54.587Z"
+  },
+  {
+    "part": "console.log",
+    "message": "received a request for uspapi @ [object Object]",
+    "timestamp": "2021-09-09T13:07:55.727Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:08:10.852Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:08:10.855Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:08:10.870Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:08:10.885Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:08:11.606Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "ads.Invalid sizes: unable to define 'rail' on mobile..warn {definition: Object, slotName: rail} @ [object Object]",
+    "timestamp": "2021-09-09T13:08:11.808Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "ads.Invalid sizes: unable to define 'nav_left' on mobile..warn {definition: Object, slotName: nav_left} @ [object Object]",
+    "timestamp": "2021-09-09T13:08:11.825Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "ads.Invalid sizes: unable to define 'nav_rollover' on mobile..warn {definition: Object, slotName: nav_rollover} @ [object Object]",
+    "timestamp": "2021-09-09T13:08:11.832Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:08:15.870Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:08:15.915Z"
+  }
+]

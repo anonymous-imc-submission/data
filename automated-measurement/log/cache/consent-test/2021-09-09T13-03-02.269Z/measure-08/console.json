@@ -1,0 +1,122 @@
+[
+  {
+    "part": "measure-08",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:20.758Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "visit https://winfuture.de/...",
+    "timestamp": "2021-09-09T13:06:21.053Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://78d20ae0.de.ioam.de/tx.io?st=winfut&cp=rc_hp&sv=ke&sc=yes&ct=0000000000&pt=CP&ps=lin&er=N22&rf=&r2=&ur=winfuture.de&xy=1920x1080x24&lo=GB%2FSlough&cb=001a&i2=001a8ba685fc53bf0613a06cd&ep=1655010481&vr=434&id=w7zqe4&i3=001a8ba685fc53bf0613a06cd%3A1658235981966%3A1631192781966%3A.winfuture.de%3A1%3Awinfut%3Arc_hp%3Anoevent%3A1631192781966&n1=1&dntt=0&lt=1631192782079&ev=&cs=c1d518&mo=1, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:06:22.081Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://78d20ae0.de.ioam.de/tx.io?st=winfut&cp=rc_hp&sv=ke&sc=yes&ct=0000000000&pt=CP&ps=lin&er=N22&rf=&r2=&ur=winfuture.de&xy=1920x1080x24&lo=GB%2FSlough&cb=001a&i2=001a8ba685fc53bf0613a06cd&ep=1655010481&vr=434&id=w7zqe4&i3=001a8ba685fc53bf0613a06cd%3A1658235981966%3A1631192781966%3A.winfuture.de%3A1%3Awinfut%3Arc_hp%3Anoevent%3A1631192781966&n1=1&dntt=0&lt=1631192782079&ev=&cs=c1d518&mo=1, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:06:22.085Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:06:27.529Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:06:27.549Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:06:29.449Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:29.450Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:06:29.478Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:06:29.481Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:29.526Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:06:29.544Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:06:32.306Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:06:39.824Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:06:39.826Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:06:39.840Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:06:39.845Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:06:40.200Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Invalid arguments: PubAdsService.refresh([[object Object]]). @ [object Object]",
+    "timestamp": "2021-09-09T13:06:41.681Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Invalid arguments: PubAdsService.refresh([[object Object]]). @ [object Object]",
+    "timestamp": "2021-09-09T13:06:42.096Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Invalid arguments: PubAdsService.refresh([[object Object]]). @ [object Object]",
+    "timestamp": "2021-09-09T13:06:42.886Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Invalid arguments: PubAdsService.refresh([[object Object]]). @ [object Object]",
+    "timestamp": "2021-09-09T13:06:43.509Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:06:44.841Z"
+  },
+  {
+    "part": "measure-08",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:06:44.861Z"
+  }
+]

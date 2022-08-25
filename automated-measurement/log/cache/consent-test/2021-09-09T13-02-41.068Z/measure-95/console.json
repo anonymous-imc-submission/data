@@ -1,0 +1,112 @@
+[
+  {
+    "part": "measure-95",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:21:03.574Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "visit https://ntvspor.net/...",
+    "timestamp": "2021-09-09T13:21:04.438Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:21:16.283Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:21:21.673Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:21:22.898Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:21:22.924Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:21:26.720Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:21:26.727Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:21:26.783Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:21:26.791Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:21:26.958Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Origin trial controlled feature not enabled: 'trust-token-redemption'. @ [object Object]",
+    "timestamp": "2021-09-09T13:21:27.602Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:21:29.686Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:21:29.693Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:21:29.720Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:21:29.999Z"
+  },
+  {
+    "part": "console.log",
+    "message": "{status: success} @ [object Object]",
+    "timestamp": "2021-09-09T13:21:34.035Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:21:34.725Z"
+  },
+  {
+    "part": "console.log",
+    "message": "null @ [object Object]",
+    "timestamp": "2021-09-09T13:21:37.489Z"
+  },
+  {
+    "part": "console.log",
+    "message": "init engageya inline @ [object Object]",
+    "timestamp": "2021-09-09T13:21:39.101Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:21:49.751Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:21:49.857Z"
+  }
+]

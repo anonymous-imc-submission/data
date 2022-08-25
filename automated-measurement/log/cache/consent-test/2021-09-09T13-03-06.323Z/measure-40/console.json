@@ -1,0 +1,117 @@
+[
+  {
+    "part": "measure-40",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:12:44.429Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "visit https://historyextra.com/...",
+    "timestamp": "2021-09-09T13:12:45.370Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Permutive was not initialized. No consent to run on the page @ [object Object]",
+    "timestamp": "2021-09-09T13:12:46.747Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:12:49.860Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:13:05.595Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:13:05.596Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:13:08.238Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:08.239Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:13:08.392Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:13:08.397Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:08.404Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:13:08.760Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:13:10.826Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "TCF data: cmpId 10 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:13:10.829Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:13:10.868Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:13:10.875Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:13:11.148Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Prebid: Error processing permutive segments Unexpected token u in JSON at position 0 @ [object Object]",
+    "timestamp": "2021-09-09T13:13:11.558Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Prebid: Error processing permutive segments Unexpected token u in JSON at position 0 @ [object Object]",
+    "timestamp": "2021-09-09T13:13:11.560Z"
+  },
+  {
+    "part": "console.log",
+    "message": "TP: Tags must be an array or a comma-separated string, ignoring supplied tags @ [object Object]",
+    "timestamp": "2021-09-09T13:13:13.744Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "This ad's html cannot be accessed using the getHtml method on googletag.Slot. Returning the empty string instead. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:15.682Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:13:15.869Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:13:15.919Z"
+  }
+]

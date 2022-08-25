@@ -1,0 +1,315 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://testberichte.de/..."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://cdn.privacy-mgmt.com/wrapperMessagingWithoutDetection.js",
+      "lineNumber": 0,
+      "columnNumber": 154615
+    },
+    "text": "Messaging without detection successfully executed."
+  },
+  {
+    "type": "admeasure",
+    "text": "Looking for dialogs to reject..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting for __tcfapi..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint iframe found!"
+  },
+  {
+    "type": "admeasure",
+    "text": "__tcfapi found! Querying status..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingWaiting."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingLoaded."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Button clicked: Einstellungen"
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://www.testberichte.de/js/v5/jquery.js?rev=1e8a193f9",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://www.testberichte.de/",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "The resource https://www.testberichte.de/fonts/v5/tb-icons-global/fonts/tb-icons-global.ttf was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally."
+  },
+  {
+    "type": "admeasure",
+    "text": "Found Sourcepoint privacy manager."
+  },
+  {
+    "type": "error",
+    "location": {
+      "url": "https://cmp.testberichte.de/privacy-manager/index.html?message_id=188647&site_id=10288&consent_origin=https%3A%2F%2Fcmp.testberichte.de%2Fconsent%2Ftcfv2&requestUUID=478b1708-2152-4fba-8812-2cb6c5d988ee&hasCsp=true&includeCustomVendorsRes=1&consentUUID=ed659d3d-da70-48d4-a42f-0c34972c231a&mms_origin=https://cmp.testberichte.de/mms/v2&secure=undefined",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "Access to font at 'https://www.testberichte.de/fonts/fonts/SourceSansPro/WOFF2/TTF/SourceSansPro-Regular.ttf.woff2' from origin 'https://cmp.testberichte.de' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource."
+  },
+  {
+    "type": "error",
+    "location": {
+      "url": "https://www.testberichte.de/fonts/fonts/SourceSansPro/WOFF2/TTF/SourceSansPro-Regular.ttf.woff2",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "Failed to load resource: net::ERR_FAILED"
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: no type toggles."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Check for legitimate interest button..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Clicking legitimate interest button: Einstellungen anpassen"
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Find the save button."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint dialog rejected."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js",
+      "lineNumber": 5,
+      "columnNumber": 115707
+    },
+    "text": "[GPT] Invalid arguments: SizeMappingBuilder.addSize([NaN, 0], [object Object])."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js",
+      "lineNumber": 5,
+      "columnNumber": 115707
+    },
+    "text": "[GPT] Invalid arguments: SizeMappingBuilder.addSize([NaN, 0], [object Object])."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js",
+      "lineNumber": 5,
+      "columnNumber": 115707
+    },
+    "text": "[GPT] Size mapping is null because invalid mappings were added: [[[null,0],{\"0\":[],\"320\":[[1,1],[300,100],[300,250]],\"336\":[[1,1],[300,100],[300,250],[320,50]],\"488\":[[1,1],[300,100],[300,250],[320,50],[468,60]],\"1017\":[\"fluid\",[1,1],[660,155],[728,90],[728,100],[728,180],[741,255]]}],[[null,0],{\"0\":[],\"320\":[[300,250]]}]]."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js",
+      "lineNumber": 5,
+      "columnNumber": 115707
+    },
+    "text": "[GPT] Invalid arguments: SizeMappingBuilder.addSize([NaN, 0], [object Object])."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js",
+      "lineNumber": 5,
+      "columnNumber": 115707
+    },
+    "text": "[GPT] Invalid arguments: SizeMappingBuilder.addSize([NaN, 0], [object Object])."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js",
+      "lineNumber": 5,
+      "columnNumber": 115707
+    },
+    "text": "[GPT] Size mapping is null because invalid mappings were added: [[[null,0],{\"0\":[],\"320\":[[1,1],[300,100],[300,250]],\"336\":[[1,1],[300,100],[300,250],[320,50]],\"488\":[[1,1],[300,100],[300,250],[320,50],[468,60]],\"1017\":[\"fluid\",[1,1],[660,155],[728,90],[728,100],[728,180],[741,255]]}],[[null,0],{\"0\":[],\"320\":[[300,250]]}]]."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js",
+      "lineNumber": 5,
+      "columnNumber": 115707
+    },
+    "text": "[GPT] Invalid arguments: SizeMappingBuilder.addSize([NaN, 0], [object Object])."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js",
+      "lineNumber": 5,
+      "columnNumber": 115707
+    },
+    "text": "[GPT] Invalid arguments: SizeMappingBuilder.addSize([NaN, 0], [object Object])."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js",
+      "lineNumber": 5,
+      "columnNumber": 115707
+    },
+    "text": "[GPT] Size mapping is null because invalid mappings were added: [[[null,0],{\"0\":[],\"320\":[[1,1],[300,100],[300,250]],\"336\":[[1,1],[300,100],[300,250],[320,50]],\"488\":[[1,1],[300,100],[300,250],[320,50],[468,60]],\"1017\":[\"fluid\",[1,1],[660,155],[728,90],[728,100],[728,180],[741,255]]}],[[null,0],{\"0\":[],\"320\":[[300,250]]}]]."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js",
+      "lineNumber": 5,
+      "columnNumber": 115707
+    },
+    "text": "[GPT] Invalid arguments: SizeMappingBuilder.addSize([NaN, 0], [object Object])."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js",
+      "lineNumber": 5,
+      "columnNumber": 115707
+    },
+    "text": "[GPT] Invalid arguments: SizeMappingBuilder.addSize([NaN, 0], [object Object])."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js",
+      "lineNumber": 5,
+      "columnNumber": 115707
+    },
+    "text": "[GPT] Size mapping is null because invalid mappings were added: [[[null,0],{\"0\":[],\"320\":[[1,1],[300,100],[300,250]],\"336\":[[1,1],[300,100],[300,250],[320,50]],\"488\":[[1,1],[300,100],[300,250],[320,50],[468,60]],\"1017\":[\"fluid\",[1,1],[660,155],[728,90],[728,100],[728,180],[741,255]]}],[[null,0],{\"0\":[],\"320\":[[300,250]]}]]."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js",
+      "lineNumber": 5,
+      "columnNumber": 115707
+    },
+    "text": "[GPT] Invalid arguments: SizeMappingBuilder.addSize([NaN, 0], [object Object])."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js",
+      "lineNumber": 5,
+      "columnNumber": 115707
+    },
+    "text": "[GPT] Invalid arguments: SizeMappingBuilder.addSize([NaN, 0], [object Object])."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js",
+      "lineNumber": 5,
+      "columnNumber": 115707
+    },
+    "text": "[GPT] Size mapping is null because invalid mappings were added: [[[null,0],{\"0\":[],\"320\":[[300,250]],\"544\":[[1,1]],\"648\":[[300,250]],\"992\":[[728,90]]}],[[null,0],{\"0\":[],\"320\":[[300,250]],\"544\":[[1,1]],\"648\":[[300,250]]}]]."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js",
+      "lineNumber": 5,
+      "columnNumber": 115707
+    },
+    "text": "[GPT] Invalid arguments: SizeMappingBuilder.addSize([NaN, 0], [object Object])."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js",
+      "lineNumber": 5,
+      "columnNumber": 115707
+    },
+    "text": "[GPT] Invalid arguments: SizeMappingBuilder.addSize([NaN, 0], [object Object])."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js",
+      "lineNumber": 5,
+      "columnNumber": 115707
+    },
+    "text": "[GPT] Size mapping is null because invalid mappings were added: [[[null,0],{\"0\":[],\"320\":[[300,250]],\"544\":[[1,1]],\"648\":[[300,250]],\"992\":[[728,90]]}],[[null,0],{\"0\":[],\"320\":[[300,250]],\"544\":[[1,1]],\"648\":[[300,250]]}]]."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js",
+      "lineNumber": 5,
+      "columnNumber": 115707
+    },
+    "text": "[GPT] Invalid arguments: SizeMappingBuilder.addSize([320, 0], [1])."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js",
+      "lineNumber": 5,
+      "columnNumber": 115707
+    },
+    "text": "[GPT] Size mapping is null because invalid mappings were added: [[[320,0],[1]]]."
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data obtained!"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data: cmpId 6 consent false, legInt false."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Network is idle after 0.01s."
+  },
+  {
+    "type": "admeasure",
+    "text": "Minimum wait time reached after 5.01s."
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

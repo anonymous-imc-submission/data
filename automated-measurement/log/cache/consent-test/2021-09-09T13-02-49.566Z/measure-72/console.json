@@ -1,0 +1,142 @@
+[
+  {
+    "part": "measure-72",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:25:44.722Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "visit https://thepioneerwoman.com/...",
+    "timestamp": "2021-09-09T13:25:45.166Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service worker registration succeeded. @ [object Object]",
+    "timestamp": "2021-09-09T13:25:48.679Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:25:52.916Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:25:58.836Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:25:58.869Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:26:04.981Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:26:05.016Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:26:05.229Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:26:05.239Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:26:05.402Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:26:05.464Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n============================================================",
+    "timestamp": "2021-09-09T13:26:07.504Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:26:12.852Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".ot-pc-refuse-all-handler:visible, .save-preference-btn-handler:visible\"\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:26:43.722Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:26:58.105Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:26:58.105Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:27:03.220Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:27:54.928Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:27:54.929Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:28:05.176Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "TCF data: cmpId 28 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:28:05.184Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:28:05.266Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Network is idle after 0.09s.",
+    "timestamp": "2021-09-09T13:28:05.358Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:28:05.430Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Minimum wait time reached after 5.09s.",
+    "timestamp": "2021-09-09T13:28:10.354Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:28:10.470Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:28:10.536Z"
+  }
+]

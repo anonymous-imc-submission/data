@@ -1,0 +1,117 @@
+[
+  {
+    "part": "measure-63",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:14:23.412Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "visit https://adultswim.com/...",
+    "timestamp": "2021-09-09T13:14:23.822Z"
+  },
+  {
+    "part": "console.log",
+    "message": "@adultswim/tools 1.17.1 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:28.301Z"
+  },
+  {
+    "part": "console.log",
+    "message": ">FW 14:29 FreeWheel Integration Runtime js-6.32.0-ef69c00a-201910182144 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:29.837Z"
+  },
+  {
+    "part": "console.log",
+    "message": ">FW 14:29 Device: Android11 PLATFORM_IS_SAFARI: false PLATFORM_IS_CHROME: true @ [object Object]",
+    "timestamp": "2021-09-09T13:14:29.855Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Telemetry is off @ [object Object]",
+    "timestamp": "2021-09-09T13:14:31.009Z"
+  },
+  {
+    "part": "console.error",
+    "message": "VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) The media could not be loaded, either because the server or network failed or because the format is not supported. gt @ [object Object]",
+    "timestamp": "2021-09-09T13:14:33.175Z"
+  },
+  {
+    "part": "console.error",
+    "message": "VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) No compatible source was found for this video. gt @ [object Object]",
+    "timestamp": "2021-09-09T13:14:33.232Z"
+  },
+  {
+    "part": "console.error",
+    "message": "VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) No compatible source was found for this video. gt @ [object Object]",
+    "timestamp": "2021-09-09T13:14:33.241Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:14:35.505Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:14:35.506Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:14:37.633Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:14:37.634Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:14:38.058Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:14:38.065Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:14:38.142Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:14:47.267Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:14:47.271Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:14:47.313Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:14:47.318Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:14:47.687Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:14:52.313Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:14:52.334Z"
+  }
+]

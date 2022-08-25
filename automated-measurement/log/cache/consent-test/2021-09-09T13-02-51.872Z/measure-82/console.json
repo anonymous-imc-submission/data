@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-82",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:32:53.921Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "visit https://fitsugar.com/...",
+    "timestamp": "2021-09-09T13:32:54.234Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "page load error: Error: page.goto: net::ERR_CERT_DATE_INVALID at https://fitsugar.com/\n=========================== logs ===========================\nnavigating to \"https://fitsugar.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:32:54.747Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:32:54.847Z"
+  }
+]

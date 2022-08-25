@@ -1,0 +1,187 @@
+[
+  {
+    "part": "measure-90",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:20:03.618Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "visit https://sport.pl/...",
+    "timestamp": "2021-09-09T13:20:04.668Z"
+  },
+  {
+    "part": "console.log",
+    "message": "=========== AUTO PREBID 1.5.11 =================== @ [object Object]",
+    "timestamp": "2021-09-09T13:20:06.412Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Allow attribute will take precedence over 'allowfullscreen'. @ [object Object]",
+    "timestamp": "2021-09-09T13:20:11.090Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "This method of changing the locale is deprecated. See documentation for details. @ [object Object]",
+    "timestamp": "2021-09-09T13:20:18.015Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:20:18.871Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "WebSocket connection to 'wss://ws.sport.pl/socket.io/?EIO=3&transport=websocket' failed: WebSocket is closed before the connection is established. @ [object Object]",
+    "timestamp": "2021-09-09T13:20:19.283Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Download the Vue Devtools extension for a better development experience:\nhttps://github.com/vuejs/vue-devtools @ [object Object]",
+    "timestamp": "2021-09-09T13:20:19.464Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Download the Vue Devtools extension for a better development experience:\nhttps://github.com/vuejs/vue-devtools @ [object Object]",
+    "timestamp": "2021-09-09T13:20:19.464Z"
+  },
+  {
+    "part": "console.info",
+    "message": "You are running Vue in development mode.\nMake sure to turn on production mode when deploying for production.\nSee more tips at https://vuejs.org/guide/deployment.html @ [object Object]",
+    "timestamp": "2021-09-09T13:20:19.465Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Download the Vue Devtools extension for a better development experience:\nhttps://github.com/vuejs/vue-devtools @ [object Object]",
+    "timestamp": "2021-09-09T13:20:19.854Z"
+  },
+  {
+    "part": "console.log",
+    "message": "TypeError: Cannot read properties of null (reading 'querySelector')\n    at Object.init (https://static.im-g.pl/static/sport/front/hpFeed/master/production/m_hp/js/3.0.22/main.min.jsgz:1:22913)\n    at https://static.im-g.pl/static/sport/front/hpFeed/master/production/m_hp/js/3.0.22/main.min.jsgz:1:64612 @ [object Object]",
+    "timestamp": "2021-09-09T13:20:19.869Z"
+  },
+  {
+    "part": "console.log",
+    "message": "TypeError: Cannot read properties of null (reading 'querySelectorAll')\n    at Object.checkOrigin (https://static.im-g.pl/static/sport/front/hpFeed/master/production/m_hp/js/3.0.22/main.min.jsgz:1:18252)\n    at Object.init (https://static.im-g.pl/static/sport/front/hpFeed/master/production/m_hp/js/3.0.22/main.min.jsgz:1:17984)\n    at https://static.im-g.pl/static/sport/front/hpFeed/master/production/m_hp/js/3.0.22/main.min.jsgz:1:64796 @ [object Object]",
+    "timestamp": "2021-09-09T13:20:19.890Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:20:20.123Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Error: Request failed with status code 404\n    at e.exports (https://static.im-g.pl/static/sport/front/hpFeed/master/livedata-modules/production/hpsportelements.js?seed=asdf3359:1:19461)\n    at e.exports (https://static.im-g.pl/static/sport/front/hpFeed/master/livedata-modules/production/hpsportelements.js?seed=asdf3359:9:87084)\n    at XMLHttpRequest.p.onreadystatechange (https://static.im-g.pl/static/sport/front/hpFeed/master/livedata-modules/production/hpsportelements.js?seed=asdf3359:14:56990) @ [object Object]",
+    "timestamp": "2021-09-09T13:20:20.130Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Origin trial controlled feature not enabled: 'trust-token-redemption'. @ [object Object]",
+    "timestamp": "2021-09-09T13:20:22.976Z"
+  },
+  {
+    "part": "console.log",
+    "message": "consentVersion: new @ [object Object]",
+    "timestamp": "2021-09-09T13:20:23.590Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c window.AG.rodoAccepted -1 color: green @ [object Object]",
+    "timestamp": "2021-09-09T13:20:23.601Z"
+  },
+  {
+    "part": "console.log",
+    "message": "consentVersion: new @ [object Object]",
+    "timestamp": "2021-09-09T13:20:23.603Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:20:24.212Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:20:26.692Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:20:26.702Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:20:28.163Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:20:28.163Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:20:28.257Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:20:28.264Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:20:28.292Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:20:30.444Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:20:30.447Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:20:30.458Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:20:30.458Z"
+  },
+  {
+    "part": "console.log",
+    "message": "consentVersion: new @ [object Object]",
+    "timestamp": "2021-09-09T13:20:30.526Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c window.AG.rodoAccepted 1 color: green @ [object Object]",
+    "timestamp": "2021-09-09T13:20:30.542Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:20:30.542Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Google refresh @ [object Object]",
+    "timestamp": "2021-09-09T13:20:31.174Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "Minimum wait time reached after 5.09s.",
+    "timestamp": "2021-09-09T13:20:35.553Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:20:35.775Z"
+  }
+]

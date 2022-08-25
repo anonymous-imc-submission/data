@@ -1,0 +1,172 @@
+[
+  {
+    "part": "measure-38",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:15:32.503Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "visit https://stylist.co.uk/...",
+    "timestamp": "2021-09-09T13:15:32.997Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "[bugsnag] Loaded! @ [object Object]",
+    "timestamp": "2021-09-09T13:15:34.566Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:15:39.167Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:15:39.169Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:15:40.162Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:15:40.162Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:15:40.317Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:15:40.321Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:15:40.376Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:15:40.437Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.stylist.co.uk/images/app/uploads/2021/09/09094810/emma-raducunu-1680x1120.jpg?w=260&h=1&fit=max&auto=format%2Ccompress was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:15:42.310Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.stylist.co.uk/images/app/uploads/2021/09/07102129/cricket111-1680x1120.png?w=260&h=1&fit=max&auto=format%2Ccompress was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:15:42.317Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.stylist.co.uk/images/app/uploads/2021/09/09091504/hero-image-5-crop-1631177312-1620x1080.png?w=550&h=1&fit=max&auto=format%2Ccompress was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:15:42.317Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.stylist.co.uk/images/app/uploads/2021/09/08103857/gettyimages-1142991259-1120x1120.jpg?w=550&h=1&fit=max&auto=format%2Ccompress was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:15:42.317Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.stylist.co.uk/images/app/uploads/2021/09/08170350/image-from-ios-2-crop-1631181971-1170x780.jpg?w=550&h=1&fit=max&auto=format%2Ccompress was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:15:42.327Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.stylist.co.uk/images/app/uploads/2021/09/09110812/gettyimages-1286487400-1680x1120.jpg?w=550&h=1&fit=max&auto=format%2Ccompress was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:15:42.327Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.stylist.co.uk/images/app/uploads/2021/09/07174324/loves_beauty_bottom_210908_online_v1-1680x1120.png?w=260&h=1&fit=max&auto=format%2Ccompress was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:15:42.327Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.stylist.co.uk/images/app/uploads/2021/09/09102528/anna-friel-crop-1631179571-1280x853.jpg?w=550&h=1&fit=max&auto=format%2Ccompress was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:15:42.327Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button class=\"cookie-setting-link\" id=\"onetrust-pc-btn-…>Show Purposes</button>\nattempting click action\n  waiting for element to be visible, enabled and stable\n  element is visible, enabled and stable\n  scrolling into view if needed\n============================================================",
+    "timestamp": "2021-09-09T13:15:42.441Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"#onetrust-consent-sdk .category-menu-switch-handler >> nth=0\"\n      selector resolved to hidden <div role=\"tab\" tabindex=\"0\" aria-selected=\"true\" ari…>…</div>\n    attempting click action\n      waiting for element to be visible, enabled and stable\n        element is not visible - waiting...\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:16:14.746Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:16:30.950Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:16:30.950Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:16:35.969Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:17:26.490Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:17:26.490Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:17:31.519Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:17:40.162Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "TCF data: cmpId 28 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:17:40.162Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:17:40.171Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:17:40.172Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:17:45.174Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:17:45.207Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:17:45.244Z"
+  }
+]

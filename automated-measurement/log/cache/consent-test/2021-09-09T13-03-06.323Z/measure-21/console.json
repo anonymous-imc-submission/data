@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-21",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:09:57.174Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "visit https://radiotimes.com/...",
+    "timestamp": "2021-09-09T13:09:57.377Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Permutive was not initialized. No consent to run on the page @ [object Object]",
+    "timestamp": "2021-09-09T13:09:58.676Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:10:02.452Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:10:06.784Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:10:06.787Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:10:08.283Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:08.283Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:10:08.679Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:10:08.687Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:08.694Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:10:08.858Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:10:10.524Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "TCF data: cmpId 10 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:10:10.526Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:10:10.536Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:10:10.542Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:10:10.854Z"
+  },
+  {
+    "part": "console.log",
+    "message": "TP: Tags must be an array or a comma-separated string, ignoring supplied tags @ [object Object]",
+    "timestamp": "2021-09-09T13:10:12.453Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "This ad's html cannot be accessed using the getHtml method on googletag.Slot. Returning the empty string instead. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:15.164Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:10:15.538Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:10:15.587Z"
+  }
+]

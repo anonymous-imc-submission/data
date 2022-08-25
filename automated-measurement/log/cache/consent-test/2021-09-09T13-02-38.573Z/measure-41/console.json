@@ -1,0 +1,122 @@
+[
+  {
+    "part": "measure-41",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:08:41.122Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "visit https://spy.com/...",
+    "timestamp": "2021-09-09T13:08:41.287Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 1.4.1 @ [object Object]",
+    "timestamp": "2021-09-09T13:08:42.272Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:08:46.602Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:08:46.602Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:08:47.032Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:08:47.033Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:08:47.060Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:08:47.067Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:08:47.075Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:08:48.500Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "TCF data: cmpId 28 consent true, legInt false.",
+    "timestamp": "2021-09-09T13:08:48.502Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:08:48.512Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:08:48.513Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:08:48.772Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:08:49.090Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Pinterest Tag Error: 'load' command was called multiple times.  Previously for tag id '%s', now for tag id '%s'. \"2614003946941\" 2614003946941 @ [object Object]",
+    "timestamp": "2021-09-09T13:08:51.936Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Cannot find targeting attribute \"sponsored\" for \"publisher_ads\". @ [object Object]",
+    "timestamp": "2021-09-09T13:08:53.034Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Cannot find targeting attribute \"coppa\" for \"publisher_ads\". @ [object Object]",
+    "timestamp": "2021-09-09T13:08:53.035Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Cannot find targeting attribute \"ooos\" for \"publisher_ads\". @ [object Object]",
+    "timestamp": "2021-09-09T13:08:53.036Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Cannot find targeting attribute \"coppa\" for \"publisher_ads\". @ [object Object]",
+    "timestamp": "2021-09-09T13:08:53.040Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Cannot find targeting attribute \"vpd\" for \"publisher_ads\". @ [object Object]",
+    "timestamp": "2021-09-09T13:08:53.043Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:08:53.513Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:08:53.549Z"
+  }
+]

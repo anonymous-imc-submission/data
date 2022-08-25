@@ -1,0 +1,117 @@
+[
+  {
+    "part": "measure-04",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:16.949Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "visit https://wattpad.com/...",
+    "timestamp": "2021-09-09T13:06:17.153Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'checkAdUnitSetup' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:06:19.383Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:06:21.126Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:06:24.718Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:06:25.390Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GSI_LOGGER]: Relative login_uri was provided. Use absolute url instead. Relative login_uri may be considered invalid in the future. @ [object Object]",
+    "timestamp": "2021-09-09T13:06:26.279Z"
+  },
+  {
+    "part": "console.log",
+    "message": "jsonback:TypeError: $cr.cc is not a function @ [object Object]",
+    "timestamp": "2021-09-09T13:06:28.390Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:06:29.355Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:06:29.358Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:06:29.972Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:29.972Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:06:29.999Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:06:30.004Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:30.008Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:06:30.031Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:06:38.141Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:06:38.144Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:06:38.154Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:06:38.157Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:06:38.227Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:06:43.156Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:06:43.180Z"
+  }
+]

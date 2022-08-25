@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-69",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:22:11.196Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "visit https://gqitalia.it/...",
+    "timestamp": "2021-09-09T13:22:11.576Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Permutive was not initialized. No consent to run on the page @ [object Object]",
+    "timestamp": "2021-09-09T13:22:17.983Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:22:20.040Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:22:20.041Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:22:21.464Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:21.465Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:22:21.587Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:22:21.593Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:21.667Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:22:21.723Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:22:30.738Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:22:30.740Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:22:30.744Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:22:30.746Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:22:30.868Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "ads.Invalid sizes: unable to define 'rail' on mobile..warn {definition: Object, slotName: rail} @ [object Object]",
+    "timestamp": "2021-09-09T13:22:30.910Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:22:35.745Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:22:35.779Z"
+  }
+]

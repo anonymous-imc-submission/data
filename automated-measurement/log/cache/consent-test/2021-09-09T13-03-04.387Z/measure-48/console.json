@@ -1,0 +1,87 @@
+[
+  {
+    "part": "measure-48",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:19:31.153Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "visit https://geizhals.at/...",
+    "timestamp": "2021-09-09T13:19:31.304Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:19:32.908Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:19:32.911Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:19:33.186Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:33.187Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:19:33.201Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:19:33.208Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:33.217Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:19:33.234Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:19:36.657Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:19:36.661Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:19:36.668Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:19:36.671Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:19:36.699Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:19:41.669Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:19:41.694Z"
+  }
+]

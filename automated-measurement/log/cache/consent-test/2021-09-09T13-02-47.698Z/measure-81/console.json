@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-81",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:25:31.309Z"
+  },
+  {
+    "part": "measure-81",
+    "message": "visit https://tuscaloosanews.com/...",
+    "timestamp": "2021-09-09T13:25:32.770Z"
+  },
+  {
+    "part": "measure-81",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:25:41.829Z"
+  },
+  {
+    "part": "measure-81",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:25:41.838Z"
+  },
+  {
+    "part": "measure-81",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:25:41.994Z"
+  },
+  {
+    "part": "measure-81",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:25:41.996Z"
+  },
+  {
+    "part": "measure-81",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:25:42.010Z"
+  },
+  {
+    "part": "measure-81",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:25:42.014Z"
+  },
+  {
+    "part": "measure-81",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:25:42.055Z"
+  },
+  {
+    "part": "measure-81",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:25:42.057Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:25:45.370Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:25:45.373Z"
+  },
+  {
+    "part": "measure-81",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:26:07.354Z"
+  },
+  {
+    "part": "measure-81",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:26:07.356Z"
+  },
+  {
+    "part": "measure-81",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:26:07.365Z"
+  },
+  {
+    "part": "measure-81",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:26:07.367Z"
+  },
+  {
+    "part": "measure-81",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:26:07.415Z"
+  },
+  {
+    "part": "measure-81",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:26:12.367Z"
+  },
+  {
+    "part": "measure-81",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:26:12.418Z"
+  }
+]

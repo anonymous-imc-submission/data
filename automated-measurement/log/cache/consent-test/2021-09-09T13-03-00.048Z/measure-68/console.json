@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-68",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:26:13.912Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "visit https://rockpapershotgun.com/...",
+    "timestamp": "2021-09-09T13:26:17.703Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:26:22.901Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:26:22.933Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:26:23.864Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:26:23.872Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:26:23.976Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:26:23.985Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:26:24.285Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:26:24.296Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://c.amazon-adsystem.com/aax2/apstag.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:26:26.113Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://securepubads.g.doubleclick.net/tag/js/gpt.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:26:26.120Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:26:30.864Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:26:30.871Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:26:30.961Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:26:30.965Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:26:30.983Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:26:35.976Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:26:36.038Z"
+  }
+]

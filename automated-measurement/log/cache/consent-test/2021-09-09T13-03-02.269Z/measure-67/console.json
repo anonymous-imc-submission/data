@@ -1,0 +1,102 @@
+[
+  {
+    "part": "measure-67",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:23:56.453Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "visit https://zf.ro/...",
+    "timestamp": "2021-09-09T13:23:56.537Z"
+  },
+  {
+    "part": "console.log",
+    "message": " @ [object Object]",
+    "timestamp": "2021-09-09T13:23:57.695Z"
+  },
+  {
+    "part": "console.log",
+    "message": "timestamp-cookie: @ [object Object]",
+    "timestamp": "2021-09-09T13:23:57.695Z"
+  },
+  {
+    "part": "console.log",
+    "message": "NaN @ [object Object]",
+    "timestamp": "2021-09-09T13:23:57.700Z"
+  },
+  {
+    "part": "console.log",
+    "message": "timestamp-bug @ [object Object]",
+    "timestamp": "2021-09-09T13:23:57.700Z"
+  },
+  {
+    "part": "console.log",
+    "message": "1623798000 @ [object Object]",
+    "timestamp": "2021-09-09T13:23:57.700Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090801.js?31062510, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:23:57.935Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090801.js?31062510, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:23:57.944Z"
+  },
+  {
+    "part": "console.log",
+    "message": "isTablet -- false @ [object Object]",
+    "timestamp": "2021-09-09T13:23:58.751Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Invalid arguments: PubAdsService.refresh(). @ [object Object]",
+    "timestamp": "2021-09-09T13:24:02.562Z"
+  },
+  {
+    "part": "console.error",
+    "message": "JW Player Error 102630. For more information see https://developer.jwplayer.com/jw-player/docs/developer-guide/api/errors-reference#102630 @ [object Object]",
+    "timestamp": "2021-09-09T13:24:03.331Z"
+  },
+  {
+    "part": "console.log",
+    "message": "1 @ [object Object]",
+    "timestamp": "2021-09-09T13:24:12.166Z"
+  },
+  {
+    "part": "console.log",
+    "message": "HasAdBlock : No @ [object Object]",
+    "timestamp": "2021-09-09T13:24:12.167Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Refused to display 'https://www.facebook.com/' in a frame because it set 'X-Frame-Options' to 'deny'. @ [object Object]",
+    "timestamp": "2021-09-09T13:24:14.161Z"
+  },
+  {
+    "part": "console.log",
+    "message": "XHR ok @ [object Object]",
+    "timestamp": "2021-09-09T13:24:14.344Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Calendar loaded! @ [object Object]",
+    "timestamp": "2021-09-09T13:24:14.348Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Origin trial controlled feature not enabled: 'trust-token-redemption'. @ [object Object]",
+    "timestamp": "2021-09-09T13:24:22.020Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://zf.ro/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:24:26.543Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:24:26.779Z"
+  }
+]

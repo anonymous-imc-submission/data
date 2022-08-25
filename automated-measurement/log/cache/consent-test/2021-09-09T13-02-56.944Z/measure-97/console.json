@@ -1,0 +1,172 @@
+[
+  {
+    "part": "measure-97",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:32:41.217Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "visit https://eurosport.fr/...",
+    "timestamp": "2021-09-09T13:32:42.774Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead @ [object Object]",
+    "timestamp": "2021-09-09T13:33:00.264Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead @ [object Object]",
+    "timestamp": "2021-09-09T13:33:00.439Z"
+  },
+  {
+    "part": "console.log",
+    "message": "visitor.publishDestinations() result: The destination publishing iframe is already attached and loaded. @ [object Object]",
+    "timestamp": "2021-09-09T13:33:01.122Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:33:01.755Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:33:01.759Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:33:02.588Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:33:03.512Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:33:03.513Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:33:05.190Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:33:05.202Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:33:05.458Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:33:05.584Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o5meg&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.eurosport.fr%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:33:06.351Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an script pixel with URL:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o5meg&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.eurosport.fr%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:33:06.385Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o5meg&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.eurosport.fr%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:33:06.396Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an image pixel with URL:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o5meg&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.eurosport.fr%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:33:06.396Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button tabindex=\"0\" class=\"cookie-setting-link\" id=\"one…>Plus d’options</button>\nattempting click action\n  waiting for element to be visible, enabled and stable\n============================================================",
+    "timestamp": "2021-09-09T13:33:07.583Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:33:39.994Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:33:56.125Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:33:56.126Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:34:01.263Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".ot-pc-refuse-all-handler:visible, .save-preference-btn-handler:visible\"\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:34:10.560Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:34:51.823Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:34:51.824Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:34:56.894Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:35:03.515Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "TCF data: cmpId 28 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:35:03.520Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:35:03.533Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:35:03.534Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:35:08.534Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:35:08.674Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:35:08.680Z"
+  }
+]

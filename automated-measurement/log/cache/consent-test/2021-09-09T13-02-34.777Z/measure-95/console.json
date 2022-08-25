@@ -1,0 +1,122 @@
+[
+  {
+    "part": "measure-95",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:21:44.590Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "visit https://convertfiles.com/...",
+    "timestamp": "2021-09-09T13:21:46.140Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:21:52.255Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:21:52.398Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Origin trial controlled feature not enabled: 'trust-token-redemption'. @ [object Object]",
+    "timestamp": "2021-09-09T13:21:53.391Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:21:58.816Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:21:58.820Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:21:59.211Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:21:59.212Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:21:59.212Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "dialog accept failed: \n  - TimeoutError: page.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=primary]\"\n    ============================================================\n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-accept-btn-handler:visible,\n            .optanon-allow-all:visible,\n            .optanon-button-allow:visible,\n            #onetrust-pc-sdk #accept-recommended-btn-handler:visible\n        \"\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:22:23.883Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:22:50.257Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:22:50.266Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:55.389Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:23:45.924Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:23:45.925Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:23:50.965Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:23:58.821Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "TCF data: cmpId 374 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:23:58.821Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:23:58.839Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:23:58.843Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:24:03.859Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:24:04.420Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:24:04.570Z"
+  }
+]

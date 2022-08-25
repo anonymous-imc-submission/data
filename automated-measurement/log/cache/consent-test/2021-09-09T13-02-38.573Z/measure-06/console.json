@@ -1,0 +1,87 @@
+[
+  {
+    "part": "measure-06",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:04:40.986Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "visit https://krunker.io/...",
+    "timestamp": "2021-09-09T13:04:41.247Z"
+  },
+  {
+    "part": "console.log",
+    "message": "recaptchacompat disabled @ [object Object]",
+    "timestamp": "2021-09-09T13:04:45.784Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:04:50.569Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:04:50.570Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:04:51.177Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:04:51.177Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:04:51.215Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:04:51.218Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:04:51.263Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:04:51.880Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:04:51.881Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:04:51.905Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:04:51.908Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:04:52.100Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:04:56.906Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:04:56.929Z"
+  }
+]

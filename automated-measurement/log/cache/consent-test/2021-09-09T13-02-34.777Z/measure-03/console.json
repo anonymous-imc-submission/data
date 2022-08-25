@@ -1,0 +1,427 @@
+[
+  {
+    "part": "measure-03",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:04:24.605Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "visit https://rollingstone.com/...",
+    "timestamp": "2021-09-09T13:04:24.684Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 1.4.1 @ [object Object]",
+    "timestamp": "2021-09-09T13:04:26.433Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:04:28.405Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:04:28.408Z"
+  },
+  {
+    "part": "console.log",
+    "message": "CX bootstrap loader.... @ [object Object]",
+    "timestamp": "2021-09-09T13:04:34.562Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "Download the React DevTools for a better development experience: https://fb.me/react-devtools @ [object Object]",
+    "timestamp": "2021-09-09T13:04:35.694Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:04:37.356Z"
+  },
+  {
+    "part": "console.log",
+    "message": "lcb @ [object Object]",
+    "timestamp": "2021-09-09T13:04:37.812Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c cxb.selfLoading background: #0d47a1; color: #FFF @ [object Object]",
+    "timestamp": "2021-09-09T13:04:39.012Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cCXboot%c%s font-size:0em; color:white; background: #0d47a1; color: #FFF; padding:2px 12px; cxb.constructor --base = undefined @ [object Object]",
+    "timestamp": "2021-09-09T13:04:43.556Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cCXboot%c%s font-size:0em; color:white; background: #0d47a1; color: #FFF; padding:2px 12px; cxb.renderCXOverlay --searchingForVideoTag @ [object Object]",
+    "timestamp": "2021-09-09T13:04:43.570Z"
+  },
+  {
+    "part": "console.log",
+    "message": "catapult initialized {vid: jwplayer_0_div} @ [object Object]",
+    "timestamp": "2021-09-09T13:04:43.571Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Origin trial controlled feature not enabled: 'trust-token-redemption'. @ [object Object]",
+    "timestamp": "2021-09-09T13:04:44.659Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cCXboot%c%s font-size:0em; color:white; background: #0d47a1; color: #FFF; padding:2px 12px; cxb.detectPlayerType --videoContainerFound\n --videoContainerTagName = DIV @ [object Object]",
+    "timestamp": "2021-09-09T13:04:45.501Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cCXboot%c%s font-size:0em; color:white; background: #0d47a1; color: #FFF; padding:2px 12px; cxb.findVideoElement @ [object Object]",
+    "timestamp": "2021-09-09T13:04:45.510Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cCXboot%c%s font-size:0em; color:white; background: #0d47a1; color: #FFF; padding:2px 12px; cxb.detectPlayerType --videoContainerFound\n --videoContainerTagName = DIV @ [object Object]",
+    "timestamp": "2021-09-09T13:04:46.379Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cCXboot%c%s font-size:0em; color:white; background: #0d47a1; color: #FFF; padding:2px 12px; cxb.findVideoElement @ [object Object]",
+    "timestamp": "2021-09-09T13:04:46.381Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cCXboot%c%s font-size:0em; color:white; background: #0d47a1; color: #FFF; padding:2px 12px; cxb.detectPlayerType --videoContainerFound\n --videoContainerTagName = DIV @ [object Object]",
+    "timestamp": "2021-09-09T13:04:46.653Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cCXboot%c%s font-size:0em; color:white; background: #0d47a1; color: #FFF; padding:2px 12px; cxb.findVideoElement @ [object Object]",
+    "timestamp": "2021-09-09T13:04:46.654Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cCXboot%c%s font-size:0em; color:white; background: #0d47a1; color: #FFF; padding:2px 12px; cxb.detectPlayerType --videoContainerFound\n --videoContainerTagName = DIV @ [object Object]",
+    "timestamp": "2021-09-09T13:04:47.630Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cCXboot%c%s font-size:0em; color:white; background: #0d47a1; color: #FFF; padding:2px 12px; cxb.findVideoElement @ [object Object]",
+    "timestamp": "2021-09-09T13:04:47.638Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:04:48.064Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:04:48.065Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cCXboot%c%s font-size:0em; color:white; background: #0d47a1; color: #FFF; padding:2px 12px; cxb.detectPlayerType --videoContainerFound\n --videoContainerTagName = DIV @ [object Object]",
+    "timestamp": "2021-09-09T13:04:48.642Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cCXboot%c%s font-size:0em; color:white; background: #0d47a1; color: #FFF; padding:2px 12px; cxb.findVideoElement @ [object Object]",
+    "timestamp": "2021-09-09T13:04:48.643Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:04:48.716Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:04:48.716Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:04:48.781Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:04:48.791Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:04:48.799Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:04:49.750Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "TCF data: cmpId 28 consent true, legInt false.",
+    "timestamp": "2021-09-09T13:04:49.753Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:04:49.757Z"
+  },
+  {
+    "part": "console.log",
+    "message": "monetizeJWPlayer {vid: jwplayer_0_div, pid: yTTJs9q5, options: Object} @ [object Object]",
+    "timestamp": "2021-09-09T13:04:49.905Z"
+  },
+  {
+    "part": "console.log",
+    "message": "monetizeJWPlayer {vid: undefined, pid: undefined, options: Object} @ [object Object]",
+    "timestamp": "2021-09-09T13:04:49.923Z"
+  },
+  {
+    "part": "console.log",
+    "message": "monetizeJWPlayer {vid: jwplayer_0_div, pid: yTTJs9q5, options: Object} @ [object Object]",
+    "timestamp": "2021-09-09T13:04:49.930Z"
+  },
+  {
+    "part": "console.log",
+    "message": "monetizeJWPlayer {vid: undefined, pid: undefined, options: Object} @ [object Object]",
+    "timestamp": "2021-09-09T13:04:49.938Z"
+  },
+  {
+    "part": "console.log",
+    "message": "monetizeJWPlayer {vid: undefined, pid: undefined, options: Object} @ [object Object]",
+    "timestamp": "2021-09-09T13:04:49.944Z"
+  },
+  {
+    "part": "console.log",
+    "message": "monetizeJWPlayer {vid: undefined, pid: undefined, options: Object} @ [object Object]",
+    "timestamp": "2021-09-09T13:04:49.951Z"
+  },
+  {
+    "part": "console.log",
+    "message": "monetizeJWPlayer {vid: undefined, pid: undefined, options: Object} @ [object Object]",
+    "timestamp": "2021-09-09T13:04:49.962Z"
+  },
+  {
+    "part": "console.log",
+    "message": "monetizeJWPlayer {vid: undefined, pid: undefined, options: Object} @ [object Object]",
+    "timestamp": "2021-09-09T13:04:49.976Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:04:50.415Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cCXboot%c%s font-size:0em; color:white; background: #0d47a1; color: #FFF; padding:2px 12px; cxb.detectPlayerType --videoContainerFound\n --videoContainerTagName = DIV @ [object Object]",
+    "timestamp": "2021-09-09T13:04:50.429Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cCXboot%c%s font-size:0em; color:white; background: #0d47a1; color: #FFF; padding:2px 12px; cxb.findVideoElement @ [object Object]",
+    "timestamp": "2021-09-09T13:04:50.430Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cCXboot%c%s font-size:0em; color:white; background: #0d47a1; color: #FFF; padding:2px 12px; cxb.detectPlayerType --videoContainerFound\n --videoContainerTagName = DIV @ [object Object]",
+    "timestamp": "2021-09-09T13:04:51.460Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cCXboot%c%s font-size:0em; color:white; background: #0d47a1; color: #FFF; padding:2px 12px; cxb.findVideoElement @ [object Object]",
+    "timestamp": "2021-09-09T13:04:51.462Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cCXboot%c%s font-size:0em; color:white; background: #0d47a1; color: #FFF; padding:2px 12px; cxb.detectPlayerType --videoContainerFound\n --videoContainerTagName = DIV @ [object Object]",
+    "timestamp": "2021-09-09T13:04:51.874Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cCXboot%c%s font-size:0em; color:white; background: #0d47a1; color: #FFF; padding:2px 12px; cxb.findVideoElement @ [object Object]",
+    "timestamp": "2021-09-09T13:04:51.878Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cCXboot%c%s font-size:0em; color:white; background: #0d47a1; color: #FFF; padding:2px 12px; cxb.detectPlayerType --videoContainerFound\n --videoContainerTagName = DIV @ [object Object]",
+    "timestamp": "2021-09-09T13:04:52.651Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cCXboot%c%s font-size:0em; color:white; background: #0d47a1; color: #FFF; padding:2px 12px; cxb.findVideoElement @ [object Object]",
+    "timestamp": "2021-09-09T13:04:52.654Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Cannot find targeting attribute \"sponsored\" for \"publisher_ads\". @ [object Object]",
+    "timestamp": "2021-09-09T13:04:52.868Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Cannot find targeting attribute \"coppa\" for \"publisher_ads\". @ [object Object]",
+    "timestamp": "2021-09-09T13:04:52.874Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Cannot find targeting attribute \"ooos\" for \"publisher_ads\". @ [object Object]",
+    "timestamp": "2021-09-09T13:04:52.876Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Cannot find targeting attribute \"coppa\" for \"publisher_ads\". @ [object Object]",
+    "timestamp": "2021-09-09T13:04:52.879Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cCXboot%c%s font-size:0em; color:white; background: #0d47a1; color: #FFF; padding:2px 12px; cxb.detectPlayerType --videoContainerFound\n --videoContainerTagName = DIV @ [object Object]",
+    "timestamp": "2021-09-09T13:04:54.028Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cCXboot%c%s font-size:0em; color:white; background: #0d47a1; color: #FFF; padding:2px 12px; cxb.findVideoElement @ [object Object]",
+    "timestamp": "2021-09-09T13:04:54.028Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:04:54.089Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:04:54.758Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'. @ [object Object]",
+    "timestamp": "2021-09-09T13:04:56.356Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:04:56.390Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cCXboot%c%s font-size:0em; color:white; background: #0d47a1; color: #FFF; padding:2px 12px; cxb.detectPlayerType --videoContainerFound\n --videoContainerTagName = DIV @ [object Object]",
+    "timestamp": "2021-09-09T13:04:56.480Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cCXboot%c%s font-size:0em; color:white; background: #0d47a1; color: #FFF; padding:2px 12px; cxb.findVideoElement @ [object Object]",
+    "timestamp": "2021-09-09T13:04:56.481Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cCXboot%c%s font-size:0em; color:white; background: #0d47a1; color: #FFF; padding:2px 12px; cxb.detectPlayerType --videoContainerFound\n --videoContainerTagName = DIV @ [object Object]",
+    "timestamp": "2021-09-09T13:04:56.784Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cCXboot%c%s font-size:0em; color:white; background: #0d47a1; color: #FFF; padding:2px 12px; cxb.findVideoElement @ [object Object]",
+    "timestamp": "2021-09-09T13:04:56.790Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cCXboot%c%s font-size:0em; color:white; background: #0d47a1; color: #FFF; padding:2px 12px; cxb.detectPlayerType --videoContainerFound\n --videoContainerTagName = DIV @ [object Object]",
+    "timestamp": "2021-09-09T13:04:59.366Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cCXboot%c%s font-size:0em; color:white; background: #0d47a1; color: #FFF; padding:2px 12px; cxb.findVideoElement @ [object Object]",
+    "timestamp": "2021-09-09T13:04:59.367Z"
+  },
+  {
+    "part": "console.log",
+    "message": "received a request for uspapi @ [object Object]",
+    "timestamp": "2021-09-09T13:05:00.904Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Cannot find targeting attribute \"ooos\" for \"publisher_ads\". @ [object Object]",
+    "timestamp": "2021-09-09T13:05:02.864Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Cannot find targeting attribute \"coppa\" for \"publisher_ads\". @ [object Object]",
+    "timestamp": "2021-09-09T13:05:02.867Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cCXboot%c%s font-size:0em; color:white; background: #0d47a1; color: #FFF; padding:2px 12px; cxb.detectPlayerType --videoContainerFound\n --videoContainerTagName = DIV @ [object Object]",
+    "timestamp": "2021-09-09T13:05:03.378Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cCXboot%c%s font-size:0em; color:white; background: #0d47a1; color: #FFF; padding:2px 12px; cxb.findVideoElement @ [object Object]",
+    "timestamp": "2021-09-09T13:05:03.379Z"
+  },
+  {
+    "part": "console.log",
+    "message": "received a request for uspapi @ [object Object]",
+    "timestamp": "2021-09-09T13:05:03.546Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cCXboot%c%s font-size:0em; color:white; background: #0d47a1; color: #FFF; padding:2px 12px; cxb.detectPlayerType --videoContainerFound\n --videoContainerTagName = DIV @ [object Object]",
+    "timestamp": "2021-09-09T13:05:04.266Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cCXboot%c%s font-size:0em; color:white; background: #0d47a1; color: #FFF; padding:2px 12px; cxb.findVideoElement @ [object Object]",
+    "timestamp": "2021-09-09T13:05:04.275Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cCXboot%c%s font-size:0em; color:white; background: #0d47a1; color: #FFF; padding:2px 12px; cxb.detectPlayerType --videoContainerFound\n --videoContainerTagName = DIV @ [object Object]",
+    "timestamp": "2021-09-09T13:05:05.809Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cCXboot%c%s font-size:0em; color:white; background: #0d47a1; color: #FFF; padding:2px 12px; cxb.findVideoElement @ [object Object]",
+    "timestamp": "2021-09-09T13:05:05.810Z"
+  },
+  {
+    "part": "console.log",
+    "message": "received a request for uspapi @ [object Object]",
+    "timestamp": "2021-09-09T13:05:05.893Z"
+  },
+  {
+    "part": "console.log",
+    "message": "received a request for uspapi @ [object Object]",
+    "timestamp": "2021-09-09T13:05:06.428Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cCXboot%c%s font-size:0em; color:white; background: #0d47a1; color: #FFF; padding:2px 12px; cxb.detectPlayerType --videoContainerFound\n --videoContainerTagName = DIV @ [object Object]",
+    "timestamp": "2021-09-09T13:05:08.209Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cCXboot%c%s font-size:0em; color:white; background: #0d47a1; color: #FFF; padding:2px 12px; cxb.findVideoElement @ [object Object]",
+    "timestamp": "2021-09-09T13:05:08.210Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cCXboot%c%s font-size:0em; color:white; background: #0d47a1; color: #FFF; padding:2px 12px; cxb.detectPlayerType --videoContainerFound\n --videoContainerTagName = DIV @ [object Object]",
+    "timestamp": "2021-09-09T13:05:09.449Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cCXboot%c%s font-size:0em; color:white; background: #0d47a1; color: #FFF; padding:2px 12px; cxb.findVideoElement @ [object Object]",
+    "timestamp": "2021-09-09T13:05:09.457Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:05:09.759Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:05:09.906Z"
+  }
+]

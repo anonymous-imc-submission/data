@@ -1,0 +1,257 @@
+[
+  {
+    "part": "measure-83",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:26:12.428Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "visit https://ilsole24ore.com/...",
+    "timestamp": "2021-09-09T13:26:12.767Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Adv Manchette_1 ilsole24ore.com/homepage true @ [object Object]",
+    "timestamp": "2021-09-09T13:26:19.671Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Adv MPU_Top ilsole24ore.com/homepage true @ [object Object]",
+    "timestamp": "2021-09-09T13:26:19.839Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Adv SideToSideADV1 ilsole24ore.com/homepage true @ [object Object]",
+    "timestamp": "2021-09-09T13:26:20.677Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Adv Branded_Content_1 ilsole24ore.com/homepage true @ [object Object]",
+    "timestamp": "2021-09-09T13:26:20.788Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Adv Branded_Content_2 ilsole24ore.com/homepage true @ [object Object]",
+    "timestamp": "2021-09-09T13:26:20.790Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Adv MPU_Middle ilsole24ore.com/homepage true @ [object Object]",
+    "timestamp": "2021-09-09T13:26:20.874Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Adv MPU_Bottom ilsole24ore.com/homepage true @ [object Object]",
+    "timestamp": "2021-09-09T13:26:21.025Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Adv MaxTicker1 ilsole24ore.com/homepage true @ [object Object]",
+    "timestamp": "2021-09-09T13:26:21.049Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Adv Overlay ilsole24ore.com/homepage true @ [object Object]",
+    "timestamp": "2021-09-09T13:26:21.279Z"
+  },
+  {
+    "part": "console.log",
+    "message": "gt/crt not found @ [object Object]",
+    "timestamp": "2021-09-09T13:26:21.489Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Adv Manchette_1 ilsole24ore.com/homepage true @ [object Object]",
+    "timestamp": "2021-09-09T13:26:22.229Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Adv MPU_Top ilsole24ore.com/homepage true @ [object Object]",
+    "timestamp": "2021-09-09T13:26:22.329Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Adv SideToSideADV1 ilsole24ore.com/homepage true @ [object Object]",
+    "timestamp": "2021-09-09T13:26:22.496Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Adv Branded_Content_1 ilsole24ore.com/homepage true @ [object Object]",
+    "timestamp": "2021-09-09T13:26:22.529Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Adv Branded_Content_2 ilsole24ore.com/homepage true @ [object Object]",
+    "timestamp": "2021-09-09T13:26:22.530Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Adv MPU_Middle ilsole24ore.com/homepage true @ [object Object]",
+    "timestamp": "2021-09-09T13:26:22.657Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Adv MPU_Bottom ilsole24ore.com/homepage true @ [object Object]",
+    "timestamp": "2021-09-09T13:26:22.739Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Adv MaxTicker1 ilsole24ore.com/homepage true @ [object Object]",
+    "timestamp": "2021-09-09T13:26:22.755Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Adv Overlay ilsole24ore.com/homepage true @ [object Object]",
+    "timestamp": "2021-09-09T13:26:22.781Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Adv MaxTicker ilsole24ore.com/homepage true @ [object Object]",
+    "timestamp": "2021-09-09T13:26:23.396Z"
+  },
+  {
+    "part": "console.log",
+    "message": "gt/crt not found @ [object Object]",
+    "timestamp": "2021-09-09T13:26:24.515Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cookie  @ [object Object]",
+    "timestamp": "2021-09-09T13:26:24.637Z"
+  },
+  {
+    "part": "console.log",
+    "message": "fetchData [4074,Milano,/italia/lombardia/milano] meteo @ [object Object]",
+    "timestamp": "2021-09-09T13:26:24.646Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cookie 4074|Milano|/italia/lombardia/milano @ [object Object]",
+    "timestamp": "2021-09-09T13:26:24.657Z"
+  },
+  {
+    "part": "console.log",
+    "message": "fetchData [4074,Milano,/italia/lombardia/milano] meteo @ [object Object]",
+    "timestamp": "2021-09-09T13:26:24.659Z"
+  },
+  {
+    "part": "console.log",
+    "message": "--------------- init read-------------------------\n @ [object Object]",
+    "timestamp": "2021-09-09T13:26:25.093Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "{url: https://www.ilsole24ore.com/, title: Il Sole 24 Ore: notizie di economia, finanza, bors…isco, cronaca italiana ed esteri - Il Sole 24 ORE, type: frontpage, channel: mobile, paid: 0} @ [object Object]",
+    "timestamp": "2021-09-09T13:26:25.096Z"
+  },
+  {
+    "part": "console.log",
+    "message": "gt/crt found @ [object Object]",
+    "timestamp": "2021-09-09T13:26:26.093Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Cannot find targeting attribute \"crt_pb\" for \"/57491254/ilsole24ore.com/homepage/MPU_Top\". @ [object Object]",
+    "timestamp": "2021-09-09T13:26:28.441Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Cannot find targeting attribute \"crt_bidid\" for \"/57491254/ilsole24ore.com/homepage/MPU_Top\". @ [object Object]",
+    "timestamp": "2021-09-09T13:26:28.441Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Cannot find targeting attribute \"crt_pb\" for \"/57491254/ilsole24ore.com/homepage/MaxTicker\". @ [object Object]",
+    "timestamp": "2021-09-09T13:26:28.441Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Cannot find targeting attribute \"crt_bidid\" for \"/57491254/ilsole24ore.com/homepage/MaxTicker\". @ [object Object]",
+    "timestamp": "2021-09-09T13:26:28.453Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:26:33.855Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:26:33.858Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:26:34.307Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:26:34.307Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:26:34.404Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:26:34.407Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:26:34.442Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:26:34.492Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.ilsole24ore.com/static/images/ilsole24ore.svg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:26:36.776Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:26:38.865Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:26:41.448Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:26:41.451Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:26:41.457Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:26:41.459Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:26:41.902Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:26:46.457Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:26:46.511Z"
+  }
+]

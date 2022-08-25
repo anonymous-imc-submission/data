@@ -1,0 +1,127 @@
+[
+  {
+    "part": "measure-37",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:09:46.123Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "visit https://sportfishingmag.com/...",
+    "timestamp": "2021-09-09T13:09:47.638Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:09:49.184Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SUPPRESS: false @ [object Object]",
+    "timestamp": "2021-09-09T13:09:58.229Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c------------- Cheetah Web Events: Posting Web Event ---------------\n{\"OrderDate\":\"9/9/2021 3:10:\",\"OrderSource\":\"Website\",\"ProductName\":\"sportfishingmag.com\",\"ProductCategoryName\":\"undefined\",\"ProductDescription\":\"https://www.sportfishingmag.com/\",\"ProductID\":\"/home\",\"Variable1\":\"undefined\"} background: #ffff33; color: #ff00ff @ [object Object]",
+    "timestamp": "2021-09-09T13:10:00.804Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Invalid GPT fixed size specification: [[[970,250],[970,90],[728,90]],[[728,90]],[[320,50]]] @ [object Object]",
+    "timestamp": "2021-09-09T13:10:02.417Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Invalid GPT fixed size specification: [[[970,90],[728,90]],[[320,50]]] @ [object Object]",
+    "timestamp": "2021-09-09T13:10:02.575Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cmpuishown @ [object Object]",
+    "timestamp": "2021-09-09T13:10:03.320Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Bid Back Handler {} @ [object Object]",
+    "timestamp": "2021-09-09T13:10:05.457Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Bid Back Handler {} @ [object Object]",
+    "timestamp": "2021-09-09T13:10:05.501Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:10:11.355Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:10:11.444Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:10:13.857Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:13.960Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:10:14.259Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:10:14.265Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:15.225Z"
+  },
+  {
+    "part": "console.log",
+    "message": "useractioncomplete @ [object Object]",
+    "timestamp": "2021-09-09T13:10:17.002Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:10:17.128Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:10:17.128Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:10:17.144Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:10:17.149Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:10:19.132Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:10:22.149Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:10:22.234Z"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://magneticmag.com/..."
+  },
+  {
+    "type": "admeasure",
+    "text": "page load error: Error: page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://magneticmag.com/\n=========================== logs ===========================\nnavigating to \"https://magneticmag.com/\", waiting until \"load\"\n============================================================"
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

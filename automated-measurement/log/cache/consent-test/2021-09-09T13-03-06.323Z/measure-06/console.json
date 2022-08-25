@@ -1,0 +1,127 @@
+[
+  {
+    "part": "measure-06",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:52.518Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "visit https://nknews.org/...",
+    "timestamp": "2021-09-09T13:06:52.668Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:06:54.092Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:07:03.397Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:07:03.405Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:07:07.589Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:07.590Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:07:07.797Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:07:07.825Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:07.838Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:07:08.032Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "dialog accept failed: \n  - TimeoutError: page.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=primary]\"\n      selector resolved to visible <button tabindex=\"0\" size=\"large\" type=\"button\" mode=\"pr…>AGREE</button>\n    attempting click action\n      waiting for element to be visible, enabled and stable\n      element is visible, enabled and stable\n      scrolling into view if needed\n      done scrolling\n      checking that element receives pointer events at (220.48,612.07)\n      <iframe class=\"ub-emb-iframe\" src=\"//027b920af26444faade…></iframe> from <div class=\"ub-emb-container\">…</div> subtree intercepts pointer events\n    retrying click action, attempt #1\n      waiting for element to be visible, enabled and stable\n      element is visible, enabled and stable\n      scrolling into view if needed\n      done scrolling\n      checking that element receives pointer events at (220.48,612.07)\n      <iframe class=\"ub-emb-iframe\" src=\"//027b920af26444faade…></iframe> from <div class=\"ub-emb-container\">…</div> subtree intercepts pointer events\n    retrying click action, attempt #2\n      waiting 20ms\n      waiting for element to be visible, enabled and stable\n      element is visible, enabled and stable\n      scrolling into view if needed\n      done scrolling\n      checking that element receives pointer events at (220.48,612.07)\n      <iframe class=\"ub-emb-iframe\" src=\"//027b920af26444faade…></iframe> from <div class=\"ub-emb-container\">…</div> subtree intercepts pointer events\n    retrying click action, attempt #3\n      waiting 100ms\n      waiting for element to be visible, enabled and stable\n      element is visible, enabled and stable\n      scrolling into view if needed\n      done scrolling\n      checking that element receives pointer events at (220.48,612.07)\n      <iframe class=\"ub-emb-iframe\" src=\"//027b920af26444faade…></iframe> from <div class=\"ub-emb-container\">…</div> subtree intercepts pointer events\n    retrying click action, attempt #4\n      waiting 100ms\n      waiting for element to be visible, enabled and stable\n      element is visible, enabled and stable\n      scrolling into view if needed\n      done scrolling\n      checking that element receives pointer events at (220.48,612.07)\n      <iframe class=\"ub-emb-iframe\" src=\"//027b920af26444faade…></iframe> from <div class=\"ub-emb-container\">…</div> subtree intercepts pointer events\n    retrying click action, attempt #5\n      waiting 500ms\n      waiting for element to be visible, enabled and stable\n      element is visible, enabled and stable\n      scrolling into view if needed\n      done scrolling\n      checking that element receives pointer events at (220.48,612.07)\n      <iframe class=\"ub-emb-iframe\" src=\"//027b920af26444faade…></iframe> from <div class=\"ub-emb-container\">…</div> subtree intercepts pointer events\n    retrying click action, attempt #6\n      waiting 500ms\n      waiting for element to be visible, enabled and stable\n      element is visible, enabled and stable\n      scrolling into view if needed\n      done scrolling\n      checking that element receives pointer events at (220.48,612.07)\n      <iframe class=\"ub-emb-iframe\" src=\"//027b920af26444faade…></iframe> from <div class=\"ub-emb-container\">…</div> subtree intercepts pointer events\n    retrying click action, attempt #7\n      waiting 500ms\n      waiting for element to be visible, enabled and stable\n      element is visible, enabled and stable\n      scrolling into view if needed\n      done scrolling\n      checking that element receives pointer events at (220.48,612.07)\n      <iframe class=\"ub-emb-iframe\" src=\"//027b920af26444faade…></iframe> from <div class=\"ub-emb-container\">…</div> subtree intercepts pointer events\n    retrying click action, attempt #8\n      waiting 500ms\n      waiting for element to be visible, enabled and stable\n      element is visible, enabled and stable\n      scrolling into view if needed\n      done scrolling\n      checking that element receives pointer events at (220.48,612.07)\n      <iframe class=\"ub-emb-iframe\" src=\"//027b920af26444faade…></iframe> from <div class=\"ub-emb-container\">…</div> subtree intercepts pointer events\n    retrying click action, attempt #9\n      waiting 500ms\n      waiting for element to be visible, enabled and stable\n      element is visible, enabled and stable\n      scrolling into view if needed\n      done scrolling\n      checking that element receives pointer events at (220.48,612.07)\n      <iframe class=\"ub-emb-iframe\" src=\"//027b920af26444faade…></iframe> from <div class=\"ub-emb-container\">…</div> subtree intercepts pointer events\n    retrying click action, attempt #10\n      waiting 500ms\n      waiting for element to be visible, enabled and stable\n      element is visible, enabled and stable\n      scrolling into view if needed\n      done scrolling\n      checking that element receives pointer events at (220.48,612.07)\n      <iframe class=\"ub-emb-iframe\" src=\"//027b920af26444faade…></iframe> from <div class=\"ub-emb-container\">…</div> subtree intercepts pointer events\n    retrying click action, attempt #11\n      waiting 500ms\n      waiting for element to be visible, enabled and stable\n      element is visible, enabled and stable\n      scrolling into view if needed\n      done scrolling\n      checking that element receives pointer events at (220.48,612.07)\n      <iframe class=\"ub-emb-iframe\" src=\"//027b920af26444faade…></iframe> from <div class=\"ub-emb-container\">…</div> subtree intercepts pointer events\n    retrying click action, attempt #12\n      waiting 500ms\n      waiting for element to be visible, enabled and stable\n      element is visible, enabled and stable\n      scrolling into view if needed\n      done scrolling\n      checking that element receives pointer events at (220.48,612.07)\n      <iframe class=\"ub-emb-iframe\" src=\"//027b920af26444faade…></iframe> from <div class=\"ub-emb-container\">…</div> subtree intercepts pointer events\n    retrying click action, attempt #13\n      waiting 500ms\n      waiting for element to be visible, enabled and stable\n      element is visible, enabled and stable\n      scrolling into view if needed\n      done scrolling\n      checking that element receives pointer events at (220.48,612.07)\n      <iframe class=\"ub-emb-iframe\" src=\"//027b920af26444faade…></iframe> from <div class=\"ub-emb-container\">…</div> subtree intercepts pointer events\n    retrying click action, attempt #14\n      waiting 500ms\n      waiting for element to be visible, enabled and stable\n      element is visible, enabled and stable\n      scrolling into view if needed\n      done scrolling\n      checking that element receives pointer events at (220.48,612.07)\n      <iframe class=\"ub-emb-iframe\" src=\"//027b920af26444faade…></iframe> from <div class=\"ub-emb-container\">…</div> subtree intercepts pointer events\n    retrying click action, attempt #15\n      waiting 500ms\n      waiting for element to be visible, enabled and stable\n      element is visible, enabled and stable\n      scrolling into view if needed\n      done scrolling\n      checking that element receives pointer events at (220.48,612.07)\n      <iframe class=\"ub-emb-iframe\" src=\"//027b920af26444faade…></iframe> from <div class=\"ub-emb-container\">…</div> subtree intercepts pointer events\n    retrying click action, attempt #16\n      waiting 500ms\n      waiting for element to be visible, enabled and stable\n      element is visible, enabled and stable\n      scrolling into view if needed\n      done scrolling\n      checking that element receives pointer events at (220.48,612.07)\n      <iframe class=\"ub-emb-iframe\" src=\"//027b920af26444faade…></iframe> from <div class=\"ub-emb-container\">…</div> subtree intercepts pointer events\n    retrying click action, attempt #17\n      waiting 500ms\n      waiting for element to be visible, enabled and stable\n      element is visible, enabled and stable\n      scrolling into view if needed\n      done scrolling\n      checking that element receives pointer events at (220.48,612.07)\n      <iframe class=\"ub-emb-iframe\" src=\"//027b920af26444faade…></iframe> from <div class=\"ub-emb-container\">…</div> subtree intercepts pointer events\n    retrying click action, attempt #18\n      waiting 500ms\n      waiting for element to be visible, enabled and stable\n      element is visible, enabled and stable\n      scrolling into view if needed\n      done scrolling\n      checking that element receives pointer events at (220.48,612.07)\n      <iframe class=\"ub-emb-iframe\" src=\"//027b920af26444faade…></iframe> from <div class=\"ub-emb-container\">…</div> subtree intercepts pointer events\n    retrying click action, attempt #19\n      waiting 500ms\n      waiting for element to be visible, enabled and stable\n      element is visible, enabled and stable\n      scrolling into view if needed\n      done scrolling\n      checking that element receives pointer events at (220.48,612.07)\n      <iframe class=\"ub-emb-iframe\" src=\"//027b920af26444faade…></iframe> from <div class=\"ub-emb-container\">…</div> subtree intercepts pointer events\n    retrying click action, attempt #20\n      waiting 500ms\n      waiting for element to be visible, enabled and stable\n      element is visible, enabled and stable\n      scrolling into view if needed\n      done scrolling\n      checking that element receives pointer events at (220.48,612.07)\n      <iframe class=\"ub-emb-iframe\" src=\"//027b920af26444faade…></iframe> from <div class=\"ub-emb-container\">…</div> subtree intercepts pointer events\n    retrying click action, attempt #21\n      waiting 500ms\n      waiting for element to be visible, enabled and stable\n      element is visible, enabled and stable\n      scrolling into view if needed\n      done scrolling\n      checking that element receives pointer events at (220.48,612.07)\n      <iframe class=\"ub-emb-iframe\" src=\"//027b920af26444faade…></iframe> from <div class=\"ub-emb-container\">…</div> subtree intercepts pointer events\n    retrying click action, attempt #22\n      waiting 500ms\n      waiting for element to be visible, enabled and stable\n      element is visible, enabled and stable\n      scrolling into view if needed\n      done scrolling\n      checking that element receives pointer events at (220.48,612.07)\n      <iframe class=\"ub-emb-iframe\" src=\"//027b920af26444faade…></iframe> from <div class=\"ub-emb-container\">…</div> subtree intercepts pointer events\n    retrying click action, attempt #23\n      waiting 500ms\n      waiting for element to be visible, enabled and stable\n      element is visible, enabled and stable\n      scrolling into view if needed\n      done scrolling\n      checking that element receives pointer events at (220.48,612.07)\n      <iframe class=\"ub-emb-iframe\" src=\"//027b920af26444faade…></iframe> from <div class=\"ub-emb-container\">…</div> subtree intercepts pointer events\n    retrying click action, attempt #24\n      waiting 500ms\n      waiting for element to be visible, enabled and stable\n      element is visible, enabled and stable\n      scrolling into view if needed\n      done scrolling\n      checking that element receives pointer events at (220.48,612.07)\n      <iframe class=\"ub-emb-iframe\" src=\"//027b920af26444faade…></iframe> from <div class=\"ub-emb-container\">…</div> subtree intercepts pointer events\n    retrying click action, attempt #25\n      waiting 500ms\n      waiting for element to be visible, enabled and stable\n      element is visible, enabled and stable\n      scrolling into view if needed\n      done scrolling\n      checking that element receives pointer events at (220.48,612.07)\n      <iframe class=\"ub-emb-iframe\" src=\"//027b920af26444faade…></iframe> from <div class=\"ub-emb-container\">…</div> subtree intercepts pointer events\n    retrying click action, attempt #26\n      waiting 500ms\n    ============================================================\n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-accept-btn-handler:visible,\n            .optanon-allow-all:visible,\n            .optanon-button-allow:visible,\n            #onetrust-pc-sdk #accept-recommended-btn-handler:visible\n        \"\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:07:33.432Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:07:58.466Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:07:58.467Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:08:03.510Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:08:54.023Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:08:54.023Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:08:59.048Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:09:07.590Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "TCF data: cmpId 10 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:09:07.591Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:09:07.602Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:09:07.606Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:09:12.604Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:09:12.662Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:09:12.676Z"
+  }
+]

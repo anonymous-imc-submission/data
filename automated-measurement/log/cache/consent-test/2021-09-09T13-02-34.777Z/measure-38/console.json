@@ -1,0 +1,157 @@
+[
+  {
+    "part": "measure-38",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:09:48.661Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "visit https://hearthstonetopdecks.com/...",
+    "timestamp": "2021-09-09T13:09:48.896Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'checkAdUnitSetup' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:09:52.654Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c(00:05:110.40)%cJAdManager: version v2.36.413 initialized padding: 2px; background: rgba(0, 0, 0, 0.5); color: rgba(255, 255, 255, 1); padding: 2px; background: rgba( 0, 153, 204, 0.3); color: rgba( 0, 153, 204, 1); @ [object Object]",
+    "timestamp": "2021-09-09T13:09:54.016Z"
+  },
+  {
+    "part": "console.log",
+    "message": " (https://cdn.justpremium.com/js/v2.36.413/jpx.js:1:231262) @ [object Object]",
+    "timestamp": "2021-09-09T13:09:54.017Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 400 (Request failed due to privacy signals) @ [object Object]",
+    "timestamp": "2021-09-09T13:09:54.391Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 400 (Request failed due to privacy signals) @ [object Object]",
+    "timestamp": "2021-09-09T13:09:54.455Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Origin trial controlled feature not enabled: 'trust-token-redemption'. @ [object Object]",
+    "timestamp": "2021-09-09T13:09:55.073Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c(00:06:356.90)%cJQueue: No ad to run padding: 2px; background: rgba(0, 0, 0, 0.5); color: rgba(255, 255, 255, 1); padding: 2px; background: rgba( 0, 153, 204, 0.3); color: rgba( 0, 153, 204, 1); @ [object Object]",
+    "timestamp": "2021-09-09T13:09:55.265Z"
+  },
+  {
+    "part": "console.log",
+    "message": " (https://cdn.justpremium.com/js/v2.36.413/jpx.js:1:87903) @ [object Object]",
+    "timestamp": "2021-09-09T13:09:55.265Z"
+  },
+  {
+    "part": "console.log",
+    "message": "VIDEOJS: updateAdvancedSettings @ [object Object]",
+    "timestamp": "2021-09-09T13:09:56.496Z"
+  },
+  {
+    "part": "console.log",
+    "message": "VIDEOJS: updateAdvancedSettings @ [object Object]",
+    "timestamp": "2021-09-09T13:09:57.596Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:09:57.964Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:09:57.965Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:09:58.584Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:09:58.584Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:09:58.619Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:09:58.622Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:09:58.642Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:09:59.575Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:09:59.577Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:09:59.588Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:09:59.869Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c(00:12:207.80)%cJQueue: No ad to run padding: 2px; background: rgba(0, 0, 0, 0.5); color: rgba(255, 255, 255, 1); padding: 2px; background: rgba( 0, 153, 204, 0.3); color: rgba( 0, 153, 204, 1); @ [object Object]",
+    "timestamp": "2021-09-09T13:10:01.113Z"
+  },
+  {
+    "part": "console.log",
+    "message": " (https://cdn.justpremium.com/js/v2.36.413/jpx.js:1:87903) @ [object Object]",
+    "timestamp": "2021-09-09T13:10:01.116Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:10:02.207Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:10:04.590Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://tag.1rx.io/rmp/86503/0/mvo?z=1r&hbv=4.16,2.1' from origin 'https://www.hearthstonetopdecks.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:04.904Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:10:04.910Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:10:19.596Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:10:19.857Z"
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://motorradonline.de/..."
+  },
+  {
+    "type": "info",
+    "location": {
+      "url": "https://www.motorradonline.de/mobile/js/bundle.js?v=1631090151466",
+      "lineNumber": 48,
+      "columnNumber": 174500
+    },
+    "text": "Push not enabled"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://cdn.privacy-mgmt.com/wrapperMessagingWithoutDetection.js",
+      "lineNumber": 0,
+      "columnNumber": 154615
+    },
+    "text": "Messaging without detection successfully executed."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://www.motorradonline.de/mobile/js/bundle.js?v=1631090151466",
+      "lineNumber": 24,
+      "columnNumber": 20839
+    },
+    "text": "%cWarning: a promise was created in a handler at https://www.motorradonline.de/mobile/js/bundle.js?v=1631090151466:25:1012 but was not returned from it, see http://goo.gl/rRqMUw\nError\n    at X (https://www.motorradonline.de/mobile/js/bundle.js?v=1631090151466:25:16534)\n    at N.e._warn (https://www.motorradonline.de/mobile/js/bundle.js?v=1631090151466:25:10777)\n    at Object.checkForgottenReturns (https://www.motorradonline.de/mobile/js/bundle.js?v=1631090151466:25:21868)\n    at N._settlePromiseFromHandler (https://www.motorradonline.de/mobile/js/bundle.js?v=1631090151466:25:47104)\nFrom previous event:\n    at N.K [as _captureStackTrace] (https://www.motorradonline.de/mobile/js/bundle.js?v=1631090151466:25:16172)\n    at N._then (https://www.motorradonline.de/mobile/js/bundle.js?v=1631090151466:25:42388)\n    at N.then (https://www.motorradonline.de/mobile/js/bundle.js?v=1631090151466:25:40744)\n    at https://static.cleverpush.com/channel/loader/XiuqJcai88WJQ3QBN.js:2:23354\n    at h (https://static.cleverpush.com/channel/loader/XiuqJcai88WJQ3QBN.js:2:138008)\n    at new s (https://static.cleverpush.com/channel/loader/XiuqJcai88WJQ3QBN.js:2:136942)\n    at initSubscriptionManager (https://static.cleverpush.com/channel/loader/XiuqJcai88WJQ3QBN.js:2:23246)\n    at initSdk (https://static.cleverpush.com/channel/loader/XiuqJcai88WJQ3QBN.js:2:34322) color: darkorange"
+  },
+  {
+    "type": "admeasure",
+    "text": "Looking for dialogs to reject..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting for __tcfapi..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint iframe found!"
+  },
+  {
+    "type": "admeasure",
+    "text": "__tcfapi found! Querying status..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingWaiting."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingLoaded."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Button clicked: Einstellungen"
+  },
+  {
+    "type": "admeasure",
+    "text": "Found Sourcepoint privacy manager."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: no type toggles."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Check for legitimate interest button..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Clicking legitimate interest button: Datenverarbeitung auf Basis berechtiger InteressenEinstellungen"
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Find the save button."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint dialog rejected."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://www.motorradonline.de/mobile/js/bundle.js?v=1631090151466",
+      "lineNumber": 24,
+      "columnNumber": 20839
+    },
+    "text": "%cWarning: a promise was created in a handler at https://www.motorradonline.de/mobile/js/bundle.js?v=1631090151466:25:47789 but was not returned from it, see http://goo.gl/rRqMUw\nError\n    at X (https://www.motorradonline.de/mobile/js/bundle.js?v=1631090151466:25:16534)\n    at N.e._warn (https://www.motorradonline.de/mobile/js/bundle.js?v=1631090151466:25:10777)\n    at Object.checkForgottenReturns (https://www.motorradonline.de/mobile/js/bundle.js?v=1631090151466:25:21868)\n    at N._settlePromiseFromHandler (https://www.motorradonline.de/mobile/js/bundle.js?v=1631090151466:25:47104)\n    at N._settlePromise (https://www.motorradonline.de/mobile/js/bundle.js?v=1631090151466:25:47789)\n    at N._settlePromise0 (https://www.motorradonline.de/mobile/js/bundle.js?v=1631090151466:25:48488)\n    at N._settlePromises (https://www.motorradonline.de/mobile/js/bundle.js?v=1631090151466:25:49840)\n    at u (https://www.motorradonline.de/mobile/js/bundle.js?v=1631090151466:25:1139)\n    at c (https://www.motorradonline.de/mobile/js/bundle.js?v=1631090151466:25:1078)\n    at s._drainQueues (https://www.motorradonline.de/mobile/js/bundle.js?v=1631090151466:25:2192)\n    at drainQueues (https://www.motorradonline.de/mobile/js/bundle.js?v=1631090151466:25:1012)\nFrom previous event:\n    at N.K [as _captureStackTrace] (https://www.motorradonline.de/mobile/js/bundle.js?v=1631090151466:25:16172)\n    at N._then (https://www.motorradonline.de/mobile/js/bundle.js?v=1631090151466:25:42388)\n    at N.then (https://www.motorradonline.de/mobile/js/bundle.js?v=1631090151466:25:40744)\n    at E (https://cdn.privacy-mgmt.com/wrapperMessagingWithoutDetection.js:1:141348)\n    at se (https://cdn.privacy-mgmt.com/wrapperMessagingWithoutDetection.js:1:143395)\n    at e (https://cdn.privacy-mgmt.com/wrapperMessagingWithoutDetection.js:1:132413) color: darkorange"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data obtained!"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data: cmpId 6 consent false, legInt true."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Network is idle after 0.01s."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062509",
+      "lineNumber": 5,
+      "columnNumber": 116668
+    },
+    "text": "[GPT] Invalid arguments: PubAdsService.setTargeting('nuggad', undefined)."
+  },
+  {
+    "type": "admeasure",
+    "text": "Minimum wait time reached after 5.01s."
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

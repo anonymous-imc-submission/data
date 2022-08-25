@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-19",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:08:09.295Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "visit https://buckscountycouriertimes.com/...",
+    "timestamp": "2021-09-09T13:08:09.465Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:08:12.395Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:08:14.703Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:08:14.704Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:08:14.823Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:08:14.823Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:08:14.838Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:08:14.840Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:08:14.862Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:08:14.916Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:08:31.218Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:08:31.221Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:08:31.235Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:08:31.268Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:08:36.238Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:08:51.244Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:08:51.318Z"
+  }
+]

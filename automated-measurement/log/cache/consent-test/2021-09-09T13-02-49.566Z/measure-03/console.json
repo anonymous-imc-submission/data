@@ -1,0 +1,152 @@
+[
+  {
+    "part": "measure-03",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:44.834Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "visit https://vanityfair.com/...",
+    "timestamp": "2021-09-09T13:06:45.115Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Analytics: digitalData has been updated {canonical: https://www.vanityfair.com, contentID: 54ce306e44a199085e8a284f, contentLength: all, contributor: , display: Homepage: Main List} @ [object Object]",
+    "timestamp": "2021-09-09T13:06:53.434Z"
+  },
+  {
+    "part": "console.info",
+    "message": "sending PaywallAnalytics is skipped for homepage @ [object Object]",
+    "timestamp": "2021-09-09T13:06:54.071Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Analytics: library ready @ [object Object]",
+    "timestamp": "2021-09-09T13:06:54.284Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "cns.addTargeting function is not setup service function(){var t=a(window,\"cns.pageContext.keywords.cm\",[]),e=t.concat(o);return s(window,\"cns.pageContext.keywords.cm\",e),{cnt_cm:e}} @ [object Object]",
+    "timestamp": "2021-09-09T13:06:54.311Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Analytics: digitalData has been updated {canonical: https://www.vanityfair.com, contentID: 54ce306e44a199085e8a284f, contentLength: all, contributor: , display: Homepage: Main List} @ [object Object]",
+    "timestamp": "2021-09-09T13:06:54.314Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:06:55.521Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:06:55.522Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:06:55.718Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:55.718Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:06:55.755Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:06:55.763Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:55.847Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:06:55.863Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:07:06.935Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:07:06.938Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:07:06.958Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:07:06.964Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:07:07.097Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "ads.Invalid sizes: unable to define 'siderail' on mobile..warn {definition: Object, slotName: siderail} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:07.267Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "ads.Invalid sizes: unable to define 'siderail_btf' on mobile..warn {definition: Object, slotName: siderail_btf} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:07.273Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "ads.Invalid render: unable to define: 'siderail_btf' on mobile.warn {definition: Object, slotName: siderail_btf} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:07.275Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "ads.Invalid sizes: unable to define 'AMS_VYF_GLOBAL_NAVBAR' on mobile..warn {definition: Object, slotName: AMS_VYF_GLOBAL_NAVBAR} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:07.296Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "ads.Invalid sizes: unable to define 'AMS_VYF_GLOBAL_ROLLOVER' on mobile..warn {definition: Object, slotName: AMS_VYF_GLOBAL_ROLLOVER} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:07.303Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "ads.Invalid sizes: unable to define 'AMS_VYF_HOMEPAGE_NAVBAR_ROLLOVER' on mobile..warn {definition: Object, slotName: AMS_VYF_HOMEPAGE_NAVBAR_ROLLOVER} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:07.308Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "ads.Invalid sizes: unable to define 'AMS_VYF_SITE_FOOTER_SUBSCRIBE' on mobile..warn {definition: Object, slotName: AMS_VYF_SITE_FOOTER_SUBSCRIBE} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:07.312Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "ads.Invalid sizes: unable to define 'VYF_RIGHT_EAR_HOMEPAGE' on mobile..warn {definition: Object, slotName: VYF_RIGHT_EAR_HOMEPAGE} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:07.315Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:07:11.960Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:07:11.989Z"
+  }
+]

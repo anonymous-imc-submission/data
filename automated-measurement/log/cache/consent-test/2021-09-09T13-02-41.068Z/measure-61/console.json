@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-61",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:14:00.047Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "visit https://tcpalm.com/...",
+    "timestamp": "2021-09-09T13:14:00.761Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:14:12.418Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:14:18.793Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:14:18.794Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:14:19.347Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:14:19.351Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:14:19.779Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:14:19.785Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:14:19.890Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:20.734Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:20.749Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:14:22.161Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:14:22.168Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:14:22.187Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:14:22.192Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:14:22.542Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:14:27.188Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:14:27.202Z"
+  }
+]

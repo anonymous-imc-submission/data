@@ -1,0 +1,87 @@
+[
+  {
+    "part": "measure-52",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:10:08.740Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "visit https://tribalfusion.com/...",
+    "timestamp": "2021-09-09T13:10:08.796Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 1.4.1 @ [object Object]",
+    "timestamp": "2021-09-09T13:10:10.224Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:10:11.453Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:10:11.454Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:10:11.689Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:11.689Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:10:11.697Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:10:11.699Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:11.701Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:10:12.709Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:10:12.710Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:10:12.714Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:10:12.724Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Network is idle after 0.78s.",
+    "timestamp": "2021-09-09T13:10:13.497Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:10:17.716Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:10:17.726Z"
+  }
+]

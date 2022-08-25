@@ -1,0 +1,132 @@
+[
+  {
+    "part": "measure-71",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:12:16.129Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "visit https://plentyoffish.com/...",
+    "timestamp": "2021-09-09T13:12:16.289Z"
+  },
+  {
+    "part": "console.log",
+    "message": "OT loaded @ [object Object]",
+    "timestamp": "2021-09-09T13:12:17.994Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AdSlot: TCF loaded @ [object Object]",
+    "timestamp": "2021-09-09T13:12:18.057Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:12:20.970Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:12:20.974Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AdSlot: OptanonWrapper has been called for the first time. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:21.917Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AdSlot: OptanonWrapper calls: 1 @ [object Object]",
+    "timestamp": "2021-09-09T13:12:21.920Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AdSlot: OptanonActiveGroups ,1, @ [object Object]",
+    "timestamp": "2021-09-09T13:12:21.926Z"
+  },
+  {
+    "part": "console.log",
+    "message": "OT: make11y() completed @ [object Object]",
+    "timestamp": "2021-09-09T13:12:22.018Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:12:22.259Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:22.259Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:12:22.293Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:12:22.299Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:22.348Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AdSlot: OptanonWrapper calls: 2 @ [object Object]",
+    "timestamp": "2021-09-09T13:12:22.780Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AdSlot: OptanonActiveGroups ,1,2,3,4,8,STACK42, @ [object Object]",
+    "timestamp": "2021-09-09T13:12:22.781Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:12:22.812Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:12:22.815Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:12:22.825Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:12:22.826Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GTM: Bing global site tag loaded @ [object Object]",
+    "timestamp": "2021-09-09T13:12:22.929Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:12:23.010Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GTM: Google global site tag loaded @ [object Object]",
+    "timestamp": "2021-09-09T13:12:23.527Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:12:27.826Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:12:27.836Z"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "part": "measure-19",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:09:47.423Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "visit https://juegosjuegos.com/...",
+    "timestamp": "2021-09-09T13:09:47.711Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "init has already been called and should only be run one time. @ [object Object]",
+    "timestamp": "2021-09-09T13:09:49.312Z"
+  },
+  {
+    "part": "console.log",
+    "message": "{adName: mobile_index_center_2} {showing: true} {lazy: true} <!-- /1043750/JuegosJuegos.com_Mobile_BTF_300x250 -->\r\n<div id='div-gpt-ad-1517240713959-0'>\r\n<script>\r\ngoogletag.cmd.push(function() { googletag.display('div-gpt-ad-1517240713959-0'); });\r\n</script>\r\n</div> @ [object Object]",
+    "timestamp": "2021-09-09T13:09:49.529Z"
+  },
+  {
+    "part": "console.log",
+    "message": "{isRetina: false} @ [object Object]",
+    "timestamp": "2021-09-09T13:09:49.535Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Wait for google tag @ [object Object]",
+    "timestamp": "2021-09-09T13:09:49.734Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[index.js] Run Event @ [object Object]",
+    "timestamp": "2021-09-09T13:09:49.760Z"
+  },
+  {
+    "part": "console.log",
+    "message": "{isRetina: true} @ [object Object]",
+    "timestamp": "2021-09-09T13:09:49.820Z"
+  },
+  {
+    "part": "console.log",
+    "message": "{isRetina: true} @ [object Object]",
+    "timestamp": "2021-09-09T13:09:50.173Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:09:50.462Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:09:50.462Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:09:51.276Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:09:51.277Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:09:51.468Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:09:51.482Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:09:51.497Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:09:51.655Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:09:52.142Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "TCF data: cmpId 10 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:09:52.144Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:09:52.151Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:09:52.154Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:09:52.189Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:09:57.152Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:09:57.166Z"
+  }
+]

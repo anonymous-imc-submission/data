@@ -1,0 +1,217 @@
+[
+  {
+    "part": "measure-76",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:28:49.831Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "visit https://eb.com/...",
+    "timestamp": "2021-09-09T13:28:57.016Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:28:59.491Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:28:59.496Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:29:03.831Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Floor Model Loaded @ [object Object]",
+    "timestamp": "2021-09-09T13:29:04.782Z"
+  },
+  {
+    "part": "console.log",
+    "message": "headertag push executed @ [object Object]",
+    "timestamp": "2021-09-09T13:29:04.815Z"
+  },
+  {
+    "part": "console.log",
+    "message": "headertag partner_request_complete IoYqPd0L @ [object Object]",
+    "timestamp": "2021-09-09T13:29:13.245Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o1kfk&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.britannica.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:29:16.520Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an script pixel with URL:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o1kfk&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.britannica.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:29:16.553Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o1kfk&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.britannica.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:29:16.591Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an image pixel with URL:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o1kfk&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.britannica.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:29:16.591Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:29:24.757Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:29:24.781Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:29:25.342Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[BC]DataLayer available @ [object Object]",
+    "timestamp": "2021-09-09T13:29:25.999Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[BC][ERROR] an error occured in interactiontype: [listener_content_meter]\n            called method: [onEvent]\n            error: Cannot read properties of undefined (reading 'id') @ [object Object]",
+    "timestamp": "2021-09-09T13:29:26.047Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[BC][ERROR] --stacktrace-- @ [object Object]",
+    "timestamp": "2021-09-09T13:29:26.047Z"
+  },
+  {
+    "part": "console.trace",
+    "message": "console.trace @ [object Object]",
+    "timestamp": "2021-09-09T13:29:26.047Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[BC][ERROR] --end stacktrace-- @ [object Object]",
+    "timestamp": "2021-09-09T13:29:26.047Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[BC]Item will not be scraped due to missing item ID @ [object Object]",
+    "timestamp": "2021-09-09T13:29:26.495Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:29:27.470Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:29:27.484Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:29:28.141Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:29:28.149Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:29:28.738Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:29:28.861Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button class=\"cookie-setting-link\" id=\"onetrust-pc-btn-…>Preference Center</button>\nattempting click action\n  waiting for element to be visible, enabled and stable\n============================================================",
+    "timestamp": "2021-09-09T13:29:30.895Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:29:33.596Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".ot-pc-refuse-all-handler:visible, .save-preference-btn-handler:visible\"\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:30:16.137Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:30:20.112Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:30:20.117Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:30:25.238Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:31:16.053Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:31:16.060Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:31:27.179Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:31:27.481Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "TCF data: cmpId 28 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:31:27.484Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:31:27.517Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:31:27.525Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:31:32.520Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:31:32.584Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:31:32.589Z"
+  }
+]

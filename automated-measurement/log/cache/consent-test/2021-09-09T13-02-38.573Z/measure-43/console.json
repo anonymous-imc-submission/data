@@ -1,0 +1,87 @@
+[
+  {
+    "part": "measure-43",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:08:54.762Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "visit https://winfuture.de/...",
+    "timestamp": "2021-09-09T13:08:56.224Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:09:00.445Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:09:00.448Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:09:00.880Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:09:00.901Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:09:00.934Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:09:00.937Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:09:00.964Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:09:01.868Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:09:01.872Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:09:01.890Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:09:01.896Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:09:02.105Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://m.winfuture.de/ @ [object Object]",
+    "timestamp": "2021-09-09T13:09:06.462Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:09:06.894Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:09:06.928Z"
+  }
+]

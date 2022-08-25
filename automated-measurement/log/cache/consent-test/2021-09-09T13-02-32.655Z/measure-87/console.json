@@ -1,0 +1,112 @@
+[
+  {
+    "part": "measure-87",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:22:09.394Z"
+  },
+  {
+    "part": "measure-87",
+    "message": "visit https://nationalenquirer.com/...",
+    "timestamp": "2021-09-09T13:22:09.871Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:22:13.149Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:22:13.323Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:22:15.124Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:22:16.177Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c is_international - key already exists: ami-international=1 color: #2e86de @ [object Object]",
+    "timestamp": "2021-09-09T13:22:16.813Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:22:19.295Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:22:21.591Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:22:22.916Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:22:23.963Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:22:24.316Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:22:24.702Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:22:31.279Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:22:31.308Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:22:31.646Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:22:35.625Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:22:35.949Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:22:37.147Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:22:38.340Z"
+  },
+  {
+    "part": "measure-87",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://nationalenquirer.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:22:39.895Z"
+  },
+  {
+    "part": "measure-87",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:22:40.005Z"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "part": "measure-87",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:19:56.964Z"
+  },
+  {
+    "part": "measure-87",
+    "message": "visit https://wz.de/...",
+    "timestamp": "2021-09-09T13:19:58.274Z"
+  },
+  {
+    "part": "console.log",
+    "message": "start a new Bundleloader with these features: useCache: true / useWorker: true @ [object Object]",
+    "timestamp": "2021-09-09T13:20:01.551Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "<link rel=preload> uses an unsupported `as` value @ [object Object]",
+    "timestamp": "2021-09-09T13:20:08.742Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Debug: tcData.eventStatus:  cmpuishown @ [object Object]",
+    "timestamp": "2021-09-09T13:20:17.289Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Debug: tcData.eventStatus:  cmpuishown @ [object Object]",
+    "timestamp": "2021-09-09T13:20:17.299Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Debug: tcData.eventStatus:  cmpuishown @ [object Object]",
+    "timestamp": "2021-09-09T13:20:17.299Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Debug: tcData.eventStatus:  cmpuishown @ [object Object]",
+    "timestamp": "2021-09-09T13:20:17.300Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Debug: tcData.eventStatus:  cmpuishown @ [object Object]",
+    "timestamp": "2021-09-09T13:20:18.244Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Debug: tcData.eventStatus:  cmpuishown @ [object Object]",
+    "timestamp": "2021-09-09T13:20:18.268Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Debug: tcData.eventStatus:  cmpuishown @ [object Object]",
+    "timestamp": "2021-09-09T13:20:18.295Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Debug: tcData.eventStatus:  cmpuishown @ [object Object]",
+    "timestamp": "2021-09-09T13:20:18.657Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "<link rel=preload> uses an unsupported `as` value @ [object Object]",
+    "timestamp": "2021-09-09T13:20:18.666Z"
+  },
+  {
+    "part": "measure-87",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://wz.de/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:20:28.471Z"
+  },
+  {
+    "part": "measure-87",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:20:29.101Z"
+  }
+]

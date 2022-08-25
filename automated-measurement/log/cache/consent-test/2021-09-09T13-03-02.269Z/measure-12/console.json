@@ -1,0 +1,117 @@
+[
+  {
+    "part": "measure-12",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:07:01.565Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "visit https://fantasypros.com/...",
+    "timestamp": "2021-09-09T13:07:01.774Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'checkAdUnitSetup' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:07:07.344Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:07:09.386Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Div ID passed to googletag.display() does not match any defined slots: div-gpt-ad-1590531866165-0. @ [object Object]",
+    "timestamp": "2021-09-09T13:07:10.859Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:07:11.219Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:07:16.909Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:07:19.255Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:07:20.935Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:07:20.936Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:07:21.279Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:21.280Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:07:21.302Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:07:21.307Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:21.343Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:07:21.368Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:07:37.266Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:07:37.267Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:07:37.275Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:07:37.277Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:07:37.508Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:07:42.276Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:07:42.369Z"
+  }
+]

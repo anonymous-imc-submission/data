@@ -1,0 +1,327 @@
+[
+  {
+    "part": "measure-47",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:13:34.881Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "visit https://intouchweekly.com/...",
+    "timestamp": "2021-09-09T13:13:35.225Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:13:36.912Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:13:36.933Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:13:38.683Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:13:39.309Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:13:39.698Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:13:40.979Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Permutive was not initialized. No consent to run on the page @ [object Object]",
+    "timestamp": "2021-09-09T13:13:41.282Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:13:41.716Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:13:41.968Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:13:42.070Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.466Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:13:45.503Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:13:48.707Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:13:49.643Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:13:49.744Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:13:49.776Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:13:50.076Z"
+  },
+  {
+    "part": "console.log",
+    "message": "{} @ [object Object]",
+    "timestamp": "2021-09-09T13:13:50.130Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:13:50.507Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:13:50.552Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:13:50.559Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:13:51.064Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c is_international - \"status\":true color: #10ac84 @ [object Object]",
+    "timestamp": "2021-09-09T13:13:51.115Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c Got: 1631193230009.7454 background: #27ae60; color: #000; padding: 2px 10px 2px 5px @ [object Object]",
+    "timestamp": "2021-09-09T13:13:51.145Z"
+  },
+  {
+    "part": "console.log",
+    "message": "permutive identity:  TypeError: Cannot read properties of null (reading 'user')\n    at Object.<anonymous> (https://www.intouchweekly.com/:1753:26)\n    at c (https://www.intouchweekly.com/_static/??-eJzTLy/QzcxLzilNSS3WzwKiwtLUokoopZebmaeXVayjj0+Rbm5melFiSSpUsX2uraGZkaWhiamZgXkWAK94IiE=:2:28327)\n    at Object.fireWith [as resolveWith] (https://www.intouchweekly.com/_static/??-eJzTLy/QzcxLzilNSS3WzwKiwtLUokoopZebmaeXVayjj0+Rbm5melFiSSpUsX2uraGZkaWhiamZgXkWAK94IiE=:2:29072)\n    at l (https://www.intouchweekly.com/_static/??-eJzTLy/QzcxLzilNSS3WzwKiwtLUokoopZebmaeXVayjj0+Rbm5melFiSSpUsX2uraGZkaWhiamZgXkWAK94IiE=:2:79901)\n    at XMLHttpRequest.<anonymous> (https://www.intouchweekly.com/_static/??-eJzTLy/QzcxLzilNSS3WzwKiwtLUokoopZebmaeXVayjj0+Rbm5melFiSSpUsX2uraGZkaWhiamZgXkWAK94IiE=:2:82355) @ [object Object]",
+    "timestamp": "2021-09-09T13:13:51.145Z"
+  },
+  {
+    "part": "console.log",
+    "message": "identity [Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:13:51.145Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:13:51.145Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:13:51.345Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:13:51.345Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:13:51.408Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:13:51.460Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:13:51.686Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:13:51.723Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:13:51.723Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:13:51.807Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:13:51.807Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:13:51.807Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:13:51.844Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:13:52.177Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:13:52.223Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:13:52.258Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:52.305Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:13:52.524Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:13:52.529Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:53.255Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:13:53.305Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:13:53.305Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:13:53.309Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:13:53.408Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:13:53.672Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[Facebook Pixel] - Duplicate Pixel ID: 917306678321106. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:55.020Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:13:56.362Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:13:56.362Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:13:56.863Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:13:56.890Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:13:57.060Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:13:57.069Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:13:57.639Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:13:57.643Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:13:59.913Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:14:00.281Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:14:02.067Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:14:02.351Z"
+  }
+]

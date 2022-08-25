@@ -1,0 +1,67 @@
+[
+  {
+    "part": "measure-14",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:28.856Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "visit https://resultados.com/...",
+    "timestamp": "2021-09-09T13:06:29.303Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:06:40.561Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:06:40.584Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://cdn.cookielaw.org/vendorlist/iab2Data.json was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:06:45.823Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:06:49.002Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cPubTag color: #fff; background: #ff8f1c; display: inline-block; padding: 1px 4px; border-radius: 3px; ERROR: can't display acceptable ad : the container \"crt-1364426\" is not visible @ [object Object]",
+    "timestamp": "2021-09-09T13:06:49.689Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "__tcfapi not found: TimeoutError: page.waitForFunction: Timeout 30000ms exceeded.",
+    "timestamp": "2021-09-09T13:07:10.681Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "TCF data: cmpId null consent null, legInt null.",
+    "timestamp": "2021-09-09T13:07:10.681Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:07:10.686Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:07:15.688Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:07:30.690Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:07:30.755Z"
+  }
+]

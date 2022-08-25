@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-56",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:24:59.965Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "visit https://quotenet.nl/...",
+    "timestamp": "2021-09-09T13:25:00.708Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service worker registration succeeded. @ [object Object]",
+    "timestamp": "2021-09-09T13:25:09.267Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:25:11.370Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:25:23.761Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:25:23.775Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:25:25.944Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:25:25.944Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:25:25.985Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:25:25.994Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:25:26.057Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:25:26.116Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:25:42.162Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:25:42.162Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:25:42.174Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:25:42.190Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:25:42.765Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service worker registration succeeded. @ [object Object]",
+    "timestamp": "2021-09-09T13:25:46.948Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Minimum wait time reached after 6.16s.",
+    "timestamp": "2021-09-09T13:25:48.336Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:25:48.405Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:25:48.524Z"
+  }
+]

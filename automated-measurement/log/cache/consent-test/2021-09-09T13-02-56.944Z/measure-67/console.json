@@ -1,0 +1,112 @@
+[
+  {
+    "part": "measure-67",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:23:04.469Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "visit https://lubimyczytac.pl/...",
+    "timestamp": "2021-09-09T13:23:04.699Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Unrecognized feature: 'web-share'. @ [object Object]",
+    "timestamp": "2021-09-09T13:23:08.478Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GAM @ [object Object]",
+    "timestamp": "2021-09-09T13:23:08.881Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:23:20.684Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:23:20.697Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:23:21.649Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:23:21.650Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:23:21.697Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:23:21.703Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:23:21.799Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:23:21.834Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Probably one of your browser extensions is blocking Google Analytics @ [object Object]",
+    "timestamp": "2021-09-09T13:23:22.558Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Got error on prompt DOMException: Registration failed - push service not available @ [object Object]",
+    "timestamp": "2021-09-09T13:23:23.930Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://s.lubimyczytac.pl/rwd/src/fonts/icomoon/fonts/icomoon.woff?2021090905 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:23:24.091Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:23:57.571Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:23:57.573Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:23:57.706Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:23:57.707Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:23:58.711Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:24:02.765Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:24:02.970Z"
+  }
+]

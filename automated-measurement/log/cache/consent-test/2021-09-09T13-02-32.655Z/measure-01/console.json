@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-01",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:05:46.608Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "visit https://burlingtonfreepress.com/...",
+    "timestamp": "2021-09-09T13:05:47.017Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:05:56.521Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:06:01.152Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:06:01.168Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:06:01.727Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:01.732Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:06:01.827Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:06:01.844Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:01.992Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:06:03.909Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:06:03.917Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:06:03.951Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:06:03.960Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:06:04.457Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:06:04.490Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:06:04.860Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:06:08.952Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:06:09.002Z"
+  }
+]

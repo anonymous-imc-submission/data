@@ -1,0 +1,177 @@
+[
+  {
+    "part": "measure-10",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:23.469Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "visit https://reuters.tv/...",
+    "timestamp": "2021-09-09T13:06:23.631Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Load polyfills @ [object Object]",
+    "timestamp": "2021-09-09T13:06:24.986Z"
+  },
+  {
+    "part": "console.log",
+    "message": "false @ [object Object]",
+    "timestamp": "2021-09-09T13:06:25.100Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Init Bootstrap with config {admantx: null, admantx_url: https://www.reuters.com/video/, adstest: null, dart_zone: /4735792/reuters.com/video/world/reutersnow, privacy_domain: reuters.com} @ [object Object]",
+    "timestamp": "2021-09-09T13:06:25.295Z"
+  },
+  {
+    "part": "console.log",
+    "message": "MOAT init script @ [object Object]",
+    "timestamp": "2021-09-09T13:06:25.303Z"
+  },
+  {
+    "part": "console.log",
+    "message": "comscore new global fired @ [object Object]",
+    "timestamp": "2021-09-09T13:06:25.350Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Blocking Ads: No @ [object Object]",
+    "timestamp": "2021-09-09T13:06:25.599Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cleared-onetrust-cookies  cutoff Thu Apr 15 2021 17:44:20 GMT+0200 (Mitteleuropäische Sommerzeit) @ [object Object]",
+    "timestamp": "2021-09-09T13:06:25.608Z"
+  },
+  {
+    "part": "console.log",
+    "message": "clear onetrust cookie!!! @ [object Object]",
+    "timestamp": "2021-09-09T13:06:25.609Z"
+  },
+  {
+    "part": "console.log",
+    "message": "IAS setup complete @ [object Object]",
+    "timestamp": "2021-09-09T13:06:25.633Z"
+  },
+  {
+    "part": "console.log",
+    "message": "MOAT setup complete @ [object Object]",
+    "timestamp": "2021-09-09T13:06:25.806Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:06:26.676Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:06:26.677Z"
+  },
+  {
+    "part": "console.log",
+    "message": "segment identify user with traits: {google_analytics_id: UA-24152976-1} @ [object Object]",
+    "timestamp": "2021-09-09T13:06:26.747Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:06:26.957Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:26.957Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:06:26.992Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:06:26.995Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:27.000Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:06:27.259Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n============================================================",
+    "timestamp": "2021-09-09T13:06:29.265Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:06:31.783Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:06:35.975Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:06:35.976Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:06:35.981Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:06:35.983Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:06:36.098Z"
+  },
+  {
+    "part": "console.table",
+    "message": "{require_gdpr_consent: true, require_ccpa_consent: false, require_consent: true, consent: false, gdpr_consent_data: undefined, ccpa_consent_data: 1---, admantx: S_234,S_2541,S_2544,S_2568,S_3140,S_3205,S_3209,S_…,S_7116,S_7123,S_7424,S_7547,S_7551,S_7721,S_7779} @ [object Object]",
+    "timestamp": "2021-09-09T13:06:36.127Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Permutive was not initialized. No consent to run on the page @ [object Object]",
+    "timestamp": "2021-09-09T13:06:36.789Z"
+  },
+  {
+    "part": "console.error",
+    "message": "JW Player Error 102630. For more information see https://developer.jwplayer.com/jw-player/docs/developer-guide/api/errors-reference#102630 @ [object Object]",
+    "timestamp": "2021-09-09T13:06:36.951Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GPT SET ADMANTX:  S_234,S_2541,S_2544,S_2568,S_3140,S_3205,S_3209,S_3225,S_3246,S_3376,S_3609,S_4274,S_6119,S_6387,S_6576,S_6902,S_7057,S_7116,S_7123,S_7424,S_7547,S_7551,S_7721,S_7779 @ [object Object]",
+    "timestamp": "2021-09-09T13:06:37.523Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GPT ENABLE SERVICES @ [object Object]",
+    "timestamp": "2021-09-09T13:06:37.534Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:06:40.982Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:06:41.015Z"
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-55",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:12:35.242Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "visit https://goodhousekeeping.co.uk/...",
+    "timestamp": "2021-09-09T13:12:36.116Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service worker registration succeeded. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:38.971Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:12:42.613Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:12:49.122Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:12:49.206Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:12:49.964Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:49.970Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:12:50.000Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:12:50.004Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:50.140Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:12:51.004Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:12:51.008Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:12:51.030Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:12:51.035Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:12:51.067Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service worker registration succeeded. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:51.634Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:12:56.036Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:12:56.084Z"
+  }
+]

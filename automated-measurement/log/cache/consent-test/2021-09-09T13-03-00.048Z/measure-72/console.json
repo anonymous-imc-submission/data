@@ -1,0 +1,157 @@
+[
+  {
+    "part": "measure-72",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:27:02.460Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "visit https://techopedia.com/...",
+    "timestamp": "2021-09-09T13:27:03.926Z"
+  },
+  {
+    "part": "console.log",
+    "message": "PubWise Pre Load Complete Rev XV520210128 @ [object Object]",
+    "timestamp": "2021-09-09T13:27:06.995Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:27:10.971Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:27:10.993Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Push notifications powered by Aimtell. Learn more at https://aimtell.com/developers @ [object Object]",
+    "timestamp": "2021-09-09T13:27:11.593Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:27:12.056Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:27:12.064Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:27:13.022Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:27:13.028Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:27:14.344Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:27:14.392Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://fdyn.pubwise.io/script/3dc205d3-d6ab-47fa-a604-b886ab592ac7/v3/dyn/pws.js?type=tech-v2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:27:14.541Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button class=\"cookie-setting-link\" id=\"onetrust-pc-btn-…>Show Purposes</button>\nattempting click action\n  waiting for element to be visible, enabled and stable\n============================================================",
+    "timestamp": "2021-09-09T13:27:16.425Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Query variable %s not found sumotoken @ [object Object]",
+    "timestamp": "2021-09-09T13:27:16.526Z"
+  },
+  {
+    "part": "console.log",
+    "message": "install sumo badge... @ [object Object]",
+    "timestamp": "2021-09-09T13:27:17.158Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Query variable %s not found sumopath @ [object Object]",
+    "timestamp": "2021-09-09T13:27:17.386Z"
+  },
+  {
+    "part": "console.info",
+    "message": "CREATING SANDBOX FOR services/index/#services/index @ [object Object]",
+    "timestamp": "2021-09-09T13:27:18.512Z"
+  },
+  {
+    "part": "console.info",
+    "message": "CREATING SANDBOX FOR 156085c5-0017-4150-b225-a731ad248f38/service/#156085c5-0017-4150-b225-a731ad248f38/service @ [object Object]",
+    "timestamp": "2021-09-09T13:27:19.471Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:27:20.380Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".ot-pc-refuse-all-handler:visible, .save-preference-btn-handler:visible\"\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:27:51.146Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:28:12.621Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:28:12.630Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:28:18.278Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:29:12.088Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "TCF data: cmpId 28 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:29:12.094Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:29:12.273Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:29:12.293Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:29:12.540Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Minimum wait time reached after 5.03s.",
+    "timestamp": "2021-09-09T13:29:17.321Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:29:17.687Z"
+  }
+]

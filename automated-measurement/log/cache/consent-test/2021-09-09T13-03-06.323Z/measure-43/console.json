@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-43",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:13:15.925Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "visit https://penny-arcade.com/...",
+    "timestamp": "2021-09-09T13:13:16.157Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:13:18.797Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:13:30.307Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:13:30.308Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:13:36.112Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:36.113Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:13:38.995Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:13:39.011Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:39.029Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:13:40.611Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:13:41.661Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:13:42.282Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "TCF data: cmpId 10 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:13:42.285Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:13:42.298Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:13:42.390Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:13:47.301Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:14:02.315Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:14:02.444Z"
+  }
+]

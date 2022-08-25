@@ -1,0 +1,142 @@
+[
+  {
+    "part": "measure-85",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:33:25.720Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "visit https://vg247.com/...",
+    "timestamp": "2021-09-09T13:33:28.886Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:33:53.058Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:33:53.073Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:33:54.886Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:33:54.894Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:33:55.031Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:33:55.040Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:33:55.115Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:33:55.197Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://c.amazon-adsystem.com/aax2/apstag.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:33:56.142Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://securepubads.g.doubleclick.net/tag/js/gpt.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:33:56.144Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button class=\"cookie-setting-link\" id=\"onetrust-pc-btn-…>Zwecke anzeigen</button>\nattempting click action\n  waiting for element to be visible, enabled and stable\n============================================================",
+    "timestamp": "2021-09-09T13:33:58.114Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:34:03.149Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".ot-pc-refuse-all-handler:visible, .save-preference-btn-handler:visible\"\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:34:34.597Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:34:45.981Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:34:45.987Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:34:51.186Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:35:41.798Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:35:41.798Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:35:46.939Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:35:54.893Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "TCF data: cmpId 28 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:35:54.900Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:35:54.936Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:35:54.948Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:35:59.940Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:36:00.207Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:36:00.214Z"
+  }
+]

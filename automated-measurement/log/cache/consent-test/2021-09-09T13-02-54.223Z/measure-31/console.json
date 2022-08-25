@@ -1,0 +1,87 @@
+[
+  {
+    "part": "measure-31",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:10:38.394Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "visit https://condenast.co.uk/...",
+    "timestamp": "2021-09-09T13:10:38.549Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:10:40.540Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:10:40.561Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:10:40.976Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:40.976Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:10:40.994Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:10:40.999Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:41.086Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:10:41.155Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:10:45.773Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:10:45.780Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:10:45.787Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:10:45.788Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:10:45.810Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:10:50.788Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:10:50.810Z"
+  }
+]

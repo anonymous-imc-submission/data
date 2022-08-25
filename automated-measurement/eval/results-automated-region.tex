@@ -1,0 +1,27 @@
+\documentclass{standalonefigure}
+
+\begin{document}
+	\input{\paperroot/data/viz/personalization-means.tex}
+	
+	\begin{figure}
+		\hfill
+		\begin{tikzpicture}
+			\begin{scope}[x=1.25cm,y=.3cm, yshift=.1cm]
+				\autoResultTicksA{2.3cm}
+				\autoResultBars{5}{EuCentral}{Public Cloud VM}
+				\autoResultBars{2.5}{UibkVm}{University VM}
+				\autoResultBars{0}{UibkDesktop}{University Laptop}
+				%\node[left] at (0,8) {\textbf{Crawl Device}};
+				\autoResultTicksB{2.3cm}
+				\autoResultLegend{18\,000\footnotesize\text{/bar}}
+			\end{scope}
+			
+		\end{tikzpicture}	
+		\caption{
+			Observed ad personalization metrics for measurements made by different setups. The red bars represent the unpersonalized baseline, i.e., the average number of matching keywords in HTTP traffic if the browser profile has not been primed.
+			In all cases, the actual personalization effect --- the difference between the red and green bars --- is small. 
+		}
+		\label{fig/results-automated-region}
+	\end{figure}
+	
+\end{document}

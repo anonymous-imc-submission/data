@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-15",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:07:11.097Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "visit https://newyorkcomiccon.com/...",
+    "timestamp": "2021-09-09T13:07:11.477Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://newyorkcomiccon.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:07:41.482Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:07:41.494Z"
+  }
+]

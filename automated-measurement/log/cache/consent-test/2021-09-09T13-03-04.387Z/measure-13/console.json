@@ -1,0 +1,222 @@
+[
+  {
+    "part": "measure-13",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:08:43.070Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "visit https://stirileprotv.ro/...",
+    "timestamp": "2021-09-09T13:08:43.285Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Allow attribute will take precedence over 'allowfullscreen'. @ [object Object]",
+    "timestamp": "2021-09-09T13:08:44.818Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://assets.sport.ro/assets/feed/cursvalutar/scripts/variablesIncont.js?1631192926134, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:08:46.136Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://assets.sport.ro/assets/feed/cursvalutar/scripts/variablesIncont.js?1631192926134, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:08:46.141Z"
+  },
+  {
+    "part": "console.log",
+    "message": "1 @ [object Object]",
+    "timestamp": "2021-09-09T13:08:46.889Z"
+  },
+  {
+    "part": "console.log",
+    "message": "HasAdBlock : No @ [object Object]",
+    "timestamp": "2021-09-09T13:08:46.890Z"
+  },
+  {
+    "part": "console.log",
+    "message": "CPMREm7PMREm7AcABBENBiCgAAAAAAAAAChQAAAAAAJggAQCogHyhILwACAAFwAUABUADIAHIAPABAADAAGUANAA1AB5AEMARQAmABPgCqAKwAWAA3gBzAD0AH4AQgAhoBEAESAI6ASwBLgCaAFKALcAYYAyABlwDUANUAbIA7wB7AD4gH2AfoBAACBwEXARgAjQBHACUgFBAKWAU8Aq4BcwDFAGsANoAbgA3gBxAD0AHyAQ2Ah0BF4CRAExAJlATYAnYBQ4CkQFNALFAWgAtgBcgC7wF5gMCAYMAwkBhoDDwGRAMkAZOAy4BnIDPgGkANOgawBrIDdYHIgcqA5cB0YDrAHjgPaAfKEAZQAOAA8AEgAfwBIgDNAG1AOYA5wB1AEHAJ-AUMA0QB1QEPgI9ASEAkUBKwCbQFPgKiAWEAugBdQC7QF5AMQAYsAyEBkYDJgGfgNCAaMA0oBqYDaAG3AN0AdIA7AB2YDugHgQPJA8oB7oD5AH2AP3AgIGAHgBUAHMAdQBDYCQgEigKiAX0AyMBoQDdAHEgOzAe6A-UNAoACsAFwAQwAyABlgDUAGyAOwAfgBAACCgEYAKWAU8Aq8BaAFpANYAbwA6oB8gEOgIqAReAkQBNgCdgFIgLkAYEAwkBh4DGAGTgM5AZ4Az4ByQDlAHWAPwEADQASADmAN4AhsBIQCRQFRANCAboA4kB2YD3QHyiIEIAVgBDADIAGWANQAbIA7AB-AEAAIwAUsAp4BVwDWAHVAPkAh0BF4CRAE2AJ2AUiAuQBgQDCQGHgMnAZyAz4ByQDlAHWAPwFQIAAKABDACYAFwARwAywBqADsAH4ARgAjgBSwCrwFoAWkA3gCQQExAJsAU2AtgBcgC8wGBAMPAZEAzkBngDPgG5AOSAcoA_AUAOAG0AOYAeABBQDqgI7AR6AkUBUQC-gGhANeAcSA-wZAeAAoAEMAJgAjgBlgDUAHZAPsA_ACMAEcAKWAVcArYBvAEnAJiATYAtEBbAC8wGBAMPAZEAzkBngDPgHJAOUAfEA_AYANAG0AOYAeABYgDqgI7AR6AkUBUQC8gGhAOJAfYOAsAAIgAcAB4AFwASAA5AB-AGQANAAfwBIgCzAGWAM0AbUA5gDnAHUAOwAdwBAACCwEHAQgAiIBNoCfAJ-AUsAqABbQC9QGAAYEAzIBrADXgG8AOOAdIA6oB5AD5AIQAQ-Aj0BIQCRYErASuAmIBMoCbQFCgKQAUmApgBUwCqgFbAK7AWUAtQBcUC6ALqAX0AwIBiADFgGQgMmAZeAz8BoUDRQNGAaUA00BqYDXgG0ANsAbcA4mBx4HIAOkAdgA7MB2oDwIHkgeUA90B8QD7IH7AfuOg7gALgAoACoAGQAOQAfACAAF0AMAAygBoAGoAPAAfQBDAEUAJgAT4AqgCsAFiALgAugBfADEAGYAN4AcwA9AB-AEIAIaARABEgCOgEsATAAmgBRgClAFiALeAYQBhgDIAGUANEAagA2QBvgDvAHtAPsA_QB_gEDgIsAjABHICUgJUAUEAp4BVwCxQFoAWkAuYBdQC8gGKANoAbgA4kB0wHUAPQAhsBDoCIgEVAIvASCAkQBKgCZAE2AJ2AUOApoBVgCxQFoQLYAtkBcAC5AF2gLvAXmAwYBhIDDQGHgMSAYwAx4BkgDJwGVAMsAZcAzkBnwDRIGkAaSA0sBpwDVQGsANjAbqA4uByQHKgOXAdGA6wB44D0gHqgPaAfKA-uB-AH4gQBIANAAEAA_ADQAH8ASIAywBtQDmAOcAdgA8ACCgE-AKWAWIAwABmQDeAHVAO2Ah8BHYCPQEhAJFASuAmIBNoChQFIAKTAVEArYBdAC8gF9AMCAZ-A0IBooDSgGpgNsAbcA4kB2EDyQPKAeiA90B8QD7AH7AP4IQQwAFgAUAAyAC4AGIAQwAmABTACqAFwAL4AYgAzABvAD0AI4AWIAwgBlADUAG-AO-AfYB-AD_AIwARwAlIBQQChgFPAKvAWgBaQC5gGKANoAdQA9ACQQEiAJOASoAmwBTQCxQFowLYAtoBcAC5AF2gMPAYkAyIBk4DOQGeAM-AaIA0kBpYDVQHAAOSAdGA6wB2oDxwH4EoHwACAAFgAUAAyAByAGAAYgA8ACIAEwAKoAXAAvgBiADMAG0AQgAhoBEAESAI4AUYApQBbgDCAGUANUAbIA7wB-AEYAI4AScAp4BV4C0ALSAXUAxQBuADqAHyAQ6AioBF4CRAE2ALFAWwAu0BeYDDwGRAMnAZYAzkBngDPgGkANYAcAA6wB2oD2gH4EgFYADgALgAhAByAEsAKgAZABIgC5AGWANQAbQA5gB3AEAAISAT4AqABmQDXgG8AOqAfYBHYCPQEigJWATaApMBZQC6AF9AMWAZ-A0IBpQDcgHEgOkAdgA8oB9kD9wP4KQUwAFwAUABUADIAHIAPgBBADAAMoAaABqADyAIYAigBMACeAFIAKoAWAAvgBiADMAHMAPwAhABDQCIAIkAUYApQBYgC3AGEAMoAaIA1QBsgDvgH2AfoBFgCMAEcAJSAUEAoYBVwCtgFzALyAYoA2gBuAD0AIdAReAkQBJwCbAE7AKHAWKAtABbAC4AFyALtAXmAw0Bh4DGAGRAMkAZOAy4BnIDPAGfQNIA0mBrAGsgNjAbrA5MDlAHLgOsAdqA8cB7QD5QH4FAI4AFwAQgAkAByAD8AKgAVgAyABtAEcAJEAXIAywBqADXAG1AOYA5wB1ADuAHgAQAAhIBFQCRAEnAJsATuAnwCfgFLALEAXUAwABrwDeAHVAO2AeQA_4CPQEigJiATKAm0BSACmAFPgKiAVMArYBXYC6AF5AL6AYEAxYBkwDPwGhANEAaUA02BqQGpgNeAcSA7AB2YDygHugPiAfZA_YD-AAA.YAAAAAAAAAAA @ [object Object]",
+    "timestamp": "2021-09-09T13:08:47.666Z"
+  },
+  {
+    "part": "console.info",
+    "message": "%cPrebid display: inline-block; color: #fff; background: #3b88c3; padding: 1px 4px; border-radius: 3px; INFO: consentManagement module has been activated... @ [object Object]",
+    "timestamp": "2021-09-09T13:08:48.116Z"
+  },
+  {
+    "part": "console.info",
+    "message": "%cPrebid display: inline-block; color: #fff; background: #3b88c3; padding: 1px 4px; border-radius: 3px; INFO: User ID - usersync config updated for 1 submodules:  [id5Id] @ [object Object]",
+    "timestamp": "2021-09-09T13:08:48.119Z"
+  },
+  {
+    "part": "console.info",
+    "message": "%cPrebid display: inline-block; color: #fff; background: #3b88c3; padding: 1px 4px; border-radius: 3px; INFO: Invoking pbjs.addAdUnits [Array(7)] @ [object Object]",
+    "timestamp": "2021-09-09T13:08:48.125Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cPrebid display: inline-block; color: #fff; background: #3b88c3; padding: 1px 4px; border-radius: 3px; MESSAGE: Emitting event for: addAdUnits @ [object Object]",
+    "timestamp": "2021-09-09T13:08:48.127Z"
+  },
+  {
+    "part": "console.info",
+    "message": "%cPrebid display: inline-block; color: #fff; background: #3b88c3; padding: 1px 4px; border-radius: 3px; INFO: Invoking pbjs.onEvent [bidWon,] @ [object Object]",
+    "timestamp": "2021-09-09T13:08:48.137Z"
+  },
+  {
+    "part": "console.info",
+    "message": "%cPrebid display: inline-block; color: #fff; background: #3b88c3; padding: 1px 4px; border-radius: 3px; INFO: Detected CMP API is directly accessible, calling it now... @ [object Object]",
+    "timestamp": "2021-09-09T13:08:48.144Z"
+  },
+  {
+    "part": "console.info",
+    "message": "%cPrebid display: inline-block; color: #fff; background: #3b88c3; padding: 1px 4px; border-radius: 3px; INFO: Received a response from CMP c @ [object Object]",
+    "timestamp": "2021-09-09T13:08:48.167Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[Facebook Pixel] - Unable to parse JSON-LD tag. Malformed JSON found: '\n    //<![CDATA[\n    {\n                    \"@context\":\"http://schema.org\",\n                    \"@type\":\"Organization\",\n                    \"name\":\"Stirileprotv.ro\",\n                    \"url\":\"https://www.stirileprotv.ro/\",\n                    \"logo\":\"https://static.stirileprotv.ro/static/ro/microsites/stirileprotv/img/stirileprotv-logo.jpg\",\n                    \"sameAs\":[\"https://www.facebook.com/StirileProTV/\", \"https://twitter.com/stirileprotv\", \"https://wa.me/40744878878\", \"https://www.instagram.com/stirileprotvro/\", \"https://www.linkedin.com/company/stirile-protv/\"]\n            }    //]]>\n'. @ [object Object]",
+    "timestamp": "2021-09-09T13:08:48.413Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[Facebook Pixel] - Unable to parse JSON-LD tag. Malformed JSON found: '\n    //<![CDATA[\n    {\n\t\t\"@context\":\"http://schema.org\",\n\t\t\"@type\":\"WebSite\",\n\t\t\"url\":\"https://www.stirileprotv.ro/\",\n\t\t\"name\":\"Stirileprotv.ro\",\n\t\t\"potentialAction\":\n\t\t{\n\t\t\t\"@type\":\"SearchAction\",\n\t\t\t\"target\":\"https://stirileprotv.ro/stiri-despre/{q}\",\n\t\t\t\"query-input\":\"required name=q\"\n\t\t}\n            }    //]]>\n'. @ [object Object]",
+    "timestamp": "2021-09-09T13:08:48.417Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 401 (Unauthorized) @ [object Object]",
+    "timestamp": "2021-09-09T13:08:49.170Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "VIDEOJS: WARN: videojs.plugin() is deprecated; use videojs.registerPlugin() instead @ [object Object]",
+    "timestamp": "2021-09-09T13:08:50.642Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Origin trial controlled feature not enabled: 'trust-token-redemption'. @ [object Object]",
+    "timestamp": "2021-09-09T13:08:51.786Z"
+  },
+  {
+    "part": "console.error",
+    "message": "VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) No compatible source was found for this media. Mt @ [object Object]",
+    "timestamp": "2021-09-09T13:08:51.918Z"
+  },
+  {
+    "part": "console.error",
+    "message": "VIDEOJS: ERROR: TypeError: e.ima is not a function\n    at a (https://player.ssl.cdn.cra.cz/cra/2.3.25.1/ott-player.min.js:14:31610)\n    at t.value (https://player.ssl.cdn.cra.cz/cra/2.3.25.1/ott-player.min.js:12:213648)\n    at Ps.<anonymous> (https://player.ssl.cdn.cra.cz/cra/2.3.25.1/ott-player.min.js:12:213244)\n    at HTMLDivElement.r (https://player.ssl.cdn.cra.cz/cra/2.3.25.1/ott-player-vjs-pack.js:1:14603)\n    at HTMLDivElement.Ve.s.dispatcher.s.dispatcher (https://player.ssl.cdn.cra.cz/cra/2.3.25.1/ott-player-vjs-pack.js:1:12526)\n    at Ye (https://player.ssl.cdn.cra.cz/cra/2.3.25.1/ott-player-vjs-pack.js:1:13292)\n    at Ps.trigger (https://player.ssl.cdn.cra.cz/cra/2.3.25.1/ott-player-vjs-pack.js:1:17139)\n    at Ps.<anonymous> (https://player.ssl.cdn.cra.cz/cra/2.3.25.1/ott-player-vjs-pack.js:1:21778)\n    at r (https://player.ssl.cdn.cra.cz/cra/2.3.25.1/ott-player-vjs-pack.js:1:14603)\n    at https://player.ssl.cdn.cra.cz/cra/2.3.25.1/ott-player-vjs-pack.js:1:24907 @ [object Object]",
+    "timestamp": "2021-09-09T13:08:51.929Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:08:52.602Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:08:52.603Z"
+  },
+  {
+    "part": "console.error",
+    "message": "%cPrebid display: inline-block; color: #fff; background: #3b88c3; padding: 1px 4px; border-radius: 3px; ERROR: CMP workflow exceeded timeout threshold. Canceling auction as per consentManagement config. undefined @ [object Object]",
+    "timestamp": "2021-09-09T13:08:53.463Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cPrebid display: inline-block; color: #fff; background: #3b88c3; padding: 1px 4px; border-radius: 3px; MESSAGE: Emitting event for: auctionDebug @ [object Object]",
+    "timestamp": "2021-09-09T13:08:53.470Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:08:53.477Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:08:53.478Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:08:53.700Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:08:53.705Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:08:53.777Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:08:53.871Z"
+  },
+  {
+    "part": "console.error",
+    "message": "VIDEOJS: ERROR: videojs-contrib-ads has not seen a loadstart event 5 seconds after being initialized, but a source is present. This indicates that videojs-contrib-ads was initialized too late. It must be initialized immediately after video.js in the same tick. As a result, some ads will not play and some media events will be incorrect. For more information, see http://videojs.github.io/videojs-contrib-ads/integrator/getting-started.html @ [object Object]",
+    "timestamp": "2021-09-09T13:08:56.745Z"
+  },
+  {
+    "part": "console.log",
+    "message": "CPMREm7PMREm7AcABBENBiCgAAAAAAAAAChQIENf_X__b3_j-_59__t0eY1f9_7_v-0zjhfdt-8N2f_X_L8X_2M7vF36pq4KuR4Eu3LBIQdlHOHcTUmw6okVrzPsbk2Mr7NKJ7PEmnMbe2dYGH9_n93T-ZKY7______7__-_______f__-_____59X---_f_V_997Lv9_____9_N__wAAAJggAQCogHyhILwACAAFwAUABUADIAHIAPABAADAAGUANAA1AB5AEMARQAmABPgCqAKwAWAA3gBzAD0AH4AQgAhoBEAESAI6ASwBLgCaAFKALcAYYAyABlwDUANUAbIA7wB7AD4gH2AfoBAACBwEXARgAjQBHACUgFBAKWAU8Aq4BcwDFAGsANoAbgA3gBxAD0AHyAQ2Ah0BF4CRAExAJlATYAnYBQ4CkQFNALFAWgAtgBcgC7wF5gMCAYMAwkBhoDDwGRAMkAZOAy4BnIDPgGkANOgawBrIDdYHIgcqA5cB0YDrAHjgPaAfKEAZQAOAA8AEgAfwBIgDNAG1AOYA5wB1AEHAJ-AUMA0QB1QEPgI9ASEAkUBKwCbQFPgKiAWEAugBdQC7QF5AMQAYsAyEBkYDJgGfgNCAaMA0oBqYDaAG3AN0AdIA7AB2YDugHgQPJA8oB7oD5AH2AP3AgIGAHgBUAHMAdQBDYCQgEigKiAX0AyMBoQDdAHEgOzAe6A-UNAoACsAFwAQwAyABlgDUAGyAOwAfgBAACCgEYAKWAU8Aq8BaAFpANYAbwA6oB8gEOgIqAReAkQBNgCdgFIgLkAYEAwkBh4DGAGTgM5AZ4Az4ByQDlAHWAPwEADQASADmAN4AhsBIQCRQFRANCAboA4kB2YD3QHyiIEIAVgBDADIAGWANQAbIA7AB-AEAAIwAUsAp4BVwDWAHVAPkAh0BF4CRAE2AJ2AUiAuQBgQDCQGHgMnAZyAz4ByQDlAHWAPwFQIAAKABDACYAFwARwAywBqADsAH4ARgAjgBSwCrwFoAWkA3gCQQExAJsAU2AtgBcgC8wGBAMPAZEAzkBngDPgG5AOSAcoA_AUAOAG0AOYAeABBQDqgI7AR6AkUBUQC-gGhANeAcSA-wZAeAAoAEMAJgAjgBlgDUAHZAPsA_ACMAEcAKWAVcArYBvAEnAJiATYAtEBbAC8wGBAMPAZEAzkBngDPgHJAOUAfEA_AYANAG0AOYAeABYgDqgI7AR6AkUBUQC8gGhAOJAfYOAsAAIgAcAB4AFwASAA5AB-AGQANAAfwBIgCzAGWAM0AbUA5gDnAHUAOwAdwBAACCwEHAQgAiIBNoCfAJ-AUsAqABbQC9QGAAYEAzIBrADXgG8AOOAdIA6oB5AD5AIQAQ-Aj0BIQCRYErASuAmIBMoCbQFCgKQAUmApgBUwCqgFbAK7AWUAtQBcUC6ALqAX0AwIBiADFgGQgMmAZeAz8BoUDRQNGAaUA00BqYDXgG0ANsAbcA4mBx4HIAOkAdgA7MB2oDwIHkgeUA90B8QD7IH7AfuOg7gALgAoACoAGQAOQAfACAAF0AMAAygBoAGoAPAAfQBDAEUAJgAT4AqgCsAFiALgAugBfADEAGYAN4AcwA9AB-AEIAIaARABEgCOgEsATAAmgBRgClAFiALeAYQBhgDIAGUANEAagA2QBvgDvAHtAPsA_QB_gEDgIsAjABHICUgJUAUEAp4BVwCxQFoAWkAuYBdQC8gGKANoAbgA4kB0wHUAPQAhsBDoCIgEVAIvASCAkQBKgCZAE2AJ2AUOApoBVgCxQFoQLYAtkBcAC5AF2gLvAXmAwYBhIDDQGHgMSAYwAx4BkgDJwGVAMsAZcAzkBnwDRIGkAaSA0sBpwDVQGsANjAbqA4uByQHKgOXAdGA6wB44D0gHqgPaAfKA-uB-AH4gQBIANAAEAA_ADQAH8ASIAywBtQDmAOcAdgA8ACCgE-AKWAWIAwABmQDeAHVAO2Ah8BHYCPQEhAJFASuAmIBNoChQFIAKTAVEArYBdAC8gF9AMCAZ-A0IBooDSgGpgNsAbcA4kB2EDyQPKAeiA90B8QD7AH7AP4IQQwAFgAUAAyAC4AGIAQwAmABTACqAFwAL4AYgAzABvAD0AI4AWIAwgBlADUAG-AO-AfYB-AD_AIwARwAlIBQQChgFPAKvAWgBaQC5gGKANoAdQA9ACQQEiAJOASoAmwBTQCxQFowLYAtoBcAC5AF2gMPAYkAyIBk4DOQGeAM-AaIA0kBpYDVQHAAOSAdGA6wB2oDxwH4EoHwACAAFgAUAAyAByAGAAYgA8ACIAEwAKoAXAAvgBiADMAG0AQgAhoBEAESAI4AUYApQBbgDCAGUANUAbIA7wB-AEYAI4AScAp4BV4C0ALSAXUAxQBuADqAHyAQ6AioBF4CRAE2ALFAWwAu0BeYDDwGRAMnAZYAzkBngDPgGkANYAcAA6wB2oD2gH4EgFYADgALgAhAByAEsAKgAZABIgC5AGWANQAbQA5gB3AEAAISAT4AqABmQDXgG8AOqAfYBHYCPQEigJWATaApMBZQC6AF9AMWAZ-A0IBpQDcgHEgOkAdgA8oB9kD9wP4KQUwAFwAUABUADIAHIAPgBBADAAMoAaABqADyAIYAigBMACeAFIAKoAWAAvgBiADMAHMAPwAhABDQCIAIkAUYApQBYgC3AGEAMoAaIA1QBsgDvgH2AfoBFgCMAEcAJSAUEAoYBVwCtgFzALyAYoA2gBuAD0AIdAReAkQBJwCbAE7AKHAWKAtABbAC4AFyALtAXmAw0Bh4DGAGRAMkAZOAy4BnIDPAGfQNIA0mBrAGsgNjAbrA5MDlAHLgOsAdqA8cB7QD5QH4FAI4AFwAQgAkAByAD8AKgAVgAyABtAEcAJEAXIAywBqADXAG1AOYA5wB1ADuAHgAQAAhIBFQCRAEnAJsATuAnwCfgFLALEAXUAwABrwDeAHVAO2AeQA_4CPQEigJiATKAm0BSACmAFPgKiAVMArYBXYC6AF5AL6AYEAxYBkwDPwGhANEAaUA02BqQGpgNeAcSA7AB2YDygHugPiAfZA_YD-AAA.YAAAAAAAAAAA @ [object Object]",
+    "timestamp": "2021-09-09T13:09:05.132Z"
+  },
+  {
+    "part": "console.info",
+    "message": "%cPrebid display: inline-block; color: #fff; background: #3b88c3; padding: 1px 4px; border-radius: 3px; INFO: Received a response from CMP c @ [object Object]",
+    "timestamp": "2021-09-09T13:09:05.150Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "%cPrebid display: inline-block; color: #fff; background: #3b88c3; padding: 1px 4px; border-radius: 3px; WARNING: 'allowAuctionWithoutConsent' ignored for TCF 2 @ [object Object]",
+    "timestamp": "2021-09-09T13:09:05.152Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cPrebid display: inline-block; color: #fff; background: #3b88c3; padding: 1px 4px; border-radius: 3px; MESSAGE: Emitting event for: auctionDebug @ [object Object]",
+    "timestamp": "2021-09-09T13:09:05.153Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:09:05.264Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:09:05.267Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:09:05.279Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:09:05.293Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:09:05.345Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:09:10.290Z"
+  },
+  {
+    "part": "measure-13",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:09:10.326Z"
+  }
+]

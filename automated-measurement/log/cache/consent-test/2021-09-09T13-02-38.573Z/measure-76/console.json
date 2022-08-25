@@ -1,0 +1,442 @@
+[
+  {
+    "part": "measure-76",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:12:41.779Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "visit https://ontheflix.com/...",
+    "timestamp": "2021-09-09T13:12:41.931Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'adpod' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:12:44.492Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://pb-server.ezoic.com/cookie_sync' from origin 'https://ontheflix.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:45.105Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:12:45.116Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://pb-server.ezoic.com/openrtb2/auction' from origin 'https://ontheflix.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:45.124Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:12:45.127Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Mixed Content: The page at 'https://ontheflix.com/' was loaded over HTTPS, but requested an insecure script 'http://edge.quantserve.com/quant.js'. This request has been blocked; the content must be served over HTTPS. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:46.254Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Allow attribute will take precedence over 'allowfullscreen'. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:46.400Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:12:46.671Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CONNECTION_CLOSED @ [object Object]",
+    "timestamp": "2021-09-09T13:12:46.930Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Web Push Notifications powered by Webpushr @ [object Object]",
+    "timestamp": "2021-09-09T13:12:47.528Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "WEBPUSHR: iPad detected. iOS does not support Web Push. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:47.529Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Choice CMP v1 is deprecated, please upgrade to Choice CMP v2. https://help.quantcast.com/hc/en-us/articles/360057828994-Quantcast-Choice-Deprecates-TCF-v1-1-version-with-holistic-move-to-TCF-v2-0 @ [object Object]",
+    "timestamp": "2021-09-09T13:12:48.040Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:12:48.204Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Boomerang: __uspapi: Invalid command: undefined @ [object Object]",
+    "timestamp": "2021-09-09T13:12:49.028Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://adserver-us.adtech.advertising.com/pubapi/3.0/10630.1/4225423/0/0/ADTECH;v=2;cmd=bid;cors=yes;alias=2073bed1f40601;misc=1631193167356;' from origin 'https://ontheflix.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:49.054Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:12:49.056Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://adserver-us.adtech.advertising.com/pubapi/3.0/10630.1/4225424/0/0/ADTECH;v=2;cmd=bid;cors=yes;alias=2112944275964a;misc=1631193167356;' from origin 'https://ontheflix.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:49.065Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:12:49.065Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://adserver-us.adtech.advertising.com/pubapi/3.0/10630.1/4579446/0/0/ADTECH;v=2;cmd=bid;cors=yes;alias=2203994ac567d3a;misc=1631193167357;' from origin 'https://ontheflix.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:49.065Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:12:49.065Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://adserver-us.adtech.advertising.com/pubapi/3.0/10630.1/4282287/0/0/ADTECH;v=2;cmd=bid;cors=yes;alias=231f03e81c1dd05;misc=1631193167357;' from origin 'https://ontheflix.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:49.066Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:12:49.068Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://adserver-us.adtech.advertising.com/pubapi/3.0/10630.1/4225426/0/0/ADTECH;v=2;cmd=bid;cors=yes;alias=2456ffb494ca3;misc=1631193167357;' from origin 'https://ontheflix.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:49.069Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:12:49.073Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c Push notifications powered by: FoxPush.com  background: #222; color: #bada55;font-size:20px; @ [object Object]",
+    "timestamp": "2021-09-09T13:12:49.229Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Failed to execute 'write' on 'Document': It isn't possible to write into a document from an asynchronously-loaded external script unless it is explicitly opened. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:51.039Z"
+  },
+  {
+    "part": "console.log",
+    "message": "UNDEFINED @ [object Object]",
+    "timestamp": "2021-09-09T13:12:51.044Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'checkAdUnitSetup' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:12:51.247Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'checkAdUnitSetup' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:12:52.076Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Ignoring the PubAdsService.enableSingleRequest() call since the service is already enabled. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:52.314Z"
+  },
+  {
+    "part": "console.log",
+    "message": "removing player @ [object Object]",
+    "timestamp": "2021-09-09T13:12:52.391Z"
+  },
+  {
+    "part": "console.log",
+    "message": "indexed-db.js >>> Init @ [object Object]",
+    "timestamp": "2021-09-09T13:12:52.667Z"
+  },
+  {
+    "part": "console.log",
+    "message": "indexed-db.js >>> init DB - indexedDB @ [object Object]",
+    "timestamp": "2021-09-09T13:12:52.668Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:12:52.705Z"
+  },
+  {
+    "part": "console.log",
+    "message": "indexed-db.js >>> Init @ [object Object]",
+    "timestamp": "2021-09-09T13:12:52.736Z"
+  },
+  {
+    "part": "console.log",
+    "message": "indexed-db.js >>> init DB - indexedDB @ [object Object]",
+    "timestamp": "2021-09-09T13:12:52.737Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:12:52.746Z"
+  },
+  {
+    "part": "console.log",
+    "message": "ERROR Thu Sep 09 2021 14:12:53 GMT+0100 (British Summer Time) [object Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:12:53.059Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:12:53.592Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] To reserve space and reduce layout shifts, consider setting min-width=320px, min-height=480px styles on the div element with id=div-gpt-ad-1627500643621-0. Learn more: https://developers.google.com/publisher-tag/guides/minimize-layout-shift @ [object Object]",
+    "timestamp": "2021-09-09T13:12:54.162Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "14:12:54,655 com.stickyadstv.utils.Browser addEventListenerForTCData failed with err:  TypeError: Cannot read properties of undefined (reading 'bind')\n    at f.Vn (https://cdn.stickyadstv.com/mustang/vpaid-adapter.min.js:140:136)\n    at f.yp (https://cdn.stickyadstv.com/mustang/vpaid-adapter.min.js:142:136)\n    at https://cdn.stickyadstv.com/mustang/vpaid-adapter.min.js:142:387\n    at https://quantcast.mgr.consensu.org/tcfv2/23/cmp2.js?referer=ontheflix.com:1:263548\n    at c (https://quantcast.mgr.consensu.org/tcfv2/23/cmp2.js?referer=ontheflix.com:1:142428)\n    at Generator._invoke (https://quantcast.mgr.consensu.org/tcfv2/23/cmp2.js?referer=ontheflix.com:1:142181)\n    at Generator.next (https://quantcast.mgr.consensu.org/tcfv2/23/cmp2.js?referer=ontheflix.com:1:142787)\n    at u (https://quantcast.mgr.consensu.org/tcfv2/23/cmp2.js?referer=ontheflix.com:1:183913)\n    at s (https://quantcast.mgr.consensu.org/tcfv2/23/cmp2.js?referer=ontheflix.com:1:184116)\n    at https://quantcast.mgr.consensu.org/tcfv2/23/cmp2.js?referer=ontheflix.com:1:184175 undefined @ [object Object]",
+    "timestamp": "2021-09-09T13:12:54.668Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:12:55.718Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:12:55.718Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:12:56.235Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:56.235Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:12:56.302Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:12:56.309Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:56.314Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:12:56.492Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:Inside Logger.setDebugLevel to set the logger level. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:56.559Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:Value of localStorageDebugLevel received from local storage: null and the value received in parameter for setting the debug level is: 1 @ [object Object]",
+    "timestamp": "2021-09-09T13:12:56.560Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:Finally, debug level set to 1 @ [object Object]",
+    "timestamp": "2021-09-09T13:12:56.561Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:VPAIDMain:handshakeVersion() - PM AD MANAGER RELEASE VERSION: 1.2.0 @ [object Object]",
+    "timestamp": "2021-09-09T13:12:56.562Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:VPAIDMain:handshakeVersion() - Player Version:2.0 @ [object Object]",
+    "timestamp": "2021-09-09T13:12:56.563Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:into initPreConfiguration method @ [object Object]",
+    "timestamp": "2021-09-09T13:12:56.568Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:Inside Logger.setDebugLevel to set the logger level. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:56.574Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:Value of localStorageDebugLevel received from local storage: null and the value received in parameter for setting the debug level is: 2 @ [object Object]",
+    "timestamp": "2021-09-09T13:12:56.576Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:Finally, debug level set to 2 @ [object Object]",
+    "timestamp": "2021-09-09T13:12:56.577Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:into initAd method @ [object Object]",
+    "timestamp": "2021-09-09T13:12:56.636Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:Auotplay check: From Video Player environmentVars.videoSlotCanAutoPlay: true @ [object Object]",
+    "timestamp": "2021-09-09T13:12:56.636Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:Player provided the volume level: 1 @ [object Object]",
+    "timestamp": "2021-09-09T13:12:56.637Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:Use mute(0) as a default value since we have received 2 or 6 in the vplay parameter. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:56.638Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:12:57.547Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "TCF data: cmpId 10 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:12:57.549Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:12:57.556Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:12:57.905Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Error: apstag has already loaded - preventing duplicate load\n    at Module.eval (eval at t.a (https://ads.blogherads.com/static/blogherads.js:2:418184), <anonymous>:2:83118)\n    at n (eval at t.a (https://ads.blogherads.com/static/blogherads.js:2:418184), <anonymous>:2:110)\n    at Object.eval (eval at t.a (https://ads.blogherads.com/static/blogherads.js:2:418184), <anonymous>:2:81166)\n    at n (eval at t.a (https://ads.blogherads.com/static/blogherads.js:2:418184), <anonymous>:2:110)\n    at eval (eval at t.a (https://ads.blogherads.com/static/blogherads.js:2:418184), <anonymous>:2:902)\n    at eval (eval at t.a (https://ads.blogherads.com/static/blogherads.js:2:418184), <anonymous>:2:912)\n    at eval (<anonymous>)\n    at t.a (https://ads.blogherads.com/static/blogherads.js:2:418184)\n    at l (https://ads.blogherads.com/static/blogherads.js:2:264045)\n    at c.I.fetch (https://ads.blogherads.com/static/blogherads.js:43:36811) @ [object Object]",
+    "timestamp": "2021-09-09T13:12:58.675Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Error: `apstag.init` was called multiple times with different pubIDs (aa05931b-5308-4ea3-95a2-adf84f4ffde4 then 3161)\n    at h (https://c.amazon-adsystem.com/aax2/apstag.js:2:90847)\n    at Rt (https://c.amazon-adsystem.com/aax2/apstag.js:2:125980)\n    at https://c.amazon-adsystem.com/aax2/apstag.js:2:127080\n    at Object.init (https://c.amazon-adsystem.com/aax2/apstag.js:2:4051)\n    at l (https://ads.blogherads.com/static/blogherads.js:2:398322)\n    at c.I.fetch (https://ads.blogherads.com/static/blogherads.js:43:36811)\n    at c.p.run (https://ads.blogherads.com/static/blogherads.js:2:182518)\n    at https://ads.blogherads.com/static/blogherads.js:2:203106\n    at Array.forEach (<anonymous>)\n    at Object.runProviders (https://ads.blogherads.com/static/blogherads.js:2:202996) @ [object Object]",
+    "timestamp": "2021-09-09T13:12:58.678Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:Inside createQueryString() : QueryString created from adtag variables - adtype=13&pubId=156962&siteId=718943&adId=2944619&vadFmt=3&vapi=2&vminl=1&vmaxl=100&vh=181&vw=321&vtype=1&vpos=1&vplay=1+2+3+4&vskip=0&vcom=0&vfmt=1+3+4+5+7+9+1+0+1+1+1+6&gdpr=1&gdpr_consent=&placement=1&schain=1.0,1!viralize.com,4518,1,,,&kadpageurl=https%3A%2F%2Fontheflix.com%2F&cachebuster=1631193168&us_privacy=&cb=1631193176569 @ [object Object]",
+    "timestamp": "2021-09-09T13:12:58.817Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:Inside createQueryString() : QueryString created from adtag variables - SAVersion=2&inIframe=1&pageURL=https%253A%252F%252Fontheflix.com%252F&screenResolution=428x926&kdntuid=1&vwndh=181&vwndw=321&vwndurl=https%253A%252F%252Fontheflix.com%252F&vwndref=&vc=2&js=1&sec=1&kltstamp=2021-9-9 14:12:58&ranreq=0.3047871915535372&timezone=1&depth=0 @ [object Object]",
+    "timestamp": "2021-09-09T13:12:58.818Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:PM AdRequest Time: 3.371secs. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:59.941Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:Ad Error Time: 3.385secs. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:59.950Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pm-info:Total Component Time since player call: 3.611secs. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:59.952Z"
+  },
+  {
+    "part": "console.error",
+    "message": "pm-error:Invalid/Empty VAST Response from PubMatic Ad Server @ [object Object]",
+    "timestamp": "2021-09-09T13:12:59.952Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:00.414Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Cannot find targeting attribute \"sponsored\" for \"publisher_ads\". @ [object Object]",
+    "timestamp": "2021-09-09T13:13:00.894Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Cannot find targeting attribute \"coppa\" for \"publisher_ads\". @ [object Object]",
+    "timestamp": "2021-09-09T13:13:00.896Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Cannot find targeting attribute \"ooos\" for \"publisher_ads\". @ [object Object]",
+    "timestamp": "2021-09-09T13:13:00.897Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Cannot find targeting attribute \"coppa\" for \"publisher_ads\". @ [object Object]",
+    "timestamp": "2021-09-09T13:13:00.901Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Cannot find targeting attribute \"vpd\" for \"publisher_ads\". @ [object Object]",
+    "timestamp": "2021-09-09T13:13:00.902Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:13:02.557Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "'HTMLVideoElement.webkitDisplayingFullscreen' is deprecated. Please use 'Document.fullscreenElement' instead. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:05.462Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Origin trial controlled feature not enabled: 'trust-token-redemption'. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:05.480Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] To reserve space and reduce layout shifts, consider setting min-width=320px, min-height=50px styles on the div element with id=26ac-/90814396,22335191838/ontheflix_320x50_stickytop_HB. Learn more: https://developers.google.com/publisher-tag/guides/minimize-layout-shift @ [object Object]",
+    "timestamp": "2021-09-09T13:13:15.388Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Timeout after 20.1s",
+    "timestamp": "2021-09-09T13:13:17.607Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:13:18.089Z"
+  }
+]

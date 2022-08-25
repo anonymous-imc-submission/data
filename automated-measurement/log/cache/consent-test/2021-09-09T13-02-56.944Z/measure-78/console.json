@@ -1,0 +1,82 @@
+[
+  {
+    "part": "measure-78",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:26:13.305Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "visit https://quotemaster.org/...",
+    "timestamp": "2021-09-09T13:26:14.441Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Mixed Content: The page at 'https://www.quotemaster.org/' was loaded over HTTPS, but requested an insecure script 'http://freegeoip.net/shutdown'. This request has been blocked; the content must be served over HTTPS. @ [object Object]",
+    "timestamp": "2021-09-09T13:26:18.050Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:26:19.833Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:26:21.601Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:26:21.607Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:26:28.534Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://www.quotemaster.org/ @ [object Object]",
+    "timestamp": "2021-09-09T13:26:28.682Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-pc-btn-handler:visible,\n            #onetrust-pc-sdk:visible\n        \" to be visible\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:26:51.663Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "__tcfapi not found: TimeoutError: page.waitForFunction: Timeout 30000ms exceeded.",
+    "timestamp": "2021-09-09T13:26:51.673Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "TCF data: cmpId null consent null, legInt null.",
+    "timestamp": "2021-09-09T13:26:51.674Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:26:51.684Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:26:51.689Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://www.quotemaster.org/ @ [object Object]",
+    "timestamp": "2021-09-09T13:26:55.638Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:26:56.685Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:26:56.743Z"
+  }
+]

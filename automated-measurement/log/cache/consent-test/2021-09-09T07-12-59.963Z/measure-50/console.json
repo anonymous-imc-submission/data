@@ -1,0 +1,60 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://mimikama.at/..."
+  },
+  {
+    "type": "error",
+    "location": {
+      "url": "https://www.mimikama.at/wp-content/plugins/td-newsletter/images/icons/multipurpose.woff?2",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "Failed to load resource: the server responded with a status of 404 ()"
+  },
+  {
+    "type": "admeasure",
+    "text": "Looking for dialogs to reject..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting for __tcfapi..."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://www.mimikama.at/",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "The resource https://go.ezodn.com/hb/dall.js?b=amx,medianet,oftmedia,onetag,pubmatic,pubmatic,pulsepoint,rubicon,smilewanted,teads&cb=195-4-27 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally."
+  },
+  {
+    "type": "admeasure",
+    "text": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-pc-btn-handler:visible,\n            #onetrust-pc-sdk:visible\n        \" to be visible\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")"
+  },
+  {
+    "type": "admeasure",
+    "text": "__tcfapi not found: TimeoutError: page.waitForFunction: Timeout 30000ms exceeded."
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data: cmpId null consent null, legInt null."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Minimum wait time reached after 5.00s."
+  },
+  {
+    "type": "admeasure",
+    "text": "Timeout after 20.0s"
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

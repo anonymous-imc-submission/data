@@ -1,0 +1,117 @@
+[
+  {
+    "part": "measure-84",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:31:21.575Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "visit https://unica.ro/...",
+    "timestamp": "2021-09-09T13:31:28.057Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:31:46.348Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:31:46.396Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:31:47.242Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:31:47.300Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:31:47.328Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:31:47.334Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:31:47.719Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:31:47.741Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://static.unica.ro/wp-content/themes/unica-clean/assets/fonts/Open-Sans-google-local-regular-ext.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:31:49.653Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://static.unica.ro/wp-content/themes/unica-clean/assets/fonts/Flaticon.woff was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:31:49.654Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://static.unica.ro/wp-content/themes/unica-clean/assets/fonts/PT-Serif-google-local-regular-ext.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:31:49.654Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://static.unica.ro/wp-content/themes/unica-clean/assets/fonts/Open-Sans-google-local-regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:31:49.655Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://thumbor.unica.ro/unsafe/405x225/smart/filters:contrast(1):quality(75)/https://static.unica.ro/wp-content/uploads/2021/08/diana-parvu-2-1.jpg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:31:49.656Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://static.unica.ro/wp-content/themes/unica-clean/assets/fonts/PT-Serif-google-local-regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:31:49.657Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:32:28.524Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:32:28.525Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:32:28.573Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:32:28.582Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:32:28.582Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:32:33.581Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:32:33.682Z"
+  }
+]

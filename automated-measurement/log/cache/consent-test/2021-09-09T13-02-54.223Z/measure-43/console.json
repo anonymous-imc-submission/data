@@ -1,0 +1,142 @@
+[
+  {
+    "part": "measure-43",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:13:43.600Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "visit https://billboard.com/...",
+    "timestamp": "2021-09-09T13:13:43.956Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:13:53.882Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Origin trial controlled feature not enabled: 'trust-token-redemption'. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:54.105Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "JW Player Warning 324003. For more information see https://developer.jwplayer.com/jw-player/docs/developer-guide/api/errors-reference#324003 @ [object Object]",
+    "timestamp": "2021-09-09T13:13:55.725Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "JW Player Warning 324003. For more information see https://developer.jwplayer.com/jw-player/docs/developer-guide/api/errors-reference#324003 @ [object Object]",
+    "timestamp": "2021-09-09T13:13:56.329Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "JW Player Warning 324003. For more information see https://developer.jwplayer.com/jw-player/docs/developer-guide/api/errors-reference#324003 @ [object Object]",
+    "timestamp": "2021-09-09T13:13:56.529Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "JW Player Warning 324003. For more information see https://developer.jwplayer.com/jw-player/docs/developer-guide/api/errors-reference#324003 @ [object Object]",
+    "timestamp": "2021-09-09T13:13:56.787Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:13:56.896Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:13:56.897Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:13:57.180Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:57.180Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:13:57.220Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:13:57.223Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:57.228Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:13:57.265Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:14:01.145Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:14:03.539Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:14:03.541Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:14:03.543Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:14:03.543Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:14:03.607Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "JW Player Warning 324003. For more information see https://developer.jwplayer.com/jw-player/docs/developer-guide/api/errors-reference#324003 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:03.779Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "JW Player Warning 324003. For more information see https://developer.jwplayer.com/jw-player/docs/developer-guide/api/errors-reference#324003 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:04.057Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "JW Player Warning 324003. For more information see https://developer.jwplayer.com/jw-player/docs/developer-guide/api/errors-reference#324003 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:04.264Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "JW Player Warning 324003. For more information see https://developer.jwplayer.com/jw-player/docs/developer-guide/api/errors-reference#324003 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:04.609Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:14:08.543Z"
+  },
+  {
+    "part": "measure-43",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:14:08.561Z"
+  }
+]

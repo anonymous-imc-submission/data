@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-64",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:25:07.725Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "visit https://gq.com/...",
+    "timestamp": "2021-09-09T13:25:24.217Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://gq.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:25:54.265Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:25:54.694Z"
+  }
+]

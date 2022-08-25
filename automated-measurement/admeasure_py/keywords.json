@@ -1,0 +1,161 @@
+{
+  "engagement": {
+    "queries_dach": [
+      "verlobungsring",
+      "ehering"
+    ],
+    "queries_ukie": [
+      "engagement ring",
+      "wedding ring"
+    ],
+    "patterns": [
+      "\\b163\\b",
+      "\\b165\\b",
+      "\\b167\\b",
+      "\\b168\\b",
+      "\\b186\\b",
+      "\\b191\\b",
+      "\\behe\\b",
+      "trauring",
+      "engagement\\s+ring",
+      "verlobung",
+      "wedding",
+      "hochzeit",
+      "marriage",
+      "marry",
+      "trauung",
+      "proposal",
+      "antrag",
+      "heirat",
+      "diamond",
+      "diamant",
+      "schmuck",
+      "jewel",
+      "ruby",
+      "swarovski",
+      "tiffany",
+      "paris",
+      "love",
+      "fianc(?:é|ee)",
+      "prenup",
+      "bachelor\\w*\\s*part(?:y|ies)",
+      "junggesell\\w*en\\s*abschied"
+    ]
+  },
+  "weightloss": {
+    "queries_dach": [
+      "abnehmen",
+      "diät"
+    ],
+    "queries_ukie": [
+      "weight loss",
+      "diet"
+    ],
+    "patterns": [
+      "\\b223\\b",
+      "\\b225\\b",
+      "\\b229\\b",
+      "\\b234\\b",
+      "\\b231\\b",
+      "weight\\s*loss",
+      "\\bdiet(?:ary)?\\b",
+      "reduce[\\w\\s]+weight",
+      "gewicht",
+      "\\bfat\\b",
+      "sugar",
+      "\\bcarbs?\\b",
+      "fasten",
+      "fasting",
+      "health",
+      "gesund",
+      "calories",
+      "kalorien",
+      "detox",
+      "keto",
+      "slim",
+      "food plan",
+      "shape",
+      "sport",
+      "metabolism",
+      "attractive",
+      "fitness",
+      "protein"
+    ]
+  },
+  "suv": {
+    "queries_dach": [
+      "suv auto",
+      "suv leasing"
+    ],
+    "queries_ukie": [
+      "suv cars",
+      "suv leasing"
+    ],
+    "patterns": [
+      "\\bsuv\\b",
+      "\\bcar\\b",
+      "fahrzeug",
+      "mobil(?:ität)?\\b",
+      "\\bfahr\\w+",
+      "horsepower",
+      "off-?road",
+      "safety",
+      "(?:all|four)[-\\s]*wheel",
+      "crossover",
+      "automotive",
+      "toyota",
+      "volkswagen",
+      "hyundai",
+      "general\\s+motors",
+      "ford",
+      "nissan",
+      "honda",
+      "fiat",
+      "renault",
+      "peugeot",
+      "suzuki",
+      "daimler",
+      "bmw",
+      "mazda",
+      "mitsubishi",
+      "subaru",
+      "tesla",
+      "vauxhall",
+      "land rover",
+      "bentley",
+      "jaguar",
+      "aston martin",
+      "rolls royce",
+      "dacia"
+    ]
+  },
+  "vaping": {
+    "queries_dach": [
+      "E-Zigarette",
+      "vaping shop"
+    ],
+    "queries_ukie": [
+      "e-cigarette",
+      "vaping shop"
+    ],
+    "patterns": [
+      "pg0WhF",
+      "v9i3On",
+      "vape",
+      "zigarette",
+      "vaping",
+      "vapori[zs]er",
+      "dampfen",
+      "nikotin",
+      "verdampfer",
+      "dampf",
+      "liquid",
+      "arom(?:a|en)",
+      "tabak",
+      "rauch",
+      "smoking",
+      "flavou?r",
+      "vapant"
+    ]
+  }
+}

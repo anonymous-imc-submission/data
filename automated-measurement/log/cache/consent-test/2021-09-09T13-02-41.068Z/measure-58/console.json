@@ -1,0 +1,127 @@
+[
+  {
+    "part": "measure-58",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:13:38.002Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "visit https://rrstar.com/...",
+    "timestamp": "2021-09-09T13:13:40.234Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Subscriptions Runtime: 0.1.22.183 @ [object Object]",
+    "timestamp": "2021-09-09T13:13:49.767Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to fetch at 'https://news.google.com/swg/_/api/v1/publication/rrstar.com/entitlements' from origin 'https://eu.rrstar.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:50.485Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:13:50.491Z"
+  },
+  {
+    "part": "console.log",
+    "message": "TP: swg: get entitlements failed Error: XHR Failed fetching (https://news.google.com/...): (Note: a CORS error above may indicate that this domain is not configured for Subscribe with Google)\n    at https://news.google.com/swg/js/v1/swg.js:211:104\n    at nrWrapper (https://eu.rrstar.com/:81:15034) @ [object Object]",
+    "timestamp": "2021-09-09T13:13:50.505Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:13:52.751Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:13:52.774Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:13:53.276Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:53.288Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:13:53.356Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:13:53.357Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:53.598Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:13:54.733Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:13:54.733Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:13:54.803Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:13:54.807Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:13:54.863Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:13:54.871Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:13:55.265Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CONNECTION_CLOSED @ [object Object]",
+    "timestamp": "2021-09-09T13:13:56.946Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR @ [object Object]",
+    "timestamp": "2021-09-09T13:13:57.483Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CONNECTION_CLOSED @ [object Object]",
+    "timestamp": "2021-09-09T13:13:57.739Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:13:59.804Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:14:00.037Z"
+  }
+]

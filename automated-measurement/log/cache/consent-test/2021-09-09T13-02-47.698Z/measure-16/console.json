@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-16",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:08:15.918Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "visit https://click.ro/...",
+    "timestamp": "2021-09-09T13:08:16.499Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:08:19.259Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:08:19.325Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:08:20.051Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:08:20.219Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:08:23.080Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:08:25.980Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Ignoring the PubAdsService.enableSingleRequest() call since the service is already enabled. @ [object Object]",
+    "timestamp": "2021-09-09T13:08:27.543Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:08:29.152Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:08:31.529Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:08:32.580Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Unrecognized feature: 'conversion-measurement'. @ [object Object]",
+    "timestamp": "2021-09-09T13:08:35.200Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:08:39.538Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:08:42.959Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://m.click.ro/ @ [object Object]",
+    "timestamp": "2021-09-09T13:08:46.174Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://click.ro/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:08:46.499Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:08:46.603Z"
+  }
+]

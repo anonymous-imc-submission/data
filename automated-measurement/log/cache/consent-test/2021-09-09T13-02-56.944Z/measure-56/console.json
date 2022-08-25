@@ -1,0 +1,122 @@
+[
+  {
+    "part": "measure-56",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:19:51.333Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "visit https://wyborcza.pl/...",
+    "timestamp": "2021-09-09T13:19:51.537Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:19:56.069Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://gazeta.hit.gemius.pl/hmapxy.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:19:59.839Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://gazeta.hit.gemius.pl/hmapxy.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:19:59.846Z"
+  },
+  {
+    "part": "console.log",
+    "message": "consentVersion: new @ [object Object]",
+    "timestamp": "2021-09-09T13:20:05.503Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c window.AG.rodoAccepted -1 color: green @ [object Object]",
+    "timestamp": "2021-09-09T13:20:05.509Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:20:07.339Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:20:07.355Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:20:09.099Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:20:09.100Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:20:09.300Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:20:09.307Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:20:09.374Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:20:09.457Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:20:42.350Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:20:42.350Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:20:42.375Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:20:42.382Z"
+  },
+  {
+    "part": "console.log",
+    "message": "consentVersion: new @ [object Object]",
+    "timestamp": "2021-09-09T13:20:42.520Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c window.AG.rodoAccepted -1 color: green @ [object Object]",
+    "timestamp": "2021-09-09T13:20:42.530Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:20:42.539Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:20:47.376Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:20:47.470Z"
+  }
+]

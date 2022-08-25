@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-61",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:24:34.536Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "visit https://myscore.com.ua/...",
+    "timestamp": "2021-09-09T13:24:36.090Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://myscore.com.ua/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:25:06.125Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:25:06.487Z"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-85",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:14:14.399Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "visit https://columbiadailyherald.com/...",
+    "timestamp": "2021-09-09T13:14:14.808Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:33.192Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:33.197Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:14:36.298Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:14:36.336Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:14:37.165Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:14:37.184Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:14:37.255Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:14:37.256Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:14:37.775Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:14:39.779Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:14:39.782Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:14:39.931Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:14:39.938Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:14:40.018Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:14:44.934Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:14:44.975Z"
+  }
+]

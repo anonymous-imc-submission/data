@@ -1,0 +1,112 @@
+[
+  {
+    "part": "measure-25",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:07:03.923Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "visit https://gearpatrol.com/...",
+    "timestamp": "2021-09-09T13:07:04.107Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service worker registration succeeded. @ [object Object]",
+    "timestamp": "2021-09-09T13:07:04.656Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:07:05.845Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:07:06.425Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:07:06.432Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:07:06.890Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:06.890Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:07:06.918Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:07:06.920Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:06.934Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:07:07.340Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:07:07.341Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:07:07.347Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:07:07.348Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:07:07.381Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service worker registration succeeded. @ [object Object]",
+    "timestamp": "2021-09-09T13:07:07.924Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:07:08.872Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:07:09.273Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "This ad's html cannot be accessed using the getHtml method on googletag.Slot. Returning the empty string instead. @ [object Object]",
+    "timestamp": "2021-09-09T13:07:11.792Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:07:12.348Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:07:12.365Z"
+  }
+]

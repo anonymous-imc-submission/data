@@ -1,0 +1,102 @@
+[
+  {
+    "part": "measure-80",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:13:26.603Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "visit https://newsherald.com/...",
+    "timestamp": "2021-09-09T13:13:29.062Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:13:47.954Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:13:47.954Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:13:48.056Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:48.058Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:13:48.075Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:13:48.081Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:48.108Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:13:48.365Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:13:48.369Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:13:48.377Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:13:48.400Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Network is idle after 0.06s.",
+    "timestamp": "2021-09-09T13:13:48.443Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:13:48.543Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:13:48.552Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CONNECTION_CLOSED @ [object Object]",
+    "timestamp": "2021-09-09T13:13:49.355Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CONNECTION_CLOSED @ [object Object]",
+    "timestamp": "2021-09-09T13:13:49.689Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:13:53.378Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:13:53.405Z"
+  }
+]

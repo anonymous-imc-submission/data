@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-57",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:23:12.249Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "visit https://flashscore.pt/...",
+    "timestamp": "2021-09-09T13:23:13.566Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:23:41.074Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:23:41.081Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:23:41.647Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:23:41.650Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:23:41.691Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:23:41.697Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:23:41.742Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:23:41.754Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:24:14.396Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:24:14.406Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:24:14.424Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:24:14.968Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cPubTag color: #fff; background: #ff8f1c; display: inline-block; padding: 1px 4px; border-radius: 3px; ERROR: can't display acceptable ad : the container \"crt-1364411\" is not visible @ [object Object]",
+    "timestamp": "2021-09-09T13:24:15.863Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:24:19.427Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Timeout after 20.1s",
+    "timestamp": "2021-09-09T13:24:34.486Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:24:34.738Z"
+  }
+]

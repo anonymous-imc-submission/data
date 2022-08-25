@@ -1,0 +1,212 @@
+[
+  {
+    "part": "measure-60",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:19:43.518Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "visit https://hunker.com/...",
+    "timestamp": "2021-09-09T13:19:43.785Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c continent: EU  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:49.363Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Breakpoint Size: small  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:49.368Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Breakpoint Size: small  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:49.374Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c =======i am mobile :)  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:49.384Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c WARN %c Reve initializing  background: #FFFF00; color: #000000; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:49.391Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Conditional Delay: permutive is delayed by 0ms  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:49.405Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Loading IAS  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:49.407Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Loading Amazon Publisher Services: apstag.js  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:49.423Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Loading Index Exchange  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:49.435Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Loading Index ExchangeJWPlayer  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:49.469Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c setState: gptTargeting to [object Object]  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:49.475Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c setState: permutiveTargeting to undefined  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:49.480Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Permutive: Loaded with id 5814efa5-d41d-4a89-b176-1cc26fae87cd  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:49.533Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:19:50.836Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Breakpoint Size: small  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:51.787Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c ads.js defineAd() GTP #emailslider1-1  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:51.809Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Loading Google Publisher Tag: gpt.js  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:51.811Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Conditional Delay: gpt is delayed by 0ms  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:51.815Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c gpt.js defineSlot('/6117/hunker/emailslider1-1', [1,3], 'emailslider1-1')  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:55.312Z"
+  },
+  {
+    "part": "console.log",
+    "message": "no popup, no personalization @ [object Object]",
+    "timestamp": "2021-09-09T13:19:55.312Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c WARN %c Permutive is ready  background: #FFFF00; color: #000000; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:57.621Z"
+  },
+  {
+    "part": "console.log",
+    "message": "{status: success} @ [object Object]",
+    "timestamp": "2021-09-09T13:20:03.346Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:20:04.324Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:20:04.334Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:20:06.382Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:20:06.383Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:20:06.509Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:20:06.523Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:20:06.554Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:20:06.647Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button tabindex=\"0\" class=\"cookie-setting-link\" id=\"one…>Show Purposes</button>\nattempting click action\n  waiting for element to be visible, enabled and stable\n  element is visible, enabled and stable\n  scrolling into view if needed\n  done scrolling\n  checking that element receives pointer events at (214,518.2)\n  element does receive pointer events\n  performing click action\n  click action done\n  waiting for scheduled navigations to finish\n============================================================",
+    "timestamp": "2021-09-09T13:20:08.662Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:20:11.262Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:20:19.878Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:20:19.880Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:20:19.883Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:20:19.887Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:20:19.957Z"
+  },
+  {
+    "part": "console.log",
+    "message": "{status: success} @ [object Object]",
+    "timestamp": "2021-09-09T13:20:20.380Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:20:24.883Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:20:24.977Z"
+  }
+]

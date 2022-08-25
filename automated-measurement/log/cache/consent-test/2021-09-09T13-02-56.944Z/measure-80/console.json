@@ -1,0 +1,52 @@
+[
+  {
+    "part": "measure-80",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:26:50.601Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "visit https://easybib.com/...",
+    "timestamp": "2021-09-09T13:26:51.878Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:26:55.971Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GDPR is applicable in the EU @ [object Object]",
+    "timestamp": "2021-09-09T13:26:56.567Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "rio-sdk-web Init was not called on client within 7000ms of being created @ [object Object]",
+    "timestamp": "2021-09-09T13:27:10.491Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:27:11.254Z"
+  },
+  {
+    "part": "console.log",
+    "message": "rio-sdk-web AMCV cookie not available, hitting demdex @ [object Object]",
+    "timestamp": "2021-09-09T13:27:12.003Z"
+  },
+  {
+    "part": "console.log",
+    "message": "rio-sdk-web AMCV cookie not available, hitting demdex @ [object Object]",
+    "timestamp": "2021-09-09T13:27:20.403Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://easybib.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:27:21.883Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:27:21.967Z"
+  }
+]

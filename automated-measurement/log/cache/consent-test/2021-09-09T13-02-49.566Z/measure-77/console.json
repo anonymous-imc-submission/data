@@ -1,0 +1,117 @@
+[
+  {
+    "part": "measure-77",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:28:19.697Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "visit https://dictionary.com/...",
+    "timestamp": "2021-09-09T13:28:21.404Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to font at 'https://www.thesaurus.com/hp-assets/_next/static/chunks/fonts/dictionary-font-5cedc408460d45e3c8ef15c05879003e.woff' from origin 'https://www.dictionary.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:28:31.001Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:28:31.012Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Error: Request to /click_prediction/?site=dcom&geo=ROWHIatlantic&platform=Mobile&position=top&size=undefined&user_agent=Mozilla%2F5.0%20(Linux%3B%20Android%2011%3B%20Pixel%205)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F95.0.4630.0%20Mobile%20Safari%2F537.36&language=non_english&user_encountered=0 failed with status code 0.\n    at XMLHttpRequest.f.onreadystatechange (https://www.dictionary.com/adscripts/9.9.2/adscripts.js:1:13005) @ [object Object]",
+    "timestamp": "2021-09-09T13:28:31.533Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:28:31.850Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to font at 'https://www.thesaurus.com/hp-assets/_next/static/chunks/fonts/dictionary-font-74b184ca2042b9439cd576ebf7121a35.ttf' from origin 'https://www.dictionary.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:28:32.783Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:28:32.787Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:28:39.660Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:28:39.698Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:28:41.416Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:28:41.431Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:28:41.831Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:28:41.845Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:28:42.473Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:28:42.575Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:28:55.109Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:28:55.113Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:28:55.123Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:28:55.126Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:28:55.209Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:29:00.126Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:29:00.229Z"
+  }
+]

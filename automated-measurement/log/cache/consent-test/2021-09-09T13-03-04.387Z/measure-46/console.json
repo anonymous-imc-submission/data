@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-46",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:18:39.834Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "visit https://suomi24.fi/...",
+    "timestamp": "2021-09-09T13:18:40.194Z"
+  },
+  {
+    "part": "console.error",
+    "message": "%cLivewrapped display:inline-block;color:#fff;background:#e30000;padding:2px 6px;border-radius:3px; AdUnit suomi24_footer not active. @ [object Object]",
+    "timestamp": "2021-09-09T13:18:50.277Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:18:55.316Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:18:55.317Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:18:55.633Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:55.634Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:18:55.661Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:18:55.666Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:55.737Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:18:55.751Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:19:07.773Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:19:07.781Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:19:07.795Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:19:07.795Z"
+  },
+  {
+    "part": "console.log",
+    "message": "consent changed reload page @ [object Object]",
+    "timestamp": "2021-09-09T13:19:08.062Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:19:08.151Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:19:12.795Z"
+  },
+  {
+    "part": "measure-46",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:19:12.854Z"
+  }
+]

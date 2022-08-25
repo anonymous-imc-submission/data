@@ -1,0 +1,112 @@
+[
+  {
+    "part": "measure-25",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:14:21.230Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "visit https://oureverydaylife.com/...",
+    "timestamp": "2021-09-09T13:14:21.850Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Failed to execute 'write' on 'Document': It isn't possible to write into a document from an asynchronously-loaded external script unless it is explicitly opened. @ [object Object]",
+    "timestamp": "2021-09-09T13:14:24.601Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:14:25.937Z"
+  },
+  {
+    "part": "console.log",
+    "message": "{status: success} @ [object Object]",
+    "timestamp": "2021-09-09T13:14:27.517Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:14:28.436Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:14:28.442Z"
+  },
+  {
+    "part": "console.log",
+    "message": "ERROR Thu Sep 09 2021 15:14:29 GMT+0200 (Mitteleuropäische Sommerzeit) null @ [object Object]",
+    "timestamp": "2021-09-09T13:14:29.764Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:14:29.818Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:14:29.819Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:14:29.932Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:14:29.943Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:14:29.974Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:14:30.143Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:14:33.181Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:14:37.096Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:14:37.099Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:14:37.113Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:14:37.326Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:14:42.114Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:14:57.126Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:14:57.334Z"
+  }
+]

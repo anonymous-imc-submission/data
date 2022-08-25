@@ -1,0 +1,102 @@
+[
+  {
+    "part": "measure-97",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:33:13.947Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "visit https://games.co.id/...",
+    "timestamp": "2021-09-09T13:33:14.607Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:33:20.264Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:33:21.525Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:33:21.526Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:33:22.319Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:33:22.321Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:33:22.338Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:33:22.342Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:33:22.412Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:33:22.435Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Mixed Content: The page at 'https://www.games.co.id/' was loaded over HTTPS, but requested an insecure element 'http://files.cdn.spilcloud.com/cmp/1616771278_cmp-banner-lm.png'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ [object Object]",
+    "timestamp": "2021-09-09T13:33:22.777Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:33:25.542Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:33:28.934Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:33:28.937Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:33:28.956Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:33:28.961Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:33:29.106Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:33:33.959Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:33:33.995Z"
+  }
+]

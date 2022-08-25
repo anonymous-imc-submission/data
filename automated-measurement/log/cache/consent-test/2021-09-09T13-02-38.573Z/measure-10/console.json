@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-10",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:05:07.813Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "visit https://discogs.com/...",
+    "timestamp": "2021-09-09T13:05:07.969Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The value \"\" for key \"minimum-scale\" is invalid, and has been ignored. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:08.792Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The value \"\"device-width\"\" for key \"width\" is invalid, and has been ignored. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:08.805Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:05:11.116Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:05:11.117Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:05:11.675Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:05:11.675Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:05:11.707Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:05:11.708Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:05:11.742Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:05:13.004Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:05:13.005Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:05:13.021Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:05:13.022Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:05:13.162Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:05:18.021Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:05:18.042Z"
+  }
+]

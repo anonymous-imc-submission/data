@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-86",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:14:21.034Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "visit https://espn.co.uk/...",
+    "timestamp": "2021-09-09T13:14:21.454Z"
+  },
+  {
+    "part": "console.log",
+    "message": "update: ad _dcf:1 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:22.425Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/. @ [object Object]",
+    "timestamp": "2021-09-09T13:14:25.853Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[OneID] [%s]:  ERROR Already initialized @ [object Object]",
+    "timestamp": "2021-09-09T13:14:35.084Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The deviceorientation events are blocked by permissions policy. See https://github.com/w3c/webappsec-permissions-policy/blob/master/features.md#sensor-features @ [object Object]",
+    "timestamp": "2021-09-09T13:14:42.529Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[OneID] [%s]:  ERROR Session not established @ [object Object]",
+    "timestamp": "2021-09-09T13:14:42.584Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The deviceorientation events are blocked by permissions policy. See https://github.com/w3c/webappsec-permissions-policy/blob/master/features.md#sensor-features @ [object Object]",
+    "timestamp": "2021-09-09T13:14:43.957Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Refused to execute script from 'https://eecouk.demdex.net/event?d_event=imp&d_src=164555&d_placement=313053390&d_campaign=26402938&d_site=3087879&d_creative=157379658' because its MIME type ('image/gif') is not executable, and strict MIME type checking is enabled. @ [object Object]",
+    "timestamp": "2021-09-09T13:14:44.060Z"
+  },
+  {
+    "part": "console.log",
+    "message": "console logs: true @ [object Object]",
+    "timestamp": "2021-09-09T13:14:44.855Z"
+  },
+  {
+    "part": "console.log",
+    "message": ":: dom ready :: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:44.857Z"
+  },
+  {
+    "part": "console.log",
+    "message": ":: element scrape successful - ids that contain hyphens are changed to underscores :: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:44.872Z"
+  },
+  {
+    "part": "console.log",
+    "message": ":: starting polite load :: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:49.729Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c%s color:#0fff00 :: applying banner logic :: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:49.736Z"
+  },
+  {
+    "part": "console.log",
+    "message": ":: starting polite load :: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:50.483Z"
+  },
+  {
+    "part": "console.log",
+    "message": ":: setting dynamic data :: @ [object Object]",
+    "timestamp": "2021-09-09T13:14:50.495Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c%s color:#ffd800 ******************* NOT USING BANNER CONFIG OVERRIDE ******************* @ [object Object]",
+    "timestamp": "2021-09-09T13:14:50.502Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c%s color:#00ff00 totalFrames: 3 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:50.504Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c%s color:#ffe600 productCount: 3 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:50.517Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://espn.co.uk/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:14:51.458Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:14:51.552Z"
+  }
+]

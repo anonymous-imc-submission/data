@@ -1,0 +1,237 @@
+[
+  {
+    "part": "measure-25",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:09:37.524Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "visit https://surfer.com/...",
+    "timestamp": "2021-09-09T13:09:38.635Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:09:41.853Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:09:41.867Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Permutive was not initialized. No consent to run on the page @ [object Object]",
+    "timestamp": "2021-09-09T13:09:42.366Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:09:42.628Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:09:42.963Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:09:43.602Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Image lazy load -  https://i0.heartyhosting.com/www.surfer.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-07-at-10.37.22-AM.png?resize=300%2C169&ssl=1 ,  true @ [object Object]",
+    "timestamp": "2021-09-09T13:09:44.495Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:09:44.975Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:09:45.243Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:09:45.538Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:09:45.744Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:09:46.668Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:09:47.373Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:09:47.486Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:09:47.773Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:09:47.833Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:09:47.834Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:09:47.997Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:09:48.620Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:09:48.883Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:09:48.967Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:09:48.973Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:09:49.102Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:09:49.120Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:09:49.267Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:09:49.289Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:09:49.567Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:09:49.745Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[Facebook Pixel] - Duplicate Pixel ID: 796609860489188. @ [object Object]",
+    "timestamp": "2021-09-09T13:09:50.491Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:09:50.879Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:09:50.893Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:09:50.910Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:09:50.917Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:09:50.960Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:09:51.044Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:09:51.542Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:09:52.650Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:09:52.842Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:09:53.023Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI GPT: first Ad Request 1631192993320 @ [object Object]",
+    "timestamp": "2021-09-09T13:09:53.567Z"
+  },
+  {
+    "part": "console.log",
+    "message": "{interstitial: ze, mb-top: ze, mb-sticky: ze, mb1: ze} @ [object Object]",
+    "timestamp": "2021-09-09T13:09:53.568Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:09:55.088Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:09:55.884Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:09:55.911Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:09:55.990Z"
+  }
+]

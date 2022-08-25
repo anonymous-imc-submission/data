@@ -1,0 +1,82 @@
+[
+  {
+    "part": "measure-55",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:13:14.102Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "visit https://skelbiu.lt/...",
+    "timestamp": "2021-09-09T13:13:14.224Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:13:19.159Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:13:19.181Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:13:20.406Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:20.410Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:13:20.457Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:13:20.460Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:20.887Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:13:23.494Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:13:23.497Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:13:23.595Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:13:23.614Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:13:23.620Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:13:28.614Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:13:28.770Z"
+  }
+]

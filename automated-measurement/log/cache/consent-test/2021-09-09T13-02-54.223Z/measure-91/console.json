@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-91",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:25:24.090Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "visit https://livescore.com/...",
+    "timestamp": "2021-09-09T13:25:26.279Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://livescore.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:25:56.494Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:25:56.883Z"
+  }
+]

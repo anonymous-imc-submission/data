@@ -1,0 +1,27 @@
+[
+  {
+    "part": "measure-37",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:17:39.321Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "visit https://sportfishingmag.com/...",
+    "timestamp": "2021-09-09T13:17:40.386Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:17:43.426Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://sportfishingmag.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:18:10.441Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:18:10.501Z"
+  }
+]

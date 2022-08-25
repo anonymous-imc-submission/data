@@ -1,0 +1,87 @@
+[
+  {
+    "part": "measure-32",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:13:47.643Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "visit https://casamentos.com.br/...",
+    "timestamp": "2021-09-09T13:13:47.940Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:13:56.222Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:13:56.222Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:13:56.947Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:56.950Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:13:56.991Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:13:56.995Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:57.028Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:13:57.041Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:14:13.298Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:14:13.299Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:14:13.318Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:14:13.322Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:14:13.406Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:14:18.321Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:14:18.351Z"
+  }
+]

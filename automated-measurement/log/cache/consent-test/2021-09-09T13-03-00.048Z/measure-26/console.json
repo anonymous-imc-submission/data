@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-26",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:11:45.454Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "visit https://bmjjournals.com/...",
+    "timestamp": "2021-09-09T13:11:46.366Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://bmjjournals.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:12:16.370Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:12:16.416Z"
+  }
+]

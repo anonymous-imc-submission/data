@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-03",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:09.027Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "visit https://worldtravelguide.net/...",
+    "timestamp": "2021-09-09T13:06:09.225Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:06:12.334Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Cookies are enabled. @ [object Object]",
+    "timestamp": "2021-09-09T13:06:14.172Z"
+  },
+  {
+    "part": "console.log",
+    "message": "no cookie found @ [object Object]",
+    "timestamp": "2021-09-09T13:06:14.175Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:06:15.409Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:06:15.413Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:06:15.856Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:15.857Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:06:15.879Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:06:15.883Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:15.914Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:06:17.329Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:06:17.333Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:06:17.346Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:06:17.349Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:06:17.572Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://www.worldtravelguide.net/ @ [object Object]",
+    "timestamp": "2021-09-09T13:06:19.448Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Google Maps JavaScript API warning: SensorNotRequired https://developers.google.com/maps/documentation/javascript/error-messages#sensor-not-required @ [object Object]",
+    "timestamp": "2021-09-09T13:06:20.569Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:06:22.347Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:06:22.373Z"
+  }
+]

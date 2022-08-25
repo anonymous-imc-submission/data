@@ -1,0 +1,127 @@
+[
+  {
+    "part": "measure-55",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:10:34.271Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "visit https://devid.info/...",
+    "timestamp": "2021-09-09T13:10:34.371Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:10:36.122Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:10:36.122Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:10:36.400Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:36.401Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:10:36.413Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:10:36.415Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:36.436Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:10:36.717Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:10:36.718Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:10:36.724Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:10:36.816Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Failed to execute 'write' on 'Document': It isn't possible to write into a document from an asynchronously-loaded external script unless it is explicitly opened. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:37.272Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://api.rlcdn.com/api/identity/envelope?pid=1323&ct=4&cv=CPMRE34PMRE34AcABBENBqCsAP_AAH_AAChQILtf_X__b3_j-_59f_t0eY1P9_7_v-0zjhfdt-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQdlHOHcTUmw6okVrzPsbk2Mr7NKJ7PEmnMbO2dYGH9_n93TuZKY7__8___z__-v_v____f_7-3_3__5_X---_e_V399zLv9____39nN___9uCCYBJhqXkAXYljgybRpVCiBGFYSHQCgAooBhaJrCBlcFOyuAj1BCwAQmoCMCIEGIKMGAQACAQBIREBIAeCARAEQCAAEAKkBCAAjYBBYAWBgEAAoBoWIEUAQgSEGRwVHKYEBEi0UE9lYAlF3saYQhllgBQKP6KjARKEECwMhIWDmOAJAS4AA.f_gAD_gAAAAA' from origin 'https://devid.info' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:41.272Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:10:41.273Z"
+  },
+  {
+    "part": "console.error",
+    "message": "ErrorUtils caught an error:\n\nCannot read properties of null (reading 'content')\n\nSubsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:41.381Z"
+  },
+  {
+    "part": "console.error",
+    "message": "ErrorUtils caught an error:\n\nCannot read properties of null (reading 'content')\n\nSubsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:41.381Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Refused to display 'https://www.facebook.com/' in a frame because it set 'X-Frame-Options' to 'deny'. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:41.702Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Minimum wait time reached after 5.04s.",
+    "timestamp": "2021-09-09T13:10:41.771Z"
+  },
+  {
+    "part": "console.log",
+    "message": "received a request for uspapi @ [object Object]",
+    "timestamp": "2021-09-09T13:10:43.837Z"
+  },
+  {
+    "part": "console.timeEnd",
+    "message": "a: 0.022705078125 ms @ [object Object]",
+    "timestamp": "2021-09-09T13:10:45.519Z"
+  },
+  {
+    "part": "console.log",
+    "message": "received a request for uspapi @ [object Object]",
+    "timestamp": "2021-09-09T13:10:46.341Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "Timeout after 11.3s",
+    "timestamp": "2021-09-09T13:10:48.044Z"
+  },
+  {
+    "part": "measure-55",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:10:48.073Z"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "part": "measure-93",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:21:10.250Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "visit https://europafm.ro/...",
+    "timestamp": "2021-09-09T13:21:14.352Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to set referrer policy: The value '' is not one of 'no-referrer', 'no-referrer-when-downgrade', 'origin', 'origin-when-cross-origin', 'same-origin', 'strict-origin', 'strict-origin-when-cross-origin', or 'unsafe-url'. The referrer policy has been left unchanged. @ [object Object]",
+    "timestamp": "2021-09-09T13:21:14.698Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:21:19.275Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A preload for 'https://www.europafm.ro/wp-content/themes/efm_v5/fonts/fa-brands-400.woff2' is found, but is not used because the request credentials mode does not match. Consider taking a look at crossorigin attribute. @ [object Object]",
+    "timestamp": "2021-09-09T13:21:19.491Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A preload for 'https://www.europafm.ro/wp-content/themes/efm_v5/fonts/fa-regular-400.woff2' is found, but is not used because the request credentials mode does not match. Consider taking a look at crossorigin attribute. @ [object Object]",
+    "timestamp": "2021-09-09T13:21:19.491Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://www.googletagservices.com/dcm/impl_v78.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:21:20.931Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://www.googletagservices.com/dcm/impl_v78.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:21:20.937Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Preroll: Active @ [object Object]",
+    "timestamp": "2021-09-09T13:21:26.064Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SSL Audio @ [object Object]",
+    "timestamp": "2021-09-09T13:21:26.066Z"
+  },
+  {
+    "part": "console.log",
+    "message": "OFF @ [object Object]",
+    "timestamp": "2021-09-09T13:21:26.132Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Notifications: permission status - denied @ [object Object]",
+    "timestamp": "2021-09-09T13:21:26.160Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Notifications: asked false @ [object Object]",
+    "timestamp": "2021-09-09T13:21:26.160Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Notifications: Showing popup @ [object Object]",
+    "timestamp": "2021-09-09T13:21:26.160Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:21:40.531Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:21:40.605Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.europafm.ro/wp-content/themes/efm_v5/fonts/fa-brands-400.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:21:44.570Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.europafm.ro/wp-content/themes/efm_v5/fonts/fa-regular-400.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:21:44.570Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:21:49.484Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:21:49.489Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:21:50.030Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:21:50.038Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:21:50.403Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[Facebook API] Loading. @ [object Object]",
+    "timestamp": "2021-09-09T13:21:51.293Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DFP: init @ [object Object]",
+    "timestamp": "2021-09-09T13:21:51.408Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[Google Analytics] Using anonymous IPs. @ [object Object]",
+    "timestamp": "2021-09-09T13:21:51.423Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[Google Analytics] Sending page view event. @ [object Object]",
+    "timestamp": "2021-09-09T13:21:51.423Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:21:51.752Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:21:51.756Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:21:51.835Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:21:51.841Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:21:51.892Z"
+  },
+  {
+    "part": "console.log",
+    "message": "1 @ [object Object]",
+    "timestamp": "2021-09-09T13:21:54.808Z"
+  },
+  {
+    "part": "console.log",
+    "message": "HasAdBlock : No @ [object Object]",
+    "timestamp": "2021-09-09T13:21:54.809Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:21:56.842Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:21:56.953Z"
+  }
+]

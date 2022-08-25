@@ -1,0 +1,162 @@
+[
+  {
+    "part": "measure-42",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:15:59.797Z"
+  },
+  {
+    "part": "measure-42",
+    "message": "visit https://espn.in/...",
+    "timestamp": "2021-09-09T13:16:00.053Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/. @ [object Object]",
+    "timestamp": "2021-09-09T13:16:06.318Z"
+  },
+  {
+    "part": "measure-42",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:16:10.519Z"
+  },
+  {
+    "part": "measure-42",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:16:10.522Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "'window.webkitStorageInfo' is deprecated. Please use 'navigator.webkitTemporaryStorage' or 'navigator.webkitPersistentStorage' instead. @ [object Object]",
+    "timestamp": "2021-09-09T13:16:18.028Z"
+  },
+  {
+    "part": "measure-42",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:16:18.223Z"
+  },
+  {
+    "part": "measure-42",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:16:18.223Z"
+  },
+  {
+    "part": "measure-42",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:16:19.341Z"
+  },
+  {
+    "part": "measure-42",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:16:19.347Z"
+  },
+  {
+    "part": "measure-42",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:16:19.387Z"
+  },
+  {
+    "part": "measure-42",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:16:19.395Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[OneID] [%s]:  ERROR Already initialized @ [object Object]",
+    "timestamp": "2021-09-09T13:16:20.256Z"
+  },
+  {
+    "part": "measure-42",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button id=\"onetrust-pc-btn-handler\">Show Purposes</button>\n============================================================",
+    "timestamp": "2021-09-09T13:16:21.625Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[OneID] [%s]:  ERROR Session not established @ [object Object]",
+    "timestamp": "2021-09-09T13:16:24.733Z"
+  },
+  {
+    "part": "measure-42",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:16:25.295Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The devicemotion events are blocked by permissions policy. See https://github.com/w3c/webappsec-permissions-policy/blob/master/features.md#sensor-features @ [object Object]",
+    "timestamp": "2021-09-09T13:16:41.366Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The deviceorientation events are blocked by permissions policy. See https://github.com/w3c/webappsec-permissions-policy/blob/master/features.md#sensor-features @ [object Object]",
+    "timestamp": "2021-09-09T13:16:41.368Z"
+  },
+  {
+    "part": "measure-42",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".ot-pc-refuse-all-handler:visible, .save-preference-btn-handler:visible\"\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:16:57.543Z"
+  },
+  {
+    "part": "measure-42",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:17:10.961Z"
+  },
+  {
+    "part": "measure-42",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:17:10.961Z"
+  },
+  {
+    "part": "measure-42",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:17:15.992Z"
+  },
+  {
+    "part": "measure-42",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:18:06.504Z"
+  },
+  {
+    "part": "measure-42",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:18:06.507Z"
+  },
+  {
+    "part": "measure-42",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:11.589Z"
+  },
+  {
+    "part": "measure-42",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:18:18.223Z"
+  },
+  {
+    "part": "measure-42",
+    "message": "TCF data: cmpId 28 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:18:18.223Z"
+  },
+  {
+    "part": "measure-42",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:18:18.236Z"
+  },
+  {
+    "part": "measure-42",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:18:18.237Z"
+  },
+  {
+    "part": "measure-42",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:18:23.237Z"
+  },
+  {
+    "part": "measure-42",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:18:23.300Z"
+  },
+  {
+    "part": "measure-42",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:18:23.336Z"
+  }
+]

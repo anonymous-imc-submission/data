@@ -1,0 +1,27 @@
+[
+  {
+    "part": "measure-98",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:37:10.961Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "visit https://hawkcentral.com/...",
+    "timestamp": "2021-09-09T13:37:13.215Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:37:21.545Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://hawkcentral.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:37:43.309Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:37:43.659Z"
+  }
+]

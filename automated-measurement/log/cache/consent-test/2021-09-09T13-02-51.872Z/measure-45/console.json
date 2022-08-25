@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-45",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:20:20.624Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "visit https://krunker.io/...",
+    "timestamp": "2021-09-09T13:20:21.534Z"
+  },
+  {
+    "part": "console.log",
+    "message": "recaptchacompat disabled @ [object Object]",
+    "timestamp": "2021-09-09T13:20:26.600Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:20:32.304Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:20:32.308Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:20:32.811Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:20:32.812Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:20:32.857Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:20:32.867Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:20:33.023Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:20:33.126Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:21:08.424Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:21:18.926Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:21:18.928Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:21:18.998Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:21:19.014Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:21:19.423Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:21:24.012Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:21:24.226Z"
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "part": "measure-31",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:13:19.177Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "visit https://tyden.cz/...",
+    "timestamp": "2021-09-09T13:13:19.452Z"
+  },
+  {
+    "part": "console.log",
+    "message": "jaja context @ [object Object]",
+    "timestamp": "2021-09-09T13:13:22.055Z"
+  },
+  {
+    "part": "console.log",
+    "message": "steps:  [Object,Object,Object,Object,Object,Object,Object,Object,Object,Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:13:24.397Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[acc] version v1.3.10 @ [object Object]",
+    "timestamp": "2021-09-09T13:13:27.606Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[acc] criteo fn added @ [object Object]",
+    "timestamp": "2021-09-09T13:13:27.608Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[acc] both loaded @ [object Object]",
+    "timestamp": "2021-09-09T13:13:28.438Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[acc] Non blocking user. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:28.443Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:13:30.796Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:13:30.799Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Refused to display 'https://www.facebook.com/' in a frame because it set 'X-Frame-Options' to 'deny'. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:31.282Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:13:32.856Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:32.868Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:13:33.133Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:13:33.140Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:33.284Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:13:33.601Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button class=\"cookie-setting-link\" id=\"onetrust-pc-btn-…>Show Purposes</button>\nattempting click action\n  waiting for element to be visible, enabled and stable\n============================================================",
+    "timestamp": "2021-09-09T13:13:35.855Z"
+  },
+  {
+    "part": "console.dir",
+    "message": "[Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:13:36.900Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:41.680Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The googletag.pubads().definePassback function has been deprecated. The function may break in certain contexts, see https://developers.google.com/publisher-tag/guides/passback-tags#construct_passback_tags for how to correctly create a passback. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:42.411Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The googletag.pubads().definePassback function has been deprecated. The function may break in certain contexts, see https://developers.google.com/publisher-tag/guides/passback-tags#construct_passback_tags for how to correctly create a passback. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:42.952Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The googletag.pubads().definePassback function has been deprecated. The function may break in certain contexts, see https://developers.google.com/publisher-tag/guides/passback-tags#construct_passback_tags for how to correctly create a passback. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:43.294Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The googletag.pubads().definePassback function has been deprecated. The function may break in certain contexts, see https://developers.google.com/publisher-tag/guides/passback-tags#construct_passback_tags for how to correctly create a passback. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:43.361Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The googletag.pubads().definePassback function has been deprecated. The function may break in certain contexts, see https://developers.google.com/publisher-tag/guides/passback-tags#construct_passback_tags for how to correctly create a passback. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:43.453Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"#onetrust-consent-sdk .category-menu-switch-handler >> nth=0\"\n      selector resolved to hidden <div role=\"tab\" tabindex=\"0\" aria-selected=\"true\" ari…>…</div>\n    attempting click action\n      waiting for element to be visible, enabled and stable\n        element is not visible - waiting...\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:14:07.988Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:14:24.331Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:14:24.331Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:14:29.353Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:15:19.858Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:15:19.858Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:15:24.902Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:15:32.865Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "TCF data: cmpId 28 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:15:32.865Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:15:32.872Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:15:32.873Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:15:37.874Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:15:37.981Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:15:38.005Z"
+  }
+]

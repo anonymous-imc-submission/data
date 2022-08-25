@@ -1,0 +1,117 @@
+[
+  {
+    "part": "measure-10",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:56.834Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "visit https://edglossary.org/...",
+    "timestamp": "2021-09-09T13:06:56.980Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:06:58.077Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[cycle] terminating; zero elements found by selector @ [object Object]",
+    "timestamp": "2021-09-09T13:07:00.992Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:07:02.204Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] To reserve space and reduce layout shifts, consider setting min-width=320px, min-height=50px styles on the div element with id=mmt-59249843-325d-4048-8a82-3c8e603ed673. Learn more: https://developers.google.com/publisher-tag/guides/minimize-layout-shift @ [object Object]",
+    "timestamp": "2021-09-09T13:07:05.827Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] To reserve space and reduce layout shifts, consider setting min-width=320px, min-height=50px styles on the div element with id=mmt-b0145d5e-2a2d-46c4-bef8-7060b8ad1d4e. Learn more: https://developers.google.com/publisher-tag/guides/minimize-layout-shift @ [object Object]",
+    "timestamp": "2021-09-09T13:07:07.404Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://www.edglossary.org/ @ [object Object]",
+    "timestamp": "2021-09-09T13:07:09.233Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://www.edglossary.org/ @ [object Object]",
+    "timestamp": "2021-09-09T13:07:09.494Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:07:11.641Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cAdSpirit Async%cAdd placement p25145x0 color:white; background-color:#66AADD; border-left:5px solid white; padding:3px; margin-right:10px;  //maetva.adspirit.de/adscript.php?async=p25145x0&wpcn=asm22854798x1631192841413&ref=https%3A%2F%2Fwww.edglossary.org&swf=-1&scx=428&scy=926&wcx=300&wcy=250&dcx=300&vis=-1&tz=1631192841424&prdclick_1=http%3A%2F%2Fpixel.mathtag.com%2Fclick%2Fimg%3Fmt_aid%3D5043129949320254275%26mt_id%3D9343997%26mt_adid%3D234187%26redirect%3D&pid=136&wmid=4495&gdpr=0&gdpr_consent=&chc=1 @ [object Object]",
+    "timestamp": "2021-09-09T13:07:21.447Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cAdSpirit Async%cLoading scriptp25145x0 color:white; background-color:#66AADD; border-left:5px solid white; padding:3px; margin-right:10px;  //maetva.adspirit.de/adscript.php?async=p25145x0&wpcn=asm22854798x1631192841413&ref=https%3A%2F%2Fwww.edglossary.org&swf=-1&scx=428&scy=926&wcx=300&wcy=250&dcx=300&vis=-1&tz=1631192841424&prdclick_1=http%3A%2F%2Fpixel.mathtag.com%2Fclick%2Fimg%3Fmt_aid%3D5043129949320254275%26mt_id%3D9343997%26mt_adid%3D234187%26redirect%3D&pid=136&wmid=4495&gdpr=0&gdpr_consent=&chc=1 @ [object Object]",
+    "timestamp": "2021-09-09T13:07:21.455Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cAdSpirit Async%cFetch GDPR data (Feedback: false / GDPR: 1 / Status:  / TCString: ) color:white; background-color:#66AADD; border-left:5px solid white; padding:3px; margin-right:10px;  @ [object Object]",
+    "timestamp": "2021-09-09T13:07:21.477Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:07:21.997Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:07:22.000Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://www.edglossary.org/ @ [object Object]",
+    "timestamp": "2021-09-09T13:07:40.932Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-pc-btn-handler:visible,\n            #onetrust-pc-sdk:visible\n        \" to be visible\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:07:52.047Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "__tcfapi not found: TimeoutError: page.waitForFunction: Timeout 30000ms exceeded.",
+    "timestamp": "2021-09-09T13:07:52.053Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "TCF data: cmpId null consent null, legInt null.",
+    "timestamp": "2021-09-09T13:07:52.053Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:07:52.054Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:07:52.054Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:07:57.056Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:07:57.097Z"
+  }
+]

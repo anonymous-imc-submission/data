@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-89",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:34:28.487Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "visit https://hlntv.com/...",
+    "timestamp": "2021-09-09T13:34:29.984Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "page load error: Error: page.goto: net::ERR_CONNECTION_RESET at https://hlntv.com/\n=========================== logs ===========================\nnavigating to \"https://hlntv.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:34:30.416Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:34:30.596Z"
+  }
+]

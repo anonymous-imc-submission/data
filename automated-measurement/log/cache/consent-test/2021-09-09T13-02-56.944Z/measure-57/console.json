@@ -1,0 +1,87 @@
+[
+  {
+    "part": "measure-57",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:19:52.218Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "visit https://tatler.com/...",
+    "timestamp": "2021-09-09T13:19:53.484Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:19:59.052Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:19:59.060Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:19:59.795Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:59.803Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:20:00.166Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:20:03.502Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:20:03.675Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:20:04.743Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:20:23.603Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:20:23.604Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:20:23.640Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:20:23.648Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:20:23.806Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:20:28.642Z"
+  },
+  {
+    "part": "measure-57",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:20:28.722Z"
+  }
+]

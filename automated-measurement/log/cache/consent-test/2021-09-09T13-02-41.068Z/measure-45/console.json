@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-45",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:11:17.883Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "visit https://elledecor.com/...",
+    "timestamp": "2021-09-09T13:11:18.136Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:11:22.245Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:11:23.288Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:11:23.313Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:11:24.439Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:24.443Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:11:24.477Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:11:24.485Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:24.526Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:11:25.244Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:11:25.246Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:11:25.272Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:11:25.279Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:11:25.327Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:11:28.718Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:11:30.273Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:11:30.290Z"
+  }
+]

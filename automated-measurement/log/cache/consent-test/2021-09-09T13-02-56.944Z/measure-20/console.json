@@ -1,0 +1,112 @@
+[
+  {
+    "part": "measure-20",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:10:52.180Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "visit https://romanialibera.ro/...",
+    "timestamp": "2021-09-09T13:10:52.364Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:10:53.000Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID @ [object Object]",
+    "timestamp": "2021-09-09T13:10:53.352Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Div ID passed to googletag.display() does not match any defined slots: div-gpt-ad-1629472896444-0. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:55.225Z"
+  },
+  {
+    "part": "console.log",
+    "message": "1 @ [object Object]",
+    "timestamp": "2021-09-09T13:10:55.890Z"
+  },
+  {
+    "part": "console.log",
+    "message": "HasAdBlock : No @ [object Object]",
+    "timestamp": "2021-09-09T13:10:55.891Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:10:58.232Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:10:58.242Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:10:59.459Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:59.463Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:10:59.509Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:10:59.516Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:59.562Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:10:59.591Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:11:07.814Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:11:07.814Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:11:07.824Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:11:07.837Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:11:07.960Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:11:12.833Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:11:12.857Z"
+  }
+]

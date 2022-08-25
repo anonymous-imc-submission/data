@@ -1,0 +1,87 @@
+[
+  {
+    "part": "measure-47",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:11:42.893Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "visit https://mousebreaker.com/...",
+    "timestamp": "2021-09-09T13:11:43.024Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:11:47.413Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:11:48.586Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:11:48.587Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:11:49.338Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:49.338Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:11:49.352Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:11:49.363Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:49.436Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:11:50.321Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:11:50.324Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:11:50.325Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:11:50.326Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:11:50.378Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:11:55.326Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:11:55.343Z"
+  }
+]

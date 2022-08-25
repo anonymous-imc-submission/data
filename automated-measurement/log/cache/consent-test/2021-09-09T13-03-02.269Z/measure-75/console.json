@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-75",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:26:39.187Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "visit https://usatoday.com/...",
+    "timestamp": "2021-09-09T13:26:39.787Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:26:54.330Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:26:56.373Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:26:56.466Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:26:56.743Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:26:56.748Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:26:56.766Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:26:56.772Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:26:56.901Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:26:56.905Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:27:13.429Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:27:13.432Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:27:13.500Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:27:13.511Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:27:18.516Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:27:33.519Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:27:33.566Z"
+  }
+]

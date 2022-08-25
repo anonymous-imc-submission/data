@@ -1,0 +1,262 @@
+[
+  {
+    "part": "measure-89",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:24:42.644Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "visit https://consequenceofsound.net/...",
+    "timestamp": "2021-09-09T13:24:46.633Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:24:48.432Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:24:58.506Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Error in googletag.defineSlot: Cannot create slot /134312942/COS_728_90_ATF. Div element \"div-COS_728_90_ATF-828716\" is already associated with another slot: /134312942/COS_728_90_ATF. @ [object Object]",
+    "timestamp": "2021-09-09T13:25:01.576Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Invalid arguments: googletag.defineSlot('/134312942/COS_728_90_ATF', [970, 250], 'div-COS_728_90_ATF-828716'). @ [object Object]",
+    "timestamp": "2021-09-09T13:25:01.587Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Exception in queued GPT command TypeError: Cannot read properties of null (reading 'addService')\n    at Arguments.<anonymous> (https://consequence.net/_static/??-eJy1j0FuwkAMRS/UiZOCkFhUPQoyjhWcznjSsScVPT2zASHYsGH7/f6zPvwtgbI6q8MS6yRqgOSyMmFaUCYFE+eDF6Qf0amb7QPuOqmGa21mXxoUhr7r4SBKcKwSRyAsuRrHG3ANuiT6qm9lHXMBrJ4TugvdzhH/z0ESTmwwijlIMxXjNiJryEfjsnJ5w5+74NHuJ04No2zrJ8wGCZ+XPjIxE0bzXJrwNd9v5XJu6Hf6Gnabftfvh+1mvgBEHaxm:206:8)\n    at Zv.push (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:6:118101)\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:14:83981\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:6:11022\n    at Object._.Ld (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:6:11268)\n    at k (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:14:83845)\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:14:84087\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:14:84693\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:14:85025 @ [object Object]",
+    "timestamp": "2021-09-09T13:25:01.610Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Exception in googletag.cmd function: TypeError: Cannot read properties of null (reading 'addService'). @ [object Object]",
+    "timestamp": "2021-09-09T13:25:01.612Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Error in googletag.defineSlot: Cannot create slot /134312942/COS_728_90_ATF. Div element \"div-COS_728_90_ATF-14045\" is already associated with another slot: /134312942/COS_728_90_ATF. @ [object Object]",
+    "timestamp": "2021-09-09T13:25:01.614Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Invalid arguments: googletag.defineSlot('/134312942/COS_728_90_ATF', [970, 250], 'div-COS_728_90_ATF-14045'). @ [object Object]",
+    "timestamp": "2021-09-09T13:25:01.640Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Exception in queued GPT command TypeError: Cannot read properties of null (reading 'addService')\n    at Arguments.<anonymous> (https://consequence.net/_static/??-eJy1j0FuwkAMRS/UiZOCkFhUPQoyjhWcznjSsScVPT2zASHYsGH7/f6zPvwtgbI6q8MS6yRqgOSyMmFaUCYFE+eDF6Qf0amb7QPuOqmGa21mXxoUhr7r4SBKcKwSRyAsuRrHG3ANuiT6qm9lHXMBrJ4TugvdzhH/z0ESTmwwijlIMxXjNiJryEfjsnJ5w5+74NHuJ04No2zrJ8wGCZ+XPjIxE0bzXJrwNd9v5XJu6Hf6Gnabftfvh+1mvgBEHaxm:206:8)\n    at Zv.push (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:6:118101)\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:14:83981\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:6:11022\n    at Object._.Ld (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:6:11268)\n    at k (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:14:83845)\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:14:84087\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:14:84693\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:14:85025 @ [object Object]",
+    "timestamp": "2021-09-09T13:25:01.641Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Exception in googletag.cmd function: TypeError: Cannot read properties of null (reading 'addService'). @ [object Object]",
+    "timestamp": "2021-09-09T13:25:01.641Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Error in googletag.defineSlot: Cannot create slot /134312942/COS_728_90_ATF. Div element \"div-COS_728_90_ATF-512188\" is already associated with another slot: /134312942/COS_728_90_ATF. @ [object Object]",
+    "timestamp": "2021-09-09T13:25:01.642Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Invalid arguments: googletag.defineSlot('/134312942/COS_728_90_ATF', [970, 250], 'div-COS_728_90_ATF-512188'). @ [object Object]",
+    "timestamp": "2021-09-09T13:25:01.642Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Exception in queued GPT command TypeError: Cannot read properties of null (reading 'addService')\n    at Arguments.<anonymous> (https://consequence.net/_static/??-eJy1j0FuwkAMRS/UiZOCkFhUPQoyjhWcznjSsScVPT2zASHYsGH7/f6zPvwtgbI6q8MS6yRqgOSyMmFaUCYFE+eDF6Qf0amb7QPuOqmGa21mXxoUhr7r4SBKcKwSRyAsuRrHG3ANuiT6qm9lHXMBrJ4TugvdzhH/z0ESTmwwijlIMxXjNiJryEfjsnJ5w5+74NHuJ04No2zrJ8wGCZ+XPjIxE0bzXJrwNd9v5XJu6Hf6Gnabftfvh+1mvgBEHaxm:206:8)\n    at Zv.push (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:6:118101)\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:14:83981\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:6:11022\n    at Object._.Ld (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:6:11268)\n    at k (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:14:83845)\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:14:84087\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:14:84693\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:14:85025 @ [object Object]",
+    "timestamp": "2021-09-09T13:25:01.645Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Exception in googletag.cmd function: TypeError: Cannot read properties of null (reading 'addService'). @ [object Object]",
+    "timestamp": "2021-09-09T13:25:01.645Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Error in googletag.defineSlot: Cannot create slot /134312942/COS_728_90_ATF. Div element \"div-COS_728_90_ATF-747750\" is already associated with another slot: /134312942/COS_728_90_ATF. @ [object Object]",
+    "timestamp": "2021-09-09T13:25:01.645Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Invalid arguments: googletag.defineSlot('/134312942/COS_728_90_ATF', [970, 250], 'div-COS_728_90_ATF-747750'). @ [object Object]",
+    "timestamp": "2021-09-09T13:25:01.645Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Exception in queued GPT command TypeError: Cannot read properties of null (reading 'addService')\n    at Arguments.<anonymous> (https://consequence.net/_static/??-eJy1j0FuwkAMRS/UiZOCkFhUPQoyjhWcznjSsScVPT2zASHYsGH7/f6zPvwtgbI6q8MS6yRqgOSyMmFaUCYFE+eDF6Qf0amb7QPuOqmGa21mXxoUhr7r4SBKcKwSRyAsuRrHG3ANuiT6qm9lHXMBrJ4TugvdzhH/z0ESTmwwijlIMxXjNiJryEfjsnJ5w5+74NHuJ04No2zrJ8wGCZ+XPjIxE0bzXJrwNd9v5XJu6Hf6Gnabftfvh+1mvgBEHaxm:206:8)\n    at Zv.push (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:6:118101)\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:14:83981\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:6:11022\n    at Object._.Ld (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:6:11268)\n    at k (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:14:83845)\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:14:84087\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:14:84693\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:14:85025 @ [object Object]",
+    "timestamp": "2021-09-09T13:25:01.702Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Exception in googletag.cmd function: TypeError: Cannot read properties of null (reading 'addService'). @ [object Object]",
+    "timestamp": "2021-09-09T13:25:01.703Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Error in googletag.defineSlot: Cannot create slot /134312942/COS_728_90_ATF. Div element \"div-COS_728_90_ATF-827018\" is already associated with another slot: /134312942/COS_728_90_ATF. @ [object Object]",
+    "timestamp": "2021-09-09T13:25:01.703Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Invalid arguments: googletag.defineSlot('/134312942/COS_728_90_ATF', [970, 250], 'div-COS_728_90_ATF-827018'). @ [object Object]",
+    "timestamp": "2021-09-09T13:25:01.703Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Exception in queued GPT command TypeError: Cannot read properties of null (reading 'addService')\n    at Arguments.<anonymous> (https://consequence.net/_static/??-eJy1j0FuwkAMRS/UiZOCkFhUPQoyjhWcznjSsScVPT2zASHYsGH7/f6zPvwtgbI6q8MS6yRqgOSyMmFaUCYFE+eDF6Qf0amb7QPuOqmGa21mXxoUhr7r4SBKcKwSRyAsuRrHG3ANuiT6qm9lHXMBrJ4TugvdzhH/z0ESTmwwijlIMxXjNiJryEfjsnJ5w5+74NHuJ04No2zrJ8wGCZ+XPjIxE0bzXJrwNd9v5XJu6Hf6Gnabftfvh+1mvgBEHaxm:206:8)\n    at Zv.push (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:6:118101)\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:14:83981\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:6:11022\n    at Object._.Ld (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:6:11268)\n    at k (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:14:83845)\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:14:84087\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:14:84693\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:14:85025 @ [object Object]",
+    "timestamp": "2021-09-09T13:25:01.703Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Exception in googletag.cmd function: TypeError: Cannot read properties of null (reading 'addService'). @ [object Object]",
+    "timestamp": "2021-09-09T13:25:01.719Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Error in googletag.defineSlot: Cannot create slot /134312942/COS_300_600_RHS. Div element \"div-COS_300_600_RHS-660965\" is already associated with another slot: /134312942/COS_300_600_RHS. @ [object Object]",
+    "timestamp": "2021-09-09T13:25:01.720Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Invalid arguments: googletag.defineSlot('/134312942/COS_300_600_RHS', [300, 600], 'div-COS_300_600_RHS-660965'). @ [object Object]",
+    "timestamp": "2021-09-09T13:25:01.720Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Exception in queued GPT command TypeError: Cannot read properties of null (reading 'setTargeting')\n    at Arguments.<anonymous> (https://consequence.net/_static/??-eJy1j0FuwkAMRS/UiZOCkFhUPQoyjhWcznjSsScVPT2zASHYsGH7/f6zPvwtgbI6q8MS6yRqgOSyMmFaUCYFE+eDF6Qf0amb7QPuOqmGa21mXxoUhr7r4SBKcKwSRyAsuRrHG3ANuiT6qm9lHXMBrJ4TugvdzhH/z0ESTmwwijlIMxXjNiJryEfjsnJ5w5+74NHuJ04No2zrJ8wGCZ+XPjIxE0bzXJrwNd9v5XJu6Hf6Gnabftfvh+1mvgBEHaxm:202:10)\n    at Zv.push (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:6:118101)\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:14:83981\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:6:11022\n    at Object._.Ld (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:6:11268)\n    at k (https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:14:83845)\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:14:84087\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:14:84693\n    at https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486:14:85025 @ [object Object]",
+    "timestamp": "2021-09-09T13:25:01.720Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Exception in googletag.cmd function: TypeError: Cannot read properties of null (reading 'setTargeting'). @ [object Object]",
+    "timestamp": "2021-09-09T13:25:01.721Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:25:05.183Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:25:05.216Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:25:16.768Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:25:16.836Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:25:19.884Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:25:19.914Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:25:20.607Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:25:23.728Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button class=\"cookie-setting-link\" id=\"onetrust-pc-btn-…>Show Purposes</button>\n============================================================",
+    "timestamp": "2021-09-09T13:25:26.082Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:25:29.095Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".ot-pc-refuse-all-handler:visible, .save-preference-btn-handler:visible\"\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:26:00.195Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:26:14.316Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:26:14.317Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:26:19.378Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:27:09.900Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:27:09.903Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:27:14.919Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:27:16.826Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "TCF data: cmpId 28 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:27:16.829Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:27:16.835Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:27:16.838Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:27:21.836Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:27:21.889Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:27:21.891Z"
+  }
+]

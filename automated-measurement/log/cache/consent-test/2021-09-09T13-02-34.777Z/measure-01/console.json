@@ -1,0 +1,127 @@
+[
+  {
+    "part": "measure-01",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:04:24.195Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "visit https://universia.com.br/...",
+    "timestamp": "2021-09-09T13:04:24.459Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[KEYCLOAK] Usage of legacy style promise methods such as `.error()` and `.success()` has been deprecated and support will be removed in future versions. Use standard style promise methods such as `.then() and `.catch()` instead. @ [object Object]",
+    "timestamp": "2021-09-09T13:04:29.617Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:04:38.670Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:04:38.671Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:04:39.111Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:04:39.112Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:04:39.131Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:04:39.138Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:04:39.208Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:04:40.012Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:04:40.013Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:04:40.043Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:04:40.162Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o0649&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.universia.net%2Fbr%2Fhome.html @ [object Object]",
+    "timestamp": "2021-09-09T13:04:41.413Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an script pixel with URL:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o0649&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.universia.net%2Fbr%2Fhome.html @ [object Object]",
+    "timestamp": "2021-09-09T13:04:41.438Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o0649&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.universia.net%2Fbr%2Fhome.html @ [object Object]",
+    "timestamp": "2021-09-09T13:04:41.438Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an image pixel with URL:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o0649&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.universia.net%2Fbr%2Fhome.html @ [object Object]",
+    "timestamp": "2021-09-09T13:04:41.455Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Network is idle after 1.43s.",
+    "timestamp": "2021-09-09T13:04:41.495Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Refused to execute inline script because it violates the following Content Security Policy directive: \"script-src https://cdn.ampproject.org/\". Either the 'unsafe-inline' keyword, a hash ('sha256-LnWXCN2cyHkRGMGlM9jsApgbtwVk4+oqPAQpdrbvm/M='), or a nonce ('nonce-...') is required to enable inline execution.\n @ [object Object]",
+    "timestamp": "2021-09-09T13:04:42.197Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Refused to execute inline script because it violates the following Content Security Policy directive: \"script-src https://cdn.ampproject.org/\". Either the 'unsafe-inline' keyword, a hash ('sha256-N1vBqICO3CogtDLyI+BumBsC/rnTT1WCYKpTdJXzUz8='), or a nonce ('nonce-...') is required to enable inline execution.\n @ [object Object]",
+    "timestamp": "2021-09-09T13:04:42.199Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Refused to execute inline script because it violates the following Content Security Policy directive: \"script-src https://cdn.ampproject.org/\". Either the 'unsafe-inline' keyword, a hash ('sha256-kUTayYJs1aheyEfVUlTxubI/cZPdLCm/H8Aoc5SabPs='), or a nonce ('nonce-...') is required to enable inline execution.\n @ [object Object]",
+    "timestamp": "2021-09-09T13:04:42.259Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://www.universia.net/br/home.html @ [object Object]",
+    "timestamp": "2021-09-09T13:04:44.140Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:04:45.043Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:04:45.079Z"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-56",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:16:29.654Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "visit https://tuttomercatoweb.com/...",
+    "timestamp": "2021-09-09T13:16:30.050Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:16:31.674Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:16:33.011Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:16:33.012Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:16:33.660Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:16:33.667Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:16:33.801Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:16:33.813Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:16:33.830Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:16:33.888Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:16:35.363Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "TCF data: cmpId 10 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:16:35.363Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:16:35.387Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:16:35.393Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:16:35.450Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2109032350000 https://m.tuttomercatoweb.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:16:37.585Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:16:37.845Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:16:37.850Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:16:40.387Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:16:40.421Z"
+  }
+]

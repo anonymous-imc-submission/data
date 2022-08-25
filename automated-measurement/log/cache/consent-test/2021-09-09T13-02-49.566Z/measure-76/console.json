@@ -1,0 +1,57 @@
+[
+  {
+    "part": "measure-76",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:28:14.536Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "visit https://t-nation.com/...",
+    "timestamp": "2021-09-09T13:28:14.918Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:28:18.071Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:28:18.087Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-pc-btn-handler:visible,\n            #onetrust-pc-sdk:visible\n        \" to be visible\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:28:48.150Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "__tcfapi not found: TimeoutError: page.waitForFunction: Timeout 30000ms exceeded.",
+    "timestamp": "2021-09-09T13:28:48.162Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "TCF data: cmpId null consent null, legInt null.",
+    "timestamp": "2021-09-09T13:28:48.163Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:28:48.234Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:28:48.250Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:28:53.236Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:28:53.400Z"
+  }
+]

@@ -1,0 +1,187 @@
+[
+  {
+    "part": "measure-24",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:11:44.147Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "visit https://thedartmouth.com/...",
+    "timestamp": "2021-09-09T13:11:44.349Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:11:46.559Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Starting integration for drt @ [object Object]",
+    "timestamp": "2021-09-09T13:11:46.746Z"
+  },
+  {
+    "part": "console.log",
+    "message": "FP 600bfc07-6bf8-4181-8a83-6c9c6e3441f5 @ [object Object]",
+    "timestamp": "2021-09-09T13:11:46.747Z"
+  },
+  {
+    "part": "console.log",
+    "message": "REF https://www.thedartmouth.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:11:46.748Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:11:48.606Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://apex.go.sonobi.com/trinity.json?key_maker=%7B%228bbc9b4f68a904%22%3A%224038e93c4d4c13bc38d7%7C728x90%7Cgpid%3D%2F20842576%2FGAK2LM%2FGAK2LM-DDH.A%22%7D&ref=https%3A%2F%2Fwww.thedartmouth.com%2F&s=6876f90c-2ad3-44bb-bd81-0c40c442c53d&pv=987de5f8-fda9-4500-bed0-cf4e0ade1825&vp=desktop&lib_name=prebid&lib_v=4.43.0&us=5&ius=1&schain=%7B%22ver%22%3A%221.0%22%2C%22complete%22%3A1%2C%22nodes%22%3A%5B%7B%22asi%22%3A%22monumetric.com%22%2C%22sid%22%3A%22b48a63e1-7208-4a60-837a-ba3a137e42af%22%2C%22hp%22%3A1%7D%5D%7D&coppa=0' from origin 'https://www.thedartmouth.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:50.459Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:11:50.459Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://apex.go.sonobi.com/trinity.json?key_maker=%7B%22519644927d478bc%22%3A%22dcc4cd9596e80d497120%7C300x250%7Cgpid%3D%2F20842576%2FGAK2LM%2FGAK2LM-DDS.B%22%7D&ref=https%3A%2F%2Fwww.thedartmouth.com%2F&s=bc53525a-e364-4550-829b-066c75e0c60b&pv=987de5f8-fda9-4500-bed0-cf4e0ade1825&vp=desktop&lib_name=prebid&lib_v=4.43.0&us=5&ius=1&schain=%7B%22ver%22%3A%221.0%22%2C%22complete%22%3A1%2C%22nodes%22%3A%5B%7B%22asi%22%3A%22monumetric.com%22%2C%22sid%22%3A%22b48a63e1-7208-4a60-837a-ba3a137e42af%22%2C%22hp%22%3A1%7D%5D%7D&coppa=0' from origin 'https://www.thedartmouth.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:50.863Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:11:50.866Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://apex.go.sonobi.com/trinity.json?key_maker=%7B%22674e189b45ef2d1%22%3A%22177369c437c672237248%7C300x250%2C160x600%2C300x600%7Cgpid%3D%2F20842576%2FGAK2LM%2FGAK2LM-DDS.A%22%2C%22689eb95256771cc%22%3A%22dcc4cd9596e80d497120%7C300x250%2C160x600%2C300x600%7Cgpid%3D%2F20842576%2FGAK2LM%2FGAK2LM-DDS.A%22%2C%2269adcc0afadb573%22%3A%22d23fc2fbe929165f22f9%7C300x250%2C160x600%2C300x600%7Cgpid%3D%2F20842576%2FGAK2LM%2FGAK2LM-DDS.A%22%7D&ref=https%3A%2F%2Fwww.thedartmouth.com%2F&s=0c9b162a-6e02-499e-bda7-7a6f7d54b332&pv=987de5f8-fda9-4500-bed0-cf4e0ade1825&vp=desktop&lib_name=prebid&lib_v=4.43.0&us=5&ius=1&schain=%7B%22ver%22%3A%221.0%22%2C%22complete%22%3A1%2C%22nodes%22%3A%5B%7B%22asi%22%3A%22monumetric.com%22%2C%22sid%22%3A%22b48a63e1-7208-4a60-837a-ba3a137e42af%22%2C%22hp%22%3A1%7D%5D%7D&coppa=0' from origin 'https://www.thedartmouth.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:50.920Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:11:50.922Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://apex.go.sonobi.com/trinity.json?key_maker=%7B%2213448001f2a65a29%22%3A%22177369c437c672237248%7C300x250%2C160x600%2C300x600%7Cgpid%3D%2F20842576%2FGAK2LM%2FGAK2LM-DDT.C%22%2C%22135c434b6ac327e5%22%3A%22dcc4cd9596e80d497120%7C300x250%2C160x600%2C300x600%7Cgpid%3D%2F20842576%2FGAK2LM%2FGAK2LM-DDT.C%22%2C%22136a702bc566ca7f%22%3A%22d23fc2fbe929165f22f9%7C300x250%2C160x600%2C300x600%7Cgpid%3D%2F20842576%2FGAK2LM%2FGAK2LM-DDT.C%22%7D&ref=https%3A%2F%2Fwww.thedartmouth.com%2F&s=205a1adb-3651-418e-81d4-71027f89fd55&pv=987de5f8-fda9-4500-bed0-cf4e0ade1825&vp=desktop&lib_name=prebid&lib_v=4.43.0&us=5&ius=1&schain=%7B%22ver%22%3A%221.0%22%2C%22complete%22%3A1%2C%22nodes%22%3A%5B%7B%22asi%22%3A%22monumetric.com%22%2C%22sid%22%3A%22b48a63e1-7208-4a60-837a-ba3a137e42af%22%2C%22hp%22%3A1%7D%5D%7D&coppa=0' from origin 'https://www.thedartmouth.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:52.794Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:11:52.797Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://apex.go.sonobi.com/trinity.json?key_maker=%7B%2217430742caf0f479%22%3A%224038e93c4d4c13bc38d7%7C728x90%7Cgpid%3D%2F20842576%2FGAK2LM%2FGAK2LM-DDA.B%22%7D&ref=https%3A%2F%2Fwww.thedartmouth.com%2F&s=1181212e-8bbb-4966-92f2-708548db293f&pv=987de5f8-fda9-4500-bed0-cf4e0ade1825&vp=desktop&lib_name=prebid&lib_v=4.43.0&us=5&ius=1&schain=%7B%22ver%22%3A%221.0%22%2C%22complete%22%3A1%2C%22nodes%22%3A%5B%7B%22asi%22%3A%22monumetric.com%22%2C%22sid%22%3A%22b48a63e1-7208-4a60-837a-ba3a137e42af%22%2C%22hp%22%3A1%7D%5D%7D&coppa=0' from origin 'https://www.thedartmouth.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:52.922Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:11:52.925Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://www.thedartmouth.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:11:54.291Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:11:55.693Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://www.thedartmouth.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:11:56.263Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:12:02.732Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:12:02.732Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:12:03.234Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:03.235Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:12:03.318Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:12:03.325Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:03.369Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:12:03.428Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:12:18.548Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:12:18.549Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:12:18.558Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:12:18.561Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:12:18.662Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://apex.go.sonobi.com/trinity.json?key_maker=%7B%22222388555c55559c%22%3A%224038e93c4d4c13bc38d7%7C728x90%7Cgpid%3D%2F20842576%2FGAK2LM%2FGAK2LM-DDH.A%22%2C%2222387d3cd31e4f38%22%3A%22dcc4cd9596e80d497120%7C300x250%7Cgpid%3D%2F20842576%2FGAK2LM%2FGAK2LM-DDS.B%22%2C%2222486f934735fe61%22%3A%22177369c437c672237248%7C300x250%2C160x600%2C300x600%7Cgpid%3D%2F20842576%2FGAK2LM%2FGAK2LM-DDT.C%22%2C%22225dcb2da7676b1e%22%3A%22dcc4cd9596e80d497120%7C300x250%2C160x600%2C300x600%7Cgpid%3D%2F20842576%2FGAK2LM%2FGAK2LM-DDT.C%22%2C%22226021704a7d682c%22%3A%22d23fc2fbe929165f22f9%7C300x250%2C160x600%2C300x600%7Cgpid%3D%2F20842576%2FGAK2LM%2FGAK2LM-DDT.C%22%2C%22227e265a8798033f%22%3A%224038e93c4d4c13bc38d7%7C728x90%7Cgpid%3D%2F20842576%2FGAK2LM%2FGAK2LM-DDA.B%22%7D&ref=https%3A%2F%2Fwww.thedartmouth.com%2F&s=7e40762a-5730-4097-8b47-f25dba4f8ba1&pv=987de5f8-fda9-4500-bed0-cf4e0ade1825&vp=desktop&lib_name=prebid&lib_v=4.43.0&us=5&ius=1&gdpr=true&consent_string=CPMRFEyPMRFEyAcABBENBqCgAAAAAAAAACiQAAAAAAAA.YAAAAAAAAAAA&schain=%7B%22ver%22%3A%221.0%22%2C%22complete%22%3A1%2C%22nodes%22%3A%5B%7B%22asi%22%3A%22monumetric.com%22%2C%22sid%22%3A%22b48a63e1-7208-4a60-837a-ba3a137e42af%22%2C%22hp%22%3A1%7D%5D%7D&userid=%7B%22tdid%22%3A%2249d7b791-7e01-486f-83f5-aae20d5bf69b%22%7D&eids=%5B%7B%22source%22%3A%22adserver.org%22%2C%22uids%22%3A%5B%7B%22id%22%3A%2249d7b791-7e01-486f-83f5-aae20d5bf69b%22%2C%22atype%22%3A1%2C%22ext%22%3A%7B%22rtiPartner%22%3A%22TDID%22%7D%7D%5D%7D%5D&coppa=0' from origin 'https://www.thedartmouth.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:23.029Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:12:23.038Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:12:23.558Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:12:23.647Z"
+  }
+]

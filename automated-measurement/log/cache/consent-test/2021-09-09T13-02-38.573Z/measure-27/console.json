@@ -1,0 +1,227 @@
+[
+  {
+    "part": "measure-27",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:07:12.368Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "visit https://wz.de/...",
+    "timestamp": "2021-09-09T13:07:12.517Z"
+  },
+  {
+    "part": "console.log",
+    "message": "start a new Bundleloader with these features: useCache: true / useWorker: true @ [object Object]",
+    "timestamp": "2021-09-09T13:07:13.231Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "<link rel=preload> uses an unsupported `as` value @ [object Object]",
+    "timestamp": "2021-09-09T13:07:14.824Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Debug: tcData.eventStatus:  cmpuishown @ [object Object]",
+    "timestamp": "2021-09-09T13:07:15.758Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Debug: tcData.eventStatus:  cmpuishown @ [object Object]",
+    "timestamp": "2021-09-09T13:07:15.764Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Debug: tcData.eventStatus:  cmpuishown @ [object Object]",
+    "timestamp": "2021-09-09T13:07:15.769Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Debug: tcData.eventStatus:  cmpuishown @ [object Object]",
+    "timestamp": "2021-09-09T13:07:15.783Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Debug: tcData.eventStatus:  cmpuishown @ [object Object]",
+    "timestamp": "2021-09-09T13:07:15.787Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Debug: tcData.eventStatus:  cmpuishown @ [object Object]",
+    "timestamp": "2021-09-09T13:07:16.413Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Debug: tcData.eventStatus:  cmpuishown @ [object Object]",
+    "timestamp": "2021-09-09T13:07:16.416Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Debug: tcData.eventStatus:  cmpuishown @ [object Object]",
+    "timestamp": "2021-09-09T13:07:16.419Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Debug: tcData.eventStatus:  cmpuishown @ [object Object]",
+    "timestamp": "2021-09-09T13:07:16.644Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Debug: tcData.eventStatus:  cmpuishown @ [object Object]",
+    "timestamp": "2021-09-09T13:07:16.646Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Debug: tcData.eventStatus:  cmpuishown @ [object Object]",
+    "timestamp": "2021-09-09T13:07:16.648Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "<link rel=preload> uses an unsupported `as` value @ [object Object]",
+    "timestamp": "2021-09-09T13:07:16.650Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:07:17.981Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:07:17.981Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:07:18.173Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:18.173Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:07:18.203Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:07:18.206Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:07:18.209Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "TCF data: cmpId 28 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:07:18.209Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:07:18.211Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:07:18.947Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Stroeer TagManager \"MetaTag\": An error occurred processing advertisements on your website. Please check the \"Info-Tool\" for detailed information. Documentation for the tool: https://stroeerdigitalgroup.atlassian.net/wiki/x/x2LNAQ @ [object Object]",
+    "timestamp": "2021-09-09T13:07:19.008Z"
+  },
+  {
+    "part": "console.trace",
+    "message": "console.trace @ [object Object]",
+    "timestamp": "2021-09-09T13:07:19.010Z"
+  },
+  {
+    "part": "console.trace",
+    "message": "console.trace @ [object Object]",
+    "timestamp": "2021-09-09T13:07:19.018Z"
+  },
+  {
+    "part": "console.trace",
+    "message": "console.trace @ [object Object]",
+    "timestamp": "2021-09-09T13:07:19.020Z"
+  },
+  {
+    "part": "console.trace",
+    "message": "console.trace @ [object Object]",
+    "timestamp": "2021-09-09T13:07:19.027Z"
+  },
+  {
+    "part": "console.trace",
+    "message": "console.trace @ [object Object]",
+    "timestamp": "2021-09-09T13:07:19.035Z"
+  },
+  {
+    "part": "console.trace",
+    "message": "console.trace @ [object Object]",
+    "timestamp": "2021-09-09T13:07:19.037Z"
+  },
+  {
+    "part": "console.trace",
+    "message": "console.trace @ [object Object]",
+    "timestamp": "2021-09-09T13:07:19.044Z"
+  },
+  {
+    "part": "console.trace",
+    "message": "console.trace @ [object Object]",
+    "timestamp": "2021-09-09T13:07:19.079Z"
+  },
+  {
+    "part": "console.trace",
+    "message": "console.trace @ [object Object]",
+    "timestamp": "2021-09-09T13:07:19.084Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "updateCorrelator has been deprecated. Please see the Google Ad Manager help page on \"Pageviews in GPT\" for more information: https://support.google.com/admanager/answer/183281?hl=en @ [object Object]",
+    "timestamp": "2021-09-09T13:07:20.742Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] updateCorrelator has been deprecated. See the Google Ad Manager help page on \"Creative selection for multiple ad slots\" for more information: https://support.google.com/admanager/answer/183281. @ [object Object]",
+    "timestamp": "2021-09-09T13:07:20.749Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 400 () @ [object Object]",
+    "timestamp": "2021-09-09T13:07:22.295Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:07:23.211Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://www.wz.de/ @ [object Object]",
+    "timestamp": "2021-09-09T13:07:26.476Z"
+  },
+  {
+    "part": "console.timeEnd",
+    "message": "a: 0.002197265625 ms @ [object Object]",
+    "timestamp": "2021-09-09T13:07:31.039Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 504 () @ [object Object]",
+    "timestamp": "2021-09-09T13:07:31.437Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "Timeout after 14.5s",
+    "timestamp": "2021-09-09T13:07:32.663Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:07:32.671Z"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-85",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:24:01.654Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "visit https://adenandanais.com/...",
+    "timestamp": "2021-09-09T13:24:11.366Z"
+  },
+  {
+    "part": "console.error",
+    "message": "The Content-Security-Policy directive 'frame-ancestors' does not support the source expression ''unsafe-inline'' @ [object Object]",
+    "timestamp": "2021-09-09T13:24:11.854Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to load the script 'https://static.hotjar.com/c/hotjar-304187.js?sv=6' because it violates the following Content Security Policy directive: \"script-src assets.adobedtm.com secure.authorize.net test.authorize.net commerce.adobedtm.com www.paypalobjects.com js.braintreegateway.com www.paypal.com amcglobal.sc.omtrdc.net commerce.adobe.net use.typekit.net www.sandbox.paypal.com t.paypal.com magento-recs-sdk.adobe.net s.ytimg.com video.google.com vimeo.com www.vimeo.com www.googletagmanager.com www.google-analytics.com geostag.cardinalcommerce.com 1eafstag.cardinalcommerce.com geoapi.cardinalcommerce.com 1eafapi.cardinalcommerce.com songbird.cardinalcommerce.com includestest.ccdc02.com www.youtube.com apps.bazaarvoice.com apps.nexus.bazaarvoice.com apps-stg.nexus.bazaarvoice.com analytics-static.ugc.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com display.ugc.bazaarvoice.com api.bazaarvoice.com stg.api.bazaarvoice.com mpsnare.iesnare.com *.sagepay.com maps.googleapis.com www.xtento.com cdn.xtento.com https://cdn-scripts.signifyd.com https://imgs.signifyd.com 'self' 'unsafe-inline' 'unsafe-eval'\". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.\n @ [object Object]",
+    "timestamp": "2021-09-09T13:24:13.604Z"
+  },
+  {
+    "part": "console.error",
+    "message": "The Content-Security-Policy directive 'frame-ancestors' does not support the source expression ''unsafe-inline'' @ [object Object]",
+    "timestamp": "2021-09-09T13:24:14.720Z"
+  },
+  {
+    "part": "console.error",
+    "message": "The Content-Security-Policy directive 'frame-ancestors' does not support the source expression ''unsafe-inline'' @ [object Object]",
+    "timestamp": "2021-09-09T13:24:14.730Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to load the script 'https://script.hotjar.com/modules.5fe2f4f38cf4833026a9.js' because it violates the following Content Security Policy directive: \"script-src assets.adobedtm.com secure.authorize.net test.authorize.net commerce.adobedtm.com www.paypalobjects.com js.braintreegateway.com www.paypal.com amcglobal.sc.omtrdc.net commerce.adobe.net use.typekit.net www.sandbox.paypal.com t.paypal.com magento-recs-sdk.adobe.net s.ytimg.com video.google.com vimeo.com www.vimeo.com www.googletagmanager.com www.google-analytics.com geostag.cardinalcommerce.com 1eafstag.cardinalcommerce.com geoapi.cardinalcommerce.com 1eafapi.cardinalcommerce.com songbird.cardinalcommerce.com includestest.ccdc02.com www.youtube.com apps.bazaarvoice.com apps.nexus.bazaarvoice.com apps-stg.nexus.bazaarvoice.com analytics-static.ugc.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com display.ugc.bazaarvoice.com api.bazaarvoice.com stg.api.bazaarvoice.com mpsnare.iesnare.com *.sagepay.com maps.googleapis.com www.xtento.com cdn.xtento.com https://cdn-scripts.signifyd.com https://imgs.signifyd.com 'self' 'unsafe-inline' 'unsafe-eval'\". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.\n @ [object Object]",
+    "timestamp": "2021-09-09T13:24:17.034Z"
+  },
+  {
+    "part": "console.error",
+    "message": "The Content-Security-Policy directive 'frame-ancestors' does not support the source expression ''unsafe-inline'' @ [object Object]",
+    "timestamp": "2021-09-09T13:24:17.230Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to frame 'https://vars.hotjar.com/' because it violates the following Content Security Policy directive: \"frame-src 'self' fast.amc.demdex.net secure.authorize.net test.authorize.net www.paypal.com www.sandbox.paypal.com www.googletagmanager.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com display.ugc.bazaarvoice.com api.bazaarvoice.com stg.api.bazaarvoice.com *.sagepay.com https://*.online-metrix.net https://imgs.signifyd.com\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:24:17.410Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to frame 'https://vars.hotjar.com/' because it violates the following Content Security Policy directive: \"frame-src 'self' fast.amc.demdex.net secure.authorize.net test.authorize.net www.paypal.com www.sandbox.paypal.com www.googletagmanager.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com display.ugc.bazaarvoice.com api.bazaarvoice.com stg.api.bazaarvoice.com *.sagepay.com https://*.online-metrix.net https://imgs.signifyd.com\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:24:17.414Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed with logging active, version 1.4.1 @ [object Object]",
+    "timestamp": "2021-09-09T13:24:19.204Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to load the script 'https://cdn.ometria.com/tags/cc819a43fd82f7ef.js' because it violates the following Content Security Policy directive: \"script-src assets.adobedtm.com secure.authorize.net test.authorize.net commerce.adobedtm.com www.paypalobjects.com js.braintreegateway.com www.paypal.com amcglobal.sc.omtrdc.net commerce.adobe.net use.typekit.net www.sandbox.paypal.com t.paypal.com magento-recs-sdk.adobe.net s.ytimg.com video.google.com vimeo.com www.vimeo.com www.googletagmanager.com www.google-analytics.com geostag.cardinalcommerce.com 1eafstag.cardinalcommerce.com geoapi.cardinalcommerce.com 1eafapi.cardinalcommerce.com songbird.cardinalcommerce.com includestest.ccdc02.com www.youtube.com apps.bazaarvoice.com apps.nexus.bazaarvoice.com apps-stg.nexus.bazaarvoice.com analytics-static.ugc.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com display.ugc.bazaarvoice.com api.bazaarvoice.com stg.api.bazaarvoice.com mpsnare.iesnare.com *.sagepay.com maps.googleapis.com www.xtento.com cdn.xtento.com https://cdn-scripts.signifyd.com https://imgs.signifyd.com 'self' 'unsafe-inline' 'unsafe-eval'\". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.\n @ [object Object]",
+    "timestamp": "2021-09-09T13:24:26.769Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to connect to 'https://in.hotjar.com/api/v2/client/sites/304187/visit-data?sv=6' because it violates the following Content Security Policy directive: \"connect-src dpm.demdex.net amcglobal.sc.omtrdc.net api.magento.com commerce.adobe.io commerce.adobedtm.com commerce.adobedc.net *.adobe.io performance.typekit.net commerce.adobe.net qa-api.magedevteam.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com api.bazaarvoice.com stg.api.bazaarvoice.com apps.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com *.sagepay.com https://imgs.signifyd.com 'self' 'unsafe-inline'\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:24:28.794Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to connect to 'wss://ws18.hotjar.com/api/v2/client/ws' because it violates the following Content Security Policy directive: \"connect-src dpm.demdex.net amcglobal.sc.omtrdc.net api.magento.com commerce.adobe.io commerce.adobedtm.com commerce.adobedc.net *.adobe.io performance.typekit.net commerce.adobe.net qa-api.magedevteam.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com api.bazaarvoice.com stg.api.bazaarvoice.com apps.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com *.sagepay.com https://imgs.signifyd.com 'self' 'unsafe-inline'\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:24:31.303Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to connect to 'https://ws18.hotjar.com/api/v2/sites/304187/recordings/content' because it violates the following Content Security Policy directive: \"connect-src dpm.demdex.net amcglobal.sc.omtrdc.net api.magento.com commerce.adobe.io commerce.adobedtm.com commerce.adobedc.net *.adobe.io performance.typekit.net commerce.adobe.net qa-api.magedevteam.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com api.bazaarvoice.com stg.api.bazaarvoice.com apps.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com *.sagepay.com https://imgs.signifyd.com 'self' 'unsafe-inline'\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:24:31.502Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to load the image 'https://trk.ometria.com/track/v3/cc819a43fd82f7ef/event.gif?data=y29YpvjbC1r3DgzquJH2rxjyswGMy2LKpwrhDK5KvwHey2iXmMXmvJKMy25LDZ0XjMr0B3vJAd0WjMrZAxPLpte3otj4mteYmczLBMm9vvrgltGMC25LDZ0XjNrSyxn0pte2mZeXotm4nZeMC2LKpwnJodDLzJKZthfZCMHsmKzWsLbkjM5Zzxm9mszVC3rZpte2mZeXotm4nZeMzwnHBxa9jNrPzhm9jNvYBd1ODhrWCYuZqsuYrIuYrND3DY5HzgvUyw5Kyw5HAxmUy29TjtjgjNnPDgu9mszUChy9mszKjtvcCNvYBcu1rd0Mzcu1qNr5CguLnuq9Ag9TzxbHz2uMDhLWzt1WywDLDMLLDYzJAgfUBMvSpxn5C3rLBq%3D%3D&rnd=PTpbev&enc=UTF-8' because it violates the following Content Security Policy directive: \"img-src assets.adobedtm.com amcglobal.sc.omtrdc.net dpm.demdex.net cm.everesttech.net widgets.magentocommerce.com data: www.paypalobjects.com t.paypal.com *.ftcdn.net *.behance.net p.typekit.net www.paypal.com fpdbs.paypal.com fpdbs.sandbox.paypal.com *.vimeocdn.com s.ytimg.com display.ugc.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com network-a.bazaarvoice.com network-stg-a.bazaarvoice.com photos-uat-us.bazaarvoice.com img.youtube.com www.xtento.com cdn.xtento.com https://imgs.signifyd.com https://*.online-metrix.net 'self' 'unsafe-inline'\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:24:31.680Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://adenandanais.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:24:41.422Z"
+  },
+  {
+    "part": "measure-85",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:24:41.632Z"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://rtl2.de/..."
+  },
+  {
+    "type": "admeasure",
+    "text": "page load error: Error: page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://rtl2.de/\n=========================== logs ===========================\nnavigating to \"https://rtl2.de/\", waiting until \"load\"\n============================================================"
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

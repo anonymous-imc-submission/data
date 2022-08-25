@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-73",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:25:56.198Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "visit https://sozcu.com.tr/...",
+    "timestamp": "2021-09-09T13:25:58.412Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:26:18.826Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:26:18.837Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Request response{\"acc\":\"sozcu\",\"cdkey\":\"c4c6705a-4931-4ea4-88df-56b277eeb5d2\",\"type\":\"d\",\"did\":\"c4c6705a-4931-4ea4-88df-56b277eeb5d2\"} @ [object Object]",
+    "timestamp": "2021-09-09T13:26:19.173Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:26:19.491Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:26:19.492Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:26:19.598Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:26:19.605Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:26:19.680Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:26:19.731Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:26:43.253Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:26:43.256Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:26:43.288Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:26:43.293Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:26:43.618Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:26:48.290Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:26:48.400Z"
+  }
+]

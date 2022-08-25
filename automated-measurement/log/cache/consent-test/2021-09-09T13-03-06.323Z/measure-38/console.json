@@ -1,0 +1,157 @@
+[
+  {
+    "part": "measure-38",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:12:15.697Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "visit https://e-daily.gr/...",
+    "timestamp": "2021-09-09T13:12:17.993Z"
+  },
+  {
+    "part": "console.log",
+    "message": "No Prebid Auction {tagId: sas_80261, formatId: 80261} @ [object Object]",
+    "timestamp": "2021-09-09T13:12:24.110Z"
+  },
+  {
+    "part": "console.log",
+    "message": "No Prebid Auction {tagId: sas_80264, formatId: 80264} @ [object Object]",
+    "timestamp": "2021-09-09T13:12:24.133Z"
+  },
+  {
+    "part": "console.log",
+    "message": "No Prebid Auction {tagId: sas_80265, formatId: 80265} @ [object Object]",
+    "timestamp": "2021-09-09T13:12:24.146Z"
+  },
+  {
+    "part": "console.log",
+    "message": "No Prebid Auction {tagId: sas_81171, formatId: 81171} @ [object Object]",
+    "timestamp": "2021-09-09T13:12:24.387Z"
+  },
+  {
+    "part": "console.log",
+    "message": "No Prebid Auction {tagId: sas_80266, formatId: 80266} @ [object Object]",
+    "timestamp": "2021-09-09T13:12:24.407Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "USP is not accessible @ [object Object]",
+    "timestamp": "2021-09-09T13:12:26.342Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[runAuctions] [80262] @ [object Object]",
+    "timestamp": "2021-09-09T13:12:29.420Z"
+  },
+  {
+    "part": "console.log",
+    "message": "No Ad: sas_80261 @ [object Object]",
+    "timestamp": "2021-09-09T13:12:29.451Z"
+  },
+  {
+    "part": "console.log",
+    "message": "No Ad: sas_80264 @ [object Object]",
+    "timestamp": "2021-09-09T13:12:29.469Z"
+  },
+  {
+    "part": "console.log",
+    "message": "No Ad: sas_80265 @ [object Object]",
+    "timestamp": "2021-09-09T13:12:29.487Z"
+  },
+  {
+    "part": "console.log",
+    "message": "No Ad: sas_81171 @ [object Object]",
+    "timestamp": "2021-09-09T13:12:29.589Z"
+  },
+  {
+    "part": "console.log",
+    "message": "No Ad: sas_80266 @ [object Object]",
+    "timestamp": "2021-09-09T13:12:29.592Z"
+  },
+  {
+    "part": "console.log",
+    "message": "No Ad: sas_80262 @ [object Object]",
+    "timestamp": "2021-09-09T13:12:30.272Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:12:36.695Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:12:36.698Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:12:38.109Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:38.109Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:12:38.347Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:12:38.351Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:38.356Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:12:38.448Z"
+  },
+  {
+    "part": "console.dir",
+    "message": "[Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:12:38.615Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:12:39.336Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "TCF data: cmpId 10 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:12:39.338Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:12:39.354Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:12:39.360Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:12:39.427Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:12:44.356Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:12:44.414Z"
+  }
+]

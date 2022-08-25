@@ -1,0 +1,52 @@
+[
+  {
+    "part": "measure-45",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:13:04.342Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "visit https://ans-wer.com/...",
+    "timestamp": "2021-09-09T13:13:05.443Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:13:11.830Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'adpod' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:13:11.842Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:13:22.637Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Refused to execute inline script because it violates the following Content Security Policy directive: \"script-src https://cdn.ampproject.org/\". Either the 'unsafe-inline' keyword, a hash ('sha256-LIjxr4iNak6JAIMIIqs3j9d5+GNXGXVQ88UEvx97hkc='), or a nonce ('nonce-...') is required to enable inline execution.\n @ [object Object]",
+    "timestamp": "2021-09-09T13:13:31.645Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Refused to execute inline script because it violates the following Content Security Policy directive: \"script-src https://cdn.ampproject.org/\". Either the 'unsafe-inline' keyword, a hash ('sha256-b7dc91nnPC16yNJYcdz6o3WE/iwC7sew/pcN6UGK2zI='), or a nonce ('nonce-...') is required to enable inline execution.\n @ [object Object]",
+    "timestamp": "2021-09-09T13:13:31.650Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Refused to load the script 'https://tpc.googlesyndication.com/pagead/js/r20210907/r20110914/elements/html/interstitial_ad_frame_fy2019.js' because it violates the following Content Security Policy directive: \"script-src https://cdn.ampproject.org/\". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.\n @ [object Object]",
+    "timestamp": "2021-09-09T13:13:31.660Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://ans-wer.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:13:35.448Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:13:35.661Z"
+  }
+]

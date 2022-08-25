@@ -1,0 +1,142 @@
+[
+  {
+    "part": "measure-88",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:19:15.860Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "visit https://buienradar.nl/...",
+    "timestamp": "2021-09-09T13:19:16.262Z"
+  },
+  {
+    "part": "console.log",
+    "message": "locationConsent : show popup, preference not set @ [object Object]",
+    "timestamp": "2021-09-09T13:19:30.271Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Starting map.animation.js @ [object Object]",
+    "timestamp": "2021-09-09T13:19:30.662Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Start event fired @ [object Object]",
+    "timestamp": "2021-09-09T13:19:34.395Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:19:34.755Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:19:34.758Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:19:34.944Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:34.951Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:19:34.961Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:19:34.970Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:35.022Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:19:35.876Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "TCF data: cmpId 28 consent true, legInt false.",
+    "timestamp": "2021-09-09T13:19:35.879Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:19:35.914Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:19:35.918Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:19:36.090Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Div ID passed to googletag.display() does not match any defined slots: br-ad-header-small. @ [object Object]",
+    "timestamp": "2021-09-09T13:19:38.230Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Div ID passed to googletag.display() does not match any defined slots: br-ad-home-myweather-small. @ [object Object]",
+    "timestamp": "2021-09-09T13:19:38.237Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Div ID passed to googletag.display() does not match any defined slots: br-ad-sidebar-small. @ [object Object]",
+    "timestamp": "2021-09-09T13:19:38.240Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Div ID passed to googletag.display() does not match any defined slots: br-ad-home-social. @ [object Object]",
+    "timestamp": "2021-09-09T13:19:38.242Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Ad pos top1-br-ad-header-small added from ads-dev backend @ [object Object]",
+    "timestamp": "2021-09-09T13:19:38.298Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Ad pos rect2-br-ad-sidebar-small added from ads-dev backend @ [object Object]",
+    "timestamp": "2021-09-09T13:19:38.328Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Ad pos rect1-br-ad-home-myweather-small added from ads-dev backend @ [object Object]",
+    "timestamp": "2021-09-09T13:19:38.329Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Ad pos adfactor1-br-ad-home-social added from ads-dev backend @ [object Object]",
+    "timestamp": "2021-09-09T13:19:38.329Z"
+  },
+  {
+    "part": "console.log",
+    "message": "null {dt: kxcookie, settings: Object, pr: gdpr, code: success, idt: device} @ [object Object]",
+    "timestamp": "2021-09-09T13:19:40.552Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:19:40.916Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:19:40.972Z"
+  }
+]

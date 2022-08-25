@@ -1,0 +1,167 @@
+[
+  {
+    "part": "measure-20",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:10:21.442Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "visit https://cnn.com/...",
+    "timestamp": "2021-09-09T13:10:21.737Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Optimizely disabled. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:23.553Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID @ [object Object]",
+    "timestamp": "2021-09-09T13:10:24.199Z"
+  },
+  {
+    "part": "console.log",
+    "message": "removeToken called by getToken @ [object Object]",
+    "timestamp": "2021-09-09T13:10:27.010Z"
+  },
+  {
+    "part": "console.log",
+    "message": "removeToken called by getToken @ [object Object]",
+    "timestamp": "2021-09-09T13:10:27.015Z"
+  },
+  {
+    "part": "console.log",
+    "message": ">FW 10:32 FreeWheel Integration Runtime js-6.22.1.0-d3c9f301-201805071520 @ [object Object]",
+    "timestamp": "2021-09-09T13:10:33.083Z"
+  },
+  {
+    "part": "console.log",
+    "message": ">FW 10:33 Device: iPhone14.4 PLATFORM_IS_SAFARI: true PLATFORM_IS_CHROME: false @ [object Object]",
+    "timestamp": "2021-09-09T13:10:33.131Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "No DPDB device match. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:35.011Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to recalculate device parameters. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:35.012Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Using fallback Android device measurements. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:35.014Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "FAVE -->> Deprecation Warning: The use of the Omniture component in the player configs (configs.omniture.component) has been deprecated in favor of the FAVE Library's internal Adobe Analytics component. The Adobe Analytics component is enabled, so you may safely remove the Omniture component configuration and code from your code base.  @ [object Object]",
+    "timestamp": "2021-09-09T13:10:35.099Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "'HTMLVideoElement.webkitDisplayingFullscreen' is deprecated. Please use 'Document.fullscreenElement' instead. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:35.297Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Permission to access sensor was denied @ [object Object]",
+    "timestamp": "2021-09-09T13:10:35.588Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:10:36.315Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:10:36.315Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:10:36.650Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:36.650Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:10:36.682Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:10:36.690Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:36.754Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:10:36.792Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://c.amazon-adsystem.com/aax2/apstag.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:39.360Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.googletagservices.com/tag/js/gpt.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:39.361Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:10:52.073Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:10:52.073Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:10:52.106Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:10:52.110Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:10:52.222Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Optimizely disabled. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:55.507Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID @ [object Object]",
+    "timestamp": "2021-09-09T13:10:56.592Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:10:57.107Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:10:57.120Z"
+  }
+]

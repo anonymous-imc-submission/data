@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-90",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:31:51.079Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "visit https://worldcarfans.com/...",
+    "timestamp": "2021-09-09T13:31:51.474Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "page load error: Error: page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://worldcarfans.com/\n=========================== logs ===========================\nnavigating to \"https://worldcarfans.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:31:51.726Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:31:51.856Z"
+  }
+]

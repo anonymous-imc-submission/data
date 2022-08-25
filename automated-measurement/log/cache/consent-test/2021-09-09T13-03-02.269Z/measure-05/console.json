@@ -1,0 +1,137 @@
+[
+  {
+    "part": "measure-05",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:05:23.519Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "visit https://worldsurfleague.com/...",
+    "timestamp": "2021-09-09T13:05:23.901Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:05:26.505Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=l4rg0&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.worldsurfleague.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:05:30.465Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an script pixel with URL:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=l4rg0&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.worldsurfleague.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:05:30.482Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=l4rg0&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.worldsurfleague.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:05:30.484Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an image pixel with URL:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=l4rg0&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.worldsurfleague.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:05:30.497Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=l4rg0&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.worldsurfleague.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:05:35.705Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an script pixel with URL:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=l4rg0&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.worldsurfleague.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:05:35.721Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=l4rg0&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.worldsurfleague.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:05:35.722Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an image pixel with URL:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=l4rg0&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.worldsurfleague.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:05:35.731Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Cannot assign to read only property 'call' of object '#<Object>' @ [object Object]",
+    "timestamp": "2021-09-09T13:05:44.383Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:05:45.973Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:05:45.974Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:05:47.282Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:05:47.282Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:05:47.337Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:05:47.343Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:05:47.411Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:05:47.536Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:06:15.706Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:06:15.712Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:06:15.724Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:06:15.729Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:06:15.860Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:06:20.727Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:06:20.754Z"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-90",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:24:53.623Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "visit https://fayobserver.com/...",
+    "timestamp": "2021-09-09T13:24:58.253Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://fayobserver.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:25:28.300Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:25:28.359Z"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://itworld.com/..."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://cmpv2.cio.com/wrapperMessagingWithoutDetection.js",
+      "lineNumber": 0,
+      "columnNumber": 154615
+    },
+    "text": "Messaging without detection successfully executed."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.cio.com/www.idge/js/load_more.js",
+      "lineNumber": 100,
+      "columnNumber": 11
+    },
+    "text": "#load-more-index initialized."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://ccpa.sp-prod.net/ccpa.js",
+      "lineNumber": 0,
+      "columnNumber": 55949
+    },
+    "text": "CCPA script successfully executed."
+  },
+  {
+    "type": "error",
+    "location": {
+      "url": "https://www.google.com/sorry/index?continue=https://cse.google.com/cse.js%3Fcx%3D011881588825642368632:qdznsbfg9ww&q=EgRo-KJDGK7x5okGIhBKskZQymw2uIQXiu1zpJBtMgFy",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "Failed to load resource: the server responded with a status of 429 ()"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.cio.com/www.idge/js/thm_pre.js?v=20210908113143",
+      "lineNumber": 574,
+      "columnNumber": 20
+    },
+    "text": "logPlEvent fired"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.cio.com/uk/category/technology-business/",
+      "lineNumber": 887,
+      "columnNumber": 14
+    },
+    "text": "ad targeting permutive kvs:  null"
+  },
+  {
+    "type": "admeasure",
+    "text": "Looking for dialogs to reject..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting for __tcfapi..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint iframe found!"
+  },
+  {
+    "type": "admeasure",
+    "text": "__tcfapi found! Querying status..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingWaiting."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingLoaded."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Button clicked: Options"
+  },
+  {
+    "type": "admeasure",
+    "text": "Found Sourcepoint privacy manager."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: no type toggles."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Check for legitimate interest button..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: no legitimate interest button found: No matching button found: "
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Find the save button."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint dialog rejected."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.cio.com/uk/category/technology-business/",
+      "lineNumber": 291,
+      "columnNumber": 14
+    },
+    "text": "addEventListener removeEventListener: 0"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data obtained!"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data: cmpId 6 consent false, legInt true."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Network is idle after 0.00s."
+  },
+  {
+    "type": "error",
+    "location": {
+      "url": "https://so.rlcdn.com/400906.gif?cparams=cparams%3D7ab98db982544c7eb371432b11742004-4a69fff072cd412dae75e3e00ac427d5-1-392",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "Failed to load resource: the server responded with a status of 451 ()"
+  },
+  {
+    "type": "admeasure",
+    "text": "Minimum wait time reached after 5.00s."
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

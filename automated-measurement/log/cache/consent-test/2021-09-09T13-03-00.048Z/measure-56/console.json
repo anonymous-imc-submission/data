@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-56",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:23:01.129Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "visit https://dnj.com/...",
+    "timestamp": "2021-09-09T13:23:16.879Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://dnj.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:23:46.883Z"
+  },
+  {
+    "part": "measure-56",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:23:46.983Z"
+  }
+]

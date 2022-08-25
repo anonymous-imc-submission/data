@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-48",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:11:15.164Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "visit https://jacksonsun.com/...",
+    "timestamp": "2021-09-09T13:11:15.522Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:11:26.528Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:11:29.414Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:11:29.436Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:11:30.561Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:30.561Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:11:30.629Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:11:30.630Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:30.924Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:11:32.049Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:11:32.061Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:11:34.057Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:11:34.059Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:11:34.296Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:11:34.375Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:11:39.297Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:11:54.338Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:11:54.431Z"
+  }
+]

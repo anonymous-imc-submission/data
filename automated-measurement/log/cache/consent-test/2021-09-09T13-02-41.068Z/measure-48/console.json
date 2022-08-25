@@ -1,0 +1,122 @@
+[
+  {
+    "part": "measure-48",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:11:55.350Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "visit https://science-a2z.com/...",
+    "timestamp": "2021-09-09T13:11:55.593Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pmrt enabled @ [object Object]",
+    "timestamp": "2021-09-09T13:11:56.156Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GDPR is ON @ [object Object]",
+    "timestamp": "2021-09-09T13:11:56.366Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Failed to execute 'write' on 'Document': It isn't possible to write into a document from an asynchronously-loaded external script unless it is explicitly opened. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:57.668Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Ignoring a call to setCollapseEmptyDiv(false, true). Slots that start out collapsed should also collapse when empty. Slot: /21920655038/sciencea2z-mobile-inf-1_0. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:58.390Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Ignoring a call to setCollapseEmptyDiv(false, true). Slots that start out collapsed should also collapse when empty. Slot: /21920655038/sciencea2z-mobile-inf-2_0. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:58.396Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'checkAdUnitSetup' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:11:58.525Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CONNECTION_REFUSED @ [object Object]",
+    "timestamp": "2021-09-09T13:12:00.643Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:12:00.648Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:12:00.674Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:12:00.675Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:12:00.957Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:00.957Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:12:00.985Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:12:00.998Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:01.032Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:12:01.988Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:12:01.991Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:12:02.002Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Network is idle after 0.02s.",
+    "timestamp": "2021-09-09T13:12:02.026Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:12:02.085Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Minimum wait time reached after 5.02s.",
+    "timestamp": "2021-09-09T13:12:07.034Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:12:07.085Z"
+  }
+]

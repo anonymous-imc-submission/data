@@ -1,0 +1,27 @@
+[
+  {
+    "part": "measure-93",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:20:35.802Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "visit https://knoxnews.com/...",
+    "timestamp": "2021-09-09T13:20:36.242Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:20:58.485Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://knoxnews.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:21:06.270Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:21:06.314Z"
+  }
+]

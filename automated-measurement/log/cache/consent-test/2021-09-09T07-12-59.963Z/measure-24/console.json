@@ -1,0 +1,711 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://newsandstar.co.uk/..."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 124,
+      "columnNumber": 16
+    },
+    "text": "DFP: Disabling initial load"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 708,
+      "columnNumber": 20
+    },
+    "text": "Extended Metering: test_template null"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 708,
+      "columnNumber": 20
+    },
+    "text": "Extended Metering: content_is_editorial_opinion no"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 708,
+      "columnNumber": 20
+    },
+    "text": "Extended Metering: base_url https://www.newsandstar.co.uk"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 708,
+      "columnNumber": 20
+    },
+    "text": "Extended Metering: theme engage"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 708,
+      "columnNumber": 20
+    },
+    "text": "Extended Metering: colour_scheme dark_blue"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 708,
+      "columnNumber": 20
+    },
+    "text": "Extended Metering: site_name News and Star"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 708,
+      "columnNumber": 20
+    },
+    "text": "Extended Metering: site_short_domain newsandstar"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 708,
+      "columnNumber": 20
+    },
+    "text": "Extended Metering: site_id 1125"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 708,
+      "columnNumber": 20
+    },
+    "text": "Extended Metering: site_country England"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 708,
+      "columnNumber": 20
+    },
+    "text": "Extended Metering: site_delivery_type newspaper-and-digital"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 708,
+      "columnNumber": 20
+    },
+    "text": "Extended Metering: centre_id 26"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 708,
+      "columnNumber": 20
+    },
+    "text": "Extended Metering: desktop_hero_id 11233048"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 708,
+      "columnNumber": 20
+    },
+    "text": "Extended Metering: mobile_hero_id 11233049"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 708,
+      "columnNumber": 20
+    },
+    "text": "Extended Metering: content_level_openaccess_override no"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 708,
+      "columnNumber": 20
+    },
+    "text": "Extended Metering: user_device_type phone"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 708,
+      "columnNumber": 20
+    },
+    "text": "Extended Metering: site_module BlockHomepageModule"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 708,
+      "columnNumber": 20
+    },
+    "text": "Extended Metering: site_platform Martini"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 708,
+      "columnNumber": 20
+    },
+    "text": "Extended Metering: content_is_article no"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 708,
+      "columnNumber": 20
+    },
+    "text": "Extended Metering: content_has_covid_headline no"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 708,
+      "columnNumber": 20
+    },
+    "text": "Extended Metering: user_seen_consent_modal no"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 708,
+      "columnNumber": 20
+    },
+    "text": "Extended Metering: user_level annonymous"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 708,
+      "columnNumber": 20
+    },
+    "text": "Extended Metering: site_section homepage"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 708,
+      "columnNumber": 20
+    },
+    "text": "Extended Metering: user_adblocker_soucepoint unknown"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 708,
+      "columnNumber": 20
+    },
+    "text": "Extended Metering: cmp_date 09092021"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 708,
+      "columnNumber": 20
+    },
+    "text": "Extended Metering: puzzles_landing_page no"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 708,
+      "columnNumber": 20
+    },
+    "text": "Extended Metering: puzzles_display_page no"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 708,
+      "columnNumber": 20
+    },
+    "text": "Extended Metering: home_delivery_phone_number 0800 953 0227"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 708,
+      "columnNumber": 20
+    },
+    "text": "Extended Metering: content_has_audio no"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 708,
+      "columnNumber": 20
+    },
+    "text": "Extended Metering: day_of_week Thursday"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 708,
+      "columnNumber": 20
+    },
+    "text": "Extended Metering: requires_extended_metering no"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://pagead2.googlesyndication.com/pagead/imgad?id=CICAgKDLqv_TbRABGAEoATIIgOw1LHg7xnFAt-_HogU",
+      "lineNumber": 482,
+      "columnNumber": 9
+    },
+    "text": "{visitor: Object, inventory: Object, passback: Object}"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 96,
+      "columnNumber": 16
+    },
+    "text": "APD:  {type: TIMEOUT}"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/resources/responsive-static/build/js/homepage.js?cb=UX8WcHNo",
+      "lineNumber": 18377,
+      "columnNumber": 14
+    },
+    "text": "ajax initialised"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 6878,
+      "columnNumber": 8
+    },
+    "text": "ADB: setting eVar67 to %s no,none"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/resources/shared/responsive-sync/?r=UX8WcHNo",
+      "lineNumber": 1857,
+      "columnNumber": 16
+    },
+    "text": "GDPR: Cookie in 5 seconds"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 209,
+      "columnNumber": 16
+    },
+    "text": "DFP: Event Listen: t"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 250,
+      "columnNumber": 16
+    },
+    "text": "DFP: consents length:  0"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 257,
+      "columnNumber": 16
+    },
+    "text": "DFP: Found consents to store in cookie: [no,no,no,no,no,no,no,no,no,no]"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://a02342.newsandstar.co.uk/wrapperMessagingWithoutDetection.js",
+      "lineNumber": 0,
+      "columnNumber": 154615
+    },
+    "text": "Messaging without detection successfully executed."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://assets.adobedtm.com/499440d21de9/54b957ecfb7e/launch-98090dfa3d73.min.js",
+      "lineNumber": 6,
+      "columnNumber": 13571
+    },
+    "text": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead"
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://assets.adobedtm.com/499440d21de9/54b957ecfb7e/launch-98090dfa3d73.min.js",
+      "lineNumber": 6,
+      "columnNumber": 13571
+    },
+    "text": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead"
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://assets.adobedtm.com/499440d21de9/54b957ecfb7e/launch-98090dfa3d73.min.js",
+      "lineNumber": 6,
+      "columnNumber": 13571
+    },
+    "text": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead"
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://assets.adobedtm.com/499440d21de9/54b957ecfb7e/launch-98090dfa3d73.min.js",
+      "lineNumber": 6,
+      "columnNumber": 13571
+    },
+    "text": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 1,
+      "columnNumber": 2157
+    },
+    "text": "polar loaded - redesign"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 1,
+      "columnNumber": 2196
+    },
+    "text": "[Array(2),Array(2),Array(3),Array(3),Array(2)]"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 276,
+      "columnNumber": 16
+    },
+    "text": "ADB: Tracking %s event76"
+  },
+  {
+    "type": "error",
+    "location": {
+      "url": "https://em.licasd.com/s?l=d53bb5db-f328-4321-b992-1a02f0f18c7c&f=717f443247fe--01ff4psjq62ex2mz4apaerqsh5",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED"
+  },
+  {
+    "type": "admeasure",
+    "text": "Looking for dialogs to reject..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting for __tcfapi..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint iframe found!"
+  },
+  {
+    "type": "admeasure",
+    "text": "__tcfapi found! Querying status..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingWaiting."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingLoaded."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 276,
+      "columnNumber": 16
+    },
+    "text": "ADB: Tracking %s event77"
+  },
+  {
+    "type": "admeasure",
+    "text": "Button clicked: Options"
+  },
+  {
+    "type": "admeasure",
+    "text": "Found Sourcepoint privacy manager."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: toggling type toggles."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Check for legitimate interest button..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: no legitimate interest button found: No matching button found: "
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Find the save button."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint dialog rejected."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 276,
+      "columnNumber": 16
+    },
+    "text": "ADB: Tracking %s event81"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 209,
+      "columnNumber": 16
+    },
+    "text": "DFP: Event Listen: t"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 295,
+      "columnNumber": 16
+    },
+    "text": "DFP: Is the page fully loaded? true"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 303,
+      "columnNumber": 16
+    },
+    "text": "DFP: Starting advertisement loading routine"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 307,
+      "columnNumber": 16
+    },
+    "text": "DFP: Running advertisement"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 323,
+      "columnNumber": 20
+    },
+    "text": "DFP: loading Newsquest Test script"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 346,
+      "columnNumber": 20
+    },
+    "text": "DFP: Starting header bid code from CMP v2 flow"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 250,
+      "columnNumber": 16
+    },
+    "text": "DFP: consents length:  0"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 257,
+      "columnNumber": 16
+    },
+    "text": "DFP: Found consents to store in cookie: [no,no,no,no,no,no,no,no,no,no]"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data obtained!"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data: cmpId 6 consent false, legInt false."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Network is idle after 0.00s."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 126,
+      "columnNumber": 20
+    },
+    "text": "DFP: Disabling initial load - read by DFP"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 218,
+      "columnNumber": 24
+    },
+    "text": "DFP: Cookie check - setting dfpcsnt to  no"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 348,
+      "columnNumber": 24
+    },
+    "text": "DFP: loading header bid code - Google is loaded"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 1209,
+      "columnNumber": 16
+    },
+    "text": "DFP: Fetching headerbids"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 1422,
+      "columnNumber": 24
+    },
+    "text": "DFP: PBJS request bids called"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 1330,
+      "columnNumber": 20
+    },
+    "text": "DFP: headerBidderBack called with [ze,ze,ze,ze,ze,ze,ze,ze,ze]"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 1330,
+      "columnNumber": 20
+    },
+    "text": "DFP: headerBidderBack called with ias"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 1330,
+      "columnNumber": 20
+    },
+    "text": "DFP: headerBidderBack called with a9"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 1358,
+      "columnNumber": 20
+    },
+    "text": "DFP: All bidders back"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 1382,
+      "columnNumber": 28
+    },
+    "text": "DFP: Refresh called, setting adslots to  [ze,ze,ze,ze,ze,ze,ze,ze,ze]"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.newsandstar.co.uk/",
+      "lineNumber": 1358,
+      "columnNumber": 20
+    },
+    "text": "DFP: All bidders back"
+  },
+  {
+    "type": "admeasure",
+    "text": "Minimum wait time reached after 5.00s."
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-62",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:20:24.985Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "visit https://ehowcdn.com/...",
+    "timestamp": "2021-09-09T13:20:25.310Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "page load error: Error: page.goto: net::ERR_CONNECTION_REFUSED at https://ehowcdn.com/\n=========================== logs ===========================\nnavigating to \"https://ehowcdn.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:20:25.521Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:20:25.591Z"
+  }
+]

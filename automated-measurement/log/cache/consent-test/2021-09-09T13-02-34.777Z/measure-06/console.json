@@ -1,0 +1,72 @@
+[
+  {
+    "part": "measure-06",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:05:09.917Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "visit https://dailyprincetonian.com/...",
+    "timestamp": "2021-09-09T13:05:10.122Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:05:14.400Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Starting integration for pri @ [object Object]",
+    "timestamp": "2021-09-09T13:05:14.445Z"
+  },
+  {
+    "part": "console.log",
+    "message": "FP 23454de4-eac8-4a71-93ad-d9eafb297b22 @ [object Object]",
+    "timestamp": "2021-09-09T13:05:14.446Z"
+  },
+  {
+    "part": "console.log",
+    "message": "REF https://www.dailyprincetonian.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:05:14.447Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "It is recommended that a robustness level be specified. Not specifying the robustness level could result in unexpected behavior. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:18.035Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://open.scdn.co/cdn/fonts/spoticon_regular_2.d319d911.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:27.137Z"
+  },
+  {
+    "part": "console.info",
+    "message": "%cPubfig:  background: #00C389; color: #fff; border-radius: 3px; padding: 3px pubfig.messaging.js - Init ========== LOADING MESSAGING ========== @ [object Object]",
+    "timestamp": "2021-09-09T13:05:29.532Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:05:36.773Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:05:38.854Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:05:39.458Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://dailyprincetonian.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:05:40.123Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:05:40.248Z"
+  }
+]

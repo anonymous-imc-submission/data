@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-86",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:31:11.315Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "visit https://gomiblog.com/...",
+    "timestamp": "2021-09-09T13:31:13.186Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 1.4.1 @ [object Object]",
+    "timestamp": "2021-09-09T13:31:15.490Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:31:16.229Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'adpod' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:31:16.231Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:31:18.978Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://gomiblog.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:31:25.138Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:31:26.018Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Refused to frame 'https://pagead2.googlesyndication.com/' because it violates the following Content Security Policy directive: \"frame-src cm.g.doubleclick.net googleads.g.doubleclick.net www.google.com accounts.google.com pagead2.googlesyndication.com/pagead/s/cookie_push.html gmsg: https://tpc.googlesyndication.com/sadbundle/$csp=er3$/17021632779158771841/index.html\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:31:27.199Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Refused to frame 'https://pagead2.googlesyndication.com/' because it violates the following Content Security Policy directive: \"frame-src cm.g.doubleclick.net googleads.g.doubleclick.net www.google.com accounts.google.com pagead2.googlesyndication.com/pagead/s/cookie_push.html gmsg: https://tpc.googlesyndication.com/sadbundle/$csp=er3$/82245392412937694/index.html\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:31:27.530Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:31:29.007Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:31:29.008Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://gomiblog.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:31:58.038Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://gomiblog.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:31:58.333Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-pc-btn-handler:visible,\n            #onetrust-pc-sdk:visible\n        \" to be visible\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:31:59.053Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "__tcfapi not found: TimeoutError: page.waitForFunction: Timeout 30000ms exceeded.",
+    "timestamp": "2021-09-09T13:31:59.061Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "TCF data: cmpId null consent null, legInt null.",
+    "timestamp": "2021-09-09T13:31:59.063Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:31:59.161Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:31:59.176Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:32:04.172Z"
+  },
+  {
+    "part": "measure-86",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:32:04.365Z"
+  }
+]

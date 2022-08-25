@@ -1,0 +1,171 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://spieletipps.de/..."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://js.stroeermediabrands.de/track-cp.176ebfb4f399bbf5b22adaa30e36b8d0.js",
+      "lineNumber": 0,
+      "columnNumber": 12479
+    },
+    "text": "starting version 20191126"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://consent.spieletipps.de/wrapperMessagingWithoutDetection.js",
+      "lineNumber": 0,
+      "columnNumber": 154615
+    },
+    "text": "Messaging without detection successfully executed."
+  },
+  {
+    "type": "error",
+    "location": {
+      "url": "https://www.spieletipps.de/",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "Access to XMLHttpRequest at 'https://c.amazon-adsystem.com/cdn/prod/config?src=3301&u=https%3A%2F%2Fwww.spieletipps.de%2F' from origin 'https://www.spieletipps.de' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource."
+  },
+  {
+    "type": "error",
+    "location": {
+      "url": "https://c.amazon-adsystem.com/cdn/prod/config?src=3301&u=https%3A%2F%2Fwww.spieletipps.de%2F",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "Failed to load resource: net::ERR_FAILED"
+  },
+  {
+    "type": "info",
+    "location": {
+      "url": "https://js.stroeermediabrands.de/track-cp.176ebfb4f399bbf5b22adaa30e36b8d0.js",
+      "lineNumber": 0,
+      "columnNumber": 13265
+    },
+    "text": "got title from meta"
+  },
+  {
+    "type": "error",
+    "location": {
+      "url": "https://www.spieletipps.de/dist/js/vendor/jquery-1.11.1/jquery.js",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "Failed to load resource: the server responded with a status of 404 ()"
+  },
+  {
+    "type": "admeasure",
+    "text": "Looking for dialogs to reject..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting for __tcfapi..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint iframe found!"
+  },
+  {
+    "type": "admeasure",
+    "text": "__tcfapi found! Querying status..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingWaiting."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingLoaded."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Button clicked: Optionen"
+  },
+  {
+    "type": "admeasure",
+    "text": "Found Sourcepoint privacy manager."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: toggling type toggles."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Check for legitimate interest button..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: no legitimate interest button found: No matching button found: "
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Find the save button."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint dialog rejected."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://js.stroeermediabrands.de/metaTag.min.c5d272e4b1bfb2cb2308317ae02124a1.js",
+      "lineNumber": 0,
+      "columnNumber": 74128
+    },
+    "text": "Stroeer TagManager \"MetaTag\": An error occurred processing advertisements on your website. Please check the \"Info-Tool\" for detailed information. Documentation for the tool: https://stroeerdigitalgroup.atlassian.net/wiki/x/x2LNAQ"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data obtained!"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data: cmpId 6 consent false, legInt false."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Network is idle after 0.01s."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062509",
+      "lineNumber": 5,
+      "columnNumber": 84240
+    },
+    "text": "updateCorrelator has been deprecated. Please see the Google Ad Manager help page on \"Pageviews in GPT\" for more information: https://support.google.com/admanager/answer/183281?hl=en"
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062509",
+      "lineNumber": 5,
+      "columnNumber": 116668
+    },
+    "text": "[GPT] updateCorrelator has been deprecated. See the Google Ad Manager help page on \"Creative selection for multiple ad slots\" for more information: https://support.google.com/admanager/answer/183281."
+  },
+  {
+    "type": "admeasure",
+    "text": "Minimum wait time reached after 5.01s."
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

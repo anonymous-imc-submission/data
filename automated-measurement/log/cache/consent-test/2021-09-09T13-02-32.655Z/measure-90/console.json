@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-90",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:22:40.020Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "visit https://prima.co.uk/...",
+    "timestamp": "2021-09-09T13:22:49.753Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service worker registration succeeded. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:54.596Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:22:56.943Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:22:59.044Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:22:59.048Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:23:01.060Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:23:01.061Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:23:01.217Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:23:01.234Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:23:01.409Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:23:02.449Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:23:02.449Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:23:02.470Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:23:02.472Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:23:02.481Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service worker registration succeeded. @ [object Object]",
+    "timestamp": "2021-09-09T13:23:03.061Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:23:05.139Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:23:06.365Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:23:07.478Z"
+  },
+  {
+    "part": "measure-90",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:23:07.538Z"
+  }
+]

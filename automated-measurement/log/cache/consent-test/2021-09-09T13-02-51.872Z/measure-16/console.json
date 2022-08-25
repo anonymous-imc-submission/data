@@ -1,0 +1,87 @@
+[
+  {
+    "part": "measure-16",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:11:32.821Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "visit https://metabomb.net/...",
+    "timestamp": "2021-09-09T13:11:33.067Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:11:36.517Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:11:36.520Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:11:37.354Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:37.354Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:11:37.454Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:11:37.463Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:37.507Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:11:37.540Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:11:45.791Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:11:45.794Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:11:45.804Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:11:45.804Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:11:45.845Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:11:50.805Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:11:50.831Z"
+  }
+]

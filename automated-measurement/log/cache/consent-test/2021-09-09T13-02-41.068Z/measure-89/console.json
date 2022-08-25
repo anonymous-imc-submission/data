@@ -1,0 +1,82 @@
+[
+  {
+    "part": "measure-89",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:19:40.988Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "visit https://houmatoday.com/...",
+    "timestamp": "2021-09-09T13:19:41.472Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:19:56.133Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:19:56.190Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:19:57.333Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:57.334Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:19:57.407Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:19:57.416Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:57.468Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:19:58.563Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:19:58.563Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:19:58.582Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:19:58.586Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:19:58.625Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:20:03.583Z"
+  },
+  {
+    "part": "measure-89",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:20:03.607Z"
+  }
+]

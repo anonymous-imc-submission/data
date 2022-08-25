@@ -1,0 +1,180 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://digitalartsonline.co.uk/..."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://cmpv2.digitalartsonline.co.uk/wrapperMessagingWithoutDetection.js",
+      "lineNumber": 0,
+      "columnNumber": 154615
+    },
+    "text": "Messaging without detection successfully executed."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.digitalartsonline.co.uk/scripts-react-dist/bundle.js?JS_20180404102654072",
+      "lineNumber": 30,
+      "columnNumber": 30373
+    },
+    "text": "Hello from the other side!"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://k.intellitxt.com/intellitxt/front.asp?ipid=88373",
+      "lineNumber": 0,
+      "columnNumber": 1686
+    },
+    "text": "Retrieved data from TCF API, calling reload go"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://k.intellitxt.com/intellitxt/front.asp?ipid=88373",
+      "lineNumber": 0,
+      "columnNumber": 1031
+    },
+    "text": "Consent Reload Go: Unable to retrieve page href, using document.URL instead: https://www.digitalartsonline.co.uk/"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://k.intellitxt.com/intellitxt/front.asp?ipid=88373",
+      "lineNumber": 0,
+      "columnNumber": 1400
+    },
+    "text": "VM: ReloadGo - Found consent type: euconsent"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.digitalartsonline.co.uk/scripts-react-dist/bundle.js?JS_20201014092936848",
+      "lineNumber": 30,
+      "columnNumber": 30373
+    },
+    "text": "Hello from the other side!"
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js",
+      "lineNumber": 3,
+      "columnNumber": 0
+    },
+    "text": "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.digitalartsonline.co.uk/scripts-react-dist/bundle.js?JS_20180404102654072",
+      "lineNumber": 30,
+      "columnNumber": 30508
+    },
+    "text": "[All,News,Reviews,Features,Tutorials]"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.digitalartsonline.co.uk/scripts-react-dist/bundle.js?JS_20201014092936848",
+      "lineNumber": 30,
+      "columnNumber": 30508
+    },
+    "text": "[All,News,Reviews,Features,Tutorials]"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://k.intellitxt.com/go/?ipid=88373&consentstr=CPMNBJSPMNBJSAGABCENBqCgAAAAAH_AAAwIAAAOLAIMEAUAgAFMAAQIFCIQAAQhiQAAAAFFCIBQJIAEqgAWVwEcoAAACAxAQgAAgBBQgwCAAQAAJKAgBACwQCAAiAQAAgAEAIAAEIBILACQEAAAEAJCQAiACECAgiAAg5CAgIgCCAFABAAAuJDACAMMoASAQFhkAcARwAywBqAFLAN4AmIBgQ0ACApsQABAXQIgEgBWAGWANQAgABSwDWAHVAPkAwISAEAAcAksBTYDfwgAMAZoC8gGRhICQACAArACJAGWANQAfoBAAClgGKANYAbQA3gB8gExAJlAYEAwYBt4UAMADsARQAvgBhAJLAU2GAAgLoDQDAArADLAGoAQAAgoBSwDWAG8AOqAfIBFQDAg4AUABwBsgElgKbAb-KgEACOAGWANQApYBvAExAMCAbkOABAAOAPkOgFAA-ACsANQAsQBcwDFAHUAXaA0QBt48AMACoARQAvgElgKbAb-QgDgCOAGoAUMAxQB1AF2gNEIgAwAVAC-AU2SABAE-AMySgEgAIADaAIkAYQBigDqAIqAXaA28mABAb-UgDAFDALmAbQBJwC7QG3lQAwAKgAfAC-ASWApsBv4.YAAAAAAAAAAA&consenttype=euconsent&referer=https%3A%2F%2Fwww.digitalartsonline.co.uk%2F&script=c",
+      "lineNumber": 0,
+      "columnNumber": 850
+    },
+    "text": "VM GO INFO: Initialising client"
+  },
+  {
+    "type": "admeasure",
+    "text": "Looking for dialogs to reject..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting for __tcfapi..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint iframe found!"
+  },
+  {
+    "type": "admeasure",
+    "text": "__tcfapi found! Querying status..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingWaiting."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingLoaded."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Button clicked: Options"
+  },
+  {
+    "type": "admeasure",
+    "text": "Found Sourcepoint privacy manager."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: no type toggles."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Check for legitimate interest button..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: no legitimate interest button found: No matching button found: "
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Find the save button."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint dialog rejected."
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data obtained!"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data: cmpId 6 consent false, legInt true."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Network is idle after 0.00s."
+  },
+  {
+    "type": "admeasure",
+    "text": "Minimum wait time reached after 5.00s."
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://idg.com/..."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.idg.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2",
+      "lineNumber": 1,
+      "columnNumber": 708
+    },
+    "text": "JQMIGRATE: Migrate is installed, version 3.3.2"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://cmpv2.idg.com/wrapperMessagingWithoutDetection.js",
+      "lineNumber": 0,
+      "columnNumber": 154615
+    },
+    "text": "Messaging without detection successfully executed."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://ccpa.sp-prod.net/ccpa.js",
+      "lineNumber": 0,
+      "columnNumber": 55949
+    },
+    "text": "CCPA script successfully executed."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.idg.com/wp-content/themes/JointsWP-master/assets/scripts/scripts.js?ver=1624463029",
+      "lineNumber": 10,
+      "columnNumber": 24617
+    },
+    "text": "3"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://tribl.io/firm_tracking.js?orgId=DoJGW2O912UGkvRezxvL",
+      "lineNumber": 55,
+      "columnNumber": 10
+    },
+    "text": "this is idgdotcom"
+  },
+  {
+    "type": "admeasure",
+    "text": "Looking for dialogs to reject..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting for __tcfapi..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint iframe found!"
+  },
+  {
+    "type": "admeasure",
+    "text": "__tcfapi found! Querying status..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingWaiting."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingLoaded."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Button clicked: Options"
+  },
+  {
+    "type": "admeasure",
+    "text": "Found Sourcepoint privacy manager."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: no type toggles."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Check for legitimate interest button..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: no legitimate interest button found: No matching button found: "
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Find the save button."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint dialog rejected."
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data obtained!"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data: cmpId 6 consent false, legInt true."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Network is idle after 0.00s."
+  },
+  {
+    "type": "admeasure",
+    "text": "Minimum wait time reached after 5.00s."
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

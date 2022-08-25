@@ -1,0 +1,217 @@
+[
+  {
+    "part": "measure-07",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:43.198Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "visit https://wired.com/...",
+    "timestamp": "2021-09-09T13:06:43.446Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Subscriptions Runtime: 0.1.22.183 @ [object Object]",
+    "timestamp": "2021-09-09T13:06:46.903Z"
+  },
+  {
+    "part": "console.log",
+    "message": "received a request for uspapi @ [object Object]",
+    "timestamp": "2021-09-09T13:06:47.954Z"
+  },
+  {
+    "part": "console.error",
+    "message": "CNE Player: Error fetching or parsing prebid Error: Timeout\n    at new e (https://player.cnevids.com/inline/video/6131440c38d06979ca06fe75.js?autoplay=1&iu=3379%2Fconde.wired%2Fplayer%2Fhomepage&muted=1&onReady=onPlayerReady6131440c38d06979ca06fe75&showSceneLogo=0&theme=dark&target=cne-video-6131440c38d06979ca06fe75:1:4777)\n    at XMLHttpRequest.<anonymous> (https://player.cnevids.com/inline/video/6131440c38d06979ca06fe75.js?autoplay=1&iu=3379%2Fconde.wired%2Fplayer%2Fhomepage&muted=1&onReady=onPlayerReady6131440c38d06979ca06fe75&showSceneLogo=0&theme=dark&target=cne-video-6131440c38d06979ca06fe75:1:60067) errorData => {embedParams: Object} @ [object Object]",
+    "timestamp": "2021-09-09T13:06:51.192Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "cns.addTargeting function is not setup service function(){return{cnt_cm:t}} @ [object Object]",
+    "timestamp": "2021-09-09T13:06:55.048Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Analytics: library ready @ [object Object]",
+    "timestamp": "2021-09-09T13:06:55.161Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Analytics: digitalData has been updated {canonical: https://www.wired.com, contentID: , contentLength: all, contributor: , display: WIRED} @ [object Object]",
+    "timestamp": "2021-09-09T13:06:55.166Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AppMeasurement @ [object Object]",
+    "timestamp": "2021-09-09T13:06:55.821Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Origin trial controlled feature not enabled: 'trust-token-redemption'. @ [object Object]",
+    "timestamp": "2021-09-09T13:06:56.989Z"
+  },
+  {
+    "part": "console.log",
+    "message": "received a request for uspapi @ [object Object]",
+    "timestamp": "2021-09-09T13:07:02.772Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:07:09.994Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:07:10.004Z"
+  },
+  {
+    "part": "console.error",
+    "message": "VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) The media could not be loaded, either because the server or network failed or because the format is not supported. at @ [object Object]",
+    "timestamp": "2021-09-09T13:07:11.499Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:07:13.217Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:13.221Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:07:13.414Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:07:13.429Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:13.511Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:07:13.778Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AppMeasurement @ [object Object]",
+    "timestamp": "2021-09-09T13:07:15.166Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AppMeasurement @ [object Object]",
+    "timestamp": "2021-09-09T13:07:18.082Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AppMeasurement @ [object Object]",
+    "timestamp": "2021-09-09T13:07:18.647Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AppMeasurement @ [object Object]",
+    "timestamp": "2021-09-09T13:07:19.128Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AppMeasurement @ [object Object]",
+    "timestamp": "2021-09-09T13:07:19.627Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AppMeasurement @ [object Object]",
+    "timestamp": "2021-09-09T13:07:20.165Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AppMeasurement @ [object Object]",
+    "timestamp": "2021-09-09T13:07:20.628Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AppMeasurement @ [object Object]",
+    "timestamp": "2021-09-09T13:07:21.122Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AppMeasurement @ [object Object]",
+    "timestamp": "2021-09-09T13:07:21.545Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AppMeasurement @ [object Object]",
+    "timestamp": "2021-09-09T13:07:22.017Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AppMeasurement @ [object Object]",
+    "timestamp": "2021-09-09T13:07:22.388Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AppMeasurement @ [object Object]",
+    "timestamp": "2021-09-09T13:07:22.850Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AppMeasurement @ [object Object]",
+    "timestamp": "2021-09-09T13:07:23.343Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AppMeasurement @ [object Object]",
+    "timestamp": "2021-09-09T13:07:23.809Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AppMeasurement @ [object Object]",
+    "timestamp": "2021-09-09T13:07:24.209Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AppMeasurement @ [object Object]",
+    "timestamp": "2021-09-09T13:07:25.427Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:07:25.897Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:07:25.901Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:07:25.918Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:07:25.921Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:07:26.047Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:07:30.918Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:07:30.988Z"
+  }
+]

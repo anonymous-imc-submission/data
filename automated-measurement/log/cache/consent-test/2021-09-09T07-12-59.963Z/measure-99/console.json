@@ -1,0 +1,112 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://golem.de/..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Looking for dialogs to reject..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting for __tcfapi..."
+  },
+  {
+    "type": "error",
+    "location": {
+      "url": "https://account.golem.de/ping",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "Failed to load resource: the server responded with a status of 404 (Not Found)"
+  },
+  {
+    "type": "admeasure",
+    "text": "__tcfapi found! Querying status..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingWaiting."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://cmp-cdn.golem.de/wrapperMessagingWithoutDetection.js",
+      "lineNumber": 0,
+      "columnNumber": 154615
+    },
+    "text": "Messaging without detection successfully executed."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingLoaded."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint iframe found!"
+  },
+  {
+    "type": "admeasure",
+    "text": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-pc-btn-handler:visible,\n            #onetrust-pc-sdk:visible\n        \" to be visible\n    ============================================================\n  - No matching button found: Zustimmen und weiter"
+  },
+  {
+    "type": "admeasure",
+    "text": "TC Data evaluation failed: Error: page.evaluate: timeout"
+  },
+  {
+    "type": "admeasure",
+    "text": "TC data: waiting for page to stabilize..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "TC Data evaluation failed: Error: page.evaluate: timeout"
+  },
+  {
+    "type": "admeasure",
+    "text": "TC data: waiting for page to stabilize..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Cannot get TCF data: getTCData timed out"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data: cmpId 6 consent null, legInt null."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Network is idle after 0.01s."
+  },
+  {
+    "type": "admeasure",
+    "text": "Minimum wait time reached after 5.01s."
+  },
+  {
+    "type": "admeasure",
+    "text": "TC Data evaluation failed: Error: page.evaluate: Target closed"
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

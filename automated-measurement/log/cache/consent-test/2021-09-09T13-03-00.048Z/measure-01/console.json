@@ -1,0 +1,102 @@
+[
+  {
+    "part": "measure-01",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:05:13.006Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "visit https://allure.com/...",
+    "timestamp": "2021-09-09T13:05:13.828Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:05:30.402Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:05:33.237Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:05:33.266Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:05:34.279Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:05:34.279Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:05:34.330Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:05:34.334Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:05:34.417Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:05:34.430Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:05:47.841Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:05:47.845Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:05:47.873Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:05:47.877Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:05:48.103Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "ads.Invalid sizes: unable to define 'rail' on mobile..warn {definition: Object, slotName: rail} @ [object Object]",
+    "timestamp": "2021-09-09T13:05:48.418Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "ads.Invalid sizes: unable to define 'nav_rollover' on mobile..warn {definition: Object, slotName: nav_rollover} @ [object Object]",
+    "timestamp": "2021-09-09T13:05:48.446Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:05:52.873Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:05:52.892Z"
+  }
+]

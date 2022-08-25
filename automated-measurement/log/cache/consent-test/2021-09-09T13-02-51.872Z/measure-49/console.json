@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-49",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:22:21.781Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "visit https://usgamer.net/...",
+    "timestamp": "2021-09-09T13:22:23.086Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:22:30.287Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:22:30.306Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://securepubads.g.doubleclick.net/tag/js/gpt.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:33.904Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.usgamer.net/static/scripts/prebid4.30.0.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:33.921Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://c.amazon-adsystem.com/aax2/apstag.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:33.921Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:22:33.940Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:33.941Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:22:34.000Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:22:34.005Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:34.059Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:22:34.069Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:22:37.507Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:22:39.048Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:22:39.058Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:22:39.100Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:22:39.108Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:22:39.127Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:22:44.102Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:22:44.170Z"
+  }
+]

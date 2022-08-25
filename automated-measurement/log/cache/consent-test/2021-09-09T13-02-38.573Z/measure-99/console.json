@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-99",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:16:02.324Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "visit https://eurogamer.de/...",
+    "timestamp": "2021-09-09T13:16:03.758Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:16:08.251Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:16:08.251Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:16:09.300Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:16:09.300Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:16:09.535Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:16:09.538Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:16:09.555Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:16:10.233Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "TCF data: cmpId 28 consent true, legInt false.",
+    "timestamp": "2021-09-09T13:16:10.236Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:16:10.262Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:16:10.264Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:16:10.337Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://www.eurogamer.de/ @ [object Object]",
+    "timestamp": "2021-09-09T13:16:13.315Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://www.eurogamer.de/ @ [object Object]",
+    "timestamp": "2021-09-09T13:16:13.490Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:16:15.263Z"
+  },
+  {
+    "part": "measure-99",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:16:15.291Z"
+  }
+]

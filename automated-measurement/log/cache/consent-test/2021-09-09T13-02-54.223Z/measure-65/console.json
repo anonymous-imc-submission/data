@@ -1,0 +1,227 @@
+[
+  {
+    "part": "measure-65",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:18:55.576Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "visit https://mobilmania.cz/...",
+    "timestamp": "2021-09-09T13:18:55.719Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_UNKNOWN_URL_SCHEME @ [object Object]",
+    "timestamp": "2021-09-09T13:18:56.296Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Logging is active @ [object Object]",
+    "timestamp": "2021-09-09T13:18:56.410Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://assets.adobedtm.com/4beaca54604aa1db7a7d9296a08d83bee398e7fd/scripts/satellite-5b9b64d264746d0861002be6.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:18:56.664Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://assets.adobedtm.com/4beaca54604aa1db7a7d9296a08d83bee398e7fd/scripts/satellite-5b9b64d264746d0861002be6.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:18:56.667Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "JQMIGRATE: jQuery.browser is deprecated @ [object Object]",
+    "timestamp": "2021-09-09T13:18:56.774Z"
+  },
+  {
+    "part": "console.trace",
+    "message": "console.trace @ [object Object]",
+    "timestamp": "2021-09-09T13:18:56.774Z"
+  },
+  {
+    "part": "console.log",
+    "message": "type=zive-desktop-adblock-category @ [object Object]",
+    "timestamp": "2021-09-09T13:18:56.793Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Gemius SA - gemiusAudience: http://www.zive.cz//MobilMania.cz/MobilMania - homepage @ [object Object]",
+    "timestamp": "2021-09-09T13:18:56.799Z"
+  },
+  {
+    "part": "console.log",
+    "message": "attachListeners pagging @ [object Object]",
+    "timestamp": "2021-09-09T13:18:57.944Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Google Event Track: \nCategory: Určitě si přečtěte\nAction: Zobrazení stránky\nLabel: mobilmania.zive.cz|sloupec @ [object Object]",
+    "timestamp": "2021-09-09T13:18:58.032Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:18:58.180Z"
+  },
+  {
+    "part": "console.log",
+    "message": "steps:  [Object,Object,Object,Object,Object,Object,Object,Object,Object,Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:18:58.389Z"
+  },
+  {
+    "part": "console.log",
+    "message": "MTVDMP @ [object Object]",
+    "timestamp": "2021-09-09T13:18:58.759Z"
+  },
+  {
+    "part": "console.log",
+    "message": "MTVDMP @ [object Object]",
+    "timestamp": "2021-09-09T13:18:58.762Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[px openwrap] Pubmatic Openwrap called @ [object Object]",
+    "timestamp": "2021-09-09T13:18:59.110Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[px openwrap] GPT loaded @ [object Object]",
+    "timestamp": "2021-09-09T13:18:59.963Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:19:00.085Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Google Event Track: \nCategory: Obsah\nAction: Blokace (session)\nLabel:  Ano @ [object Object]",
+    "timestamp": "2021-09-09T13:19:00.788Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:19:00.944Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:19:00.946Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:19:01.031Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:01.031Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:19:01.072Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:19:01.075Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:01.093Z"
+  },
+  {
+    "part": "console.log",
+    "message": "start adSlotsRefresh @ [object Object]",
+    "timestamp": "2021-09-09T13:19:02.741Z"
+  },
+  {
+    "part": "console.log",
+    "message": "adSlotsRefresh forced to end @ [object Object]",
+    "timestamp": "2021-09-09T13:19:02.742Z"
+  },
+  {
+    "part": "console.dir",
+    "message": "[Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:19:06.271Z"
+  },
+  {
+    "part": "console.dir",
+    "message": "[Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:19:06.622Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-pc-btn-handler:visible,\n            #onetrust-pc-sdk:visible\n        \" to be visible\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:19:30.996Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:19:51.625Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:19:51.625Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:56.677Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:20:47.226Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:20:47.227Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:20:52.364Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:21:01.032Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "TCF data: cmpId 7 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:21:01.035Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:21:01.047Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:21:01.050Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:21:06.051Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:21:06.479Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:21:06.517Z"
+  }
+]

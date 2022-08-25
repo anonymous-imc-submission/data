@@ -1,0 +1,152 @@
+[
+  {
+    "part": "measure-83",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:27:22.005Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "visit https://arstechnica.co.uk/...",
+    "timestamp": "2021-09-09T13:27:23.141Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "ads.Invalid sizes: unable to define 'siderail' on mobile..warn {definition: Object, slotName: siderail} @ [object Object]",
+    "timestamp": "2021-09-09T13:27:26.059Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "ads.Invalid render: unable to define: 'siderail' on mobile.warn {definition: Object, slotName: siderail} @ [object Object]",
+    "timestamp": "2021-09-09T13:27:26.063Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 526 () @ [object Object]",
+    "timestamp": "2021-09-09T13:27:30.321Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:27:42.034Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:27:42.234Z"
+  },
+  {
+    "part": "console.error",
+    "message": "CNE Player: Error fetching or parsing prebid Error: Timeout\n    at new e (https://player.cnevids.com/script/video/593f02a7b57ac317c100000d.js?autoplay=1&hasCompanion=false&hideHoverTitle=1&hidePosterTitle=1&muted=1&onReady=setupInterlude1&playerType=interlude&recAlgorithm=recommendations_cne-interlude-arstechnica_28d46b5c-021e-47a8-bd1e-a7c1d18b80dd_similar2-3&recStrategy=similar2_3&showPlaylistBar=false:1:4777)\n    at XMLHttpRequest.<anonymous> (https://player.cnevids.com/script/video/593f02a7b57ac317c100000d.js?autoplay=1&hasCompanion=false&hideHoverTitle=1&hidePosterTitle=1&muted=1&onReady=setupInterlude1&playerType=interlude&recAlgorithm=recommendations_cne-interlude-arstechnica_28d46b5c-021e-47a8-bd1e-a7c1d18b80dd_similar2-3&recStrategy=similar2_3&showPlaylistBar=false:1:68317) errorData => {embedParams: Object} @ [object Object]",
+    "timestamp": "2021-09-09T13:27:46.146Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:27:46.162Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "'HTMLVideoElement.webkitDisplayingFullscreen' is deprecated. Please use 'Document.fullscreenElement' instead. @ [object Object]",
+    "timestamp": "2021-09-09T13:27:47.196Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Origin trial controlled feature not enabled: 'trust-token-redemption'. @ [object Object]",
+    "timestamp": "2021-09-09T13:27:47.256Z"
+  },
+  {
+    "part": "console.log",
+    "message": "received a request for uspapi @ [object Object]",
+    "timestamp": "2021-09-09T13:27:50.160Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:27:50.754Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:27:50.764Z"
+  },
+  {
+    "part": "console.error",
+    "message": "VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) The media could not be loaded, either because the server or network failed or because the format is not supported. at @ [object Object]",
+    "timestamp": "2021-09-09T13:27:51.287Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:27:51.435Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:27:51.439Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:27:51.456Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:27:51.459Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:27:51.588Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:27:51.594Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:28:03.902Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:28:03.902Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:28:03.921Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:28:03.924Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:28:04.202Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "updateCorrelator has been deprecated. Please see the Google Ad Manager help page on \"Pageviews in GPT\" for more information: https://support.google.com/admanager/answer/183281?hl=en @ [object Object]",
+    "timestamp": "2021-09-09T13:28:07.942Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] updateCorrelator has been deprecated. See the Google Ad Manager help page on \"Creative selection for multiple ad slots\" for more information: https://support.google.com/admanager/answer/183281. @ [object Object]",
+    "timestamp": "2021-09-09T13:28:07.946Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:28:08.923Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:28:09.024Z"
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "part": "measure-97",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:24:19.709Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "visit https://wired.it/...",
+    "timestamp": "2021-09-09T13:24:25.152Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 1.4.1 @ [object Object]",
+    "timestamp": "2021-09-09T13:24:28.512Z"
+  },
+  {
+    "part": "console.log",
+    "message": "domain: www.wired.it @ [object Object]",
+    "timestamp": "2021-09-09T13:24:28.651Z"
+  },
+  {
+    "part": "console.log",
+    "message": "showVideo @ [object Object]",
+    "timestamp": "2021-09-09T13:24:29.437Z"
+  },
+  {
+    "part": "console.log",
+    "message": "moatYieldReady @ [object Object]",
+    "timestamp": "2021-09-09T13:24:32.542Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "VIDEOJS: WARN: this.options() has been deprecated and will be moved to the constructor in 6.0 @ [object Object]",
+    "timestamp": "2021-09-09T13:24:39.905Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "VIDEOJS: WARN: this.options() has been deprecated and will be moved to the constructor in 6.0 @ [object Object]",
+    "timestamp": "2021-09-09T13:24:39.914Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[GTM] funzione eventClickConnettiSocial Trovata  @ [object Object]",
+    "timestamp": "2021-09-09T13:24:40.668Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Mixed Content: The page at 'https://www.wired.it/' was loaded over HTTPS, but requested an insecure XMLHttpRequest endpoint 'http://manifest.prod.boltdns.net/thumbnail/v1/1177090979001/cb56edde-cd54-49fc-bbf3-457754a71bcc/98962d9e-ddcc-475d-8527-75629d371fe5/thumbnail.webvtt?fastly_token=NjEzYTRlY2NfNDRkOTkxMWViYzQzMjJmMGQ2NWM5YTU0YmIzNTRjNTc2NmQ1Y2Q5MTk4OGRjZThjNTZlMGRmOTdlYzI1NDQ5Ng%3D%3D&pubid=2985902006001'. This request has been blocked; the content must be served over HTTPS. @ [object Object]",
+    "timestamp": "2021-09-09T13:24:41.473Z"
+  },
+  {
+    "part": "console.error",
+    "message": "VIDEOJS: ERROR: Error: Internal XMLHttpRequest Error\n    at i (https://players.brightcove.net/2985902006001/SkQ4QCjGb_default/index.min.js:2:26041)\n    at XMLHttpRequest.c (https://players.brightcove.net/2985902006001/SkQ4QCjGb_default/index.min.js:2:25353) {body: undefined, headers: Object, statusCode: 0, method: undefined, url: undefined} @ [object Object]",
+    "timestamp": "2021-09-09T13:24:43.738Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Origin trial controlled feature not enabled: 'trust-token-redemption'. @ [object Object]",
+    "timestamp": "2021-09-09T13:24:45.881Z"
+  },
+  {
+    "part": "console.log",
+    "message": "OptanonWrapper: 1 @ [object Object]",
+    "timestamp": "2021-09-09T13:24:49.343Z"
+  },
+  {
+    "part": "console.log",
+    "message": "OptanonWrapper call init() @ [object Object]",
+    "timestamp": "2021-09-09T13:24:49.343Z"
+  },
+  {
+    "part": "console.log",
+    "message": "init: check OT configuration @ [object Object]",
+    "timestamp": "2021-09-09T13:24:49.344Z"
+  },
+  {
+    "part": "console.log",
+    "message": "{basic: false, performance: false, functional: false, targeting: false, social: false} @ [object Object]",
+    "timestamp": "2021-09-09T13:24:49.362Z"
+  },
+  {
+    "part": "console.log",
+    "message": "window.dataLayer.push: basic false @ [object Object]",
+    "timestamp": "2021-09-09T13:24:49.363Z"
+  },
+  {
+    "part": "console.log",
+    "message": "window.dataLayer.push: performance false @ [object Object]",
+    "timestamp": "2021-09-09T13:24:49.365Z"
+  },
+  {
+    "part": "console.log",
+    "message": "window.dataLayer.push: functional false @ [object Object]",
+    "timestamp": "2021-09-09T13:24:49.366Z"
+  },
+  {
+    "part": "console.log",
+    "message": "window.dataLayer.push: targeting false @ [object Object]",
+    "timestamp": "2021-09-09T13:24:49.370Z"
+  },
+  {
+    "part": "console.log",
+    "message": "window.dataLayer.push: social false @ [object Object]",
+    "timestamp": "2021-09-09T13:24:49.373Z"
+  },
+  {
+    "part": "console.log",
+    "message": "-----------------> CMP NO targeting consented @ [object Object]",
+    "timestamp": "2021-09-09T13:24:49.377Z"
+  },
+  {
+    "part": "console.log",
+    "message": "privacyString: 1--- @ [object Object]",
+    "timestamp": "2021-09-09T13:24:49.383Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:24:53.334Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:24:53.399Z"
+  },
+  {
+    "part": "console.log",
+    "message": "VIDEOJS: ima3-ad-error AdError 1005: There was a problem requesting ads from the server. Caused by: Error: 6 {emitter: SD, originalEvent: DC, type: ima3-ad-error, target: #document, relatedTarget: undefined} @ [object Object]",
+    "timestamp": "2021-09-09T13:25:02.452Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:25:02.745Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:25:02.766Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:25:02.892Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:25:02.909Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:25:03.478Z"
+  },
+  {
+    "part": "console.log",
+    "message": "OptanonWrapper: 2 @ [object Object]",
+    "timestamp": "2021-09-09T13:25:04.758Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:25:05.924Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:25:05.925Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:25:05.974Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:25:06.002Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 1.4.1 @ [object Object]",
+    "timestamp": "2021-09-09T13:25:06.416Z"
+  },
+  {
+    "part": "console.log",
+    "message": "domain: www.wired.it @ [object Object]",
+    "timestamp": "2021-09-09T13:25:06.582Z"
+  },
+  {
+    "part": "console.log",
+    "message": "showVideo @ [object Object]",
+    "timestamp": "2021-09-09T13:25:06.839Z"
+  },
+  {
+    "part": "console.log",
+    "message": "moatYieldReady @ [object Object]",
+    "timestamp": "2021-09-09T13:25:08.676Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[GTM] funzione eventClickConnettiSocial Trovata  @ [object Object]",
+    "timestamp": "2021-09-09T13:25:09.740Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "VIDEOJS: WARN: this.options() has been deprecated and will be moved to the constructor in 6.0 @ [object Object]",
+    "timestamp": "2021-09-09T13:25:10.200Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "VIDEOJS: WARN: this.options() has been deprecated and will be moved to the constructor in 6.0 @ [object Object]",
+    "timestamp": "2021-09-09T13:25:10.203Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Mixed Content: The page at 'https://www.wired.it/?refresh_ce=' was loaded over HTTPS, but requested an insecure XMLHttpRequest endpoint 'http://manifest.prod.boltdns.net/thumbnail/v1/1177090979001/cb56edde-cd54-49fc-bbf3-457754a71bcc/98962d9e-ddcc-475d-8527-75629d371fe5/thumbnail.webvtt?fastly_token=NjEzYTRlYmNfNjQwNDEyNDg1ZTIyZWI2ZmYwYWU3ZDUzN2ZhM2FmN2NlMDFmNjFmNjk1ZmViOGE2Y2IwMmU4MDYyM2JlNmFkOQ%3D%3D&pubid=2985902006001'. This request has been blocked; the content must be served over HTTPS. @ [object Object]",
+    "timestamp": "2021-09-09T13:25:10.554Z"
+  },
+  {
+    "part": "console.error",
+    "message": "VIDEOJS: ERROR: Error: Internal XMLHttpRequest Error\n    at i (https://players.brightcove.net/2985902006001/SkQ4QCjGb_default/index.min.js:2:26041)\n    at XMLHttpRequest.c (https://players.brightcove.net/2985902006001/SkQ4QCjGb_default/index.min.js:2:25353) {body: undefined, headers: Object, statusCode: 0, method: undefined, url: undefined} @ [object Object]",
+    "timestamp": "2021-09-09T13:25:10.633Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:25:11.006Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Origin trial controlled feature not enabled: 'trust-token-redemption'. @ [object Object]",
+    "timestamp": "2021-09-09T13:25:11.140Z"
+  },
+  {
+    "part": "console.log",
+    "message": "OptanonWrapper: 1 @ [object Object]",
+    "timestamp": "2021-09-09T13:25:11.868Z"
+  },
+  {
+    "part": "console.log",
+    "message": "OptanonWrapper call init() @ [object Object]",
+    "timestamp": "2021-09-09T13:25:11.870Z"
+  },
+  {
+    "part": "console.log",
+    "message": "init: check OT configuration @ [object Object]",
+    "timestamp": "2021-09-09T13:25:11.875Z"
+  },
+  {
+    "part": "console.log",
+    "message": "{basic: true, performance: true, functional: true, targeting: true, social: false} @ [object Object]",
+    "timestamp": "2021-09-09T13:25:11.893Z"
+  },
+  {
+    "part": "console.log",
+    "message": "window.dataLayer.push: basic true @ [object Object]",
+    "timestamp": "2021-09-09T13:25:11.899Z"
+  },
+  {
+    "part": "console.log",
+    "message": "window.dataLayer.push: performance true @ [object Object]",
+    "timestamp": "2021-09-09T13:25:11.902Z"
+  },
+  {
+    "part": "console.log",
+    "message": "window.dataLayer.push: functional true @ [object Object]",
+    "timestamp": "2021-09-09T13:25:11.939Z"
+  },
+  {
+    "part": "console.log",
+    "message": "window.dataLayer.push: targeting true @ [object Object]",
+    "timestamp": "2021-09-09T13:25:13.056Z"
+  },
+  {
+    "part": "console.log",
+    "message": "window.dataLayer.push: social false @ [object Object]",
+    "timestamp": "2021-09-09T13:25:13.057Z"
+  },
+  {
+    "part": "console.log",
+    "message": "-----------------> CMP targeting consented @ [object Object]",
+    "timestamp": "2021-09-09T13:25:13.057Z"
+  },
+  {
+    "part": "console.log",
+    "message": "privacyString: 1--- @ [object Object]",
+    "timestamp": "2021-09-09T13:25:13.057Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[Audiweb InApp] Caso mobile @ [object Object]",
+    "timestamp": "2021-09-09T13:25:15.509Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Failed to execute 'write' on 'Document': It isn't possible to write into a document from an asynchronously-loaded external script unless it is explicitly opened. @ [object Object]",
+    "timestamp": "2021-09-09T13:25:15.585Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 (Not Found) @ [object Object]",
+    "timestamp": "2021-09-09T13:25:18.603Z"
+  },
+  {
+    "part": "console.log",
+    "message": "received a request for uspapi @ [object Object]",
+    "timestamp": "2021-09-09T13:25:19.267Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:25:26.031Z"
+  },
+  {
+    "part": "measure-97",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:25:26.179Z"
+  }
+]

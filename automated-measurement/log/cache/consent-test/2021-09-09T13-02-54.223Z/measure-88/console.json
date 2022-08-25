@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-88",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:24:41.646Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "visit https://travelchannel.com/...",
+    "timestamp": "2021-09-09T13:24:42.033Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "page load error: Error: page.goto: net::ERR_CERT_DATE_INVALID at https://travelchannel.com/\n=========================== logs ===========================\nnavigating to \"https://travelchannel.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:24:42.587Z"
+  },
+  {
+    "part": "measure-88",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:24:42.634Z"
+  }
+]

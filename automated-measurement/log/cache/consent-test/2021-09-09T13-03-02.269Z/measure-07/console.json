@@ -1,0 +1,167 @@
+[
+  {
+    "part": "measure-07",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:05:59.808Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "visit https://laineygossip.com/...",
+    "timestamp": "2021-09-09T13:06:00.130Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:06:01.055Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:06:01.081Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:06:04.369Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:06:04.369Z"
+  },
+  {
+    "part": "console.info",
+    "message": "%cDownload the React DevTools for a better development experience: https://fb.me/react-devtools font-weight:bold @ [object Object]",
+    "timestamp": "2021-09-09T13:06:05.913Z"
+  },
+  {
+    "part": "console.log",
+    "message": "{routes: Object, currentRoute: homepage, model: Object, sortedArticleList: Array(14)} @ [object Object]",
+    "timestamp": "2021-09-09T13:06:07.289Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Warning: componentWillMount has been renamed, and is not recommended for use. See https://fb.me/react-async-component-lifecycle-hooks for details.\n\n* Move code with side effects to componentDidMount, and set initial state in the constructor.\n* Rename componentWillMount to UNSAFE_componentWillMount to suppress this warning in non-strict mode. In React 17.x, only the UNSAFE_ name will work. To rename all deprecated lifecycles to their new names, you can run `npx react-codemod rename-unsafe-lifecycles` in your project source folder.\n\nPlease update the following components: ArticlesLazyLoad @ [object Object]",
+    "timestamp": "2021-09-09T13:06:07.955Z"
+  },
+  {
+    "part": "console.log",
+    "message": "OnetrustActiveGroups ,C0001, @ [object Object]",
+    "timestamp": "2021-09-09T13:06:09.682Z"
+  },
+  {
+    "part": "console.log",
+    "message": "OptanonWrapperCount 0 targetingActive false alertBoxClosed false @ [object Object]",
+    "timestamp": "2021-09-09T13:06:09.690Z"
+  },
+  {
+    "part": "console.log",
+    "message": "enable Services @ [object Object]",
+    "timestamp": "2021-09-09T13:06:10.581Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Ad: /130954647/laineygossip-leaderboard [Array(2),Array(2)] div-gpt-ad-1587407008120-0 isAnyClipPixel:false @ [object Object]",
+    "timestamp": "2021-09-09T13:06:10.680Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Ad: /130954647/laineyGossip-rail-big-box-1 [Array(2),Array(2),Array(2)] div-gpt-ad-1587407355438-0 isAnyClipPixel:false @ [object Object]",
+    "timestamp": "2021-09-09T13:06:10.683Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Ad: /130954647/LaineyGossip-Sub-Article-Video-Unit [1,1] div-gpt-ad-1622141936976-0 isAnyClipPixel:true @ [object Object]",
+    "timestamp": "2021-09-09T13:06:10.683Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Ad: /130954647/laineygossip-rail-big-box-2 [Array(2),Array(2),Array(2)] div-gpt-ad-1587407898076-0 isAnyClipPixel:false @ [object Object]",
+    "timestamp": "2021-09-09T13:06:10.699Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:06:11.431Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:11.432Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:06:12.019Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:06:12.038Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:12.195Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:06:12.282Z"
+  },
+  {
+    "part": "console.log",
+    "message": "OnetrustActiveGroups ,C0001, @ [object Object]",
+    "timestamp": "2021-09-09T13:06:23.693Z"
+  },
+  {
+    "part": "console.log",
+    "message": "OptanonWrapperCount 1 targetingActive false alertBoxClosed true @ [object Object]",
+    "timestamp": "2021-09-09T13:06:23.702Z"
+  },
+  {
+    "part": "console.log",
+    "message": "personalizedAdsDisabled 1 @ [object Object]",
+    "timestamp": "2021-09-09T13:06:23.703Z"
+  },
+  {
+    "part": "console.log",
+    "message": "show Ads @ [object Object]",
+    "timestamp": "2021-09-09T13:06:23.705Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:06:23.990Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:06:23.992Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:06:24.002Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:06:24.018Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:06:24.133Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:06:29.002Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:06:29.034Z"
+  }
+]

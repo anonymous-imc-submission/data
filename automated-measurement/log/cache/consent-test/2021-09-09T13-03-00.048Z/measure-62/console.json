@@ -1,0 +1,27 @@
+[
+  {
+    "part": "measure-62",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:24:34.766Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "visit https://vanityfair.com/...",
+    "timestamp": "2021-09-09T13:24:37.512Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Analytics: digitalData has been updated {canonical: https://www.vanityfair.com, contentID: 54ce306e44a199085e8a284f, contentLength: all, contributor: , display: Homepage: Main List} @ [object Object]",
+    "timestamp": "2021-09-09T13:25:05.963Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://vanityfair.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:25:07.614Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:25:07.692Z"
+  }
+]

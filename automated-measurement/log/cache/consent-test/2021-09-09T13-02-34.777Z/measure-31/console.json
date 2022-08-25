@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-31",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:08:55.351Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "visit https://mingle2.com/...",
+    "timestamp": "2021-09-09T13:08:55.509Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://mingle2.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:09:25.509Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:09:25.529Z"
+  }
+]

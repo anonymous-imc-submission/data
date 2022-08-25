@@ -1,0 +1,202 @@
+[
+  {
+    "part": "measure-27",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:12:23.654Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "visit https://reflex.cz/...",
+    "timestamp": "2021-09-09T13:12:24.117Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Logging is active @ [object Object]",
+    "timestamp": "2021-09-09T13:12:25.135Z"
+  },
+  {
+    "part": "console.log",
+    "message": "type=reflex-desktop-adblock-category @ [object Object]",
+    "timestamp": "2021-09-09T13:12:25.762Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:12:28.594Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'adpod' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:12:28.595Z"
+  },
+  {
+    "part": "console.log",
+    "message": "steps:  [Object,Object,Object,Object,Object,Object,Object,Object,Object,Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:12:29.650Z"
+  },
+  {
+    "part": "console.log",
+    "message": ">>> @ [object Object]",
+    "timestamp": "2021-09-09T13:12:30.341Z"
+  },
+  {
+    "part": "console.log",
+    "message": "MTVDMP @ [object Object]",
+    "timestamp": "2021-09-09T13:12:34.250Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[px openwrap] Pubmatic Openwrap called @ [object Object]",
+    "timestamp": "2021-09-09T13:12:37.181Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[px openwrap] GPT loaded @ [object Object]",
+    "timestamp": "2021-09-09T13:12:38.911Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:12:40.700Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'adpod' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:12:40.704Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:12:41.810Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Origin trial controlled feature not enabled: 'trust-token-redemption'. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:43.158Z"
+  },
+  {
+    "part": "console.dir",
+    "message": "[Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:12:43.383Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:12:45.350Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:12:45.357Z"
+  },
+  {
+    "part": "console.log",
+    "message": "start adSlotsRefresh @ [object Object]",
+    "timestamp": "2021-09-09T13:12:45.466Z"
+  },
+  {
+    "part": "console.log",
+    "message": "adSlotsRefresh continue @ [object Object]",
+    "timestamp": "2021-09-09T13:12:45.467Z"
+  },
+  {
+    "part": "console.log",
+    "message": "settings from siteConfig @ [object Object]",
+    "timestamp": "2021-09-09T13:12:45.469Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:12:46.405Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:46.415Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:12:46.495Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:12:46.516Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:46.581Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-pc-btn-handler:visible,\n            #onetrust-pc-sdk:visible\n        \" to be visible\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:13:15.374Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:13:37.143Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:13:37.144Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:42.165Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:14:32.669Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:14:32.669Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:14:37.685Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:14:46.413Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "TCF data: cmpId 7 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:14:46.413Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:14:46.429Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:14:46.430Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:14:51.430Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:14:51.519Z"
+  },
+  {
+    "part": "measure-27",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:14:51.531Z"
+  }
+]

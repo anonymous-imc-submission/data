@@ -1,0 +1,177 @@
+[
+  {
+    "part": "measure-15",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:08:00.760Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "visit https://vix.com/...",
+    "timestamp": "2021-09-09T13:08:01.042Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:08:05.177Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:08:08.719Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:08:11.622Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:08:11.624Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:08:12.108Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:08:19.833Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:08:21.248Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:08:21.250Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:08:22.090Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:08:22.104Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:08:22.135Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:08:23.224Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:08:26.554Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:08:30.127Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "'window.webkitStorageInfo' is deprecated. Please use 'navigator.webkitTemporaryStorage' or 'navigator.webkitPersistentStorage' instead. @ [object Object]",
+    "timestamp": "2021-09-09T13:08:31.638Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:08:33.129Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:08:36.875Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:08:39.360Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-pc-btn-handler:visible,\n            #onetrust-pc-sdk:visible\n        \" to be visible\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:08:41.729Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:09:03.021Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:09:14.338Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:09:14.338Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:09:19.376Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:10:09.881Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:10:09.881Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:14.933Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:10:21.249Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "TCF data: cmpId 28 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:10:21.249Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:10:21.255Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:10:21.256Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:10:26.256Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:10:26.272Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:10:26.284Z"
+  }
+]

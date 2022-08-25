@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-76",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:21:44.833Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "visit https://baxterbulletin.com/...",
+    "timestamp": "2021-09-09T13:21:46.239Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:21:52.255Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:21:58.004Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:21:58.004Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:21:58.729Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:21:58.729Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:21:58.862Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:21:58.865Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:21:58.891Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:21:58.933Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:22:15.030Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:22:15.042Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:22:15.103Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:22:15.119Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:22:20.126Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:22:35.143Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:22:35.215Z"
+  }
+]

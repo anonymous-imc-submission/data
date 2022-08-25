@@ -1,0 +1,198 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://maxisciences.com/..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Looking for dialogs to reject..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting for __tcfapi..."
+  },
+  {
+    "type": "admeasure",
+    "text": "__tcfapi found! Querying status..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "error",
+    "location": {
+      "url": "https://www.maxisciences.com/false",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "Failed to load resource: the server responded with a status of 404 ()"
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingWaiting."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://cdn.privacy-mgmt.com/wrapperMessagingWithoutDetection.js",
+      "lineNumber": 0,
+      "columnNumber": 154615
+    },
+    "text": "Messaging without detection successfully executed."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingLoaded."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint iframe found!"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://static.ads-twitter.com/uwt.js",
+      "lineNumber": 0,
+      "columnNumber": 3198
+    },
+    "text": "Sending:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=ny7uk&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.maxisciences.com%2F"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://static.ads-twitter.com/uwt.js",
+      "lineNumber": 0,
+      "columnNumber": 3707
+    },
+    "text": "Building an script pixel with URL:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=ny7uk&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.maxisciences.com%2F"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://static.ads-twitter.com/uwt.js",
+      "lineNumber": 0,
+      "columnNumber": 3198
+    },
+    "text": "Sending:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=ny7uk&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.maxisciences.com%2F"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://static.ads-twitter.com/uwt.js",
+      "lineNumber": 0,
+      "columnNumber": 4103
+    },
+    "text": "Building an image pixel with URL:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=ny7uk&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.maxisciences.com%2F"
+  },
+  {
+    "type": "admeasure",
+    "text": "Button clicked: Réglages"
+  },
+  {
+    "type": "admeasure",
+    "text": "Found Sourcepoint privacy manager."
+  },
+  {
+    "type": "error",
+    "location": {
+      "url": "https://dpm.demdex.net/ibs:dpid=483047&dpuuid=ID5-ZHMOPFGSK_4QiRB4xASplW5IK-DYX-JYpzO_FU-5oA&redir=https%3A%2F%2Fid5-sync.com%2Fc%2F169%2F349%2F1%2F9.gif%3Fpuid%3D%24%7BDD_UUID%7D%26gdpr%3D1%26gdpr_consent%3D&gdpr=1&gdpr_consent=",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "Failed to load resource: net::ERR_TOO_MANY_REDIRECTS"
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: toggling type toggles."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Check for legitimate interest button..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: no legitimate interest button found: No matching button found: "
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Find the save button."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint dialog rejected."
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data obtained!"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data: cmpId 6 consent true, legInt true."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting..."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 4,
+      "columnNumber": 16
+    },
+    "text": "Targeting Key is "
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 24,
+      "columnNumber": 20
+    },
+    "text": "No IAS tag"
+  },
+  {
+    "type": "admeasure",
+    "text": "Minimum wait time reached after 5.00s."
+  },
+  {
+    "type": "startGroupCollapsed",
+    "location": {
+      "url": "https://ads.ayads.co/ajs.php?zid=30856",
+      "lineNumber": 73,
+      "columnNumber": 746
+    },
+    "text": "%cwf%cs%c color: #FFFFFF; padding: 1px 3px; border-radius: 3px 0 0 3px; background: #ED7D04; color: #3E3E40; padding: 1px 3px; background: #6BEC7C color: #292929; padding: 1px 3px; border-radius: 0 3px 3px 0; background: #DEDEDE; Ads exhausted"
+  },
+  {
+    "type": "trace",
+    "location": {
+      "url": "https://ads.ayads.co/ajs.php?zid=30856",
+      "lineNumber": 73,
+      "columnNumber": 774
+    },
+    "text": "console.trace"
+  },
+  {
+    "type": "endGroup",
+    "location": {
+      "url": "https://ads.ayads.co/ajs.php?zid=30856",
+      "lineNumber": 73,
+      "columnNumber": 790
+    },
+    "text": "console.groupEnd"
+  },
+  {
+    "type": "admeasure",
+    "text": "Network is idle after 6.10s."
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

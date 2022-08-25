@@ -1,0 +1,402 @@
+[
+  {
+    "part": "measure-96",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:21:48.003Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "visit https://jetztspielen.de/...",
+    "timestamp": "2021-09-09T13:21:50.425Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:22:00.942Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:22:02.799Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:22:02.810Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:22:05.618Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:05.653Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:22:05.662Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:22:05.667Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:05.881Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:22:07.002Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:22:07.007Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:22:07.068Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:22:07.072Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:22:07.348Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] To reserve space and reduce layout shifts, consider setting min-width=970px, min-height=1000px styles on the div element with id=div-gpt-ad-383888936370337066-oop. Learn more: https://developers.google.com/publisher-tag/guides/minimize-layout-shift @ [object Object]",
+    "timestamp": "2021-09-09T13:22:08.736Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Created Advert instance. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.166Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Advert rendered in friendly iframe false @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.173Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Advert rendered in safeframe false @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.174Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AssetContainer constructor called. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.183Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AssetContainer init called. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.186Z"
+  },
+  {
+    "part": "console.log",
+    "message": "HtmlContent init method invoked. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.190Z"
+  },
+  {
+    "part": "console.log",
+    "message": "adConfig is [object Object]assetContainerId: main @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.191Z"
+  },
+  {
+    "part": "console.log",
+    "message": "HtmlContent post check for langVersion. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.193Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DivContainer setAnchorDiv style called. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.193Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DivContainer createAnchorDiv called. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.196Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exisiting anchor is: null @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.196Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Advert broken out of iframe! @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.200Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AssetContainer constructor called. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.275Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AssetContainer init called. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.280Z"
+  },
+  {
+    "part": "console.log",
+    "message": "HtmlContent init method invoked. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.284Z"
+  },
+  {
+    "part": "console.log",
+    "message": "adConfig is [object Object]assetContainerId: floatOne @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.301Z"
+  },
+  {
+    "part": "console.log",
+    "message": "HtmlContent post check for langVersion. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.305Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DivContainer createAnchorDiv called. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.305Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exisiting anchor is: [object HTMLDivElement] @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.308Z"
+  },
+  {
+    "part": "console.log",
+    "message": "The anchor exists already, setting instance property @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.308Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AssetContainer constructor called. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.308Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AssetContainer init called. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.308Z"
+  },
+  {
+    "part": "console.log",
+    "message": "HtmlContent init method invoked. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.308Z"
+  },
+  {
+    "part": "console.log",
+    "message": "adConfig is [object Object]assetContainerId: floatTwo @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.308Z"
+  },
+  {
+    "part": "console.log",
+    "message": "HtmlContent post check for langVersion. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.320Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DivContainer createAnchorDiv called. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.320Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exisiting anchor is: [object HTMLDivElement] @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.320Z"
+  },
+  {
+    "part": "console.log",
+    "message": "The anchor exists already, setting instance property @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.320Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AssetContainer constructor called. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.335Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AssetContainer init called. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.335Z"
+  },
+  {
+    "part": "console.log",
+    "message": "HtmlContent init method invoked. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.335Z"
+  },
+  {
+    "part": "console.log",
+    "message": "adConfig is [object Object]assetContainerId: floatThree @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.335Z"
+  },
+  {
+    "part": "console.log",
+    "message": "HtmlContent post check for langVersion. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.335Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DivContainer createAnchorDiv called. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.336Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exisiting anchor is: [object HTMLDivElement] @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.339Z"
+  },
+  {
+    "part": "console.log",
+    "message": "The anchor exists already, setting instance property @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.339Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DivContainer: Rendering advert content. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.339Z"
+  },
+  {
+    "part": "console.log",
+    "message": "HtmlContent rendered. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.341Z"
+  },
+  {
+    "part": "console.log",
+    "message": "advert iframe url: https://richmedia.cdnservices.net/adtech/assets/593d490a9acd4417e7e8e2da8d39236c/ad.html @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.345Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Allow attribute will take precedence over 'allowfullscreen'. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.349Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Starting timer 'displayTimer' @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.394Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Starting timer 'viewTimer' @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.410Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AssetContainer main has been rendered on event: serve @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.414Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DivContainer: Rendering advert content. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.423Z"
+  },
+  {
+    "part": "console.log",
+    "message": "HtmlContent rendered. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.429Z"
+  },
+  {
+    "part": "console.log",
+    "message": "advert iframe url: https://richmedia.cdnservices.net/adtech/assets/593d490a9acd4417e7e8e2da8d39236c/left.html @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.430Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AssetContainer floatOne has been rendered on event: serve @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.465Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DivContainer: Rendering advert content. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.467Z"
+  },
+  {
+    "part": "console.log",
+    "message": "HtmlContent rendered. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.470Z"
+  },
+  {
+    "part": "console.log",
+    "message": "advert iframe url: https://richmedia.cdnservices.net/adtech/assets/593d490a9acd4417e7e8e2da8d39236c/top.html @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.473Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AssetContainer floatTwo has been rendered on event: serve @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.526Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DivContainer: Rendering advert content. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.533Z"
+  },
+  {
+    "part": "console.log",
+    "message": "HtmlContent rendered. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.537Z"
+  },
+  {
+    "part": "console.log",
+    "message": "advert iframe url: https://richmedia.cdnservices.net/adtech/assets/593d490a9acd4417e7e8e2da8d39236c/right.html @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.537Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AssetContainer floatThree has been rendered on event: serve @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.567Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Logger making logging request for https://delivery.adnuntius.com/b/lqTg8taWXKa5vXYZypIl268o7PKQwhjp0c7dSr6awJwAAAAQCtjQz9kbGWD4nuZy3q6HaHGLVY-q-K7HUBXVPrXdeYaipBtXPASoU5uJlfu8FX5NzAi9XUhv1QO12X2cxT5VkjLx2Okk_x0ULuSmOGFiq-y4i7rsG9bEo-Q3PogzEzl3ApQQBNgar0Fj4bjHA7nF7OkcVXQoXVPQYhScWE19yq3KqR8ECuSLMrV5AaJrdZOfHysrp2jlOPOh258zxLlkIRkCp9sc-qxlBN8oQWD1q_rD4sgWnQ.html @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.570Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Advert making third party tracking request on event VIEW @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.584Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Logger making logging request for https://track.adform.net/adfserve/?bn=48992780;1x1inv=1;srctype=3;gdpr=${gdpr};gdpr_consent=${gdpr_consent_50};ord=adn-id-1107109276 @ [object Object]",
+    "timestamp": "2021-09-09T13:22:10.584Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Advert making third party tracking request on event viewableImpression @ [object Object]",
+    "timestamp": "2021-09-09T13:22:11.584Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Logger making logging request for https://delivery.adnuntius.com/v?rt=lqTg8taWXKa5vXYZypIl268o7PKQwhjp0c7dSr6awJwAAAAQCtjQz9kbGWD4nuZy3q6HaHGLVY-q-K7HUBXVPrXdeYaipBtXPASoU5uJlfu8FX5NzAi9XUhv1QO12X2cxT5VkjLx2Okk_x0ULuSmOGFiq-y4i7rsG9bEo-Q3PogzEzl3ApQQBNgar0Fj4bjHA7nF7OkcVXQoXVPQYhScWE19yq3KqR8ECuSLMrV5AaJrdZOfHysrp2jlOPOh258zxLlkIRkCp9sc-qxlBN8oQWD1q_rD4sgWnQ @ [object Object]",
+    "timestamp": "2021-09-09T13:22:11.601Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Logger making logging request for https://delivery.adnuntius.com/u?rt=lqTg8taWXKa5vXYZypIl268o7PKQwhjp0c7dSr6awJwAAAAQCtjQz9kbGWD4nuZy3q6HaHGLVY-q-K7HUBXVPrXdeYaipBtXPASoU5uJlfu8FX5NzAi9XUhv1QO12X2cxT5VkjLx2Okk_x0ULuSmOGFiq-y4i7rsG9bEo-Q3PogzEzl3ApQQBNgar0Fj4bjHA7nF7OkcVXQoXVPQYhScWE19yq3KqR8ECuSLMrV5AaJrdZOfHysrp2jlOPOh258zxLlkIRkCp9sc-qxlBN8oQWD1q_rD4sgWnQ&customType=c9f6fe2c78d93485fb24a1ef9bf6c7ef @ [object Object]",
+    "timestamp": "2021-09-09T13:22:11.603Z"
+  },
+  {
+    "part": "console.log",
+    "message": "HtmlContent sending configuration to content. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:12.033Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:22:12.071Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:22:12.182Z"
+  }
+]

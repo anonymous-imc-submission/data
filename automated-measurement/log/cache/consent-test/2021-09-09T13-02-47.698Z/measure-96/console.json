@@ -1,0 +1,217 @@
+[
+  {
+    "part": "measure-96",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:28:45.511Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "visit https://slate.com/...",
+    "timestamp": "2021-09-09T13:28:45.845Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:28:58.034Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:28:58.038Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Blocked autofocusing on a <div> element in a cross-origin subframe. @ [object Object]",
+    "timestamp": "2021-09-09T13:28:58.441Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Blocked autofocusing on a <div> element in a cross-origin subframe. @ [object Object]",
+    "timestamp": "2021-09-09T13:28:58.449Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Blocked autofocusing on a <div> element in a cross-origin subframe. @ [object Object]",
+    "timestamp": "2021-09-09T13:28:58.449Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Blocked autofocusing on a <div> element in a cross-origin subframe. @ [object Object]",
+    "timestamp": "2021-09-09T13:28:58.450Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Blocked autofocusing on a <div> element in a cross-origin subframe. @ [object Object]",
+    "timestamp": "2021-09-09T13:28:58.456Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Blocked autofocusing on a <div> element in a cross-origin subframe. @ [object Object]",
+    "timestamp": "2021-09-09T13:28:58.461Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Blocked autofocusing on a <div> element in a cross-origin subframe. @ [object Object]",
+    "timestamp": "2021-09-09T13:28:58.463Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Blocked autofocusing on a <div> element in a cross-origin subframe. @ [object Object]",
+    "timestamp": "2021-09-09T13:28:58.464Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Blocked autofocusing on a <div> element in a cross-origin subframe. @ [object Object]",
+    "timestamp": "2021-09-09T13:28:58.465Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Blocked autofocusing on a <div> element in a cross-origin subframe. @ [object Object]",
+    "timestamp": "2021-09-09T13:28:58.467Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Blocked autofocusing on a <div> element in a cross-origin subframe. @ [object Object]",
+    "timestamp": "2021-09-09T13:28:58.469Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Blocked autofocusing on a <div> element in a cross-origin subframe. @ [object Object]",
+    "timestamp": "2021-09-09T13:28:58.482Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Blocked autofocusing on a <div> element in a cross-origin subframe. @ [object Object]",
+    "timestamp": "2021-09-09T13:28:58.482Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Blocked autofocusing on a <div> element in a cross-origin subframe. @ [object Object]",
+    "timestamp": "2021-09-09T13:28:58.492Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Blocked autofocusing on a <div> element in a cross-origin subframe. @ [object Object]",
+    "timestamp": "2021-09-09T13:28:58.492Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Blocked autofocusing on a <div> element in a cross-origin subframe. @ [object Object]",
+    "timestamp": "2021-09-09T13:28:58.493Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "Rendering \"Checkout\" template https://buy.tinypass.com/checkout/offer/show?displayMode=inline&containerSelector=%23piano-banner&templateId=OTXEK90ZEFII&offerId=OF2LLP57V2KM&formNameByTermId=%7B%22TMWB0JWBX5BU%22%3A%22attribution-menu%22%7D&hideCompletedFields=true&showCloseButton=false&experienceId=EXUF5T1K9FED&widget=offer&iframeId=offer-0-Z3twR&url=https%3A%2F%2Fslate.com%2F&parentDualScreenLeft=0&parentDualScreenTop=0&parentWidth=428&parentHeight=746&parentOuterHeight=746&aid=homyv5Uzpu&pianoIdUrl=https%3A%2F%2Fid.tinypass.com%2Fid%2F&userProvider=piano_id&userToken=&customCookies=%7B%7D&hasLoginRequiredCallback=true&initMode=context&width=428&_qh=ba386a9bb2 @ [object Object]",
+    "timestamp": "2021-09-09T13:28:58.574Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:28:59.868Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:28:59.868Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:28:59.941Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:28:59.954Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:28:59.968Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:29:00.004Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button id=\"onetrust-pc-btn-handler\">Show Purposes</button>\nattempting click action\n  waiting for element to be visible, enabled and stable\n============================================================",
+    "timestamp": "2021-09-09T13:29:02.363Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:29:34.728Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:29:50.599Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:29:50.599Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:29:55.698Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".ot-pc-refuse-all-handler:visible, .save-preference-btn-handler:visible\"\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:30:05.297Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:30:46.243Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:30:46.243Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:30:51.290Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:30:59.869Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "TCF data: cmpId 28 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:30:59.873Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:30:59.889Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:30:59.895Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:31:04.896Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:31:05.014Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:31:05.036Z"
+  }
+]

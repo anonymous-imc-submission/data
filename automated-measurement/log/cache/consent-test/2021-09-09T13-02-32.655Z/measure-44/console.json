@@ -1,0 +1,122 @@
+[
+  {
+    "part": "measure-44",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:12:51.922Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "visit https://saveur.com/...",
+    "timestamp": "2021-09-09T13:12:52.137Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.0 @ [object Object]",
+    "timestamp": "2021-09-09T13:12:53.154Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:12:55.322Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SUPPRESS: false @ [object Object]",
+    "timestamp": "2021-09-09T13:12:57.234Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error in Optanon wrapper, please review your code. ReferenceError: __tcfapi is not defined @ [object Object]",
+    "timestamp": "2021-09-09T13:12:58.621Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:12:59.110Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:12:59.168Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:12:59.177Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://adserver-us.adtech.advertising.com/pubapi/3.0/11700.1/5116808/0/0/ADTECH;v=2;cmd=bid;cors=yes;alias=2361120e747204d;misc=1631193179454;' from origin 'https://www.saveur.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:00.229Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:13:00.242Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error in Optanon wrapper, please review your code. ReferenceError: __tcfapi is not defined @ [object Object]",
+    "timestamp": "2021-09-09T13:13:02.108Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:13:02.343Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.saveur.com/uploads/2019/10/31/SDMIRKQACOYFSZSZLYW25NAMHA.jpg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:02.405Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://www.saveur.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:13:05.523Z"
+  },
+  {
+    "part": "console.log",
+    "message": "applySettings: 242c978c-8e33-4535-bff6-1b26b4224da2, object @ [object Object]",
+    "timestamp": "2021-09-09T13:13:09.592Z"
+  },
+  {
+    "part": "console.log",
+    "message": "{layout: Object, text1: Object, text2: Object, html1: Object, image1: Object} @ [object Object]",
+    "timestamp": "2021-09-09T13:13:09.600Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ [object Object]",
+    "timestamp": "2021-09-09T13:13:17.624Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "__tcfapi not found: TimeoutError: page.waitForFunction: Timeout 30000ms exceeded.",
+    "timestamp": "2021-09-09T13:13:29.763Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "TCF data: cmpId null consent null, legInt null.",
+    "timestamp": "2021-09-09T13:13:29.763Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:13:29.786Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:13:29.791Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:13:34.795Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:13:34.867Z"
+  }
+]

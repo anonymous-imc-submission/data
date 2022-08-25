@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-64",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:23:12.588Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "visit https://popularmechanics.com/...",
+    "timestamp": "2021-09-09T13:23:13.003Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service worker registration succeeded. @ [object Object]",
+    "timestamp": "2021-09-09T13:23:14.642Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:23:17.956Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:23:20.856Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:23:20.867Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:23:21.718Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:23:21.718Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:23:21.734Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:23:21.738Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:23:21.784Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:23:21.801Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:23:30.082Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:23:30.083Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:23:30.105Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:23:30.110Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:23:30.200Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service worker registration succeeded. @ [object Object]",
+    "timestamp": "2021-09-09T13:23:31.145Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:23:34.293Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:23:35.106Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:23:35.138Z"
+  }
+]

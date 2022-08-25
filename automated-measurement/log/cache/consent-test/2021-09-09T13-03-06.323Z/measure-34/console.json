@@ -1,0 +1,147 @@
+[
+  {
+    "part": "measure-34",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:11:44.200Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "visit https://lawebdelprogramador.com/...",
+    "timestamp": "2021-09-09T13:11:44.369Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:11:45.308Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:11:45.308Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:11:46.304Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:11:46.311Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:11:47.155Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:47.156Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:11:47.198Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:11:48.567Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:49.540Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_EMPTY_RESPONSE @ [object Object]",
+    "timestamp": "2021-09-09T13:11:51.805Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:11:53.236Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:11:55.436Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "TCF data: cmpId 10 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:11:55.439Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:11:55.466Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:11:55.984Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 400 () @ [object Object]",
+    "timestamp": "2021-09-09T13:11:58.963Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:12:00.467Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The deviceorientation events are blocked by permissions policy. See https://github.com/w3c/webappsec-permissions-policy/blob/master/features.md#sensor-features @ [object Object]",
+    "timestamp": "2021-09-09T13:12:10.193Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The deviceorientation events are blocked by permissions policy. See https://github.com/w3c/webappsec-permissions-policy/blob/master/features.md#sensor-features @ [object Object]",
+    "timestamp": "2021-09-09T13:12:11.593Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The deviceorientation events are blocked by permissions policy. See https://github.com/w3c/webappsec-permissions-policy/blob/master/features.md#sensor-features @ [object Object]",
+    "timestamp": "2021-09-09T13:12:11.756Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The devicemotion events are blocked by permissions policy. See https://github.com/w3c/webappsec-permissions-policy/blob/master/features.md#sensor-features @ [object Object]",
+    "timestamp": "2021-09-09T13:12:11.757Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JSHandle@node @ [object Object]",
+    "timestamp": "2021-09-09T13:12:11.814Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "function anonymous(\n) {\n\n} @ [object Object]",
+    "timestamp": "2021-09-09T13:12:11.947Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Encrypted Media access has been blocked because of a Feature Policy applied to the current document. See https://goo.gl/EuHzyv for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:12.271Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://fonts.googleapis.com/css?family=Google%20Sans%20Display%3A400%2C500 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:14.675Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:12:15.472Z"
+  },
+  {
+    "part": "measure-34",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:12:15.688Z"
+  }
+]

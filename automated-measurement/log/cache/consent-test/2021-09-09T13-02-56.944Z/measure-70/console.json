@@ -1,0 +1,152 @@
+[
+  {
+    "part": "measure-70",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:23:54.519Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "visit https://dictionary.com/...",
+    "timestamp": "2021-09-09T13:23:55.228Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to font at 'https://www.thesaurus.com/hp-assets/_next/static/chunks/fonts/dictionary-font-5cedc408460d45e3c8ef15c05879003e.woff' from origin 'https://www.dictionary.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:24:00.830Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:24:00.840Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:24:01.367Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Error: Request to /click_prediction/?site=dcom&geo=UK&platform=Mobile&position=top&size=undefined&user_agent=Mozilla%2F5.0%20(iPhone%3B%20CPU%20iPhone%20OS%2014_4%20like%20Mac%20OS%20X)%20AppleWebKit%2F605.1.15%20(KHTML%2C%20like%20Gecko)%20Version%2F15.0%20Mobile%2F15E148%20Safari%2F604.1&language=non_english&user_encountered=0 failed with status code 0.\n    at XMLHttpRequest.f.onreadystatechange (https://www.dictionary.com/adscripts/9.9.2/adscripts.js:1:13005) @ [object Object]",
+    "timestamp": "2021-09-09T13:24:01.432Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:24:06.482Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:24:06.490Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:24:07.541Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:24:07.542Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:24:07.969Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:24:07.978Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:24:08.061Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:24:08.592Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n============================================================",
+    "timestamp": "2021-09-09T13:24:10.681Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:24:14.172Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".ot-pc-refuse-all-handler:visible, .save-preference-btn-handler:visible\"\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:24:44.784Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:24:59.426Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:24:59.430Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:25:04.591Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:25:55.133Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:25:55.137Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:26:00.219Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:26:07.543Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "TCF data: cmpId 28 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:26:07.550Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:26:07.574Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:26:07.579Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:26:12.577Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:26:12.662Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:26:12.662Z"
+  }
+]

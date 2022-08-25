@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-84",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:19:26.090Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "visit https://revistagq.com/...",
+    "timestamp": "2021-09-09T13:19:26.779Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 503 () @ [object Object]",
+    "timestamp": "2021-09-09T13:19:40.781Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Permutive was not initialized. No consent to run on the page @ [object Object]",
+    "timestamp": "2021-09-09T13:19:41.468Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:19:43.910Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:19:43.914Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:19:44.449Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:44.452Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:19:44.475Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:19:44.477Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:44.566Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:19:45.507Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "TCF data: cmpId 28 consent true, legInt false.",
+    "timestamp": "2021-09-09T13:19:45.511Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:19:45.536Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:19:45.542Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:19:46.570Z"
+  },
+  {
+    "part": "console.log",
+    "message": "$global td_ssc_id set to '01FF5BDR30V75Z3T12956KJ3R9' @ [object Object]",
+    "timestamp": "2021-09-09T13:19:49.175Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:19:50.540Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:19:50.605Z"
+  }
+]

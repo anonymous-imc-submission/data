@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "playwright": "1.17.0-next-alpha-nov-1-2021"
+  }
+}

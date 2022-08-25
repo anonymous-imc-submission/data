@@ -1,0 +1,112 @@
+[
+  {
+    "part": "measure-09",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:07:47.005Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "visit https://eternallifestyle.com/...",
+    "timestamp": "2021-09-09T13:07:47.262Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:07:49.626Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:07:49.627Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:07:50.162Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:50.163Z"
+  },
+  {
+    "part": "console.log",
+    "message": "1.0.0.3.7 @ [object Object]",
+    "timestamp": "2021-09-09T13:07:50.302Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:07:50.374Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o4wkz&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Feternallifestyle.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:07:50.666Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o4wkz&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Feternallifestyle.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:07:50.668Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an image pixel with URL:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o4wkz&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Feternallifestyle.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:07:50.673Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an script pixel with URL:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o4wkz&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Feternallifestyle.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:07:50.938Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:07:51.131Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:51.516Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:07:52.039Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:07:52.468Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "TCF data: cmpId 10 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:07:52.474Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:07:52.480Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:07:52.545Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "Network is idle after 0.59s.",
+    "timestamp": "2021-09-09T13:07:53.072Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:07:57.482Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:07:57.525Z"
+  }
+]

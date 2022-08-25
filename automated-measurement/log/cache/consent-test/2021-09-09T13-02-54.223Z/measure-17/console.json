@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-17",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:07:41.523Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "visit https://deadline.com/...",
+    "timestamp": "2021-09-09T13:07:44.031Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:07:50.065Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:07:50.072Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:07:52.417Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:52.421Z"
+  },
+  {
+    "part": "console.log",
+    "message": "fonts loaded @ [object Object]",
+    "timestamp": "2021-09-09T13:07:52.579Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:07:52.654Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:07:52.659Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:52.677Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:07:53.108Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://static.adsafeprotected.com/vans-adapter-google-ima.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:07:53.203Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:08:08.432Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:08:08.432Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:08:08.436Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:08:08.438Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:08:08.524Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:08:13.439Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:08:13.467Z"
+  }
+]

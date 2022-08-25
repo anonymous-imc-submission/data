@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-32",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:09:03.899Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "visit https://motors.co.uk/...",
+    "timestamp": "2021-09-09T13:09:04.058Z"
+  },
+  {
+    "part": "console.log",
+    "message": "No Universal Analytics cookie found @ [object Object]",
+    "timestamp": "2021-09-09T13:09:06.448Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Failed to execute 'write' on 'Document': It isn't possible to write into a document from an asynchronously-loaded external script unless it is explicitly opened. @ [object Object]",
+    "timestamp": "2021-09-09T13:09:06.667Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:09:07.799Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:09:07.803Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:09:08.406Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:09:08.411Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:09:08.431Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:09:08.433Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:09:08.437Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:09:10.066Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "TCF data: cmpId 28 consent true, legInt false.",
+    "timestamp": "2021-09-09T13:09:10.067Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:09:10.073Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:09:10.078Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:09:10.132Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:09:15.074Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:09:15.086Z"
+  }
+]

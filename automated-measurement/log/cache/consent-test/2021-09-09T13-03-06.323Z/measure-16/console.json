@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-16",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:09:12.690Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "visit https://apollo.lv/...",
+    "timestamp": "2021-09-09T13:09:12.953Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:09:27.933Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:09:27.940Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:09:30.014Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:09:30.015Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:09:30.113Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:09:30.124Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:09:30.136Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:09:30.209Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:09:31.374Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "TCF data: cmpId 10 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:09:31.376Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:09:31.384Z"
+  },
+  {
+    "part": "console.log",
+    "message": "the cookies was saved successfully @ [object Object]",
+    "timestamp": "2021-09-09T13:09:31.672Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:09:31.803Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Network is idle after 3.79s.",
+    "timestamp": "2021-09-09T13:09:35.172Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:09:36.384Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:09:36.413Z"
+  }
+]

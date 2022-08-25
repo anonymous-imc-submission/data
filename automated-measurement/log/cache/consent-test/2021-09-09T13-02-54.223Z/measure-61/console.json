@@ -1,0 +1,112 @@
+[
+  {
+    "part": "measure-61",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:17:56.761Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "visit https://workingmother.com/...",
+    "timestamp": "2021-09-09T13:17:57.767Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:18:03.494Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SUPPRESS: false @ [object Object]",
+    "timestamp": "2021-09-09T13:18:05.482Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cmpuishown @ [object Object]",
+    "timestamp": "2021-09-09T13:18:08.185Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:18:08.377Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:18:08.378Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:18:08.539Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:08.539Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:18:08.558Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:18:08.562Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:08.601Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:18:08.607Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:18:11.653Z"
+  },
+  {
+    "part": "console.log",
+    "message": "useractioncomplete @ [object Object]",
+    "timestamp": "2021-09-09T13:18:12.956Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:18:13.078Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:18:13.082Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:18:13.099Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:18:13.102Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:18:13.316Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:18:18.100Z"
+  },
+  {
+    "part": "measure-61",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:18:18.130Z"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-16",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:07:39.139Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "visit https://news-press.com/...",
+    "timestamp": "2021-09-09T13:07:39.344Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:07:44.444Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:07:56.073Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:07:56.075Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:07:56.777Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:56.777Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:07:56.820Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:07:56.823Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:56.858Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:07:56.887Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:08:31.629Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:08:31.631Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:08:31.648Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:08:31.691Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:08:36.649Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:08:51.650Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:08:51.665Z"
+  }
+]

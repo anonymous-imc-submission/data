@@ -1,0 +1,152 @@
+[
+  {
+    "part": "measure-83",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:21:14.232Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "visit https://mediafax.ro/...",
+    "timestamp": "2021-09-09T13:21:22.960Z"
+  },
+  {
+    "part": "console.log",
+    "message": " @ [object Object]",
+    "timestamp": "2021-09-09T13:21:25.743Z"
+  },
+  {
+    "part": "console.log",
+    "message": "timestamp-cookie: @ [object Object]",
+    "timestamp": "2021-09-09T13:21:25.745Z"
+  },
+  {
+    "part": "console.log",
+    "message": "NaN @ [object Object]",
+    "timestamp": "2021-09-09T13:21:25.747Z"
+  },
+  {
+    "part": "console.log",
+    "message": "timestamp-bug @ [object Object]",
+    "timestamp": "2021-09-09T13:21:25.747Z"
+  },
+  {
+    "part": "console.log",
+    "message": "1623794400 @ [object Object]",
+    "timestamp": "2021-09-09T13:21:25.747Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js?31062485, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:21:26.032Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js?31062485, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:21:26.062Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Invalid arguments: PubAdsService.refresh(). @ [object Object]",
+    "timestamp": "2021-09-09T13:21:31.280Z"
+  },
+  {
+    "part": "console.log",
+    "message": "1 @ [object Object]",
+    "timestamp": "2021-09-09T13:21:36.492Z"
+  },
+  {
+    "part": "console.log",
+    "message": "HasAdBlock : No @ [object Object]",
+    "timestamp": "2021-09-09T13:21:36.494Z"
+  },
+  {
+    "part": "console.error",
+    "message": "JW Player Error 102630. For more information see https://developer.jwplayer.com/jw-player/docs/developer-guide/api/errors-reference#102630 @ [object Object]",
+    "timestamp": "2021-09-09T13:21:37.186Z"
+  },
+  {
+    "part": "console.log",
+    "message": "XHR ok @ [object Object]",
+    "timestamp": "2021-09-09T13:21:38.813Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Calendar loaded! @ [object Object]",
+    "timestamp": "2021-09-09T13:21:38.818Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:21:45.511Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:21:45.540Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:21:46.608Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:21:46.618Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:21:46.682Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:21:46.710Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:21:47.021Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GDPR & Consent @ [object Object]",
+    "timestamp": "2021-09-09T13:21:47.769Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:21:48.293Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:21:48.299Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:21:48.354Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:21:48.367Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:21:49.330Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:21:53.361Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:21:53.697Z"
+  }
+]

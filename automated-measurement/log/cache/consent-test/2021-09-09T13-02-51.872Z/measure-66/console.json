@@ -1,0 +1,157 @@
+[
+  {
+    "part": "measure-66",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:26:57.986Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "visit https://vtwonen.nl/...",
+    "timestamp": "2021-09-09T13:26:59.060Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:27:04.614Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:27:15.371Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:27:15.418Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SP referrer = null @ [object Object]",
+    "timestamp": "2021-09-09T13:27:16.246Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Messaging without detection successfully executed. @ [object Object]",
+    "timestamp": "2021-09-09T13:27:16.638Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Sourcepoint iframe found!",
+    "timestamp": "2021-09-09T13:27:17.145Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:27:18.864Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:27:18.865Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:27:18.974Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:27:18.979Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:27:18.998Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Button clicked: Instellen",
+    "timestamp": "2021-09-09T13:27:22.845Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Found Sourcepoint privacy manager.",
+    "timestamp": "2021-09-09T13:27:24.225Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Sourcepoint: no type toggles.",
+    "timestamp": "2021-09-09T13:27:32.278Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Sourcepoint: Check for legitimate interest button...",
+    "timestamp": "2021-09-09T13:27:42.778Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Sourcepoint: no legitimate interest button found: No matching button found: ",
+    "timestamp": "2021-09-09T13:27:42.874Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Sourcepoint: Find the save button.",
+    "timestamp": "2021-09-09T13:27:42.874Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Sourcepoint dialog rejected.",
+    "timestamp": "2021-09-09T13:27:43.760Z"
+  },
+  {
+    "part": "console.log",
+    "message": "tcf20 cookie set - cross site @ [object Object]",
+    "timestamp": "2021-09-09T13:27:44.094Z"
+  },
+  {
+    "part": "console.log",
+    "message": "tcf20 cookie set - first time @ [object Object]",
+    "timestamp": "2021-09-09T13:27:44.119Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:27:44.521Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "TCF data: cmpId 6 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:27:44.526Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:27:44.537Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:27:45.351Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SP referrer = null @ [object Object]",
+    "timestamp": "2021-09-09T13:27:47.492Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Messaging without detection successfully executed. @ [object Object]",
+    "timestamp": "2021-09-09T13:27:47.639Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Network is idle after 4.92s.",
+    "timestamp": "2021-09-09T13:27:49.454Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:27:49.543Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:27:49.617Z"
+  }
+]

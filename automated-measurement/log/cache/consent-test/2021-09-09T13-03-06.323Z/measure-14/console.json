@@ -1,0 +1,87 @@
+[
+  {
+    "part": "measure-14",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:08:52.675Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "visit https://epizy.com/...",
+    "timestamp": "2021-09-09T13:08:52.945Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:08:54.599Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:08:54.607Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:08:54.908Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:08:54.930Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:08:55.109Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:08:55.113Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:08:55.122Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:08:55.215Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:08:55.672Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "TCF data: cmpId 10 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:08:55.685Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:08:55.697Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:08:55.837Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "Network is idle after 4.67s.",
+    "timestamp": "2021-09-09T13:09:00.365Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:09:00.697Z"
+  },
+  {
+    "part": "measure-14",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:09:00.770Z"
+  }
+]

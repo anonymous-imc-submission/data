@@ -1,0 +1,87 @@
+[
+  {
+    "part": "measure-82",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:18:55.018Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "visit https://word.tips/...",
+    "timestamp": "2021-09-09T13:18:56.496Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:18:59.366Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:18:59.385Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:19:01.809Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:19:09.768Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:09.830Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:19:10.105Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:13.631Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:19:13.871Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:19:20.883Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:19:20.898Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:19:20.962Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:19:20.986Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:19:21.099Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:19:25.977Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:19:26.060Z"
+  }
+]

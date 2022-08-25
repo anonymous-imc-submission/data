@@ -1,0 +1,112 @@
+[
+  {
+    "part": "measure-77",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:12:56.915Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "visit https://espnfc.us/...",
+    "timestamp": "2021-09-09T13:12:57.105Z"
+  },
+  {
+    "part": "console.log",
+    "message": "update: ad _dcf:1 @ [object Object]",
+    "timestamp": "2021-09-09T13:12:57.919Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:00.347Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:13:05.757Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:13:05.773Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://adservice.google.co.uk/adsid/integrator.js?domain=www.espn.co.uk was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:11.774Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://adservice.google.com/adsid/integrator.js?domain=www.espn.co.uk was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:11.776Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:13:11.953Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:11.955Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:13:12.276Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:13:12.277Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:13:13.375Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:13:13.375Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:13:15.927Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[OneID] [%s]:  ERROR Already initialized @ [object Object]",
+    "timestamp": "2021-09-09T13:13:16.046Z"
+  },
+  {
+    "part": "console.log",
+    "message": "update: ad consent @ [object Object]",
+    "timestamp": "2021-09-09T13:13:18.557Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Minimum wait time reached after 5.30s.",
+    "timestamp": "2021-09-09T13:13:21.226Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[OneID] [%s]:  ERROR Session not established @ [object Object]",
+    "timestamp": "2021-09-09T13:13:23.843Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The devicemotion events are blocked by permissions policy. See https://github.com/w3c/webappsec-permissions-policy/blob/master/features.md#sensor-features @ [object Object]",
+    "timestamp": "2021-09-09T13:13:26.234Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Network is idle after 13.7s.",
+    "timestamp": "2021-09-09T13:13:29.644Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:13:29.711Z"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-18",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:11:50.839Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "visit https://espnf1.com/...",
+    "timestamp": "2021-09-09T13:11:51.081Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "page load error: Error: page.goto: net::ERR_CONNECTION_REFUSED at https://espnf1.com/\n=========================== logs ===========================\nnavigating to \"https://espnf1.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:11:51.181Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:11:51.236Z"
+  }
+]

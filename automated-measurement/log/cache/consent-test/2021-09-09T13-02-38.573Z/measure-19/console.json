@@ -1,0 +1,127 @@
+[
+  {
+    "part": "measure-19",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:12.541Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "visit https://foreverconscious.com/...",
+    "timestamp": "2021-09-09T13:06:12.862Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:06:14.037Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:06:14.977Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:06:15.554Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:06:15.554Z"
+  },
+  {
+    "part": "console.log",
+    "message": "YT API init check @ [object Object]",
+    "timestamp": "2021-09-09T13:06:16.074Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 410 () @ [object Object]",
+    "timestamp": "2021-09-09T13:06:16.742Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 410 () @ [object Object]",
+    "timestamp": "2021-09-09T13:06:16.768Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:06:17.005Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:17.005Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:06:17.020Z"
+  },
+  {
+    "part": "console.log",
+    "message": "YT API init check @ [object Object]",
+    "timestamp": "2021-09-09T13:06:17.074Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:17.210Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:06:17.239Z"
+  },
+  {
+    "part": "console.log",
+    "message": "YT API init check @ [object Object]",
+    "timestamp": "2021-09-09T13:06:18.073Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:06:18.590Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:06:18.592Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:06:18.594Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:06:18.595Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:06:18.629Z"
+  },
+  {
+    "part": "console.log",
+    "message": "YT API init check @ [object Object]",
+    "timestamp": "2021-09-09T13:06:19.113Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:06:20.261Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:06:23.595Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:06:23.612Z"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-31",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:13:21.699Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "visit https://surf-forecast.com/...",
+    "timestamp": "2021-09-09T13:13:22.381Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:13:26.791Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:13:26.792Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:13:27.152Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:27.152Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:13:27.188Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:13:27.199Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:27.249Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:13:27.272Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:13:30.257Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:13:35.640Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:13:35.644Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:13:35.654Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:13:35.657Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:13:35.785Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:13:40.655Z"
+  },
+  {
+    "part": "measure-31",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:13:40.683Z"
+  }
+]

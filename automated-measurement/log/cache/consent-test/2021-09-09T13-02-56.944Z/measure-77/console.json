@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-77",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:26:12.686Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "visit https://couchsurfing.org/...",
+    "timestamp": "2021-09-09T13:26:13.163Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Adsbygoogle tag with data-reactive-ad-format=1 is deprecated. Check out page-level ads at https://www.google.com/adsense @ [object Object]",
+    "timestamp": "2021-09-09T13:26:15.946Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Invalid arguments: PubAdsService.refresh(). @ [object Object]",
+    "timestamp": "2021-09-09T13:26:16.856Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Refused to execute script from 'https://www.couchsurfing.com/' because its MIME type ('text/html') is not executable, and strict MIME type checking is enabled. @ [object Object]",
+    "timestamp": "2021-09-09T13:26:18.806Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:26:18.853Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:26:18.902Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:26:19.602Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:26:19.603Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:26:19.652Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:26:19.660Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:26:19.676Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:26:19.688Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:26:23.710Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:26:26.523Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:26:26.536Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:26:26.646Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:26:26.665Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:26:26.723Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:26:31.651Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:26:31.733Z"
+  }
+]

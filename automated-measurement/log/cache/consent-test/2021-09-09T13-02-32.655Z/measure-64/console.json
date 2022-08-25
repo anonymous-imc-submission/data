@@ -1,0 +1,27 @@
+[
+  {
+    "part": "measure-64",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:16:35.990Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "visit https://thenewsstar.com/...",
+    "timestamp": "2021-09-09T13:16:36.701Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:17:02.788Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://thenewsstar.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:17:06.732Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:17:06.878Z"
+  }
+]

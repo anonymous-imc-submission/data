@@ -1,0 +1,102 @@
+[
+  {
+    "part": "measure-67",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:18:35.522Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "visit https://bigpoint.com/...",
+    "timestamp": "2021-09-09T13:18:37.187Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:18:38.761Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Netscape @ [object Object]",
+    "timestamp": "2021-09-09T13:18:42.774Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "USP is not accessible @ [object Object]",
+    "timestamp": "2021-09-09T13:18:52.177Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:18:56.905Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:18:56.931Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:18:57.544Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:57.554Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:18:57.816Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:18:57.820Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:57.823Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:18:57.897Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:19:02.403Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "TCF data: cmpId 10 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:19:02.403Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:19:02.637Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:19:02.674Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Network is idle after 0.03s.",
+    "timestamp": "2021-09-09T13:19:02.707Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Minimum wait time reached after 5.23s.",
+    "timestamp": "2021-09-09T13:19:07.912Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:19:08.383Z"
+  }
+]

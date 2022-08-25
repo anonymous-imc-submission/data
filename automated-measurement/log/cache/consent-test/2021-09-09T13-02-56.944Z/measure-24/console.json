@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-24",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:12:11.433Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "visit https://universia.net/...",
+    "timestamp": "2021-09-09T13:12:11.586Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "resourceType nt:folder not found in mappings! @ [object Object]",
+    "timestamp": "2021-09-09T13:12:12.841Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[KEYCLOAK] Usage of legacy style promise methods such as `.error()` and `.success()` has been deprecated and support will be removed in future versions. Use standard style promise methods such as `.then() and `.catch()` instead. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:13.030Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:12:15.822Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:12:15.828Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:12:16.287Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:16.287Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:12:16.309Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:12:16.314Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:16.342Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:12:16.353Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:12:22.611Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:12:22.611Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:12:22.624Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:12:22.727Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Network is idle after 1.11s.",
+    "timestamp": "2021-09-09T13:12:23.730Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:12:27.625Z"
+  },
+  {
+    "part": "measure-24",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:12:27.650Z"
+  }
+]

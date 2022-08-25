@@ -1,0 +1,87 @@
+[
+  {
+    "part": "measure-62",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:22:41.418Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "visit https://heraldnews.com/...",
+    "timestamp": "2021-09-09T13:22:42.262Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:22:53.254Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:22:53.282Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:22:53.426Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:53.427Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:22:53.446Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:22:53.451Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:53.533Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:22:53.537Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:23:23.158Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:23:23.161Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:23:23.274Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:23:23.323Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:23:28.279Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:23:43.320Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:23:43.377Z"
+  }
+]

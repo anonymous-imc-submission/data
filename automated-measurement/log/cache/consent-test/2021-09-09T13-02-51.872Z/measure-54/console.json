@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-54",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:24:22.241Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "visit https://vogue.mx/...",
+    "timestamp": "2021-09-09T13:24:24.586Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Permutive was not initialized. No consent to run on the page @ [object Object]",
+    "timestamp": "2021-09-09T13:24:42.943Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:24:44.492Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:24:44.502Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:24:45.390Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:24:45.407Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:24:45.436Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:24:45.440Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:24:45.507Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:24:45.536Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:24:52.641Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:24:52.649Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:24:52.686Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:24:52.692Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:24:52.978Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:24:57.687Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:24:57.758Z"
+  }
+]

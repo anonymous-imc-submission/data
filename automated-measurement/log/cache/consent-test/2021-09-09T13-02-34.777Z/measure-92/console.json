@@ -1,0 +1,127 @@
+[
+  {
+    "part": "measure-92",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:21:10.008Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "visit https://reut.rs/...",
+    "timestamp": "2021-09-09T13:21:14.304Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:21:18.059Z"
+  },
+  {
+    "part": "console.log",
+    "message": "### Sophi: index.js @ [object Object]",
+    "timestamp": "2021-09-09T13:21:20.091Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Init Bootstrap with config {onetrust_logs: false, geolocation_mock: default, onetrust_script_id: 38cb75bd-fbe1-4ac8-b4af-e531ab368caf} @ [object Object]",
+    "timestamp": "2021-09-09T13:21:20.141Z"
+  },
+  {
+    "part": "console.log",
+    "message": "IAS setup complete @ [object Object]",
+    "timestamp": "2021-09-09T13:21:21.106Z"
+  },
+  {
+    "part": "console.log",
+    "message": "MOAT setup complete @ [object Object]",
+    "timestamp": "2021-09-09T13:21:21.885Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c rpta:Raptor Analytics (rpta) has been initialized with config color: seagreen; {onTrackPageView: , onTrackIdentity: , onTrackEvent: , debug: true} @ [object Object]",
+    "timestamp": "2021-09-09T13:21:24.263Z"
+  },
+  {
+    "part": "console.log",
+    "message": "### Sophi visible fusion environment: {ADMIN: false, SEGMENT_WRITE_KEY: IEWBqQ8VWHijTQxb7lEBGFGS9uIJzigZ, SEGMENT_WRITE_KEY_MOBILE: YlmAIaFBxsNtlVJdfuSV0ncE931ghRtS, API_ORIGIN: https://api-reuters-reuters-prod.cdn.arcpublishing.com, ONETRUST_SCRIPT_ID: 38cb75bd-fbe1-4ac8-b4af-e531ab368caf} @ [object Object]",
+    "timestamp": "2021-09-09T13:21:24.271Z"
+  },
+  {
+    "part": "console.log",
+    "message": "### Sophi: DOMContentLoaded loaded @ [object Object]",
+    "timestamp": "2021-09-09T13:21:24.271Z"
+  },
+  {
+    "part": "console.log",
+    "message": "### Sophi: Data enabled: true @ [object Object]",
+    "timestamp": "2021-09-09T13:21:24.294Z"
+  },
+  {
+    "part": "console.log",
+    "message": "### Sophi: Environment: prod @ [object Object]",
+    "timestamp": "2021-09-09T13:21:24.295Z"
+  },
+  {
+    "part": "console.log",
+    "message": "### Sophi: page type: section @ [object Object]",
+    "timestamp": "2021-09-09T13:21:24.296Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c rpta:Track Page View for category \"Home\" is successfully invoked color: seagreen; {page_view_type: Page Load, pageView: 1} @ [object Object]",
+    "timestamp": "2021-09-09T13:21:24.297Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c rpta:Track identity for user_id \"undefined\" is successfully invoked color: seagreen; undefined @ [object Object]",
+    "timestamp": "2021-09-09T13:21:24.297Z"
+  },
+  {
+    "part": "console.log",
+    "message": "### Sophi: attaching sophi settings @ [object Object]",
+    "timestamp": "2021-09-09T13:21:24.299Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Could not hash data due to missing params: false true true @ [object Object]",
+    "timestamp": "2021-09-09T13:21:24.300Z"
+  },
+  {
+    "part": "console.log",
+    "message": "### Sophi: window.sophi settings attached: {data: Object, settings: Object} @ [object Object]",
+    "timestamp": "2021-09-09T13:21:24.306Z"
+  },
+  {
+    "part": "console.log",
+    "message": "### Sophi: wallType: undefined @ [object Object]",
+    "timestamp": "2021-09-09T13:21:24.306Z"
+  },
+  {
+    "part": "console.log",
+    "message": "### Sophi: completed @ [object Object]",
+    "timestamp": "2021-09-09T13:21:24.306Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c rpta:Track event \"sophi.attached\" is successfully invoked color: seagreen; {label: section, nonInteraction: 1, uiInteraction: 0} @ [object Object]",
+    "timestamp": "2021-09-09T13:21:24.306Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cleared-onetrust-cookies  cutoff Thu Apr 15 2021 17:44:20 GMT+0200 (Mitteleuropäische Sommerzeit) @ [object Object]",
+    "timestamp": "2021-09-09T13:21:25.492Z"
+  },
+  {
+    "part": "console.log",
+    "message": "clear onetrust cookie!!! @ [object Object]",
+    "timestamp": "2021-09-09T13:21:25.500Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://reut.rs/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:21:44.356Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:21:44.535Z"
+  }
+]

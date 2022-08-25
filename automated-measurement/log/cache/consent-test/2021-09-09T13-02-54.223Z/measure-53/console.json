@@ -1,0 +1,337 @@
+[
+  {
+    "part": "measure-53",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:15:29.410Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "visit https://mtvuutiset.fi/...",
+    "timestamp": "2021-09-09T13:15:29.689Z"
+  },
+  {
+    "part": "console.log",
+    "message": "> preload style \"https://st.mtv.fi/static/stylesheets/mtvx-non-critical-frontpage.css?v=315-1\" => success @ [object Object]",
+    "timestamp": "2021-09-09T13:15:29.954Z"
+  },
+  {
+    "part": "console.log",
+    "message": "> preload script \"https://st.mtv.fi/static/javascripts/mtvx-frontpage.js?v=315-1\" => success @ [object Object]",
+    "timestamp": "2021-09-09T13:15:29.959Z"
+  },
+  {
+    "part": "console.log",
+    "message": "> preload script \"https://st.mtv.fi/static/javascripts/external-js/prebid_v4.26.0.min.js?v=315-1\" => success @ [object Object]",
+    "timestamp": "2021-09-09T13:15:29.966Z"
+  },
+  {
+    "part": "console.log",
+    "message": "> preload script \"https://st.mtv.fi/static/javascripts/jquery_mtvxlibs.js?v=315-1\" => success @ [object Object]",
+    "timestamp": "2021-09-09T13:15:29.968Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdn.cookielaw.org/consent/tcf.stub.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:15:29.970Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdn.cookielaw.org/consent/tcf.stub.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:15:29.974Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:15:29.976Z"
+  },
+  {
+    "part": "console.log",
+    "message": "> critical css loaded @ [object Object]",
+    "timestamp": "2021-09-09T13:15:30.527Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Registration succeeded. Scope is https://www.mtvuutiset.fi/ @ [object Object]",
+    "timestamp": "2021-09-09T13:15:30.684Z"
+  },
+  {
+    "part": "console.log",
+    "message": "TypeError: Cannot read properties of undefined (reading 'pageBottom')\n    at https://www.mtvuutiset.fi/:5080:23 @ [object Object]",
+    "timestamp": "2021-09-09T13:15:31.710Z"
+  },
+  {
+    "part": "console.log",
+    "message": "> prefetch \"https://st.mtv.fi/static/stylesheets/mtvx-critical-article.css?v=315-1\" => success @ [object Object]",
+    "timestamp": "2021-09-09T13:15:31.719Z"
+  },
+  {
+    "part": "console.log",
+    "message": "> prefetch \"https://st.mtv.fi/static/stylesheets/mtvx-non-critical-article.css?v=315-1\" => success @ [object Object]",
+    "timestamp": "2021-09-09T13:15:31.729Z"
+  },
+  {
+    "part": "console.log",
+    "message": "> prefetch \"https://st.mtv.fi/static/javascripts/mtvx-article.js?v=315-1\" => success @ [object Object]",
+    "timestamp": "2021-09-09T13:15:31.738Z"
+  },
+  {
+    "part": "console.log",
+    "message": "> prefetch \"https://st.mtv.fi/static/stylesheets/mtvx-critical-tagpage.css?v=315-1\" => success @ [object Object]",
+    "timestamp": "2021-09-09T13:15:31.741Z"
+  },
+  {
+    "part": "console.log",
+    "message": "> prefetch \"https://st.mtv.fi/static/stylesheets/mtvx-non-critical-tagpage.css?v=315-1\" => success @ [object Object]",
+    "timestamp": "2021-09-09T13:15:31.747Z"
+  },
+  {
+    "part": "console.log",
+    "message": "> prefetch \"https://st.mtv.fi/static/javascripts/mtvx-tagpage.js?v=315-1\" => success @ [object Object]",
+    "timestamp": "2021-09-09T13:15:31.752Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead @ [object Object]",
+    "timestamp": "2021-09-09T13:15:32.281Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead @ [object Object]",
+    "timestamp": "2021-09-09T13:15:32.282Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DEBUG:  Trying to find mapping for match: mtvuutiset_fi @ [object Object]",
+    "timestamp": "2021-09-09T13:15:36.925Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DEBUG:  {leaderboard-1: Object, leaderboard-2: Object, in-content-1: Object, in-content-2: Object, in-content-3: Object} @ [object Object]",
+    "timestamp": "2021-09-09T13:15:36.928Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Adobe Analytics state - checking... @ [object Object]",
+    "timestamp": "2021-09-09T13:15:37.168Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Adobe Analytics initialized @ [object Object]",
+    "timestamp": "2021-09-09T13:15:37.178Z"
+  },
+  {
+    "part": "console.log",
+    "message": "> non-critical css loaded @ [object Object]",
+    "timestamp": "2021-09-09T13:15:37.431Z"
+  },
+  {
+    "part": "console.log",
+    "message": "embed-rockery.js loaded @ [object Object]",
+    "timestamp": "2021-09-09T13:15:39.545Z"
+  },
+  {
+    "part": "console.log",
+    "message": "embedPlay(1046878) called @ [object Object]",
+    "timestamp": "2021-09-09T13:15:39.750Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Loading mtv-player (new html5 player) @ [object Object]",
+    "timestamp": "2021-09-09T13:15:39.777Z"
+  },
+  {
+    "part": "console.log",
+    "message": "embedPlay(1476832) called @ [object Object]",
+    "timestamp": "2021-09-09T13:15:39.919Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Inserting still for asset  1476832 @ [object Object]",
+    "timestamp": "2021-09-09T13:15:39.920Z"
+  },
+  {
+    "part": "console.log",
+    "message": "embedPlay(1476294) called @ [object Object]",
+    "timestamp": "2021-09-09T13:15:39.978Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Inserting still for asset  1476294 @ [object Object]",
+    "timestamp": "2021-09-09T13:15:39.999Z"
+  },
+  {
+    "part": "console.log",
+    "message": "embedPlay(876561) called @ [object Object]",
+    "timestamp": "2021-09-09T13:15:40.082Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Inserting still for asset  876561 @ [object Object]",
+    "timestamp": "2021-09-09T13:15:40.084Z"
+  },
+  {
+    "part": "console.log",
+    "message": "embedPlay(1476876) called @ [object Object]",
+    "timestamp": "2021-09-09T13:15:40.116Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Inserting still for asset  1476876 @ [object Object]",
+    "timestamp": "2021-09-09T13:15:40.121Z"
+  },
+  {
+    "part": "console.log",
+    "message": "embedPlay(1476873) called @ [object Object]",
+    "timestamp": "2021-09-09T13:15:40.155Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Inserting still for asset  1476873 @ [object Object]",
+    "timestamp": "2021-09-09T13:15:40.156Z"
+  },
+  {
+    "part": "console.log",
+    "message": "embedPlay(1475780) called @ [object Object]",
+    "timestamp": "2021-09-09T13:15:40.223Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Inserting still for asset  1475780 @ [object Object]",
+    "timestamp": "2021-09-09T13:15:40.224Z"
+  },
+  {
+    "part": "console.log",
+    "message": "embedPlay(1469713) called @ [object Object]",
+    "timestamp": "2021-09-09T13:15:40.284Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Inserting still for asset  1469713 @ [object Object]",
+    "timestamp": "2021-09-09T13:15:40.290Z"
+  },
+  {
+    "part": "console.log",
+    "message": "embedPlay(1476811) called @ [object Object]",
+    "timestamp": "2021-09-09T13:15:40.326Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Inserting still for asset  1476811 @ [object Object]",
+    "timestamp": "2021-09-09T13:15:40.329Z"
+  },
+  {
+    "part": "console.info",
+    "message": "[mtv-player] mtv-player starting v2.6.5 using videoEngine v10.1.44, SDK v10.0.18 and dash.js v3.2.2 {\"version\":\"2.6.5\",\"buildTime\":\"2021-09-06T06:35:39.950Z\",\"commit\":\"4ac288b309b44c65ee5c2e6efdde38da66cdb42b\",\"branch\":\"master\",\"commitTime\":\"2021-09-06 09:32:55 +0300\"} @ [object Object]",
+    "timestamp": "2021-09-09T13:15:43.167Z"
+  },
+  {
+    "part": "console.log",
+    "message": "\n//////// H-E-A-D-E-R-B-I-D //////// @ [object Object]",
+    "timestamp": "2021-09-09T13:15:45.597Z"
+  },
+  {
+    "part": "console.log",
+    "message": "auction ended > took: 8666.80ms @ [object Object]",
+    "timestamp": "2021-09-09T13:15:45.601Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DEBUG:  No breakpoint found in JSON for: leaderboard-1 @ [object Object]",
+    "timestamp": "2021-09-09T13:15:46.079Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DEBUG:  No breakpoint found in JSON for: in-content-4 @ [object Object]",
+    "timestamp": "2021-09-09T13:15:46.089Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DEBUG:  No breakpoint found in JSON for: in-content-5 @ [object Object]",
+    "timestamp": "2021-09-09T13:15:46.091Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DEBUG:  Starting to load Ad leaderboard-2 @ [object Object]",
+    "timestamp": "2021-09-09T13:15:46.145Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:15:46.221Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:15:46.225Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:15:46.694Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:15:46.703Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:15:46.760Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:15:46.769Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:15:46.840Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:15:46.871Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DEBUG:  leaderboard-2 Ad loaded > took: 1622.90ms @ [object Object]",
+    "timestamp": "2021-09-09T13:15:47.771Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:16:26.230Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:16:26.231Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:16:26.246Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:16:26.255Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:16:26.527Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:16:31.249Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:16:31.321Z"
+  }
+]

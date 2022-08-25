@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-68",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:20:12.497Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "visit https://kimovil.com/...",
+    "timestamp": "2021-09-09T13:20:13.477Z"
+  },
+  {
+    "part": "console.log",
+    "message": "b @ [object Object]",
+    "timestamp": "2021-09-09T13:20:19.922Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:20:25.044Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:20:25.052Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:20:26.783Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:20:26.788Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:20:26.807Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:20:26.809Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:20:26.861Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:20:26.883Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cREV%cAMP%c [INFO]: %cRev·Amp v.1.672.0 %cloaded - https://revamp.softonic.com/ border: 1px solid #f4f4f4; background: #f4f4f4; color: #52A3D3; padding: 1px 0 1px 2px; font-weight: 600; border-top-left-radius: 3px; border-bottom-left-radius: 3px border: 1px solid #f4f4f4; background: #f4f4f4; color: #54B377; padding: 1px 2px 1px 0; font-weight: 600; border-top-right-radius: 3px; border-bottom-right-radius: 3px font-weight: 600; color: blue font-weight: 600;   @ [object Object]",
+    "timestamp": "2021-09-09T13:20:27.152Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button class=\"cookie-setting-link\" id=\"onetrust-pc-btn-…>Zwecke anzeigen</button>\nattempting click action\n  waiting for element to be visible, enabled and stable\n  element is visible, enabled and stable\n  scrolling into view if needed\n  done scrolling\n  checking that element receives pointer events at (211.48,668.2)\n  element does receive pointer events\n  performing click action\n============================================================",
+    "timestamp": "2021-09-09T13:20:28.885Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:20:49.831Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:20:49.836Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:20:49.849Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:20:49.852Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:20:50.063Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Error in googletag.display: could not find div with id \"div-gpt-ad-1549367641606-0__ad\" in DOM for slot: /5302,51163483/TD-desktop/kimovil/kimovil-Es-Tiles/ATF_MPU_First. @ [object Object]",
+    "timestamp": "2021-09-09T13:20:50.498Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:20:54.851Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:20:54.891Z"
+  }
+]

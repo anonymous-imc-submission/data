@@ -1,0 +1,87 @@
+[
+  {
+    "part": "measure-66",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:16:40.237Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "visit https://gamesgames.com/...",
+    "timestamp": "2021-09-09T13:16:53.056Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:17:02.641Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:17:07.405Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:17:07.448Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:17:11.819Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:17:11.822Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:17:11.902Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:17:11.915Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:17:11.980Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:17:16.839Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:17:16.849Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:17:16.894Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:17:16.908Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:17:17.106Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:17:21.906Z"
+  },
+  {
+    "part": "measure-66",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:17:22.062Z"
+  }
+]

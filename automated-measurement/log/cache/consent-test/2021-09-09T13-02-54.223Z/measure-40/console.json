@@ -1,0 +1,187 @@
+[
+  {
+    "part": "measure-40",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:13:06.697Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "visit https://hotnews.ro/...",
+    "timestamp": "2021-09-09T13:13:07.219Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://www4.smartadserver.com/ac?nwid=674&siteid=37764&pgid=258615&fmtid=18284&visit=m&tmstp=3075753633&tag=sas_18284&sh=1120&sw=1792&pgDomain=https%3A%2F%2Fhotnews.ro%2F&noadcbk=sas.noad&isLazy=0&isAdRefresh=0, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:08.910Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://www4.smartadserver.com/ac?nwid=674&siteid=37764&pgid=258615&fmtid=18284&visit=m&tmstp=3075753633&tag=sas_18284&sh=1120&sw=1792&pgDomain=https%3A%2F%2Fhotnews.ro%2F&noadcbk=sas.noad&isLazy=0&isAdRefresh=0, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:08.915Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://ced-ns.sascdn.com/diff/templates/ts/dist/banner/sas-banner-1.2.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:09.581Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://ced-ns.sascdn.com/diff/templates/ts/dist/banner/sas-banner-1.2.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:09.588Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://www4.smartadserver.com/ac?nwid=674&siteid=37764&pgid=258615&fmtid=17024&visit=s&tmstp=3075753633&tag=sas_17024&sh=1120&sw=1792&pgDomain=https%3A%2F%2Fhotnews.ro%2F&noadcbk=sas.noad&isLazy=0&isAdRefresh=0, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:11.831Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://www4.smartadserver.com/ac?nwid=674&siteid=37764&pgid=258615&fmtid=17024&visit=s&tmstp=3075753633&tag=sas_17024&sh=1120&sw=1792&pgDomain=https%3A%2F%2Fhotnews.ro%2F&noadcbk=sas.noad&isLazy=0&isAdRefresh=0, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:11.835Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://www4.smartadserver.com/ac?nwid=674&siteid=37764&pgid=258615&fmtid=17409&visit=s&tmstp=3075753633&tag=sas_17409&sh=1120&sw=1792&pgDomain=https%3A%2F%2Fhotnews.ro%2F&gdpr_consent=CPMRFQlPMRFQlAcABBENBiCgAAAAAH_AAChQAAAQEAJMNS-AC7EscGTaNKoUQIwrCQ6AUAFFAMLRNYQMrgp2VwEeoIWACE1ARgRAgxBRiwCAAQCAJCIgJADwQCIAiAQAAgBUgIQAEbAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignsrAEou9jTCEMosAKBR_RUYCJQggWBkJCwcxwBIAAA.YAAAD_gAAAAA&noadcbk=sas.noad&isLazy=0&isAdRefresh=0, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:15.965Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://www4.smartadserver.com/ac?nwid=674&siteid=37764&pgid=258615&fmtid=17409&visit=s&tmstp=3075753633&tag=sas_17409&sh=1120&sw=1792&pgDomain=https%3A%2F%2Fhotnews.ro%2F&gdpr_consent=CPMRFQlPMRFQlAcABBENBiCgAAAAAH_AAChQAAAQEAJMNS-AC7EscGTaNKoUQIwrCQ6AUAFFAMLRNYQMrgp2VwEeoIWACE1ARgRAgxBRiwCAAQCAJCIgJADwQCIAiAQAAgBUgIQAEbAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignsrAEou9jTCEMosAKBR_RUYCJQggWBkJCwcxwBIAAA.YAAAD_gAAAAA&noadcbk=sas.noad&isLazy=0&isAdRefresh=0, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:15.969Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:13:17.996Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://www4.smartadserver.com/ac?nwid=674&siteid=37764&pgid=258615&fmtid=16418&visit=s&tmstp=3075753633&tag=sas_16418&sh=1120&sw=1792&pgDomain=https%3A%2F%2Fhotnews.ro%2F&gdpr_consent=CPMRFQlPMRFQlAcABBENBiCgAAAAAH_AAChQAAAQEAJMNS-AC7EscGTaNKoUQIwrCQ6AUAFFAMLRNYQMrgp2VwEeoIWACE1ARgRAgxBRiwCAAQCAJCIgJADwQCIAiAQAAgBUgIQAEbAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignsrAEou9jTCEMosAKBR_RUYCJQggWBkJCwcxwBIAAA.YAAAD_gAAAAA&noadcbk=sas.noad&isLazy=0&isAdRefresh=0, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:21.217Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://www4.smartadserver.com/ac?nwid=674&siteid=37764&pgid=258615&fmtid=16418&visit=s&tmstp=3075753633&tag=sas_16418&sh=1120&sw=1792&pgDomain=https%3A%2F%2Fhotnews.ro%2F&gdpr_consent=CPMRFQlPMRFQlAcABBENBiCgAAAAAH_AAChQAAAQEAJMNS-AC7EscGTaNKoUQIwrCQ6AUAFFAMLRNYQMrgp2VwEeoIWACE1ARgRAgxBRiwCAAQCAJCIgJADwQCIAiAQAAgBUgIQAEbAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignsrAEou9jTCEMosAKBR_RUYCJQggWBkJCwcxwBIAAA.YAAAD_gAAAAA&noadcbk=sas.noad&isLazy=0&isAdRefresh=0, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:21.218Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://www4.smartadserver.com/ac?nwid=674&siteid=37764&pgid=258615&fmtid=16419&visit=s&tmstp=3075753633&tag=sas_16419&sh=1120&sw=1792&pgDomain=https%3A%2F%2Fhotnews.ro%2F&gdpr_consent=CPMRFQlPMRFQlAcABBENBiCgAAAAAH_AAChQAAAQEAJMNS-AC7EscGTaNKoUQIwrCQ6AUAFFAMLRNYQMrgp2VwEeoIWACE1ARgRAgxBRiwCAAQCAJCIgJADwQCIAiAQAAgBUgIQAEbAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignsrAEou9jTCEMosAKBR_RUYCJQggWBkJCwcxwBIAAA.YAAAD_gAAAAA&noadcbk=sas.noad&isLazy=0&isAdRefresh=0, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:22.475Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://www4.smartadserver.com/ac?nwid=674&siteid=37764&pgid=258615&fmtid=16419&visit=s&tmstp=3075753633&tag=sas_16419&sh=1120&sw=1792&pgDomain=https%3A%2F%2Fhotnews.ro%2F&gdpr_consent=CPMRFQlPMRFQlAcABBENBiCgAAAAAH_AAChQAAAQEAJMNS-AC7EscGTaNKoUQIwrCQ6AUAFFAMLRNYQMrgp2VwEeoIWACE1ARgRAgxBRiwCAAQCAJCIgJADwQCIAiAQAAgBUgIQAEbAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignsrAEou9jTCEMosAKBR_RUYCJQggWBkJCwcxwBIAAA.YAAAD_gAAAAA&noadcbk=sas.noad&isLazy=0&isAdRefresh=0, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:22.486Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://www4.smartadserver.com/ac?nwid=674&siteid=37764&pgid=258615&fmtid=19488&visit=s&tmstp=3075753633&tag=sas_19488&sh=1120&sw=1792&pgDomain=https%3A%2F%2Fhotnews.ro%2F&gdpr_consent=CPMRFQlPMRFQlAcABBENBiCgAAAAAH_AAChQAAAQEAJMNS-AC7EscGTaNKoUQIwrCQ6AUAFFAMLRNYQMrgp2VwEeoIWACE1ARgRAgxBRiwCAAQCAJCIgJADwQCIAiAQAAgBUgIQAEbAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignsrAEou9jTCEMosAKBR_RUYCJQggWBkJCwcxwBIAAA.YAAAD_gAAAAA&noadcbk=sas.noad&isLazy=0&isAdRefresh=0, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:23.630Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://www4.smartadserver.com/ac?nwid=674&siteid=37764&pgid=258615&fmtid=19488&visit=s&tmstp=3075753633&tag=sas_19488&sh=1120&sw=1792&pgDomain=https%3A%2F%2Fhotnews.ro%2F&gdpr_consent=CPMRFQlPMRFQlAcABBENBiCgAAAAAH_AAChQAAAQEAJMNS-AC7EscGTaNKoUQIwrCQ6AUAFFAMLRNYQMrgp2VwEeoIWACE1ARgRAgxBRiwCAAQCAJCIgJADwQCIAiAQAAgBUgIQAEbAILACwMAgAFANCxAigCECQgyOCo5TAgIkWignsrAEou9jTCEMosAKBR_RUYCJQggWBkJCwcxwBIAAA.YAAAD_gAAAAA&noadcbk=sas.noad&isLazy=0&isAdRefresh=0, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:23.656Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://rumcdn.geoedge.be/5790ae6f-ae95-491c-a23f-af777cb12f9f/grumi.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:25.351Z"
+  },
+  {
+    "part": "console.log",
+    "message": "1 @ [object Object]",
+    "timestamp": "2021-09-09T13:13:25.871Z"
+  },
+  {
+    "part": "console.log",
+    "message": "HasAdBlock : No @ [object Object]",
+    "timestamp": "2021-09-09T13:13:25.872Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:13:27.416Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:13:27.417Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:13:29.078Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:29.079Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:13:29.415Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:13:29.421Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:29.492Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:13:29.503Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:13:57.764Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:13:57.767Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:13:57.774Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:13:57.776Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:13:58.151Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Origin trial controlled feature not enabled: 'trust-token-redemption'. @ [object Object]",
+    "timestamp": "2021-09-09T13:14:00.465Z"
+  },
+  {
+    "part": "console.log",
+    "message": "com.rubiconproject.vpaid: XHR - https://optimized-by.rubiconproject.com/a/api/vast.xml?us_privacy=1---&account_id=20598&site_id=277064&zone_id=1384678&size_id=203&rp_schain=1.0,1!selectmedia.asia,5af190fb073ef4546a085a53,1,,ReachPLC,reachplc.com&p_window.depth=0&rf=https%3A%2F%2Fhotnews.ro%2F&p_window.url=&p_window.w=1280&p_window.h=720&p_aso.video.ext.ad.w=400&p_aso.video.ext.ad.h=225&width=400&height=225&p_aso.video.api=2&p_aso.video.mimes=application/javascript,video/mp4&tk_vpaid=1&cb=5985624378374443&rp_secure=1 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:00.748Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:14:02.776Z"
+  },
+  {
+    "part": "measure-40",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:14:02.849Z"
+  }
+]

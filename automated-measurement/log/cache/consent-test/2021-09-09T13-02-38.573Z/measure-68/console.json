@@ -1,0 +1,112 @@
+[
+  {
+    "part": "measure-68",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:11:58.654Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "visit https://indeonline.com/...",
+    "timestamp": "2021-09-09T13:11:59.988Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:12:04.623Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:12:08.431Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:12:08.433Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:12:08.917Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:08.918Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:12:08.937Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:12:08.943Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:08.981Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:12:09.701Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:12:09.703Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:12:09.741Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:12:09.743Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:12:09.780Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:12:10.415Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:12:10.453Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CONNECTION_CLOSED @ [object Object]",
+    "timestamp": "2021-09-09T13:12:12.239Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR @ [object Object]",
+    "timestamp": "2021-09-09T13:12:13.239Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CONNECTION_CLOSED @ [object Object]",
+    "timestamp": "2021-09-09T13:12:13.239Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:12:14.745Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:12:14.765Z"
+  }
+]

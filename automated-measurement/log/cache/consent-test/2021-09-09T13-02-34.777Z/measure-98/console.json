@@ -1,0 +1,147 @@
+[
+  {
+    "part": "measure-98",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:22:12.195Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "visit https://scoreboard.com/...",
+    "timestamp": "2021-09-09T13:22:13.147Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:22:37.438Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Could not load beacon: undefined @ [object Object]",
+    "timestamp": "2021-09-09T13:22:37.442Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:22:37.598Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:22:37.613Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:22:37.940Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:37.949Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:22:37.997Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:22:38.010Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:38.138Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:22:38.794Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:22:38.795Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:22:38.817Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:22:38.910Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:22:39.016Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Could not load beacon: undefined @ [object Object]",
+    "timestamp": "2021-09-09T13:22:39.022Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:22:43.818Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c main.js: 💻 BUILD_TIME 2/5 | 18:8 color: #4277f4 @ [object Object]",
+    "timestamp": "2021-09-09T13:22:48.266Z"
+  },
+  {
+    "part": "console.log",
+    "message": "loadPNG @ [object Object]",
+    "timestamp": "2021-09-09T13:22:48.270Z"
+  },
+  {
+    "part": "console.log",
+    "message": "IAB Universal ClickTag @ [object Object]",
+    "timestamp": "2021-09-09T13:22:48.272Z"
+  },
+  {
+    "part": "console.log",
+    "message": "https://s0.2mdn.net @ [object Object]",
+    "timestamp": "2021-09-09T13:22:48.275Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c peloton_bike-store-2021_frankfurt_160x600.js: ð» BUILD_TIME 2/5 | 18:8 color: #4277f4 @ [object Object]",
+    "timestamp": "2021-09-09T13:22:51.207Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Ad started! @ [object Object]",
+    "timestamp": "2021-09-09T13:22:51.217Z"
+  },
+  {
+    "part": "console.log",
+    "message": "setupDOM @ [object Object]",
+    "timestamp": "2021-09-09T13:22:51.224Z"
+  },
+  {
+    "part": "console.timeEnd",
+    "message": "start: 85.709228515625 ms @ [object Object]",
+    "timestamp": "2021-09-09T13:22:51.861Z"
+  },
+  {
+    "part": "console.log",
+    "message": "initTimeline @ [object Object]",
+    "timestamp": "2021-09-09T13:22:52.468Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Timeout after 20.2s",
+    "timestamp": "2021-09-09T13:22:58.985Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:22:59.719Z"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-72",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:15:55.756Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "visit https://lessentiel.lu/...",
+    "timestamp": "2021-09-09T13:15:56.474Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "page load error: Error: page.goto: net::ERR_CONNECTION_REFUSED at https://lessentiel.lu/\n=========================== logs ===========================\nnavigating to \"https://lessentiel.lu/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:15:56.534Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:15:56.576Z"
+  }
+]

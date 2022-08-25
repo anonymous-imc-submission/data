@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-80",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:21:09.378Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "visit https://naekranie.pl/...",
+    "timestamp": "2021-09-09T13:21:09.868Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:21:15.227Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:21:15.228Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[Facebook Pixel] - Duplicate Pixel ID: 1703978516321072. @ [object Object]",
+    "timestamp": "2021-09-09T13:21:16.212Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:21:17.256Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:21:17.257Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:21:17.291Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:21:18.107Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:21:19.035Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:21:20.071Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:21:20.907Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "TCF data: cmpId 10 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:21:20.912Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:21:20.934Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:21:21.011Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Network is idle after 1.82s.",
+    "timestamp": "2021-09-09T13:21:22.757Z"
+  },
+  {
+    "part": "console.log",
+    "message": "wtgSimplyRun @ [object Object]",
+    "timestamp": "2021-09-09T13:21:23.602Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:21:25.935Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:21:26.010Z"
+  }
+]

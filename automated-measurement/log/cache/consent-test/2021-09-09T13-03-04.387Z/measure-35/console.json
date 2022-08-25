@@ -1,0 +1,122 @@
+[
+  {
+    "part": "measure-35",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:14:51.538Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "visit https://cnn.it/...",
+    "timestamp": "2021-09-09T13:14:51.890Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Optimizely disabled. @ [object Object]",
+    "timestamp": "2021-09-09T13:14:54.606Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID @ [object Object]",
+    "timestamp": "2021-09-09T13:14:55.297Z"
+  },
+  {
+    "part": "console.log",
+    "message": "removeToken called by getToken @ [object Object]",
+    "timestamp": "2021-09-09T13:14:58.456Z"
+  },
+  {
+    "part": "console.log",
+    "message": "removeToken called by getToken @ [object Object]",
+    "timestamp": "2021-09-09T13:14:58.460Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:15:00.481Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:15:00.486Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:15:00.743Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:15:00.743Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:15:00.776Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:15:00.781Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:15:00.825Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:15:00.851Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://c.amazon-adsystem.com/aax2/apstag.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:15:03.530Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.googletagservices.com/tag/js/gpt.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:15:03.531Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:15:04.286Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:15:06.613Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:15:06.623Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:15:06.660Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:15:06.678Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:15:07.454Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:15:11.661Z"
+  },
+  {
+    "part": "measure-35",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:15:11.680Z"
+  }
+]

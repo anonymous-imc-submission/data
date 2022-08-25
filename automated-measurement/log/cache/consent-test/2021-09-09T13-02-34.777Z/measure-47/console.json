@@ -1,0 +1,132 @@
+[
+  {
+    "part": "measure-47",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:11:11.537Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "visit https://tvline.com/...",
+    "timestamp": "2021-09-09T13:11:12.617Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 1.4.1 @ [object Object]",
+    "timestamp": "2021-09-09T13:11:17.179Z"
+  },
+  {
+    "part": "console.log",
+    "message": "CX bootstrap loader.... @ [object Object]",
+    "timestamp": "2021-09-09T13:11:17.260Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c cxb.selfLoading background: #0d47a1; color: #FFF @ [object Object]",
+    "timestamp": "2021-09-09T13:11:22.209Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "Download the React DevTools for a better development experience: https://fb.me/react-devtools @ [object Object]",
+    "timestamp": "2021-09-09T13:11:23.540Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/4414.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:26.516Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/4414.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:26.516Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:11:26.597Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:11:28.042Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:11:30.939Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:11:30.953Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:11:31.751Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:31.765Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:11:31.815Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:11:31.816Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:31.944Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:11:33.666Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "TCF data: cmpId 28 consent true, legInt false.",
+    "timestamp": "2021-09-09T13:11:33.667Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:11:33.707Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:11:33.713Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Boomerang: Unable to add sizes to slot inlineoop/div-gpt-ad-dsk-hp-oop-int-uid2, as slot type does not use sizes. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:33.724Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:11:35.305Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:11:35.508Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:11:38.707Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:11:38.774Z"
+  }
+]

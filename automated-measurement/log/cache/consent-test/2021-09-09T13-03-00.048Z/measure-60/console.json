@@ -1,0 +1,112 @@
+[
+  {
+    "part": "measure-60",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:24:15.188Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "visit https://blox.pl/...",
+    "timestamp": "2021-09-09T13:24:17.306Z"
+  },
+  {
+    "part": "console.log",
+    "message": "consentVersion: new @ [object Object]",
+    "timestamp": "2021-09-09T13:24:28.713Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c window.AG.rodoAccepted -1 color: green @ [object Object]",
+    "timestamp": "2021-09-09T13:24:28.765Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:24:30.484Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:24:30.494Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:24:30.751Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:24:30.765Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:24:30.796Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:24:30.796Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:24:30.941Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:24:30.944Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://bi.im-g.pl/im/8/14837/m14837798,ZASLEPKA-STRZALKA.jpg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:24:33.485Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:25:07.537Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:25:07.545Z"
+  },
+  {
+    "part": "console.log",
+    "message": "consentVersion: new @ [object Object]",
+    "timestamp": "2021-09-09T13:25:07.583Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c window.AG.rodoAccepted -1 color: green @ [object Object]",
+    "timestamp": "2021-09-09T13:25:07.584Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:25:07.617Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:25:07.622Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Network is idle after 0.03s.",
+    "timestamp": "2021-09-09T13:25:07.660Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "Minimum wait time reached after 5.03s.",
+    "timestamp": "2021-09-09T13:25:12.652Z"
+  },
+  {
+    "part": "measure-60",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:25:13.022Z"
+  }
+]

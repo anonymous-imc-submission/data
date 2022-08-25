@@ -1,0 +1,52 @@
+[
+  {
+    "part": "measure-51",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:15:25.865Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "visit https://spotify.com/...",
+    "timestamp": "2021-09-09T13:15:26.171Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:15:29.774Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:15:29.783Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "__tcfapi not found: Error: page.waitForFunction: EvalError: Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: \"script-src 'nonce-63a0176db81645cbb2a30a671a817fcc' 'strict-dynamic' 'unsafe-inline' https:\".\n\n    at eval (<anonymous>)\n    at predicate (eval at evaluate (:3:1339), <anonymous>:8:27)\n    at eval (eval at evaluate (:3:1339), <anonymous>:22:101)\n    at i (<anonymous>:3:43428)\n    at r (https://www-growth.scdn.co/_next/static/chunks/959-e20af8e55197ed51c250.js:1:57872)",
+    "timestamp": "2021-09-09T13:15:30.669Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "TCF data: cmpId null consent null, legInt null.",
+    "timestamp": "2021-09-09T13:15:30.669Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:15:30.691Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:15:30.694Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:15:35.707Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:15:35.901Z"
+  }
+]

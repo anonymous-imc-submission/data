@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-18",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:10:18.347Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "visit https://elle.com/...",
+    "timestamp": "2021-09-09T13:10:18.590Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:10:23.200Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:10:24.164Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:10:24.168Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:10:25.485Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:25.486Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:10:25.505Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:10:25.515Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:25.590Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:10:25.653Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:10:34.683Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:10:34.686Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:10:34.687Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:10:34.687Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:10:34.749Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:10:38.565Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:10:39.687Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:10:39.724Z"
+  }
+]

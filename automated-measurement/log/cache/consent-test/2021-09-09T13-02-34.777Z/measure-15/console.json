@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-15",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:25.395Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "visit https://seeker.com/...",
+    "timestamp": "2021-09-09T13:06:25.612Z"
+  },
+  {
+    "part": "console.error",
+    "message": "{time: 1631192787720, level: 50, msg: Error finding latest episode: could not find the episode 5064182 for series 5063869} @ [object Object]",
+    "timestamp": "2021-09-09T13:06:27.757Z"
+  },
+  {
+    "part": "console.error",
+    "message": "{time: 1631192788577, level: 50, msg: Error finding latest episode: could not find the episode 5064182 for series 5063869} @ [object Object]",
+    "timestamp": "2021-09-09T13:06:28.587Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:06:32.591Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:06:32.592Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:06:32.780Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:32.781Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:06:32.842Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:06:32.845Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:32.872Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:06:33.431Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "TCF data: cmpId 28 consent true, legInt false.",
+    "timestamp": "2021-09-09T13:06:33.432Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:06:33.439Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:06:33.472Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:06:33.480Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "Network is idle after 1.39s.",
+    "timestamp": "2021-09-09T13:06:34.833Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:06:38.439Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:06:38.458Z"
+  }
+]

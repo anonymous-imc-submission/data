@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-37",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:12:22.189Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "visit https://antena3.ro/...",
+    "timestamp": "2021-09-09T13:12:22.386Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:12:23.864Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:12:23.864Z"
+  },
+  {
+    "part": "console.log",
+    "message": "1 @ [object Object]",
+    "timestamp": "2021-09-09T13:12:23.981Z"
+  },
+  {
+    "part": "console.log",
+    "message": "HasAdBlock : No @ [object Object]",
+    "timestamp": "2021-09-09T13:12:23.982Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:12:24.622Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:24.630Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:12:24.657Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:24.990Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:12:25.034Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:12:25.377Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:12:33.633Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:12:33.646Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:12:33.650Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:12:33.652Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:12:33.685Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:12:38.651Z"
+  },
+  {
+    "part": "measure-37",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:12:38.663Z"
+  }
+]

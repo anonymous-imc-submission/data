@@ -1,0 +1,87 @@
+[
+  {
+    "part": "measure-68",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:18:41.936Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "visit https://broadsheet.com.au/...",
+    "timestamp": "2021-09-09T13:18:44.370Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:19:04.241Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:19:04.302Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:19:06.049Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:06.056Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:19:06.165Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:19:06.167Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:06.256Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:19:06.314Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:19:08.186Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "TCF data: cmpId 10 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:19:08.186Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:19:08.348Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Network is idle after 0.02s.",
+    "timestamp": "2021-09-09T13:19:08.376Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:19:08.379Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Minimum wait time reached after 5.02s.",
+    "timestamp": "2021-09-09T13:19:13.372Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:19:13.397Z"
+  }
+]

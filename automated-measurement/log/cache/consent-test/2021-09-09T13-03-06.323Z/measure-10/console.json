@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-10",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:07:57.542Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "visit https://intellitest.me/...",
+    "timestamp": "2021-09-09T13:07:57.791Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:08:00.430Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:08:00.436Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:08:01.146Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:08:01.154Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:08:01.180Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:08:01.195Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:08:01.219Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:08:01.337Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:08:01.999Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "TCF data: cmpId 10 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:08:02.003Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:08:02.037Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:08:02.095Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Network is idle after 0.56s.",
+    "timestamp": "2021-09-09T13:08:02.598Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://rumcdn.geoedge.be/2a6d740c-229a-4600-97fd-8a33e276662c/grumi.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:08:03.438Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "Minimum wait time reached after 5.02s.",
+    "timestamp": "2021-09-09T13:08:07.053Z"
+  },
+  {
+    "part": "measure-10",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:08:07.083Z"
+  }
+]

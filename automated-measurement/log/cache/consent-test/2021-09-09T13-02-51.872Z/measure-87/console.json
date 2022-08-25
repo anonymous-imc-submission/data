@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-87",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:33:50.548Z"
+  },
+  {
+    "part": "measure-87",
+    "message": "visit https://goal.com/...",
+    "timestamp": "2021-09-09T13:33:52.172Z"
+  },
+  {
+    "part": "measure-87",
+    "message": "page load error: Error: page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://goal.com/\n=========================== logs ===========================\nnavigating to \"https://goal.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:33:52.364Z"
+  },
+  {
+    "part": "measure-87",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:33:52.424Z"
+  }
+]

@@ -1,0 +1,292 @@
+[
+  {
+    "part": "measure-20",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:08:13.484Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "visit https://lacucinaitaliana.it/...",
+    "timestamp": "2021-09-09T13:08:14.421Z"
+  },
+  {
+    "part": "console.log",
+    "message": "domain: www.lacucinaitaliana.it @ [object Object]",
+    "timestamp": "2021-09-09T13:08:15.695Z"
+  },
+  {
+    "part": "console.log",
+    "message": "showVideo @ [object Object]",
+    "timestamp": "2021-09-09T13:08:16.541Z"
+  },
+  {
+    "part": "console.log",
+    "message": "moatYieldReady @ [object Object]",
+    "timestamp": "2021-09-09T13:08:17.570Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[Derived ContentGroup1]: arr(0) homepage @ [object Object]",
+    "timestamp": "2021-09-09T13:08:17.656Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[Derived ContentGroup1]: arr(0) homepage @ [object Object]",
+    "timestamp": "2021-09-09T13:08:18.459Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[Derived ContentGroup1]: arr(0) homepage @ [object Object]",
+    "timestamp": "2021-09-09T13:08:18.462Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[Derived ContentGroup1]: arr(0) homepage @ [object Object]",
+    "timestamp": "2021-09-09T13:08:18.467Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[fldTipoAutore Derived] undefined @ [object Object]",
+    "timestamp": "2021-09-09T13:08:18.470Z"
+  },
+  {
+    "part": "console.log",
+    "message": "OptanonWrapper: 1 @ [object Object]",
+    "timestamp": "2021-09-09T13:08:22.263Z"
+  },
+  {
+    "part": "console.log",
+    "message": "OptanonWrapper call init() @ [object Object]",
+    "timestamp": "2021-09-09T13:08:22.269Z"
+  },
+  {
+    "part": "console.log",
+    "message": "init: check OT configuration @ [object Object]",
+    "timestamp": "2021-09-09T13:08:22.270Z"
+  },
+  {
+    "part": "console.log",
+    "message": "{basic: false, performance: false, functional: false, targeting: false, social: false} @ [object Object]",
+    "timestamp": "2021-09-09T13:08:22.274Z"
+  },
+  {
+    "part": "console.log",
+    "message": "window.dataLayer.push: basic false @ [object Object]",
+    "timestamp": "2021-09-09T13:08:22.276Z"
+  },
+  {
+    "part": "console.log",
+    "message": "window.dataLayer.push: performance false @ [object Object]",
+    "timestamp": "2021-09-09T13:08:22.281Z"
+  },
+  {
+    "part": "console.log",
+    "message": "window.dataLayer.push: functional false @ [object Object]",
+    "timestamp": "2021-09-09T13:08:22.283Z"
+  },
+  {
+    "part": "console.log",
+    "message": "window.dataLayer.push: targeting false @ [object Object]",
+    "timestamp": "2021-09-09T13:08:22.286Z"
+  },
+  {
+    "part": "console.log",
+    "message": "window.dataLayer.push: social false @ [object Object]",
+    "timestamp": "2021-09-09T13:08:22.291Z"
+  },
+  {
+    "part": "console.log",
+    "message": "-----------------> CMP NO targeting consented @ [object Object]",
+    "timestamp": "2021-09-09T13:08:22.293Z"
+  },
+  {
+    "part": "console.log",
+    "message": "privacyString: 1--- @ [object Object]",
+    "timestamp": "2021-09-09T13:08:22.295Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[AdBlockDetectionScript]  ASSENTE @ [object Object]",
+    "timestamp": "2021-09-09T13:08:22.970Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:08:23.062Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:08:23.063Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:08:23.372Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:08:23.373Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:08:23.457Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:08:23.463Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:08:23.510Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:08:23.562Z"
+  },
+  {
+    "part": "console.log",
+    "message": "OptanonWrapper: 2 @ [object Object]",
+    "timestamp": "2021-09-09T13:08:35.266Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:08:35.652Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:08:35.654Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:08:35.663Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:08:35.668Z"
+  },
+  {
+    "part": "console.log",
+    "message": "domain: www.lacucinaitaliana.it @ [object Object]",
+    "timestamp": "2021-09-09T13:08:36.044Z"
+  },
+  {
+    "part": "console.log",
+    "message": "showVideo @ [object Object]",
+    "timestamp": "2021-09-09T13:08:36.389Z"
+  },
+  {
+    "part": "console.log",
+    "message": "moatYieldReady @ [object Object]",
+    "timestamp": "2021-09-09T13:08:36.506Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[Derived ContentGroup1]: arr(0) homepage @ [object Object]",
+    "timestamp": "2021-09-09T13:08:36.660Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[Derived ContentGroup1]: arr(0) homepage @ [object Object]",
+    "timestamp": "2021-09-09T13:08:36.959Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[Derived ContentGroup1]: arr(0) homepage @ [object Object]",
+    "timestamp": "2021-09-09T13:08:36.961Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[Derived ContentGroup1]: arr(0) homepage @ [object Object]",
+    "timestamp": "2021-09-09T13:08:36.963Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[fldTipoAutore Derived] undefined @ [object Object]",
+    "timestamp": "2021-09-09T13:08:36.964Z"
+  },
+  {
+    "part": "console.log",
+    "message": "OptanonWrapper: 1 @ [object Object]",
+    "timestamp": "2021-09-09T13:08:38.632Z"
+  },
+  {
+    "part": "console.log",
+    "message": "OptanonWrapper call init() @ [object Object]",
+    "timestamp": "2021-09-09T13:08:38.633Z"
+  },
+  {
+    "part": "console.log",
+    "message": "init: check OT configuration @ [object Object]",
+    "timestamp": "2021-09-09T13:08:38.640Z"
+  },
+  {
+    "part": "console.log",
+    "message": "{basic: true, performance: false, functional: false, targeting: false, social: false} @ [object Object]",
+    "timestamp": "2021-09-09T13:08:38.644Z"
+  },
+  {
+    "part": "console.log",
+    "message": "window.dataLayer.push: basic true @ [object Object]",
+    "timestamp": "2021-09-09T13:08:38.646Z"
+  },
+  {
+    "part": "console.log",
+    "message": "window.dataLayer.push: performance false @ [object Object]",
+    "timestamp": "2021-09-09T13:08:38.648Z"
+  },
+  {
+    "part": "console.log",
+    "message": "window.dataLayer.push: functional false @ [object Object]",
+    "timestamp": "2021-09-09T13:08:38.650Z"
+  },
+  {
+    "part": "console.log",
+    "message": "window.dataLayer.push: targeting false @ [object Object]",
+    "timestamp": "2021-09-09T13:08:38.657Z"
+  },
+  {
+    "part": "console.log",
+    "message": "window.dataLayer.push: social false @ [object Object]",
+    "timestamp": "2021-09-09T13:08:38.660Z"
+  },
+  {
+    "part": "console.log",
+    "message": "-----------------> CMP NO targeting consented @ [object Object]",
+    "timestamp": "2021-09-09T13:08:38.662Z"
+  },
+  {
+    "part": "console.log",
+    "message": "privacyString: 1--- @ [object Object]",
+    "timestamp": "2021-09-09T13:08:38.664Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[AdBlockDetectionScript]  ASSENTE @ [object Object]",
+    "timestamp": "2021-09-09T13:08:39.227Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:08:40.671Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:08:55.672Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:08:55.687Z"
+  }
+]

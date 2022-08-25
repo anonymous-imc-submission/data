@@ -1,0 +1,87 @@
+[
+  {
+    "part": "measure-74",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:12:30.939Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "visit https://flashscore.co.uk/...",
+    "timestamp": "2021-09-09T13:12:31.266Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:12:42.704Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:12:42.705Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:12:42.811Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:42.811Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:12:42.830Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:12:42.832Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:42.848Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:12:43.407Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:12:43.409Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:12:43.412Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:12:43.574Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cPubTag color: #fff; background: #ff8f1c; display: inline-block; padding: 1px 4px; border-radius: 3px; ERROR: can't display acceptable ad : the container \"crt-1363312\" is not visible @ [object Object]",
+    "timestamp": "2021-09-09T13:12:44.508Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:12:48.412Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:13:03.427Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:13:03.527Z"
+  }
+]

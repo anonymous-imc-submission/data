@@ -1,0 +1,27 @@
+[
+  {
+    "part": "measure-92",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:33:15.822Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "visit https://lenconnect.com/...",
+    "timestamp": "2021-09-09T13:33:19.148Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Consent management does not appear to be set up correctly. No consent groups were found. @ [object Object]",
+    "timestamp": "2021-09-09T13:33:47.604Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://lenconnect.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:33:49.180Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:33:49.306Z"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "part": "measure-93",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:32:15.701Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "visit https://sportfishingmag.com/...",
+    "timestamp": "2021-09-09T13:32:16.066Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:32:18.354Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SUPPRESS: false @ [object Object]",
+    "timestamp": "2021-09-09T13:32:33.144Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c------------- Cheetah Web Events: Posting Web Event ---------------\n{\"OrderDate\":\"9/9/2021 1:32:\",\"OrderSource\":\"Website\",\"ProductName\":\"sportfishingmag.com\",\"ProductCategoryName\":\"undefined\",\"ProductDescription\":\"https://www.sportfishingmag.com/\",\"ProductID\":\"/home\",\"Variable1\":\"undefined\"} background: #ffff33; color: #ff00ff @ [object Object]",
+    "timestamp": "2021-09-09T13:32:36.396Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Invalid GPT fixed size specification: [[[970,250],[970,90],[728,90]],[[728,90]],[[320,50]]] @ [object Object]",
+    "timestamp": "2021-09-09T13:32:36.470Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Invalid GPT fixed size specification: [[[970,90],[728,90]],[[320,50]]] @ [object Object]",
+    "timestamp": "2021-09-09T13:32:36.602Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cmpuishown @ [object Object]",
+    "timestamp": "2021-09-09T13:32:38.326Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Bid Back Handler {} @ [object Object]",
+    "timestamp": "2021-09-09T13:32:39.015Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Bid Back Handler {} @ [object Object]",
+    "timestamp": "2021-09-09T13:32:39.062Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:32:44.876Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:32:44.905Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:32:49.139Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:32:49.142Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:32:49.880Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:32:49.910Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:32:49.916Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:32:49.944Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:32:55.386Z"
+  },
+  {
+    "part": "console.log",
+    "message": "useractioncomplete @ [object Object]",
+    "timestamp": "2021-09-09T13:33:03.330Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:33:03.722Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:33:03.725Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:33:03.837Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:33:04.648Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:33:07.361Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:33:08.844Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Network is idle after 8.81s.",
+    "timestamp": "2021-09-09T13:33:12.652Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:33:12.781Z"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "part": "measure-03",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:05:45.088Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "visit https://southcoasttoday.com/...",
+    "timestamp": "2021-09-09T13:05:45.425Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:05:59.667Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:05:59.674Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:06:00.144Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:00.153Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:06:00.217Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:06:00.225Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:00.309Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:06:00.365Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:06:03.167Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:06:03.194Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:06:04.395Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:06:07.311Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:06:07.317Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:06:07.333Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:06:07.345Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:06:07.488Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:06:12.342Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:06:12.381Z"
+  }
+]

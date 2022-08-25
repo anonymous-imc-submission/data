@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-93",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:23:15.019Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "visit https://vogue.com/...",
+    "timestamp": "2021-09-09T13:23:17.251Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://vogue.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:23:47.279Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:23:47.401Z"
+  }
+]

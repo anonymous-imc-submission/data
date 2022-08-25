@@ -1,0 +1,102 @@
+[
+  {
+    "part": "measure-12",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:07:08.556Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "visit https://heraldweekly.com/...",
+    "timestamp": "2021-09-09T13:07:08.857Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pmrt enabled @ [object Object]",
+    "timestamp": "2021-09-09T13:07:09.482Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GDPR is ON @ [object Object]",
+    "timestamp": "2021-09-09T13:07:09.844Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Failed to execute 'write' on 'Document': It isn't possible to write into a document from an asynchronously-loaded external script unless it is explicitly opened. @ [object Object]",
+    "timestamp": "2021-09-09T13:07:11.930Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:07:16.005Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:07:16.010Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:07:17.117Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:17.117Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:07:17.170Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:07:17.177Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:17.274Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:07:17.320Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:07:30.426Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:07:30.430Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:07:30.436Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:07:30.437Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:07:30.534Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:07:35.436Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:07:35.460Z"
+  }
+]

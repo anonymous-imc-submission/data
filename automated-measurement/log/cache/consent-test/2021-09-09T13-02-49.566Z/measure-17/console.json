@@ -1,0 +1,172 @@
+[
+  {
+    "part": "measure-17",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:09:57.166Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "visit https://buckeyextra.com/...",
+    "timestamp": "2021-09-09T13:09:57.528Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:09:59.758Z"
+  },
+  {
+    "part": "console.log",
+    "message": "TP: Modal offer is already shown; must be one modal offer per time @ [object Object]",
+    "timestamp": "2021-09-09T13:10:04.292Z"
+  },
+  {
+    "part": "console.log",
+    "message": "TP: Could not initialize offer; check configuration @ [object Object]",
+    "timestamp": "2021-09-09T13:10:04.299Z"
+  },
+  {
+    "part": "console.log",
+    "message": "TP: Error: Could not initialize offer; check configuration\n    at h (https://cdn.tinypass.com/api/tinypass.min.js:1:221977)\n    at Object.error (https://cdn.tinypass.com/api/tinypass.min.js:1:227428)\n    at https://cdn.tinypass.com/api/tinypass.min.js:1:191563\n    at tt (https://cdn.tinypass.com/api/tinypass.min.js:1:211606)\n    at Object.waitCall (https://cdn.tinypass.com/api/tinypass.min.js:1:228437)\n    at https://cdn.tinypass.com/api/tinypass.min.js:1:191400\n    at tt (https://cdn.tinypass.com/api/tinypass.min.js:1:211606)\n    at Object.waitCall (https://cdn.tinypass.com/api/tinypass.min.js:1:228437)\n    at https://cdn.tinypass.com/api/tinypass.min.js:1:191353\n    at tt (https://cdn.tinypass.com/api/tinypass.min.js:1:211606) @ [object Object]",
+    "timestamp": "2021-09-09T13:10:04.305Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:10:09.160Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:10:09.171Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:10:09.550Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:09.557Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:10:09.594Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:10:09.598Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:09.660Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:10:09.684Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:10:10.103Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:10:10.115Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - exchange-thumbnails-mobile-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:10:10.270Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbnails-feed-mobile-b @ [object Object]",
+    "timestamp": "2021-09-09T13:10:10.381Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button id=\"onetrust-pc-btn-handler\">Manage Cookies</button>\nattempting click action\n  waiting for element to be visible, enabled and stable\n  element is visible, enabled and stable\n  scrolling into view if needed\n============================================================",
+    "timestamp": "2021-09-09T13:10:11.689Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:10:14.241Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".ot-pc-refuse-all-handler:visible, .save-preference-btn-handler:visible\"\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:10:44.768Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:11:00.958Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:11:00.958Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:05.976Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:11:56.488Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:11:56.489Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:01.539Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:12:09.554Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "TCF data: cmpId 28 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:12:09.554Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:12:09.572Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:12:09.577Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:12:14.574Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:12:14.632Z"
+  },
+  {
+    "part": "measure-17",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:12:14.645Z"
+  }
+]

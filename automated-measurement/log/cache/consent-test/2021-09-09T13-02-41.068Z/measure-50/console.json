@@ -1,0 +1,277 @@
+[
+  {
+    "part": "measure-50",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:12:07.095Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "visit https://jpost.com/...",
+    "timestamp": "2021-09-09T13:12:07.362Z"
+  },
+  {
+    "part": "console.log",
+    "message": "country GB @ [object Object]",
+    "timestamp": "2021-09-09T13:12:08.369Z"
+  },
+  {
+    "part": "console.log",
+    "message": "region ENG @ [object Object]",
+    "timestamp": "2021-09-09T13:12:08.369Z"
+  },
+  {
+    "part": "console.log",
+    "message": "country testGB @ [object Object]",
+    "timestamp": "2021-09-09T13:12:08.370Z"
+  },
+  {
+    "part": "console.log",
+    "message": "country1 GB @ [object Object]",
+    "timestamp": "2021-09-09T13:12:08.761Z"
+  },
+  {
+    "part": "console.log",
+    "message": "region1 ENG @ [object Object]",
+    "timestamp": "2021-09-09T13:12:08.762Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:12:08.920Z"
+  },
+  {
+    "part": "console.log",
+    "message": "premium user not exists.  @ [object Object]",
+    "timestamp": "2021-09-09T13:12:08.970Z"
+  },
+  {
+    "part": "console.log",
+    "message": "changeTextOnetrust in cms site @ [object Object]",
+    "timestamp": "2021-09-09T13:12:10.407Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Ignoring the PubAdsService.enableSingleRequest() call since the service is already enabled. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:11.659Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "/./ @ [object Object]",
+    "timestamp": "2021-09-09T13:12:11.875Z"
+  },
+  {
+    "part": "console.log",
+    "message": "changeTextOnetrust in cms site @ [object Object]",
+    "timestamp": "2021-09-09T13:12:11.904Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:12:11.907Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o2fw7&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fm.jpost.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:12:13.241Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an script pixel with URL:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o2fw7&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fm.jpost.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:12:13.248Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o2fw7&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fm.jpost.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:12:13.251Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an image pixel with URL:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o2fw7&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fm.jpost.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:12:13.252Z"
+  },
+  {
+    "part": "console.log",
+    "message": "changeTextOnetrust in cms site @ [object Object]",
+    "timestamp": "2021-09-09T13:12:13.478Z"
+  },
+  {
+    "part": "console.log",
+    "message": "changeTextOnetrust in cms site @ [object Object]",
+    "timestamp": "2021-09-09T13:12:14.264Z"
+  },
+  {
+    "part": "console.log",
+    "message": "changeTextOnetrust in cms site @ [object Object]",
+    "timestamp": "2021-09-09T13:12:15.755Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://api.rlcdn.com/api/identity/envelope?pid=1323' from origin 'https://m.jpost.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:16.324Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:12:16.326Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://c2shb.ssp.yahoo.com/bidRequest?dcn=8a969164017a7aecb169ed89498a010c&pos=8a9695ce017a7aecb5aaeda6dc4301ad&cmd=bid&secure=1' from origin 'https://m.jpost.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:16.338Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:12:16.347Z"
+  },
+  {
+    "part": "console.log",
+    "message": "changeTextOnetrust in cms site @ [object Object]",
+    "timestamp": "2021-09-09T13:12:16.354Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:12:16.438Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:12:16.609Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:12:16.739Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Mixed Content: The page at 'https://m.jpost.com/' was loaded over HTTPS, but requested an insecure script 'http://ib.adnxs.com/ttj?id=21883983&size=[WIDTHxHEIGHT]&cb=[CACHEBUSTER]'. This request has been blocked; the content must be served over HTTPS. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:16.909Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:12:17.425Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:12:17.451Z"
+  },
+  {
+    "part": "console.log",
+    "message": "changeTextOnetrust in cms site @ [object Object]",
+    "timestamp": "2021-09-09T13:12:17.495Z"
+  },
+  {
+    "part": "console.log",
+    "message": "changeTextOnetrust in cms site @ [object Object]",
+    "timestamp": "2021-09-09T13:12:18.437Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2109032350000 https://m.jpost.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:12:18.856Z"
+  },
+  {
+    "part": "console.log",
+    "message": "changeTextOnetrust in cms site @ [object Object]",
+    "timestamp": "2021-09-09T13:12:19.053Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2109032350000 https://m.jpost.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:12:19.173Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2109032350000 https://m.jpost.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:12:19.398Z"
+  },
+  {
+    "part": "console.log",
+    "message": "changeTextOnetrust in cms site @ [object Object]",
+    "timestamp": "2021-09-09T13:12:20.466Z"
+  },
+  {
+    "part": "console.log",
+    "message": "changeTextOnetrust in cms site @ [object Object]",
+    "timestamp": "2021-09-09T13:12:21.259Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:12:21.896Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:12:21.900Z"
+  },
+  {
+    "part": "console.log",
+    "message": "changeTextOnetrust in cms site @ [object Object]",
+    "timestamp": "2021-09-09T13:12:22.112Z"
+  },
+  {
+    "part": "console.log",
+    "message": "changeTextOnetrust in cms site @ [object Object]",
+    "timestamp": "2021-09-09T13:12:23.770Z"
+  },
+  {
+    "part": "console.log",
+    "message": "changeTextOnetrust in cms site @ [object Object]",
+    "timestamp": "2021-09-09T13:12:24.026Z"
+  },
+  {
+    "part": "console.log",
+    "message": "changeTextOnetrust in cms site @ [object Object]",
+    "timestamp": "2021-09-09T13:12:25.147Z"
+  },
+  {
+    "part": "console.timeEnd",
+    "message": "a: 0.00390625 ms @ [object Object]",
+    "timestamp": "2021-09-09T13:12:25.548Z"
+  },
+  {
+    "part": "console.log",
+    "message": "changeTextOnetrust in cms site @ [object Object]",
+    "timestamp": "2021-09-09T13:12:26.010Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "dialog accept failed: \n  - TimeoutError: page.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=primary]\"\n    ============================================================\n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-accept-btn-handler:visible,\n            .optanon-allow-all:visible,\n            .optanon-button-allow:visible,\n            #onetrust-pc-sdk #accept-recommended-btn-handler:visible\n        \"\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:12:51.906Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "__tcfapi not found: TimeoutError: page.waitForFunction: Timeout 30000ms exceeded.",
+    "timestamp": "2021-09-09T13:12:51.916Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "TCF data: cmpId null consent null, legInt null.",
+    "timestamp": "2021-09-09T13:12:51.917Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:12:51.918Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:12:56.919Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:13:11.920Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:13:11.931Z"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "part": "measure-06",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:08:39.495Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "visit https://good.is/...",
+    "timestamp": "2021-09-09T13:08:39.827Z"
+  },
+  {
+    "part": "console.log",
+    "message": "true @ [object Object]",
+    "timestamp": "2021-09-09T13:08:40.377Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Error in user code TypeError: Cannot set properties of null (setting 'onclick')\n    at https://www.good.is/:3828:26\n    at _t (https://www.good.is/static/dist/social-ux/main.7dce9371651e34c38497.bundle.mjs:1:14280)\n    at https://www.good.is/static/dist/social-ux/main.7dce9371651e34c38497.bundle.mjs:1:18749 @ [object Object]",
+    "timestamp": "2021-09-09T13:08:43.559Z"
+  },
+  {
+    "part": "console.error",
+    "message": "function(){\n\n    \n        var menuButtonOpen = document.querySelector('.topbar-menu-open');\nmenuButtonOpen.onclick=function(){\n  document.body.classList.toggle(\"custom-menu-opened\");\n}\nvar menuButtonClose = document.querySelector('.topbar-menu-close');\nmenuButtonClose.onclick=function(){\n  document.body.classList.toggle(\"custom-menu-opened\");\n}\nvar menuButtonToggler = document.querySelector('.subnav-toggle');\nmenuButtonToggler.onclick=function(){\n  document.body.classList.toggle(\"sub-menu-opened\");\n}\n    \n\n} @ [object Object]",
+    "timestamp": "2021-09-09T13:08:43.561Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:08:45.021Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:08:45.022Z"
+  },
+  {
+    "part": "console.log",
+    "message": "ServiceWorker registration successful with scope:  https://www.good.is/ @ [object Object]",
+    "timestamp": "2021-09-09T13:08:45.293Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:08:45.312Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:08:45.313Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:08:45.352Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:08:45.359Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:08:45.398Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:08:45.417Z"
+  },
+  {
+    "part": "console.log",
+    "message": "No Action Button for this article. @ [object Object]",
+    "timestamp": "2021-09-09T13:08:47.375Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:08:59.495Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:08:59.500Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:08:59.532Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:08:59.540Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:08:59.618Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:09:04.533Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:09:04.628Z"
+  }
+]

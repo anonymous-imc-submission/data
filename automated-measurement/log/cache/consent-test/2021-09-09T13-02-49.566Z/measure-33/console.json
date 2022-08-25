@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-33",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:13:41.228Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "visit https://myswitzerland.com/...",
+    "timestamp": "2021-09-09T13:13:41.598Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "<link rel=preload> must have a valid `as` value @ [object Object]",
+    "timestamp": "2021-09-09T13:13:42.063Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:13:59.934Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:13:59.935Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:14:01.473Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:14:01.483Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:14:01.638Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:14:01.654Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:14:01.817Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:14:01.929Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button class=\"cookie-setting-link\" id=\"onetrust-pc-btn-…>Zwecke anzeigen</button>\nattempting click action\n  waiting for element to be visible, enabled and stable\n  element is visible, enabled and stable\n  scrolling into view if needed\n  done scrolling\n  checking that element receives pointer events at (196.48,581.32)\n  element does receive pointer events\n  performing click action\n============================================================",
+    "timestamp": "2021-09-09T13:14:03.940Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:14:48.408Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:14:48.408Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:14:48.453Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:14:48.459Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:14:48.883Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:14:53.455Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:14:53.584Z"
+  }
+]

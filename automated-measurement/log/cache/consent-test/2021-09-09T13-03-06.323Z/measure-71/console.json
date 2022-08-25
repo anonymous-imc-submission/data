@@ -1,0 +1,132 @@
+[
+  {
+    "part": "measure-71",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:19:22.120Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "visit https://lovebscott.com/...",
+    "timestamp": "2021-09-09T13:19:23.728Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'checkAdUnitSetup' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:19:27.454Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:19:31.322Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Choice CMP v1 is deprecated, please upgrade to Choice CMP v2. https://help.quantcast.com/hc/en-us/articles/360057828994-Quantcast-Choice-Deprecates-TCF-v1-1-version-with-holistic-move-to-TCF-v2-0 @ [object Object]",
+    "timestamp": "2021-09-09T13:19:31.635Z"
+  },
+  {
+    "part": "console.error",
+    "message": "The function undefined is missing required parameters @ [object Object]",
+    "timestamp": "2021-09-09T13:19:31.637Z"
+  },
+  {
+    "part": "console.error",
+    "message": "The function undefined is missing required parameters @ [object Object]",
+    "timestamp": "2021-09-09T13:19:31.638Z"
+  },
+  {
+    "part": "console.log",
+    "message": "ERROR Thu Sep 09 2021 15:19:31 GMT+0200 (Mitteleuropäische Sommerzeit) [object Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:19:31.892Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[KARGO] Error fetching Segments: undefined @ [object Object]",
+    "timestamp": "2021-09-09T13:19:32.821Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CONNECTION_REFUSED @ [object Object]",
+    "timestamp": "2021-09-09T13:19:32.826Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:19:33.042Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:19:33.049Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:19:38.675Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:38.685Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:19:38.876Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:19:38.888Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:38.897Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:19:39.801Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:19:43.173Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "TCF data: cmpId 10 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:19:43.178Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:19:43.192Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:19:43.464Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Minimum wait time reached after 5.02s.",
+    "timestamp": "2021-09-09T13:19:48.212Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The deviceorientation events are blocked by permissions policy. See https://github.com/w3c/webappsec-permissions-policy/blob/master/features.md#sensor-features @ [object Object]",
+    "timestamp": "2021-09-09T13:19:59.754Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:20:03.208Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:20:03.380Z"
+  }
+]

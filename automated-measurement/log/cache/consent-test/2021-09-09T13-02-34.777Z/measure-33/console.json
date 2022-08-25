@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-33",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:09:15.094Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "visit https://ghanaweb.com/...",
+    "timestamp": "2021-09-09T13:09:15.248Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:09:16.313Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:09:16.314Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:09:16.712Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:09:16.712Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:09:16.767Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:09:16.772Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:09:16.804Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:09:17.418Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:09:17.421Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:09:17.431Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:09:17.702Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://googleads.g.doubleclick.net/pagead/ads?gdpr=1&gdpr_consent=CPMREraPMREraAcABBENBqCsAP_AAH_AAChQILtf_X__b3_j-_59f_t0eY1P9_7_v-0zjhfdt-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQdlHOHcTUmw6okVrzPsbk2Mr7NKJ7PEmnMbO2dYGH9_n93TuZKY7__8___z__-v_v____f_7-3_3__5_X---_e_V399zLv9____39nN___9uCCYBJhqXkAXYljgybRpVCiBGFYSHQCgAooBhaJrCBlcFOyuAj1BCwAQmoCMCIEGIKMGAQACAQBIREBIAeCARAEQCAAEAKkBCAAjYBBYAWBgEAAoBoWIEUAQgSEGRwVHKYEBEi0UE9lYAlF3saYQhllgBQKP6KjARKEECwMhIWDmOAJAS4AA.f_gAD_gAAAAA&client=ca-pub-1385374189532140&output=html&h=90&slotname=6020958747&adk=1994924927&adf=903435866&pi=t.ma~as.6020958747&w=728&lmt=1631185757&psa=0&format=728x90&url=https%3A%2F%2Fwww.ghanaweb.com%2F&flash=0&wgl=1&uach=WyIiLCIiLCIiLCIiLCIiLFtdLG51bGwsbnVsbCwiIl0.&dt=1631192956418&bpp=7&bdt=1004&idt=270&shv=r20210901&mjsv=m202109080101&ptt=9&saldr=aa&abxe=1&correlator=2718219592782&frm=20&pv=2&ga_vid=1872608544.1631192957&ga_sid=1631192958&ga_hid=241241391&ga_fc=0&u_tz=120&u_his=2&u_java=0&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_nplug=0&u_nmime=0&adx=119&ady=878&biw=1280&bih=720&scr_x=0&scr_y=0&eid=44747620%2C31062369%2C31062297&oid=3&pvsid=2680790935366249&pem=109&eae=0&fc=896&brdim=0%2C0%2C0%2C0%2C1920%2C0%2C1280%2C720%2C1280%2C720&vis=1&rsz=%7C%7CeEbr%7C&abl=CS&pfx=0&fu=0&bc=31&ifi=1&uci=a!1&btvi=1&fsb=1&xpc=gRnOzE0V8l&p=https%3A//www.ghanaweb.com&dtd=1101 @ [object Object]",
+    "timestamp": "2021-09-09T13:09:19.551Z"
+  },
+  {
+    "part": "console.timeEnd",
+    "message": "a: 0.0029296875 ms @ [object Object]",
+    "timestamp": "2021-09-09T13:09:21.429Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:09:22.433Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Timeout after 5.67s",
+    "timestamp": "2021-09-09T13:09:23.103Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:09:23.125Z"
+  }
+]

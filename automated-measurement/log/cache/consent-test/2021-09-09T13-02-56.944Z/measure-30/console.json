@@ -1,0 +1,102 @@
+[
+  {
+    "part": "measure-30",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:12:47.693Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "visit https://greenbaypressgazette.com/...",
+    "timestamp": "2021-09-09T13:12:47.878Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:12:58.420Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:13:05.045Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:13:05.053Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:13:06.028Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:06.029Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:13:06.382Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:13:06.399Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:13:06.694Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:13:06.701Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:06.787Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:13:07.060Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:13:32.469Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:13:32.473Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:13:32.493Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:13:32.501Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:13:32.660Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:13:37.494Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:13:37.530Z"
+  }
+]

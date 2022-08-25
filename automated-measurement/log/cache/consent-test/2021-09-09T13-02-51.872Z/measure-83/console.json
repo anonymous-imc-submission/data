@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-83",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:32:54.854Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "visit https://lovetoknow.com/...",
+    "timestamp": "2021-09-09T13:32:55.057Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:32:59.471Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:32:59.528Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/. @ [object Object]",
+    "timestamp": "2021-09-09T13:33:01.096Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:33:02.186Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:33:02.201Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:33:02.269Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:33:04.460Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:33:04.469Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:33:07.615Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:33:22.756Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:33:22.759Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:33:22.843Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:33:22.848Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:33:22.858Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:33:27.844Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:33:27.916Z"
+  }
+]

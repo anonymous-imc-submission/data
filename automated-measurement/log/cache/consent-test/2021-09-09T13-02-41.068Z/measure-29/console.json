@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-29",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:08:22.818Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "visit https://vogue.in/...",
+    "timestamp": "2021-09-09T13:08:23.077Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Permutive was not initialized. No consent to run on the page @ [object Object]",
+    "timestamp": "2021-09-09T13:08:32.292Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:08:34.549Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:08:34.549Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:08:34.877Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:08:34.878Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:08:34.913Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:08:34.918Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:08:35.046Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:08:36.062Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:08:36.063Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:08:36.083Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:08:36.088Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:08:36.313Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "ads.Invalid sizes: unable to define 'rail' on mobile..warn {definition: Object, slotName: rail} @ [object Object]",
+    "timestamp": "2021-09-09T13:08:36.402Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] To reserve space and reduce layout shifts, consider setting min-width=3px, min-height=50px styles on the div element with id=hero_0. Learn more: https://developers.google.com/publisher-tag/guides/minimize-layout-shift @ [object Object]",
+    "timestamp": "2021-09-09T13:08:38.206Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:08:41.084Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:08:41.166Z"
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "part": "measure-71",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:15:53.849Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "visit https://b1.ro/...",
+    "timestamp": "2021-09-09T13:15:54.549Z"
+  },
+  {
+    "part": "console.log",
+    "message": "1 @ [object Object]",
+    "timestamp": "2021-09-09T13:15:57.774Z"
+  },
+  {
+    "part": "console.log",
+    "message": "HasAdBlock : No @ [object Object]",
+    "timestamp": "2021-09-09T13:15:57.775Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Unrecognized feature: 'conversion-measurement'. @ [object Object]",
+    "timestamp": "2021-09-09T13:15:59.602Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Origin trial controlled feature not enabled: 'attribution-reporting'. @ [object Object]",
+    "timestamp": "2021-09-09T13:15:59.603Z"
+  },
+  {
+    "part": "console.log",
+    "message": "{wordpress: true, appId: 5c5402a1-88ef-43db-984b-1a09e883d401, allowLocalhostAsSecureOrigin: true, welcomeNotification: Object, path: https://www.b1tv.ro/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/} @ [object Object]",
+    "timestamp": "2021-09-09T13:15:59.887Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:16:00.002Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:16:00.006Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:16:00.531Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:16:00.531Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:16:00.584Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:16:00.595Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:16:00.679Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GDPR & Consent @ [object Object]",
+    "timestamp": "2021-09-09T13:16:01.809Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:16:02.175Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:16:02.178Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:16:02.209Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:16:02.212Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:16:02.288Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Div ID passed to googletag.display() does not match any defined slots: tower_desktop_hp_p2. @ [object Object]",
+    "timestamp": "2021-09-09T13:16:02.875Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Div ID passed to googletag.display() does not match any defined slots: desktop_hp_p2. @ [object Object]",
+    "timestamp": "2021-09-09T13:16:02.880Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Div ID passed to googletag.display() does not match any defined slots: tower_desktop_hp_p3. @ [object Object]",
+    "timestamp": "2021-09-09T13:16:02.882Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Div ID passed to googletag.display() does not match any defined slots: desktop_hp_p1. @ [object Object]",
+    "timestamp": "2021-09-09T13:16:02.890Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Div ID passed to googletag.display() does not match any defined slots: desktop_hp_p3. @ [object Object]",
+    "timestamp": "2021-09-09T13:16:02.895Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Div ID passed to googletag.display() does not match any defined slots: tower_desktop_hp_p4. @ [object Object]",
+    "timestamp": "2021-09-09T13:16:02.898Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Div ID passed to googletag.display() does not match any defined slots: tower_desktop_hp_p5. @ [object Object]",
+    "timestamp": "2021-09-09T13:16:02.904Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Div ID passed to googletag.display() does not match any defined slots: tower_desktop_hp_p6. @ [object Object]",
+    "timestamp": "2021-09-09T13:16:02.906Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2109032350000 https://www.b1tv.ro/ @ [object Object]",
+    "timestamp": "2021-09-09T13:16:07.122Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:16:07.209Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:16:07.273Z"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-96",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:36:48.266Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "visit https://funnygames.nl/...",
+    "timestamp": "2021-09-09T13:36:59.679Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:37:16.807Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:37:16.866Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:37:18.598Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:37:18.654Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:37:19.016Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:37:28.750Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.funnygames.nl/fonts/open-sans-v20-regular.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:37:32.549Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:37:32.913Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-pc-btn-handler:visible,\n            #onetrust-pc-sdk:visible\n        \" to be visible\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:37:52.112Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:38:23.608Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:38:23.608Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:38:28.691Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:39:18.720Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "TCF data: cmpId 28 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:39:18.727Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:39:18.760Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:39:18.774Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:39:19.336Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:39:23.772Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:39:24.289Z"
+  }
+]

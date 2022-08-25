@@ -1,0 +1,202 @@
+[
+  {
+    "part": "measure-23",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:07:30.762Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "visit https://politi.co/...",
+    "timestamp": "2021-09-09T13:07:31.077Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Invalid GPT fixed size specification: [] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:38.975Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Invalid GPT fixed size specification: [] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:39.013Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Invalid GPT fixed size specification: [] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:39.022Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Invalid GPT fixed size specification: [] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:39.029Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Invalid GPT fixed size specification: [] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:39.037Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Invalid GPT fixed size specification: [] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:39.043Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Invalid GPT fixed size specification: [] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:39.047Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Invalid GPT fixed size specification: [] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:39.060Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Invalid GPT fixed size specification: [] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:39.065Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Invalid GPT fixed size specification: [] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:39.073Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nyj3v&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.politico.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:07:39.569Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an script pixel with URL:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nyj3v&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.politico.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:07:39.574Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nyj3v&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.politico.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:07:39.575Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an image pixel with URL:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nyj3v&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.politico.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:07:39.577Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nygpo&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.politico.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:07:39.580Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an script pixel with URL:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nygpo&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.politico.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:07:39.586Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nygpo&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.politico.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:07:39.587Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an image pixel with URL:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=nygpo&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.politico.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:07:39.588Z"
+  },
+  {
+    "part": "console.error",
+    "message": "LT.JS: Aborting because no consent was present on the request or stored server-side @ [object Object]",
+    "timestamp": "2021-09-09T13:07:39.750Z"
+  },
+  {
+    "part": "console.error",
+    "message": "LT.JS: Appropriate consent for audience extraction is not present. @ [object Object]",
+    "timestamp": "2021-09-09T13:07:39.751Z"
+  },
+  {
+    "part": "console.error",
+    "message": "LT.JS: Aborting due to above errors. @ [object Object]",
+    "timestamp": "2021-09-09T13:07:39.755Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Auction Ended, call ad server @ [object Object]",
+    "timestamp": "2021-09-09T13:07:42.949Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Error in googletag.display: could not find div with id \"pol-02\" in DOM for slot: /6326/politico/core-home. @ [object Object]",
+    "timestamp": "2021-09-09T13:07:43.015Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Error in googletag.display: could not find div with id \"pol-10\" in DOM for slot: /6326/politico/core-home. @ [object Object]",
+    "timestamp": "2021-09-09T13:07:43.115Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:07:52.609Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:07:52.616Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:07:53.981Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:53.982Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:07:54.018Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:07:54.026Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:54.068Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:07:55.438Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:07:55.441Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:07:55.451Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:07:55.456Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:07:57.888Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:08:00.452Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:08:00.538Z"
+  }
+]

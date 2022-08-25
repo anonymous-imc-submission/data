@@ -1,0 +1,187 @@
+[
+  {
+    "part": "measure-28",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:14:57.358Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "visit https://discoveryuk.com/...",
+    "timestamp": "2021-09-09T13:14:57.575Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:58.736Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Found: /21712083437/discovery_uk/home/discoveryuk_web_home_bannerATF : 0 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:58.940Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Found: /21712083437/discovery_uk/home/discoveryuk_web_home_300TF : 0 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:58.989Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Found: /21712083437/discovery_uk/home/discoveryuk_web_home_300TF : 0 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:58.996Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Missing: mtf @ [object Object]",
+    "timestamp": "2021-09-09T13:14:59.292Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Missing: mtf @ [object Object]",
+    "timestamp": "2021-09-09T13:14:59.296Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Found: /21712083437/discovery_uk/home/discoveryuk_web_home_MTF : 0 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:59.534Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Missing: mtf @ [object Object]",
+    "timestamp": "2021-09-09T13:14:59.631Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Missing: mtf @ [object Object]",
+    "timestamp": "2021-09-09T13:14:59.635Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Missing: mtf @ [object Object]",
+    "timestamp": "2021-09-09T13:14:59.636Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Missing: mtf @ [object Object]",
+    "timestamp": "2021-09-09T13:14:59.638Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Missing: mtf @ [object Object]",
+    "timestamp": "2021-09-09T13:14:59.650Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Missing: mtf @ [object Object]",
+    "timestamp": "2021-09-09T13:14:59.652Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Missing: mtf @ [object Object]",
+    "timestamp": "2021-09-09T13:14:59.656Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Missing: mtf @ [object Object]",
+    "timestamp": "2021-09-09T13:14:59.657Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Missing: mtf @ [object Object]",
+    "timestamp": "2021-09-09T13:14:59.663Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Found: /21712083437/discovery_uk/home/discoveryuk_web_home_bannerBTF : 0 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:59.665Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:15:00.936Z"
+  },
+  {
+    "part": "console.log",
+    "message": "C0002 MEASUREMENTS AND PERFORMANCE - Enabled @ [object Object]",
+    "timestamp": "2021-09-09T13:15:05.397Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:15:16.212Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:15:16.213Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:15:16.263Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:15:16.845Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:15:16.846Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:15:16.993Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:15:17.001Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:15:17.152Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:15:17.242Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:15:27.612Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:15:27.616Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:15:27.628Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:15:27.636Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:15:28.414Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:15:32.628Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:15:32.671Z"
+  }
+]

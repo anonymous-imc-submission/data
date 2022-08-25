@@ -1,0 +1,62 @@
+[
+  {
+    "part": "measure-44",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:18:32.023Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "visit https://zam.com/...",
+    "timestamp": "2021-09-09T13:18:33.279Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:18:35.393Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:18:36.290Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:18:36.293Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "__tcfapi not found: TimeoutError: page.waitForFunction: Timeout 30000ms exceeded.",
+    "timestamp": "2021-09-09T13:19:06.360Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "TCF data: cmpId null consent null, legInt null.",
+    "timestamp": "2021-09-09T13:19:06.360Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:19:06.362Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:19:06.376Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-pc-btn-handler:visible,\n            #onetrust-pc-sdk:visible\n        \" to be visible\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:19:06.385Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:19:11.373Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:19:11.415Z"
+  }
+]

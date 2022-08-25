@@ -1,0 +1,122 @@
+[
+  {
+    "part": "measure-04",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:41.823Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "visit https://lacnews24.it/...",
+    "timestamp": "2021-09-09T13:06:42.110Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:06:44.796Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:06:45.142Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:06:45.147Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:06:45.803Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:45.829Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:06:46.016Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:06:46.020Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:46.034Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:06:46.150Z"
+  },
+  {
+    "part": "console.log",
+    "message": "users action @ [object Object]",
+    "timestamp": "2021-09-09T13:06:46.601Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:06:46.724Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "TCF data: cmpId 10 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:06:46.727Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:06:46.733Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Network is idle after 0.10s.",
+    "timestamp": "2021-09-09T13:06:46.830Z"
+  },
+  {
+    "part": "console.log",
+    "message": "CMP V2: adv loaded @ [object Object]",
+    "timestamp": "2021-09-09T13:06:46.912Z"
+  },
+  {
+    "part": "console.log",
+    "message": "CMP: unlock adsbygoogle @ [object Object]",
+    "timestamp": "2021-09-09T13:06:46.915Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Yobee ads: loaded @ [object Object]",
+    "timestamp": "2021-09-09T13:06:46.919Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:06:46.983Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Allow attribute will take precedence over 'allowfullscreen'. @ [object Object]",
+    "timestamp": "2021-09-09T13:06:48.937Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Failed to execute 'write' on 'Document': It isn't possible to write into a document from an asynchronously-loaded external script unless it is explicitly opened. @ [object Object]",
+    "timestamp": "2021-09-09T13:06:51.198Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:06:51.733Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:06:51.803Z"
+  }
+]

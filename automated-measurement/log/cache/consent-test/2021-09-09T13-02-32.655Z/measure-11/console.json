@@ -1,0 +1,112 @@
+[
+  {
+    "part": "measure-11",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:53.883Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "visit https://fanbyte.com/...",
+    "timestamp": "2021-09-09T13:06:54.232Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu @ [object Object]",
+    "timestamp": "2021-09-09T13:07:05.980Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu @ [object Object]",
+    "timestamp": "2021-09-09T13:07:06.816Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'checkAdUnitSetup' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:07:08.937Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:07:15.001Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:07:15.024Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:07:17.323Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:17.328Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:07:17.443Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:07:17.452Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:17.554Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:07:19.796Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:07:19.805Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:07:19.823Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:07:19.835Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:07:19.997Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://c.amazon-adsystem.com/cdn/prod/config?src=600&u=https%3A%2F%2Fwww.fanbyte.com%2F&pubid=1953b87d-605c-4eaa-85c9-a121595b5e11' from origin 'https://www.fanbyte.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:07:20.102Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:07:20.113Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:07:24.800Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:07:24.824Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:07:25.018Z"
+  }
+]

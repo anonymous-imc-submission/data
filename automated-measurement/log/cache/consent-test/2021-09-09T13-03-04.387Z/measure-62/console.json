@@ -1,0 +1,112 @@
+[
+  {
+    "part": "measure-62",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:22:42.146Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "visit https://edglossary.org/...",
+    "timestamp": "2021-09-09T13:22:42.458Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:22:43.586Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[cycle] terminating; zero elements found by selector @ [object Object]",
+    "timestamp": "2021-09-09T13:22:48.492Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:22:50.666Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://apex.go.sonobi.com/trinity.json?key_maker=%7B%2282541b45cba20b%22%3A%22177369c437c672237248%7C300x250%2C160x600%2C300x600%7Cgpid%3D%2F20842576%2C22578835083%2FGGC4RM%2FGGC4RM-DDS.A%22%2C%22957e9620efd4cf%22%3A%22dcc4cd9596e80d497120%7C300x250%2C160x600%2C300x600%7Cgpid%3D%2F20842576%2C22578835083%2FGGC4RM%2FGGC4RM-DDS.A%22%2C%2210b0bcf184283d2%22%3A%22d23fc2fbe929165f22f9%7C300x250%2C160x600%2C300x600%7Cgpid%3D%2F20842576%2C22578835083%2FGGC4RM%2FGGC4RM-DDS.A%22%7D&ref=https%3A%2F%2Fwww.edglossary.org%2F&s=6ca0ea24-a7ea-4fcf-a93b-796a10ad1e98&pv=eb9ed713-f062-4d97-b8d7-69b07c01b227&vp=desktop&lib_name=prebid&lib_v=4.43.0&us=5&ius=0&schain=%7B%22ver%22%3A%221.0%22%2C%22complete%22%3A1%2C%22nodes%22%3A%5B%7B%22asi%22%3A%22monumetric.com%22%2C%22sid%22%3A%22e9951ede-5931-4334-ace3-82d6eb568f70%22%2C%22hp%22%3A1%7D%5D%7D&coppa=0' from origin 'https://www.edglossary.org' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:53.342Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:22:53.356Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://apex.go.sonobi.com/trinity.json?key_maker=%7B%22143ee4da7e452b37%22%3A%22177369c437c672237248%7C160x600%7Cgpid%3D%2F20842576%2C22578835083%2FGGC4RM%2FGGC4RM-DDR.D%22%7D&ref=https%3A%2F%2Fwww.edglossary.org%2F&s=3cd73269-13a7-4f04-afd1-2cbfb834efd3&pv=eb9ed713-f062-4d97-b8d7-69b07c01b227&vp=desktop&lib_name=prebid&lib_v=4.43.0&us=5&ius=0&schain=%7B%22ver%22%3A%221.0%22%2C%22complete%22%3A1%2C%22nodes%22%3A%5B%7B%22asi%22%3A%22monumetric.com%22%2C%22sid%22%3A%22e9951ede-5931-4334-ace3-82d6eb568f70%22%2C%22hp%22%3A1%7D%5D%7D&coppa=0' from origin 'https://www.edglossary.org' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:53.770Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:22:53.773Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://apex.go.sonobi.com/trinity.json?key_maker=%7B%225393aabf41465a%22%3A%22177369c437c672237248%7C300x250%2C160x600%2C300x600%7Cgpid%3D%2F20842576%2C22578835083%2FGGC4RM%2FGGC4RM-DDS.B%22%2C%22542a9b13c3aaa17%22%3A%22dcc4cd9596e80d497120%7C300x250%2C160x600%2C300x600%7Cgpid%3D%2F20842576%2C22578835083%2FGGC4RM%2FGGC4RM-DDS.B%22%2C%225544e22bfba7b7d%22%3A%22d23fc2fbe929165f22f9%7C300x250%2C160x600%2C300x600%7Cgpid%3D%2F20842576%2C22578835083%2FGGC4RM%2FGGC4RM-DDS.B%22%7D&ref=https%3A%2F%2Fwww.edglossary.org%2F&s=7302600e-2066-4e51-bac1-6f931f8e297a&pv=eb9ed713-f062-4d97-b8d7-69b07c01b227&vp=desktop&lib_name=prebid&lib_v=4.43.0&us=5&ius=0&schain=%7B%22ver%22%3A%221.0%22%2C%22complete%22%3A1%2C%22nodes%22%3A%5B%7B%22asi%22%3A%22monumetric.com%22%2C%22sid%22%3A%22e9951ede-5931-4334-ace3-82d6eb568f70%22%2C%22hp%22%3A1%7D%5D%7D&coppa=0' from origin 'https://www.edglossary.org' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:54.164Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:22:54.169Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://apex.go.sonobi.com/trinity.json?key_maker=%7B%22107c5aea5c2b061%22%3A%22dcc4cd9596e80d497120%7C300x250%2C160x600%2C300x600%7Cgpid%3D%2F20842576%2C22578835083%2FGGC4RM%2FGGC4RM-DDT.C%22%2C%22108b3aa66aae370b%22%3A%22177369c437c672237248%7C300x250%2C160x600%2C300x600%7Cgpid%3D%2F20842576%2C22578835083%2FGGC4RM%2FGGC4RM-DDT.C%22%2C%22109881aedfc3c2b7%22%3A%22d23fc2fbe929165f22f9%7C300x250%2C160x600%2C300x600%7Cgpid%3D%2F20842576%2C22578835083%2FGGC4RM%2FGGC4RM-DDT.C%22%7D&ref=https%3A%2F%2Fwww.edglossary.org%2F&s=b9851680-a078-476f-b83f-98c973a4434d&pv=eb9ed713-f062-4d97-b8d7-69b07c01b227&vp=desktop&lib_name=prebid&lib_v=4.43.0&us=5&ius=0&schain=%7B%22ver%22%3A%221.0%22%2C%22complete%22%3A1%2C%22nodes%22%3A%5B%7B%22asi%22%3A%22monumetric.com%22%2C%22sid%22%3A%22e9951ede-5931-4334-ace3-82d6eb568f70%22%2C%22hp%22%3A1%7D%5D%7D&coppa=0' from origin 'https://www.edglossary.org' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:55.628Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:22:55.628Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://apex.go.sonobi.com/trinity.json?key_maker=%7B%22152079a190ded537%22%3A%224038e93c4d4c13bc38d7%7C728x90%7Cgpid%3D%2F20842576%2C22578835083%2FGGC4RM%2FGGC4RM-DDH.A%22%7D&ref=https%3A%2F%2Fwww.edglossary.org%2F&s=93c65a85-8854-4889-9705-54b4a0328cfd&pv=eb9ed713-f062-4d97-b8d7-69b07c01b227&vp=desktop&lib_name=prebid&lib_v=4.43.0&us=5&ius=0&schain=%7B%22ver%22%3A%221.0%22%2C%22complete%22%3A1%2C%22nodes%22%3A%5B%7B%22asi%22%3A%22monumetric.com%22%2C%22sid%22%3A%22e9951ede-5931-4334-ace3-82d6eb568f70%22%2C%22hp%22%3A1%7D%5D%7D&coppa=0' from origin 'https://www.edglossary.org' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:55.773Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:22:55.782Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://apex.go.sonobi.com/trinity.json?key_maker=%7B%22202094fb78dcea37%22%3A%224038e93c4d4c13bc38d7%7C728x90%7Cgpid%3D%2F20842576%2C22578835083%2FGGC4RM%2FGGC4RM-DDF.B%22%7D&ref=https%3A%2F%2Fwww.edglossary.org%2F&s=1908379a-df44-49d8-8847-078a680cad77&pv=eb9ed713-f062-4d97-b8d7-69b07c01b227&vp=desktop&lib_name=prebid&lib_v=4.43.0&us=5&ius=0&schain=%7B%22ver%22%3A%221.0%22%2C%22complete%22%3A1%2C%22nodes%22%3A%5B%7B%22asi%22%3A%22monumetric.com%22%2C%22sid%22%3A%22e9951ede-5931-4334-ace3-82d6eb568f70%22%2C%22hp%22%3A1%7D%5D%7D&coppa=0' from origin 'https://www.edglossary.org' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:23:00.076Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:23:00.076Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://apex.go.sonobi.com/trinity.json?key_maker=%7B%22210938e2a18004a6%22%3A%224038e93c4d4c13bc38d7%7C728x90%7Cgpid%3D%2F20842576%2C22578835083%2FGGC4RM%2FGGC4RM-DDA.C%22%7D&ref=https%3A%2F%2Fwww.edglossary.org%2F&s=9c57aa87-562a-4709-9051-4821b6aa59ee&pv=eb9ed713-f062-4d97-b8d7-69b07c01b227&vp=desktop&lib_name=prebid&lib_v=4.43.0&us=5&ius=0&schain=%7B%22ver%22%3A%221.0%22%2C%22complete%22%3A1%2C%22nodes%22%3A%5B%7B%22asi%22%3A%22monumetric.com%22%2C%22sid%22%3A%22e9951ede-5931-4334-ace3-82d6eb568f70%22%2C%22hp%22%3A1%7D%5D%7D&coppa=0' from origin 'https://www.edglossary.org' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:23:00.076Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:23:00.076Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:23:00.171Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://edglossary.org/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:23:12.458Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:23:12.575Z"
+  }
+]

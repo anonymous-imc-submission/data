@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-91",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:30:07.732Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "visit https://metrowestdailynews.com/...",
+    "timestamp": "2021-09-09T13:30:11.240Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:30:30.686Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:30:30.687Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:30:30.936Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:30:30.937Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:30:30.972Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:30:30.975Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:30:31.041Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:30:31.051Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:30:33.267Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:30:33.274Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:30:52.893Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:30:52.894Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:30:52.950Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:30:52.996Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:30:57.957Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:31:12.954Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:31:13.028Z"
+  }
+]

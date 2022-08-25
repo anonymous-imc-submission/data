@@ -1,0 +1,112 @@
+[
+  {
+    "part": "measure-82",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:30:46.196Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "visit https://autovit.ro/...",
+    "timestamp": "2021-09-09T13:30:46.877Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "react-i18next:: It seems you are still using the old wait option, you may migrate to the new useSuspense behaviour. @ [object Object]",
+    "timestamp": "2021-09-09T13:30:49.517Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:30:50.765Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:30:58.697Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:30:58.703Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:30:59.020Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:30:59.024Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:30:59.141Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:30:59.149Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:30:59.193Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:30:59.226Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:31:50.289Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:31:50.289Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:31:54.129Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:31:56.607Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:31:56.958Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:31:56.964Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:31:57.032Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Network is idle after 1.34s.",
+    "timestamp": "2021-09-09T13:31:58.372Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:32:02.042Z"
+  },
+  {
+    "part": "measure-82",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:32:02.338Z"
+  }
+]

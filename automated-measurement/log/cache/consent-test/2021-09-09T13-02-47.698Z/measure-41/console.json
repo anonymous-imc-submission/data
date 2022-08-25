@@ -1,0 +1,547 @@
+[
+  {
+    "part": "measure-41",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:14:43.073Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "visit https://usmagazine.com/...",
+    "timestamp": "2021-09-09T13:14:45.753Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:48.613Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:14:48.619Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:14:49.361Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:14:49.734Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Permutive was not initialized. No consent to run on the page @ [object Object]",
+    "timestamp": "2021-09-09T13:14:50.032Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:14:50.111Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:14:50.366Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:14:50.614Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:14:50.890Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:14:51.078Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:14:51.354Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:14:51.568Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:14:52.473Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:14:52.723Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:14:53.241Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:14:53.553Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:14:53.821Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:14:53.821Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cookie size: max:12288 current:385 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:53.871Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:14:53.890Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:14:54.466Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:14:56.003Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:14:56.288Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:14:56.289Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c Got via Worker: 1631193293796.193 background: #27ae60; color: #000; padding: 2px 10px 2px 5px @ [object Object]",
+    "timestamp": "2021-09-09T13:14:56.309Z"
+  },
+  {
+    "part": "console.log",
+    "message": "permutive identity:  TypeError: Cannot read properties of null (reading 'user')\n    at Worker.worker.onmessage (https://www.usmagazine.com/:5775:27) @ [object Object]",
+    "timestamp": "2021-09-09T13:14:56.311Z"
+  },
+  {
+    "part": "console.log",
+    "message": "identity [Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:14:56.312Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:14:56.350Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c is_international - \"status\":true color: #10ac84 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:56.402Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:14:56.475Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:14:56.477Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:14:56.562Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:14:57.848Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:14:57.849Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://d17tqr44y57o31.cloudfront.net/script.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:14:57.903Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:14:58.074Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:14:58.600Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cookie size: max:12288 current:385 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:58.840Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:14:58.943Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:14:59.367Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:14:59.812Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button class=\"cookie-setting-link\" id=\"onetrust-pc-btn-…>Show Purposes</button>\nattempting click action\n  waiting for element to be visible, enabled and stable\n============================================================",
+    "timestamp": "2021-09-09T13:14:59.849Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:14:59.987Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:15:01.010Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:15:01.418Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:15:02.071Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:15:02.495Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:15:02.760Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:15:02.770Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:15:03.031Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:15:03.242Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:15:04.028Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cookie size: max:12288 current:385 @ [object Object]",
+    "timestamp": "2021-09-09T13:15:04.063Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:15:04.303Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:15:05.474Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:15:05.951Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:15:06.146Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:15:06.366Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:15:06.947Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:15:07.185Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:15:07.349Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:15:08.676Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cookie size: max:12288 current:385 @ [object Object]",
+    "timestamp": "2021-09-09T13:15:08.769Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:15:08.903Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:15:09.173Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:15:09.410Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:15:10.289Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:15:10.510Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:15:10.965Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:15:11.147Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp No Retries left - Amazon not loaded @ [object Object]",
+    "timestamp": "2021-09-09T13:15:11.364Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cookie size: max:12288 current:385 @ [object Object]",
+    "timestamp": "2021-09-09T13:15:13.775Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cookie size: max:12288 current:385 @ [object Object]",
+    "timestamp": "2021-09-09T13:15:18.932Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cookie size: max:12288 current:385 @ [object Object]",
+    "timestamp": "2021-09-09T13:15:23.684Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cookie size: max:12288 current:385 @ [object Object]",
+    "timestamp": "2021-09-09T13:15:29.296Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".ot-pc-refuse-all-handler:visible, .save-preference-btn-handler:visible\"\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:15:33.652Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cookie size: max:12288 current:385 @ [object Object]",
+    "timestamp": "2021-09-09T13:15:33.687Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cookie size: max:12288 current:385 @ [object Object]",
+    "timestamp": "2021-09-09T13:15:38.623Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cookie size: max:12288 current:385 @ [object Object]",
+    "timestamp": "2021-09-09T13:15:43.589Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:15:48.369Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:15:48.369Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cookie size: max:12288 current:385 @ [object Object]",
+    "timestamp": "2021-09-09T13:15:48.589Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:15:53.392Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cookie size: max:12288 current:385 @ [object Object]",
+    "timestamp": "2021-09-09T13:15:53.596Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cookie size: max:12288 current:385 @ [object Object]",
+    "timestamp": "2021-09-09T13:15:58.597Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cookie size: max:12288 current:385 @ [object Object]",
+    "timestamp": "2021-09-09T13:16:03.589Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cookie size: max:12288 current:385 @ [object Object]",
+    "timestamp": "2021-09-09T13:16:08.593Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cookie size: max:12288 current:385 @ [object Object]",
+    "timestamp": "2021-09-09T13:16:13.593Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cookie size: max:12288 current:385 @ [object Object]",
+    "timestamp": "2021-09-09T13:16:18.618Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cookie size: max:12288 current:385 @ [object Object]",
+    "timestamp": "2021-09-09T13:16:23.600Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cookie size: max:12288 current:385 @ [object Object]",
+    "timestamp": "2021-09-09T13:16:28.594Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cookie size: max:12288 current:385 @ [object Object]",
+    "timestamp": "2021-09-09T13:16:33.595Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cookie size: max:12288 current:385 @ [object Object]",
+    "timestamp": "2021-09-09T13:16:38.593Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cookie size: max:12288 current:385 @ [object Object]",
+    "timestamp": "2021-09-09T13:16:43.592Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:16:43.904Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:16:43.904Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cookie size: max:12288 current:385 @ [object Object]",
+    "timestamp": "2021-09-09T13:16:48.596Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:16:48.928Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cookie size: max:12288 current:385 @ [object Object]",
+    "timestamp": "2021-09-09T13:16:53.598Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:16:56.289Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "TCF data: cmpId 28 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:16:56.289Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:16:56.298Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:16:56.299Z"
+  },
+  {
+    "part": "console.log",
+    "message": "cookie size: max:12288 current:385 @ [object Object]",
+    "timestamp": "2021-09-09T13:16:58.588Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:17:01.299Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:17:01.325Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:17:01.367Z"
+  }
+]

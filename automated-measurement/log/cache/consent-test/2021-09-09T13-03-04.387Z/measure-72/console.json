@@ -1,0 +1,102 @@
+[
+  {
+    "part": "measure-72",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:25:15.998Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "visit https://bgr.com/...",
+    "timestamp": "2021-09-09T13:25:16.517Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 1.4.1 @ [object Object]",
+    "timestamp": "2021-09-09T13:25:17.561Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID @ [object Object]",
+    "timestamp": "2021-09-09T13:25:17.747Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:25:29.720Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:25:32.157Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:25:32.158Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:25:32.602Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:25:32.612Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:25:32.677Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:25:32.687Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:25:32.701Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:25:32.713Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:25:41.449Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:25:41.456Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:25:41.487Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:25:41.493Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:25:41.527Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:25:46.488Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:25:46.595Z"
+  }
+]

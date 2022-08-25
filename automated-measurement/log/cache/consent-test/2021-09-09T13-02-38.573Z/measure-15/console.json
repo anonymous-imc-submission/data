@@ -1,0 +1,102 @@
+[
+  {
+    "part": "measure-15",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:05:37.871Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "visit https://es.pn/...",
+    "timestamp": "2021-09-09T13:05:37.956Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:40.711Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:05:41.729Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:05:41.729Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:05:42.922Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:05:42.923Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:05:43.088Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:05:43.090Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:05:43.109Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[OneID] [%s]:  ERROR Already initialized @ [object Object]",
+    "timestamp": "2021-09-09T13:05:43.342Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:05:44.022Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:05:44.023Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:05:44.025Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:05:44.049Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[OneID] [%s]:  ERROR Session not established @ [object Object]",
+    "timestamp": "2021-09-09T13:05:44.158Z"
+  },
+  {
+    "part": "console.log",
+    "message": "consent sync callback complete @ [object Object]",
+    "timestamp": "2021-09-09T13:05:44.434Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "Network is idle after 3.37s.",
+    "timestamp": "2021-09-09T13:05:47.390Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:05:49.026Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:05:49.043Z"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "part": "measure-75",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:16:43.151Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "visit https://romanialibera.ro/...",
+    "timestamp": "2021-09-09T13:16:50.933Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:16:51.687Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID @ [object Object]",
+    "timestamp": "2021-09-09T13:16:52.470Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Div ID passed to googletag.display() does not match any defined slots: div-gpt-ad-1629472896444-0. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:10.130Z"
+  },
+  {
+    "part": "console.log",
+    "message": "1 @ [object Object]",
+    "timestamp": "2021-09-09T13:17:15.326Z"
+  },
+  {
+    "part": "console.log",
+    "message": "HasAdBlock : No @ [object Object]",
+    "timestamp": "2021-09-09T13:17:15.331Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://romanialibera.ro/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:17:22.083Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:17:22.402Z"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-22",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:54.243Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "visit https://gourmet.com/...",
+    "timestamp": "2021-09-09T13:06:54.304Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "page load error: Error: page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://gourmet.com/\n=========================== logs ===========================\nnavigating to \"https://gourmet.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:06:54.493Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:06:54.512Z"
+  }
+]

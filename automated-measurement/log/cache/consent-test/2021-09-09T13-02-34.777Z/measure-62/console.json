@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-62",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:13:41.428Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "visit https://palmbeachdailynews.com/...",
+    "timestamp": "2021-09-09T13:13:41.636Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Consent management does not appear to be set up correctly. No consent groups were found. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:47.530Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:13:50.754Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:13:55.185Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:13:55.219Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:13:56.061Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:56.105Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:13:56.143Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:13:56.149Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:56.306Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:13:57.485Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:13:57.493Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:13:57.529Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:13:57.543Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:13:57.553Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:13:57.849Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:13:57.868Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CONNECTION_CLOSED @ [object Object]",
+    "timestamp": "2021-09-09T13:14:00.688Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:14:02.540Z"
+  },
+  {
+    "part": "measure-62",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:14:02.649Z"
+  }
+]

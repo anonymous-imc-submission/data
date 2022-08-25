@@ -1,0 +1,217 @@
+[
+  {
+    "part": "measure-53",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:23:48.228Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "visit https://ecodibergamo.it/...",
+    "timestamp": "2021-09-09T13:23:49.572Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://adagiofe.neodatagroup.com/ad/opq.jsp?loc=ebg_hmp_hmp_leaderboard&bt=n&wt=n&rnd=107799785115, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:23:53.112Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://adagiofe.neodatagroup.com/ad/opq.jsp?loc=ebg_hmp_hmp_leaderboard&bt=n&wt=n&rnd=107799785115, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:23:53.112Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 503 () @ [object Object]",
+    "timestamp": "2021-09-09T13:23:54.228Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://adagiofe.neodatagroup.com/ad/opq.jsp?loc=ebg_hmp_hmp_460x400&bt=n&wt=n&rnd=296026078745, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:23:56.772Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://adagiofe.neodatagroup.com/ad/opq.jsp?loc=ebg_hmp_hmp_460x400&bt=n&wt=n&rnd=296026078745, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:23:56.772Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://adagiofe.neodatagroup.com/ad/opq.jsp?loc=ebg_hmp_hmp_418x100_1&bt=n&wt=n&rnd=1503081049080, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:23:58.594Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://adagiofe.neodatagroup.com/ad/opq.jsp?loc=ebg_hmp_hmp_418x100_1&bt=n&wt=n&rnd=1503081049080, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:23:58.601Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://ads.sesaab.it/www/delivery/ajs.php?zoneid=220&cb=75414812008&charset=UTF-8&loc=https%3A//www.ecodibergamo.it/, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:24:04.409Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://ads.sesaab.it/www/delivery/ajs.php?zoneid=223&cb=34284215048&charset=UTF-8&loc=https%3A//www.ecodibergamo.it/, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:24:06.850Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://adagiofe.neodatagroup.com/ad/opq.jsp?loc=ebg_hmp_hmp_rectangle_1&bt=n&wt=n&rnd=963008335644&gdpr=1&gdpr_consent=CPMRG1yPMRG1yAcABBENBqCgAAAAAAAAAChQAAAAAAAA.YAAAAAAAAAAA, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:24:07.326Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://adagiofe.neodatagroup.com/ad/opq.jsp?loc=ebg_hmp_hmp_rectangle_1&bt=n&wt=n&rnd=963008335644&gdpr=1&gdpr_consent=CPMRG1yPMRG1yAcABBENBqCgAAAAAAAAAChQAAAAAAAA.YAAAAAAAAAAA, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:24:07.340Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://ads.sesaab.it/www/delivery/ajs.php?zoneid=1570&cb=16251062298&charset=UTF-8&loc=https%3A//www.ecodibergamo.it/, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:24:08.056Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://ads.sesaab.it/www/delivery/ajs.php?zoneid=1573&cb=93726487823&charset=UTF-8&loc=https%3A//www.ecodibergamo.it/, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:24:08.610Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://ads.sesaab.it/www/delivery/ajs.php?zoneid=1552&cb=25138197006&charset=UTF-8&loc=https%3A//www.ecodibergamo.it/, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:24:08.808Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://ads.sesaab.it/www/delivery/ajs.php?zoneid=1555&cb=27695464030&charset=UTF-8&loc=https%3A//www.ecodibergamo.it/, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:24:08.895Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://ads.sesaab.it/www/delivery/ajs.php?zoneid=1558&cb=5586326538&charset=UTF-8&loc=https%3A//www.ecodibergamo.it/, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:24:09.191Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 503 () @ [object Object]",
+    "timestamp": "2021-09-09T13:24:10.024Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "VIDEOJS: WARN: Constructor logic via init() is deprecated; please use constructor() instead. @ [object Object]",
+    "timestamp": "2021-09-09T13:24:10.327Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "VIDEOJS: WARN: Constructor logic via init() is deprecated; please use constructor() instead. @ [object Object]",
+    "timestamp": "2021-09-09T13:24:10.327Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://adagiofe.neodatagroup.com/ad/opq.jsp?loc=ebg_ros_ros_popoverlay&bt=n&wt=n&rnd=1020170880299&gdpr=1&gdpr_consent=CPMRG1yPMRG1yAcABBENBqCgAAAAAAAAAChQAAAAAAAA.YAAAAAAAAAAA, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:24:11.227Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://adagiofe.neodatagroup.com/ad/opq.jsp?loc=ebg_ros_ros_popoverlay&bt=n&wt=n&rnd=1020170880299&gdpr=1&gdpr_consent=CPMRG1yPMRG1yAcABBENBqCgAAAAAAAAAChQAAAAAAAA.YAAAAAAAAAAA, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:24:11.242Z"
+  },
+  {
+    "part": "console.log",
+    "message": "/update/count/ @ [object Object]",
+    "timestamp": "2021-09-09T13:24:11.548Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Load was performed. @ [object Object]",
+    "timestamp": "2021-09-09T13:24:13.174Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:24:14.906Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:24:14.913Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:24:15.832Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:24:15.839Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:24:15.885Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:24:15.891Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:24:15.899Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:24:15.952Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Prebid tracking event was missing 'adId'.  Was adId macro set in the HTML attribute pbAdIdon the ad's anchor element @ [object Object]",
+    "timestamp": "2021-09-09T13:24:22.504Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:24:23.870Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:24:51.879Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:24:56.914Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:24:56.930Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:24:56.949Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:24:56.952Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:24:57.209Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:25:01.951Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:25:02.204Z"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "part": "measure-53",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:18:55.501Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "visit https://cricinfo.com/...",
+    "timestamp": "2021-09-09T13:18:56.093Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Invalid arguments: SizeMappingBuilder.addSize([0, 0], [['fluid']]). @ [object Object]",
+    "timestamp": "2021-09-09T13:19:02.872Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Size mapping is null because invalid mappings were added: [[[0,0],[[\"fluid\"]]]]. @ [object Object]",
+    "timestamp": "2021-09-09T13:19:02.872Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Incorrect usage of googletag.Slot defineSizeMapping: Size mapping must be an array @ [object Object]",
+    "timestamp": "2021-09-09T13:19:02.878Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:19:04.097Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:19:04.108Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:19:09.850Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:09.854Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:19:10.513Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:12.252Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:19:12.607Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:19:14.406Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:19:18.317Z"
+  },
+  {
+    "part": "console.log",
+    "message": "consent sync callback complete @ [object Object]",
+    "timestamp": "2021-09-09T13:19:20.043Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:19:20.250Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:19:20.255Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:19:20.268Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:19:20.271Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:19:21.058Z"
+  },
+  {
+    "part": "console.log",
+    "message": "update: ad _dcf:0 @ [object Object]",
+    "timestamp": "2021-09-09T13:19:22.657Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Invalid arguments: SizeMappingBuilder.addSize([0, 0], [['fluid']]). @ [object Object]",
+    "timestamp": "2021-09-09T13:19:22.842Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Size mapping is null because invalid mappings were added: [[[0,0],[[\"fluid\"]]]]. @ [object Object]",
+    "timestamp": "2021-09-09T13:19:22.845Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Incorrect usage of googletag.Slot defineSizeMapping: Size mapping must be an array @ [object Object]",
+    "timestamp": "2021-09-09T13:19:22.848Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:19:25.274Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:19:25.334Z"
+  }
+]

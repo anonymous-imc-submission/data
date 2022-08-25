@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-09",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:37.718Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "visit https://radiotime.com/...",
+    "timestamp": "2021-09-09T13:06:37.990Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://radiotime.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:07:07.991Z"
+  },
+  {
+    "part": "measure-09",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:07:08.018Z"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "part": "measure-25",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:10:33.449Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "visit https://grammar-monster.com/...",
+    "timestamp": "2021-09-09T13:10:33.614Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://c.amazon-adsystem.com/cdn/prod/config?src=600&u=https%3A%2F%2Fwww.grammar-monster.com%2F&pubid=9cf0c4f1-7630-476b-9141-f4472e005192' from origin 'https://www.grammar-monster.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:37.475Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:10:37.478Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:10:38.265Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:10:38.266Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:10:38.886Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:38.887Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:10:38.915Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:10:38.919Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:38.925Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:10:38.958Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:10:39.279Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "TCF data: cmpId 10 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:10:39.281Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:10:39.294Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:10:39.298Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:10:39.320Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "'window.webkitStorageInfo' is deprecated. Please use 'navigator.webkitTemporaryStorage' or 'navigator.webkitPersistentStorage' instead. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:42.767Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:10:44.298Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:10:44.327Z"
+  }
+]

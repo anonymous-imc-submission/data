@@ -1,0 +1,52 @@
+[
+  {
+    "part": "measure-69",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:24:44.820Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "visit https://gazeta.pl/...",
+    "timestamp": "2021-09-09T13:24:45.788Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Download the Vue Devtools extension for a better development experience:\nhttps://github.com/vuejs/vue-devtools @ [object Object]",
+    "timestamp": "2021-09-09T13:24:49.471Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:24:49.678Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Error: Request failed with status code 404\n    at e.exports (https://static.im-g.pl/static/sport/front/hpFeed/master/livedata-modules/production/hpsportelements.js?seed=7349:1:19461)\n    at e.exports (https://static.im-g.pl/static/sport/front/hpFeed/master/livedata-modules/production/hpsportelements.js?seed=7349:9:87084)\n    at XMLHttpRequest.p.onreadystatechange (https://static.im-g.pl/static/sport/front/hpFeed/master/livedata-modules/production/hpsportelements.js?seed=7349:14:56990) @ [object Object]",
+    "timestamp": "2021-09-09T13:24:49.691Z"
+  },
+  {
+    "part": "console.log",
+    "message": "consentVersion: new @ [object Object]",
+    "timestamp": "2021-09-09T13:24:59.244Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c window.AG.rodoAccepted -1 color: green @ [object Object]",
+    "timestamp": "2021-09-09T13:24:59.298Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Allow attribute will take precedence over 'allowfullscreen'. @ [object Object]",
+    "timestamp": "2021-09-09T13:25:07.242Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://gazeta.pl/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:25:15.799Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:25:15.945Z"
+  }
+]

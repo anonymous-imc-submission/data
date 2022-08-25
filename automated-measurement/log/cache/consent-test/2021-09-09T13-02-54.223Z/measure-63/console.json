@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-63",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:18:19.568Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "visit https://hyves.nl/...",
+    "timestamp": "2021-09-09T13:18:19.914Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:18:22.016Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:18:22.840Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:18:22.841Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:18:23.308Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:23.308Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:18:23.334Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:18:23.337Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:23.471Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:18:23.483Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:18:33.502Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:18:33.507Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:18:33.597Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:18:33.604Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:18:33.706Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:18:35.152Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:18:38.601Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:18:38.649Z"
+  }
+]

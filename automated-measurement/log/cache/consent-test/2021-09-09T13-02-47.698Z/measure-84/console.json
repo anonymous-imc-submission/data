@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-84",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:26:25.475Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "visit https://caranddriver.com/...",
+    "timestamp": "2021-09-09T13:26:25.628Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service worker registration succeeded. @ [object Object]",
+    "timestamp": "2021-09-09T13:26:27.445Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:26:29.104Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:26:30.023Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:26:30.029Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:26:30.953Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:26:30.953Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:26:31.080Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:26:31.084Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:26:31.710Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:26:31.723Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:26:38.004Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:26:38.004Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:26:38.054Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:26:38.058Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:26:38.136Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service worker registration succeeded. @ [object Object]",
+    "timestamp": "2021-09-09T13:26:38.713Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:26:39.798Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:26:43.054Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:26:43.109Z"
+  }
+]

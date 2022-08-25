@@ -1,0 +1,237 @@
+[
+  {
+    "part": "measure-93",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:34:07.313Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "visit https://gamessumo.com/...",
+    "timestamp": "2021-09-09T13:34:10.273Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Mixed Content: The page at 'https://gamessumo.com/' was loaded over HTTPS, but requested an insecure element 'http://www.gamessumo.com/games/images/surf-min.png'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ [object Object]",
+    "timestamp": "2021-09-09T13:34:11.176Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Mixed Content: The page at 'https://gamessumo.com/' was loaded over HTTPS, but requested an insecure element 'http://www.gamessumo.com/games/images/minecraft33-min.png'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ [object Object]",
+    "timestamp": "2021-09-09T13:34:11.197Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Mixed Content: The page at 'https://gamessumo.com/' was loaded over HTTPS, but requested an insecure element 'http://www.gamessumo.com/games/images/talkingtomgoldrun.png'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ [object Object]",
+    "timestamp": "2021-09-09T13:34:11.197Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Mixed Content: The page at 'https://gamessumo.com/' was loaded over HTTPS, but requested an insecure element 'http://www.gamessumo.com/games/images/templerun-new-min.png'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ [object Object]",
+    "timestamp": "2021-09-09T13:34:11.267Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Mixed Content: The page at 'https://gamessumo.com/' was loaded over HTTPS, but requested an insecure element 'http://www.gamessumo.com/games/images/block-craft-min.png'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ [object Object]",
+    "timestamp": "2021-09-09T13:34:11.267Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Mixed Content: The page at 'https://gamessumo.com/' was loaded over HTTPS, but requested an insecure element 'http://www.gamessumo.com/games/images/ronaldo-kick-run.jpg'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ [object Object]",
+    "timestamp": "2021-09-09T13:34:11.270Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Mixed Content: The page at 'https://gamessumo.com/' was loaded over HTTPS, but requested an insecure element 'http://www.gamessumo.com/games/images/among-us-online-edition.jpg'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ [object Object]",
+    "timestamp": "2021-09-09T13:34:11.307Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Mixed Content: The page at 'https://gamessumo.com/' was loaded over HTTPS, but requested an insecure element 'http://www.gamessumo.com/games/images/subway-surfer-min.png'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ [object Object]",
+    "timestamp": "2021-09-09T13:34:11.307Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Mixed Content: The page at 'https://gamessumo.com/' was loaded over HTTPS, but requested an insecure element 'http://www.gamessumo.com/games/images/pubgonline-min.png'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ [object Object]",
+    "timestamp": "2021-09-09T13:34:11.311Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Mixed Content: The page at 'https://gamessumo.com/' was loaded over HTTPS, but requested an insecure element 'http://www.gamessumo.com/games/images/cookingmadness.jpg'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ [object Object]",
+    "timestamp": "2021-09-09T13:34:11.315Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Mixed Content: The page at 'https://gamessumo.com/' was loaded over HTTPS, but requested an insecure element 'http://www.gamessumo.com/games/images/kick%20the%20buddy-min.png'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ [object Object]",
+    "timestamp": "2021-09-09T13:34:11.317Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Mixed Content: The page at 'https://gamessumo.com/' was loaded over HTTPS, but requested an insecure element 'http://www.gamessumo.com/games/images/surf-min.png'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ [object Object]",
+    "timestamp": "2021-09-09T13:34:13.271Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Mixed Content: The page at 'https://gamessumo.com/' was loaded over HTTPS, but requested an insecure element 'http://www.gamessumo.com/games/images/minecraft33-min.png'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ [object Object]",
+    "timestamp": "2021-09-09T13:34:13.277Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Mixed Content: The page at 'https://gamessumo.com/' was loaded over HTTPS, but requested an insecure element 'http://www.gamessumo.com/games/images/talkingtomgoldrun.png'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ [object Object]",
+    "timestamp": "2021-09-09T13:34:13.277Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Mixed Content: The page at 'https://gamessumo.com/' was loaded over HTTPS, but requested an insecure element 'http://www.gamessumo.com/games/images/templerun-new-min.png'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ [object Object]",
+    "timestamp": "2021-09-09T13:34:13.277Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Mixed Content: The page at 'https://gamessumo.com/' was loaded over HTTPS, but requested an insecure element 'http://www.gamessumo.com/games/images/block-craft-min.png'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ [object Object]",
+    "timestamp": "2021-09-09T13:34:13.277Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Mixed Content: The page at 'https://gamessumo.com/' was loaded over HTTPS, but requested an insecure element 'http://www.gamessumo.com/games/images/ronaldo-kick-run.jpg'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ [object Object]",
+    "timestamp": "2021-09-09T13:34:13.279Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Mixed Content: The page at 'https://gamessumo.com/' was loaded over HTTPS, but requested an insecure element 'http://www.gamessumo.com/games/images/among-us-online-edition.jpg'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ [object Object]",
+    "timestamp": "2021-09-09T13:34:13.279Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Mixed Content: The page at 'https://gamessumo.com/' was loaded over HTTPS, but requested an insecure element 'http://www.gamessumo.com/games/images/subway-surfer-min.png'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ [object Object]",
+    "timestamp": "2021-09-09T13:34:13.282Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Mixed Content: The page at 'https://gamessumo.com/' was loaded over HTTPS, but requested an insecure element 'http://www.gamessumo.com/games/images/pubgonline-min.png'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ [object Object]",
+    "timestamp": "2021-09-09T13:34:13.285Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Mixed Content: The page at 'https://gamessumo.com/' was loaded over HTTPS, but requested an insecure element 'http://www.gamessumo.com/games/images/cookingmadness.jpg'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ [object Object]",
+    "timestamp": "2021-09-09T13:34:13.288Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Mixed Content: The page at 'https://gamessumo.com/' was loaded over HTTPS, but requested an insecure element 'http://www.gamessumo.com/games/images/kick%20the%20buddy-min.png'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ [object Object]",
+    "timestamp": "2021-09-09T13:34:13.293Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Mixed Content: The page at 'https://gamessumo.com/' was loaded over HTTPS, but requested an insecure script 'http://www.gamessumo.com/includes/main_page.js'. This request has been blocked; the content must be served over HTTPS. @ [object Object]",
+    "timestamp": "2021-09-09T13:34:13.818Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:34:14.410Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:34:14.442Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The googletag.pubads().definePassback function has been deprecated. The function may break in certain contexts, see https://developers.google.com/publisher-tag/guides/passback-tags#construct_passback_tags for how to correctly create a passback. @ [object Object]",
+    "timestamp": "2021-09-09T13:34:18.549Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://gamessumo.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:34:27.815Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:34:32.864Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:34:32.899Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:34:34.471Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:34:34.486Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:34:34.699Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:34:34.707Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:34:35.091Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-pc-btn-handler:visible,\n            #onetrust-pc-sdk:visible\n        \" to be visible\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:35:03.017Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:35:26.522Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:35:26.522Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:35:51.219Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:36:34.597Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "TCF data: cmpId 28 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:36:34.613Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:36:34.734Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Network is idle after 0.03s.",
+    "timestamp": "2021-09-09T13:36:34.764Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "Minimum wait time reached after 5.02s.",
+    "timestamp": "2021-09-09T13:36:39.758Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:36:40.258Z"
+  },
+  {
+    "part": "measure-93",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:36:40.275Z"
+  }
+]

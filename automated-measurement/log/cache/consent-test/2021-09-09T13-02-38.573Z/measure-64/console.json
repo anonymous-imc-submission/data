@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-64",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:11:40.285Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "visit https://uticaod.com/...",
+    "timestamp": "2021-09-09T13:11:40.367Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:11:43.615Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:11:43.616Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:11:43.694Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:43.695Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:11:43.701Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:11:43.708Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:43.747Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:11:44.052Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:11:44.054Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:11:44.058Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:11:44.075Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:11:44.201Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:11:44.212Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CONNECTION_CLOSED @ [object Object]",
+    "timestamp": "2021-09-09T13:11:44.979Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR @ [object Object]",
+    "timestamp": "2021-09-09T13:11:45.360Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CONNECTION_CLOSED @ [object Object]",
+    "timestamp": "2021-09-09T13:11:45.364Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "Network is idle after 1.93s.",
+    "timestamp": "2021-09-09T13:11:45.986Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:11:49.058Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:11:49.076Z"
+  }
+]

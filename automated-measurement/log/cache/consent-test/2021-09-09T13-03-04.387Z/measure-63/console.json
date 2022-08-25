@@ -1,0 +1,142 @@
+[
+  {
+    "part": "measure-63",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:23:11.816Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "visit https://adultswim.com/...",
+    "timestamp": "2021-09-09T13:23:12.700Z"
+  },
+  {
+    "part": "console.log",
+    "message": "@adultswim/tools 1.17.1 @ [object Object]",
+    "timestamp": "2021-09-09T13:23:15.894Z"
+  },
+  {
+    "part": "console.log",
+    "message": ">FW 23:17 FreeWheel Integration Runtime js-6.32.0-ef69c00a-201910182144 @ [object Object]",
+    "timestamp": "2021-09-09T13:23:17.349Z"
+  },
+  {
+    "part": "console.log",
+    "message": ">FW 23:17 Device: Desktop PLATFORM_IS_SAFARI: true PLATFORM_IS_CHROME: false @ [object Object]",
+    "timestamp": "2021-09-09T13:23:17.354Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Telemetry is off @ [object Object]",
+    "timestamp": "2021-09-09T13:23:17.461Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:23:18.798Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:23:18.799Z"
+  },
+  {
+    "part": "console.error",
+    "message": "VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) The media could not be loaded, either because the server or network failed or because the format is not supported. gt @ [object Object]",
+    "timestamp": "2021-09-09T13:23:19.117Z"
+  },
+  {
+    "part": "console.error",
+    "message": "VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) No compatible source was found for this video. gt @ [object Object]",
+    "timestamp": "2021-09-09T13:23:19.184Z"
+  },
+  {
+    "part": "console.error",
+    "message": "VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) No compatible source was found for this video. gt @ [object Object]",
+    "timestamp": "2021-09-09T13:23:19.203Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:23:19.583Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:23:19.589Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:23:19.647Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:23:20.804Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:23:21.285Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:23:22.656Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:23:37.451Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:23:37.451Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:23:37.468Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:23:37.469Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:23:37.499Z"
+  },
+  {
+    "part": "console.log",
+    "message": "@adultswim/tools 1.17.1 @ [object Object]",
+    "timestamp": "2021-09-09T13:23:41.016Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Privacy cookie already set @ [object Object]",
+    "timestamp": "2021-09-09T13:23:41.198Z"
+  },
+  {
+    "part": "console.log",
+    "message": ">FW 23:41 FreeWheel Integration Runtime js-6.32.0-ef69c00a-201910182144 @ [object Object]",
+    "timestamp": "2021-09-09T13:23:41.755Z"
+  },
+  {
+    "part": "console.log",
+    "message": ">FW 23:41 Device: Desktop PLATFORM_IS_SAFARI: true PLATFORM_IS_CHROME: false @ [object Object]",
+    "timestamp": "2021-09-09T13:23:41.760Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:23:42.469Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:23:42.496Z"
+  }
+]

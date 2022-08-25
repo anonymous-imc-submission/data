@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-20",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:08:50.610Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "visit https://azcentral.com/...",
+    "timestamp": "2021-09-09T13:08:50.704Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://azcentral.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:09:20.705Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:09:20.728Z"
+  }
+]

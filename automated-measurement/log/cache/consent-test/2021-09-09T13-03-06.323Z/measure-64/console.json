@@ -1,0 +1,67 @@
+[
+  {
+    "part": "measure-64",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:17:35.903Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "visit https://coastalwatch.com/...",
+    "timestamp": "2021-09-09T13:17:36.253Z"
+  },
+  {
+    "part": "console.error",
+    "message": "JW Player Error 102630. For more information see https://developer.jwplayer.com/jw-player/docs/developer-guide/api/errors-reference#102630 @ [object Object]",
+    "timestamp": "2021-09-09T13:17:56.604Z"
+  },
+  {
+    "part": "console.error",
+    "message": "JW Player Error 102630. For more information see https://developer.jwplayer.com/jw-player/docs/developer-guide/api/errors-reference#102630 @ [object Object]",
+    "timestamp": "2021-09-09T13:17:56.643Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:18:05.268Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:18:05.272Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "dialog accept failed: \n  - TimeoutError: page.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=primary]\"\n    ============================================================\n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-accept-btn-handler:visible,\n            .optanon-allow-all:visible,\n            .optanon-button-allow:visible,\n            #onetrust-pc-sdk #accept-recommended-btn-handler:visible\n        \"\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:18:36.665Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "__tcfapi not found: TimeoutError: page.waitForFunction: Timeout 30000ms exceeded.",
+    "timestamp": "2021-09-09T13:18:36.675Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "TCF data: cmpId null consent null, legInt null.",
+    "timestamp": "2021-09-09T13:18:36.681Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:18:36.686Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:18:36.687Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:18:41.692Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:18:41.912Z"
+  }
+]

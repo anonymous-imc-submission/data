@@ -1,0 +1,87 @@
+[
+  {
+    "part": "measure-47",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:19:12.870Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "visit https://hitched.co.uk/...",
+    "timestamp": "2021-09-09T13:19:13.104Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:19:17.921Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:19:17.927Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:19:18.492Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:18.493Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:19:18.524Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:19:18.528Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:18.565Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:19:18.587Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:19:26.117Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:19:26.120Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:19:26.128Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:19:26.128Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:19:26.173Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:19:31.128Z"
+  },
+  {
+    "part": "measure-47",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:19:31.149Z"
+  }
+]

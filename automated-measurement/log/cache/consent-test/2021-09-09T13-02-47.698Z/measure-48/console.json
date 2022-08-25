@@ -1,0 +1,122 @@
+[
+  {
+    "part": "measure-48",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:16:30.785Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "visit https://theledger.com/...",
+    "timestamp": "2021-09-09T13:16:31.117Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Subscriptions Runtime: 0.1.22.183 @ [object Object]",
+    "timestamp": "2021-09-09T13:16:48.407Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to fetch at 'https://news.google.com/swg/_/api/v1/publication/theledger.com/entitlements' from origin 'https://eu.theledger.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled. @ [object Object]",
+    "timestamp": "2021-09-09T13:16:50.604Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:16:50.611Z"
+  },
+  {
+    "part": "console.log",
+    "message": "TP: swg: get entitlements failed Error: XHR Failed fetching (https://news.google.com/...): (Note: a CORS error above may indicate that this domain is not configured for Subscribe with Google)\n    at https://news.google.com/swg/js/v1/swg.js:211:104\n    at nrWrapper (https://eu.theledger.com/:81:15034) @ [object Object]",
+    "timestamp": "2021-09-09T13:16:50.627Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Server did not respond to loadRBox @ [object Object]",
+    "timestamp": "2021-09-09T13:16:51.877Z"
+  },
+  {
+    "part": "console.log",
+    "message": "loadRBox failed, aborting. @ [object Object]",
+    "timestamp": "2021-09-09T13:16:51.901Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Invalid response from server: trc_json_response =\n{\"trc\":{}}\n @ [object Object]",
+    "timestamp": "2021-09-09T13:16:51.915Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:16:54.974Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:16:54.982Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:16:55.563Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:16:55.564Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:16:55.577Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:16:55.580Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:16:55.618Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:16:55.639Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:17:18.202Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:17:18.206Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:17:18.212Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:17:18.214Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:17:18.284Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:17:23.213Z"
+  },
+  {
+    "part": "measure-48",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:17:23.239Z"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-21",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:12:15.172Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "visit https://ntvspor.net/...",
+    "timestamp": "2021-09-09T13:12:15.499Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ [object Object]",
+    "timestamp": "2021-09-09T13:12:22.212Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 400 () @ [object Object]",
+    "timestamp": "2021-09-09T13:12:25.608Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:12:27.121Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:12:27.122Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Origin trial controlled feature not enabled: 'trust-token-redemption'. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:29.801Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:12:30.227Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:30.228Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:12:30.372Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:12:30.377Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:30.439Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:12:30.507Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:12:45.219Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:12:45.230Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:12:45.241Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:12:45.388Z"
+  },
+  {
+    "part": "console.log",
+    "message": "{status: success} @ [object Object]",
+    "timestamp": "2021-09-09T13:12:45.547Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Network is idle after 0.75s.",
+    "timestamp": "2021-09-09T13:12:45.994Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:12:50.241Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:12:50.282Z"
+  }
+]

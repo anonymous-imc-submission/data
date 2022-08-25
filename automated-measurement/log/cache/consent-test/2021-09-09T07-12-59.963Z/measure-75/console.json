@@ -1,0 +1,198 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://linux-magazin.de/..."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.linux-magazin.de/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2",
+      "lineNumber": 1,
+      "columnNumber": 708
+    },
+    "text": "JQMIGRATE: Migrate is installed, version 3.3.2"
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://storage.googleapis.com/ba_utils/lima.js",
+      "lineNumber": 12,
+      "columnNumber": 0
+    },
+    "text": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdn-a.yieldlove.com/yieldlove-bidder.js?linux-magazin.de, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://storage.googleapis.com/ba_utils/lima.js",
+      "lineNumber": 12,
+      "columnNumber": 0
+    },
+    "text": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://cdn-a.yieldlove.com/yieldlove-bidder.js?linux-magazin.de, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://storage.googleapis.com/ba_utils/lima.js",
+      "lineNumber": 49,
+      "columnNumber": 19
+    },
+    "text": "__tcfapi exists while Adlib loading"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://cdn.privacy-mgmt.com/wrapperMessagingWithoutDetection.js",
+      "lineNumber": 0,
+      "columnNumber": 154615
+    },
+    "text": "Messaging without detection successfully executed."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://www.googletagservices.com/tag/js/gpt.js",
+      "lineNumber": 5,
+      "columnNumber": 0
+    },
+    "text": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://www.googletagservices.com/tag/js/gpt.js",
+      "lineNumber": 5,
+      "columnNumber": 0
+    },
+    "text": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090201.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://script.ioam.de/iam.js",
+      "lineNumber": 598,
+      "columnNumber": 0
+    },
+    "text": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://1991533c.de.ioam.de/tx.io?st=linuxmag&sc=yes&cp=T_R_H_F_89&sv=ke&co=&ct=0100000000&pt=CP&ps=lin&er=N22&rf=&r2=&ur=www.linux-magazin.de&xy=393x851x24&lo=GB%2FSlough&cb=0012&i2=00127616ca925cf8d6139b470&ep=1656627870&vr=434&id=ql1pml&i3=00127616ca925cf8d6139b470%3A1658993373234%3A1631172573234%3A.linux-magazin.de%3A1%3Alinuxmag%3AT_R_H_F_89%3Anoevent%3A1631172573234&n1=11&dntt=0&lt=1631172573385&ev=&cs=op46tx&mo=1, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://script.ioam.de/iam.js",
+      "lineNumber": 598,
+      "columnNumber": 0
+    },
+    "text": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://1991533c.de.ioam.de/tx.io?st=linuxmag&sc=yes&cp=T_R_H_F_89&sv=ke&co=&ct=0100000000&pt=CP&ps=lin&er=N22&rf=&r2=&ur=www.linux-magazin.de&xy=393x851x24&lo=GB%2FSlough&cb=0012&i2=00127616ca925cf8d6139b470&ep=1656627870&vr=434&id=ql1pml&i3=00127616ca925cf8d6139b470%3A1658993373234%3A1631172573234%3A.linux-magazin.de%3A1%3Alinuxmag%3AT_R_H_F_89%3Anoevent%3A1631172573234&n1=11&dntt=0&lt=1631172573385&ev=&cs=op46tx&mo=1, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details."
+  },
+  {
+    "type": "error",
+    "location": {
+      "url": "chrome-error://chromewebdata/",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "Refused to display 'https://api.ictjob.de/' in a frame because it set 'X-Frame-Options' to 'deny'."
+  },
+  {
+    "type": "error",
+    "location": {
+      "url": "https://api.ictjob.de/content-widget.js",
+      "lineNumber": 1,
+      "columnNumber": 0
+    },
+    "text": "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://api.ictjob.de') does not match the recipient window's origin ('null')."
+  },
+  {
+    "type": "admeasure",
+    "text": "Looking for dialogs to reject..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting for __tcfapi..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint iframe found!"
+  },
+  {
+    "type": "admeasure",
+    "text": "__tcfapi found! Querying status..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingWaiting."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingLoaded."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Button clicked: Optionen"
+  },
+  {
+    "type": "admeasure",
+    "text": "Found Sourcepoint privacy manager."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: toggling type toggles."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Check for legitimate interest button..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: no legitimate interest button found: No matching button found: "
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Find the save button."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint dialog rejected."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://storage.googleapis.com/ba_utils/lima.js",
+      "lineNumber": 57,
+      "columnNumber": 19
+    },
+    "text": "Ads_BA_PLAY"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data obtained!"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data: cmpId 6 consent false, legInt false."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Network is idle after 0.00s."
+  },
+  {
+    "type": "admeasure",
+    "text": "Minimum wait time reached after 5.00s."
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

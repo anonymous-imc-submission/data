@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-83",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:30:15.615Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "visit https://vinted.com/...",
+    "timestamp": "2021-09-09T13:30:19.344Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=l4tre&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.vinted.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:30:24.191Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=l4tre&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.vinted.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:30:24.202Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an image pixel with URL:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=l4tre&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.vinted.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:30:24.204Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an script pixel with URL:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=l4tre&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.vinted.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:30:31.365Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:30:36.643Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:30:36.663Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:30:38.368Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:30:38.373Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:30:39.124Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:30:39.175Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:30:39.175Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:30:40.459Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:31:03.093Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:31:03.093Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:31:03.169Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:31:03.176Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:31:03.424Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:31:08.170Z"
+  },
+  {
+    "part": "measure-83",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:31:08.240Z"
+  }
+]

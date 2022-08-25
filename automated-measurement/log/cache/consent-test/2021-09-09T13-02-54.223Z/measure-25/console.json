@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-25",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:09:10.575Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "visit https://soccer24.com/...",
+    "timestamp": "2021-09-09T13:09:10.679Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:09:16.043Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Could not load beacon: undefined @ [object Object]",
+    "timestamp": "2021-09-09T13:09:16.044Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:09:16.185Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:09:16.186Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:09:16.378Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:09:16.378Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:09:16.398Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:09:16.406Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:09:16.428Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:09:16.447Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:09:28.866Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:09:28.869Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:09:28.883Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:09:28.993Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:09:33.896Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:09:48.893Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:09:49.012Z"
+  }
+]

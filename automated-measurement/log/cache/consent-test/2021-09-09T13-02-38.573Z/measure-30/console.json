@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-30",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:07:32.674Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "visit https://democratandchronicle.com/...",
+    "timestamp": "2021-09-09T13:07:32.770Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Consent management does not appear to be set up correctly. No consent groups were found. @ [object Object]",
+    "timestamp": "2021-09-09T13:07:35.231Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:07:35.600Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:07:36.969Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:07:36.970Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:07:37.068Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:37.069Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:07:37.082Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:07:37.085Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:37.099Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:07:37.504Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:07:37.505Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:07:37.508Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:07:37.550Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Network is idle after 2.23s.",
+    "timestamp": "2021-09-09T13:07:39.742Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:07:42.509Z"
+  },
+  {
+    "part": "measure-30",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:07:42.519Z"
+  }
+]

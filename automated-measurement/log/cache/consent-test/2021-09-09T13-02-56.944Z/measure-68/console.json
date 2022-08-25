@@ -1,0 +1,112 @@
+[
+  {
+    "part": "measure-68",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:23:11.368Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "visit https://sciencing.com/...",
+    "timestamp": "2021-09-09T13:23:11.522Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Failed to execute 'write' on 'Document': It isn't possible to write into a document from an asynchronously-loaded external script unless it is explicitly opened. @ [object Object]",
+    "timestamp": "2021-09-09T13:23:13.243Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CONNECTION_REFUSED @ [object Object]",
+    "timestamp": "2021-09-09T13:23:14.877Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CONNECTION_REFUSED @ [object Object]",
+    "timestamp": "2021-09-09T13:23:15.243Z"
+  },
+  {
+    "part": "console.log",
+    "message": "{status: success} @ [object Object]",
+    "timestamp": "2021-09-09T13:23:15.743Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:23:18.629Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:23:18.634Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:23:19.979Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:23:19.980Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:23:20.025Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:23:20.032Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:23:20.043Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:23:20.241Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:23:23.614Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:23:28.161Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:23:28.168Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:23:28.207Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:23:28.216Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:23:28.293Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:23:33.213Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:23:33.290Z"
+  }
+]

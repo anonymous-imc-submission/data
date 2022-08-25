@@ -1,0 +1,117 @@
+[
+  {
+    "part": "measure-75",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:12:40.849Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "visit https://motor1.com/...",
+    "timestamp": "2021-09-09T13:12:42.116Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[] @ [object Object]",
+    "timestamp": "2021-09-09T13:12:44.264Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 401 () @ [object Object]",
+    "timestamp": "2021-09-09T13:12:48.167Z"
+  },
+  {
+    "part": "console.info",
+    "message": "{status: 401, message: JWT Token not found} @ [object Object]",
+    "timestamp": "2021-09-09T13:12:48.174Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:12:48.614Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:12:49.482Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:12:49.486Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:12:50.357Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:50.357Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:12:50.548Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:12:50.554Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:50.581Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:12:51.876Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:12:51.879Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:12:51.882Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:12:51.885Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:12:51.998Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://www.motor1.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:12:54.946Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://www.motor1.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:12:55.964Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://www.motor1.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:12:56.517Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:12:56.884Z"
+  },
+  {
+    "part": "measure-75",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:12:56.911Z"
+  }
+]

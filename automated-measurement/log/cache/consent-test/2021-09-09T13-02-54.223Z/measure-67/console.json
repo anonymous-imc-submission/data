@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-67",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:20:05.726Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "visit https://procon.org/...",
+    "timestamp": "2021-09-09T13:20:07.157Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:20:09.953Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:20:11.869Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:20:14.714Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:20:14.725Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:20:15.211Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:20:15.213Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:20:15.243Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:20:15.248Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:20:15.486Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:20:15.495Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:20:23.670Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:20:23.671Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:20:23.707Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:20:23.717Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:20:23.989Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:20:28.712Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:20:28.760Z"
+  }
+]

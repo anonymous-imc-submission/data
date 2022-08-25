@@ -1,0 +1,87 @@
+[
+  {
+    "part": "measure-19",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:58.144Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "visit https://thinkful.com/...",
+    "timestamp": "2021-09-09T13:06:59.127Z"
+  },
+  {
+    "part": "console.log",
+    "message": "rio-sdk-web AMCV cookie not available, hitting demdex @ [object Object]",
+    "timestamp": "2021-09-09T13:07:04.838Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:07:18.211Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:07:18.226Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:07:18.509Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:18.509Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:07:18.541Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:07:18.554Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:18.620Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:07:19.510Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:07:19.517Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:07:19.536Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:07:19.539Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:07:19.655Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:07:24.536Z"
+  },
+  {
+    "part": "measure-19",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:07:24.598Z"
+  }
+]

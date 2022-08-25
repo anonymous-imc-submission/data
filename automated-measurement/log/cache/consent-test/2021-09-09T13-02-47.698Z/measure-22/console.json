@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-22",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:10:49.710Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "visit https://disonsdemain.fr/...",
+    "timestamp": "2021-09-09T13:10:50.025Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cSi vous voyez ce message, votre profil peut nous intéresser ! Envoyez-nous votre candidature%c⟹%chttps://www.meetic-group.com/hr/ \n      background: #ed147d;\n      color: white;\n      padding: 10px;\n      margin: 10px 0;\n     \n      font-size: 14px;\n      padding: 10px 0 10px 10px;\n     \n      font-weight: bold;\n      padding: 10px;\n     @ [object Object]",
+    "timestamp": "2021-09-09T13:10:53.887Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:10:55.312Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:10:55.313Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:10:55.858Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:55.858Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:10:55.867Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:10:55.870Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:55.922Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:10:55.932Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:11:34.203Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:11:34.208Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:11:34.218Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:11:34.225Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:11:34.335Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:11:39.218Z"
+  },
+  {
+    "part": "measure-22",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:11:39.245Z"
+  }
+]

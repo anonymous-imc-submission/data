@@ -1,0 +1,512 @@
+[
+  {
+    "part": "measure-92",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:32:00.033Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "visit https://adenandanais.com/...",
+    "timestamp": "2021-09-09T13:32:00.240Z"
+  },
+  {
+    "part": "console.error",
+    "message": "The Content-Security-Policy directive 'frame-ancestors' does not support the source expression ''unsafe-inline'' @ [object Object]",
+    "timestamp": "2021-09-09T13:32:00.582Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to load the script 'https://static.hotjar.com/c/hotjar-304187.js?sv=6' because it violates the following Content Security Policy directive: \"script-src assets.adobedtm.com secure.authorize.net test.authorize.net commerce.adobedtm.com www.paypalobjects.com js.braintreegateway.com www.paypal.com amcglobal.sc.omtrdc.net commerce.adobe.net use.typekit.net www.sandbox.paypal.com t.paypal.com magento-recs-sdk.adobe.net s.ytimg.com video.google.com vimeo.com www.vimeo.com www.googletagmanager.com www.google-analytics.com geostag.cardinalcommerce.com 1eafstag.cardinalcommerce.com geoapi.cardinalcommerce.com 1eafapi.cardinalcommerce.com songbird.cardinalcommerce.com includestest.ccdc02.com www.youtube.com apps.bazaarvoice.com apps.nexus.bazaarvoice.com apps-stg.nexus.bazaarvoice.com analytics-static.ugc.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com display.ugc.bazaarvoice.com api.bazaarvoice.com stg.api.bazaarvoice.com mpsnare.iesnare.com *.sagepay.com maps.googleapis.com www.xtento.com cdn.xtento.com https://cdn-scripts.signifyd.com https://imgs.signifyd.com 'self' 'unsafe-inline' 'unsafe-eval'\". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:01.719Z"
+  },
+  {
+    "part": "console.error",
+    "message": "The Content-Security-Policy directive 'frame-ancestors' does not support the source expression ''unsafe-inline'' @ [object Object]",
+    "timestamp": "2021-09-09T13:32:02.074Z"
+  },
+  {
+    "part": "console.error",
+    "message": "The Content-Security-Policy directive 'frame-ancestors' does not support the source expression ''unsafe-inline'' @ [object Object]",
+    "timestamp": "2021-09-09T13:32:02.085Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to load the script 'https://script.hotjar.com/modules.5fe2f4f38cf4833026a9.js' because it violates the following Content Security Policy directive: \"script-src assets.adobedtm.com secure.authorize.net test.authorize.net commerce.adobedtm.com www.paypalobjects.com js.braintreegateway.com www.paypal.com amcglobal.sc.omtrdc.net commerce.adobe.net use.typekit.net www.sandbox.paypal.com t.paypal.com magento-recs-sdk.adobe.net s.ytimg.com video.google.com vimeo.com www.vimeo.com www.googletagmanager.com www.google-analytics.com geostag.cardinalcommerce.com 1eafstag.cardinalcommerce.com geoapi.cardinalcommerce.com 1eafapi.cardinalcommerce.com songbird.cardinalcommerce.com includestest.ccdc02.com www.youtube.com apps.bazaarvoice.com apps.nexus.bazaarvoice.com apps-stg.nexus.bazaarvoice.com analytics-static.ugc.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com display.ugc.bazaarvoice.com api.bazaarvoice.com stg.api.bazaarvoice.com mpsnare.iesnare.com *.sagepay.com maps.googleapis.com www.xtento.com cdn.xtento.com https://cdn-scripts.signifyd.com https://imgs.signifyd.com 'self' 'unsafe-inline' 'unsafe-eval'\". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:02.572Z"
+  },
+  {
+    "part": "console.error",
+    "message": "The Content-Security-Policy directive 'frame-ancestors' does not support the source expression ''unsafe-inline'' @ [object Object]",
+    "timestamp": "2021-09-09T13:32:02.696Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to frame 'https://vars.hotjar.com/' because it violates the following Content Security Policy directive: \"frame-src 'self' fast.amc.demdex.net secure.authorize.net test.authorize.net www.paypal.com www.sandbox.paypal.com www.googletagmanager.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com display.ugc.bazaarvoice.com api.bazaarvoice.com stg.api.bazaarvoice.com *.sagepay.com https://*.online-metrix.net https://imgs.signifyd.com\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:03.023Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to frame 'https://vars.hotjar.com/' because it violates the following Content Security Policy directive: \"frame-src 'self' fast.amc.demdex.net secure.authorize.net test.authorize.net www.paypal.com www.sandbox.paypal.com www.googletagmanager.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com display.ugc.bazaarvoice.com api.bazaarvoice.com stg.api.bazaarvoice.com *.sagepay.com https://*.online-metrix.net https://imgs.signifyd.com\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:03.028Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed with logging active, version 1.4.1 @ [object Object]",
+    "timestamp": "2021-09-09T13:32:03.246Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to load the script 'https://cdn.ometria.com/tags/cc819a43fd82f7ef.js' because it violates the following Content Security Policy directive: \"script-src assets.adobedtm.com secure.authorize.net test.authorize.net commerce.adobedtm.com www.paypalobjects.com js.braintreegateway.com www.paypal.com amcglobal.sc.omtrdc.net commerce.adobe.net use.typekit.net www.sandbox.paypal.com t.paypal.com magento-recs-sdk.adobe.net s.ytimg.com video.google.com vimeo.com www.vimeo.com www.googletagmanager.com www.google-analytics.com geostag.cardinalcommerce.com 1eafstag.cardinalcommerce.com geoapi.cardinalcommerce.com 1eafapi.cardinalcommerce.com songbird.cardinalcommerce.com includestest.ccdc02.com www.youtube.com apps.bazaarvoice.com apps.nexus.bazaarvoice.com apps-stg.nexus.bazaarvoice.com analytics-static.ugc.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com display.ugc.bazaarvoice.com api.bazaarvoice.com stg.api.bazaarvoice.com mpsnare.iesnare.com *.sagepay.com maps.googleapis.com www.xtento.com cdn.xtento.com https://cdn-scripts.signifyd.com https://imgs.signifyd.com 'self' 'unsafe-inline' 'unsafe-eval'\". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:03.792Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to connect to 'https://in.hotjar.com/api/v2/client/sites/304187/visit-data?sv=6' because it violates the following Content Security Policy directive: \"connect-src dpm.demdex.net amcglobal.sc.omtrdc.net api.magento.com commerce.adobe.io commerce.adobedtm.com commerce.adobedc.net *.adobe.io performance.typekit.net commerce.adobe.net qa-api.magedevteam.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com api.bazaarvoice.com stg.api.bazaarvoice.com apps.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com *.sagepay.com https://imgs.signifyd.com 'self' 'unsafe-inline'\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:03.979Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to connect to 'https://vc.hotjar.io/sessions/304187?s=0.25&r=0.22999230824141392' because it violates the following Content Security Policy directive: \"connect-src dpm.demdex.net amcglobal.sc.omtrdc.net api.magento.com commerce.adobe.io commerce.adobedtm.com commerce.adobedc.net *.adobe.io performance.typekit.net commerce.adobe.net qa-api.magedevteam.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com api.bazaarvoice.com stg.api.bazaarvoice.com apps.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com *.sagepay.com https://imgs.signifyd.com 'self' 'unsafe-inline'\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:03.996Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to load the image 'https://trk.ometria.com/track/v3/cc819a43fd82f7ef/event.gif?data=y29YpwDVntHhr3e2wwLwrJrStg0My2LKpvPmC0zrmKXOs3Hxywv6EuOMy25LDZ0XjMr0B3vJAd0WjMrZAxPLpte5mJb4mta4mczLBMm9vvrgltGMC25LDZ0XjNrSyxn0pte2mZeXotqZmJqMC2LKpwnJodDLzJKZtKPYtxuXm0q5CMvmjM5Zzxm9mszVC3rZpte2mZeXotqZmJqMzwnHBxa9jNrPzhm9jNvYBd1ODhrWCYuZqsuYrIuYrND3DY5HzgvUyw5Kyw5HAxmUy29TjtjgjNnPDgu9mszUChy9mszKjtvcCNvYBcu1rd0Mzcu1qNr5CguLnuq9Ag9TzxbHz2uMDhLWzt1WywDLDMLLDYzJAgfUBMvSpxn5C3rLBq%3D%3D&rnd=pS9MtI&enc=UTF-8' because it violates the following Content Security Policy directive: \"img-src assets.adobedtm.com amcglobal.sc.omtrdc.net dpm.demdex.net cm.everesttech.net widgets.magentocommerce.com data: www.paypalobjects.com t.paypal.com *.ftcdn.net *.behance.net p.typekit.net www.paypal.com fpdbs.paypal.com fpdbs.sandbox.paypal.com *.vimeocdn.com s.ytimg.com display.ugc.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com network-a.bazaarvoice.com network-stg-a.bazaarvoice.com photos-uat-us.bazaarvoice.com img.youtube.com www.xtento.com cdn.xtento.com https://imgs.signifyd.com https://*.online-metrix.net 'self' 'unsafe-inline'\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:04.655Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to connect to 'wss://ws7.hotjar.com/api/v2/client/ws' because it violates the following Content Security Policy directive: \"connect-src dpm.demdex.net amcglobal.sc.omtrdc.net api.magento.com commerce.adobe.io commerce.adobedtm.com commerce.adobedc.net *.adobe.io performance.typekit.net commerce.adobe.net qa-api.magedevteam.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com api.bazaarvoice.com stg.api.bazaarvoice.com apps.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com *.sagepay.com https://imgs.signifyd.com 'self' 'unsafe-inline'\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:04.811Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to connect to 'https://ws7.hotjar.com/api/v2/sites/304187/recordings/content' because it violates the following Content Security Policy directive: \"connect-src dpm.demdex.net amcglobal.sc.omtrdc.net api.magento.com commerce.adobe.io commerce.adobedtm.com commerce.adobedc.net *.adobe.io performance.typekit.net commerce.adobe.net qa-api.magedevteam.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com api.bazaarvoice.com stg.api.bazaarvoice.com apps.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com *.sagepay.com https://imgs.signifyd.com 'self' 'unsafe-inline'\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:04.849Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to load the script 'https://www.googleoptimize.com/optimize.js?id=OPT-W48VRBJ' because it violates the following Content Security Policy directive: \"script-src assets.adobedtm.com secure.authorize.net test.authorize.net commerce.adobedtm.com www.paypalobjects.com js.braintreegateway.com www.paypal.com amcglobal.sc.omtrdc.net commerce.adobe.net use.typekit.net www.sandbox.paypal.com t.paypal.com magento-recs-sdk.adobe.net s.ytimg.com video.google.com vimeo.com www.vimeo.com www.googletagmanager.com www.google-analytics.com geostag.cardinalcommerce.com 1eafstag.cardinalcommerce.com geoapi.cardinalcommerce.com 1eafapi.cardinalcommerce.com songbird.cardinalcommerce.com includestest.ccdc02.com www.youtube.com apps.bazaarvoice.com apps.nexus.bazaarvoice.com apps-stg.nexus.bazaarvoice.com analytics-static.ugc.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com display.ugc.bazaarvoice.com api.bazaarvoice.com stg.api.bazaarvoice.com mpsnare.iesnare.com *.sagepay.com maps.googleapis.com www.xtento.com cdn.xtento.com https://cdn-scripts.signifyd.com https://imgs.signifyd.com 'self' 'unsafe-inline' 'unsafe-eval'\". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:09.962Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Will not send fingerprint @ [object Object]",
+    "timestamp": "2021-09-09T13:32:10.304Z"
+  },
+  {
+    "part": "console.log",
+    "message": "undefined @ [object Object]",
+    "timestamp": "2021-09-09T13:32:10.304Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to load the script 'https://aacdn.nagich.com/core/2.1.8/accessibility.js' because it violates the following Content Security Policy directive: \"script-src assets.adobedtm.com secure.authorize.net test.authorize.net commerce.adobedtm.com www.paypalobjects.com js.braintreegateway.com www.paypal.com amcglobal.sc.omtrdc.net commerce.adobe.net use.typekit.net www.sandbox.paypal.com t.paypal.com magento-recs-sdk.adobe.net s.ytimg.com video.google.com vimeo.com www.vimeo.com www.googletagmanager.com www.google-analytics.com geostag.cardinalcommerce.com 1eafstag.cardinalcommerce.com geoapi.cardinalcommerce.com 1eafapi.cardinalcommerce.com songbird.cardinalcommerce.com includestest.ccdc02.com www.youtube.com apps.bazaarvoice.com apps.nexus.bazaarvoice.com apps-stg.nexus.bazaarvoice.com analytics-static.ugc.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com display.ugc.bazaarvoice.com api.bazaarvoice.com stg.api.bazaarvoice.com mpsnare.iesnare.com *.sagepay.com maps.googleapis.com www.xtento.com cdn.xtento.com https://cdn-scripts.signifyd.com https://imgs.signifyd.com 'self' 'unsafe-inline' 'unsafe-eval'\". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:12.161Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to load the script 'https://cdn.cookielaw.org/scripttemplates/otSDKStub.js' because it violates the following Content Security Policy directive: \"script-src assets.adobedtm.com secure.authorize.net test.authorize.net commerce.adobedtm.com www.paypalobjects.com js.braintreegateway.com www.paypal.com amcglobal.sc.omtrdc.net commerce.adobe.net use.typekit.net www.sandbox.paypal.com t.paypal.com magento-recs-sdk.adobe.net s.ytimg.com video.google.com vimeo.com www.vimeo.com www.googletagmanager.com www.google-analytics.com geostag.cardinalcommerce.com 1eafstag.cardinalcommerce.com geoapi.cardinalcommerce.com 1eafapi.cardinalcommerce.com songbird.cardinalcommerce.com includestest.ccdc02.com www.youtube.com apps.bazaarvoice.com apps.nexus.bazaarvoice.com apps-stg.nexus.bazaarvoice.com analytics-static.ugc.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com display.ugc.bazaarvoice.com api.bazaarvoice.com stg.api.bazaarvoice.com mpsnare.iesnare.com *.sagepay.com maps.googleapis.com www.xtento.com cdn.xtento.com https://cdn-scripts.signifyd.com https://imgs.signifyd.com 'self' 'unsafe-inline' 'unsafe-eval'\". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:12.203Z"
+  },
+  {
+    "part": "console.error",
+    "message": "The Content-Security-Policy directive 'frame-ancestors' does not support the source expression ''unsafe-inline'' @ [object Object]",
+    "timestamp": "2021-09-09T13:32:12.547Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to load the script 'https://static.hotjar.com/c/hotjar-304187.js?sv=6' because it violates the following Content Security Policy directive: \"script-src assets.adobedtm.com secure.authorize.net test.authorize.net commerce.adobedtm.com www.paypalobjects.com js.braintreegateway.com www.paypal.com amcglobal.sc.omtrdc.net commerce.adobe.net use.typekit.net www.sandbox.paypal.com t.paypal.com magento-recs-sdk.adobe.net s.ytimg.com video.google.com vimeo.com www.vimeo.com www.googletagmanager.com www.google-analytics.com geostag.cardinalcommerce.com 1eafstag.cardinalcommerce.com geoapi.cardinalcommerce.com 1eafapi.cardinalcommerce.com songbird.cardinalcommerce.com includestest.ccdc02.com www.youtube.com apps.bazaarvoice.com apps.nexus.bazaarvoice.com apps-stg.nexus.bazaarvoice.com analytics-static.ugc.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com display.ugc.bazaarvoice.com api.bazaarvoice.com stg.api.bazaarvoice.com mpsnare.iesnare.com *.sagepay.com maps.googleapis.com www.xtento.com cdn.xtento.com https://cdn-scripts.signifyd.com https://imgs.signifyd.com 'self' 'unsafe-inline' 'unsafe-eval'\". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:13.684Z"
+  },
+  {
+    "part": "console.error",
+    "message": "The Content-Security-Policy directive 'frame-ancestors' does not support the source expression ''unsafe-inline'' @ [object Object]",
+    "timestamp": "2021-09-09T13:32:13.760Z"
+  },
+  {
+    "part": "console.error",
+    "message": "The Content-Security-Policy directive 'frame-ancestors' does not support the source expression ''unsafe-inline'' @ [object Object]",
+    "timestamp": "2021-09-09T13:32:13.770Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to load the script 'https://script.hotjar.com/modules.5fe2f4f38cf4833026a9.js' because it violates the following Content Security Policy directive: \"script-src assets.adobedtm.com secure.authorize.net test.authorize.net commerce.adobedtm.com www.paypalobjects.com js.braintreegateway.com www.paypal.com amcglobal.sc.omtrdc.net commerce.adobe.net use.typekit.net www.sandbox.paypal.com t.paypal.com magento-recs-sdk.adobe.net s.ytimg.com video.google.com vimeo.com www.vimeo.com www.googletagmanager.com www.google-analytics.com geostag.cardinalcommerce.com 1eafstag.cardinalcommerce.com geoapi.cardinalcommerce.com 1eafapi.cardinalcommerce.com songbird.cardinalcommerce.com includestest.ccdc02.com www.youtube.com apps.bazaarvoice.com apps.nexus.bazaarvoice.com apps-stg.nexus.bazaarvoice.com analytics-static.ugc.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com display.ugc.bazaarvoice.com api.bazaarvoice.com stg.api.bazaarvoice.com mpsnare.iesnare.com *.sagepay.com maps.googleapis.com www.xtento.com cdn.xtento.com https://cdn-scripts.signifyd.com https://imgs.signifyd.com 'self' 'unsafe-inline' 'unsafe-eval'\". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:14.217Z"
+  },
+  {
+    "part": "console.error",
+    "message": "The Content-Security-Policy directive 'frame-ancestors' does not support the source expression ''unsafe-inline'' @ [object Object]",
+    "timestamp": "2021-09-09T13:32:14.324Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to frame 'https://vars.hotjar.com/' because it violates the following Content Security Policy directive: \"frame-src 'self' fast.amc.demdex.net secure.authorize.net test.authorize.net www.paypal.com www.sandbox.paypal.com www.googletagmanager.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com display.ugc.bazaarvoice.com api.bazaarvoice.com stg.api.bazaarvoice.com *.sagepay.com https://*.online-metrix.net https://imgs.signifyd.com\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:14.528Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to frame 'https://vars.hotjar.com/' because it violates the following Content Security Policy directive: \"frame-src 'self' fast.amc.demdex.net secure.authorize.net test.authorize.net www.paypal.com www.sandbox.paypal.com www.googletagmanager.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com display.ugc.bazaarvoice.com api.bazaarvoice.com stg.api.bazaarvoice.com *.sagepay.com https://*.online-metrix.net https://imgs.signifyd.com\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:14.528Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed with logging active, version 1.4.1 @ [object Object]",
+    "timestamp": "2021-09-09T13:32:14.810Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to load the script 'https://cdn.ometria.com/tags/cc819a43fd82f7ef.js' because it violates the following Content Security Policy directive: \"script-src assets.adobedtm.com secure.authorize.net test.authorize.net commerce.adobedtm.com www.paypalobjects.com js.braintreegateway.com www.paypal.com amcglobal.sc.omtrdc.net commerce.adobe.net use.typekit.net www.sandbox.paypal.com t.paypal.com magento-recs-sdk.adobe.net s.ytimg.com video.google.com vimeo.com www.vimeo.com www.googletagmanager.com www.google-analytics.com geostag.cardinalcommerce.com 1eafstag.cardinalcommerce.com geoapi.cardinalcommerce.com 1eafapi.cardinalcommerce.com songbird.cardinalcommerce.com includestest.ccdc02.com www.youtube.com apps.bazaarvoice.com apps.nexus.bazaarvoice.com apps-stg.nexus.bazaarvoice.com analytics-static.ugc.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com display.ugc.bazaarvoice.com api.bazaarvoice.com stg.api.bazaarvoice.com mpsnare.iesnare.com *.sagepay.com maps.googleapis.com www.xtento.com cdn.xtento.com https://cdn-scripts.signifyd.com https://imgs.signifyd.com 'self' 'unsafe-inline' 'unsafe-eval'\". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:15.558Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to connect to 'https://in.hotjar.com/api/v2/client/sites/304187/visit-data?sv=6' because it violates the following Content Security Policy directive: \"connect-src dpm.demdex.net amcglobal.sc.omtrdc.net api.magento.com commerce.adobe.io commerce.adobedtm.com commerce.adobedc.net *.adobe.io performance.typekit.net commerce.adobe.net qa-api.magedevteam.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com api.bazaarvoice.com stg.api.bazaarvoice.com apps.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com *.sagepay.com https://imgs.signifyd.com 'self' 'unsafe-inline'\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:15.831Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to connect to 'wss://ws7.hotjar.com/api/v2/client/ws' because it violates the following Content Security Policy directive: \"connect-src dpm.demdex.net amcglobal.sc.omtrdc.net api.magento.com commerce.adobe.io commerce.adobedtm.com commerce.adobedc.net *.adobe.io performance.typekit.net commerce.adobe.net qa-api.magedevteam.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com api.bazaarvoice.com stg.api.bazaarvoice.com apps.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com *.sagepay.com https://imgs.signifyd.com 'self' 'unsafe-inline'\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:16.556Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to connect to 'https://ws7.hotjar.com/api/v2/sites/304187/recordings/content' because it violates the following Content Security Policy directive: \"connect-src dpm.demdex.net amcglobal.sc.omtrdc.net api.magento.com commerce.adobe.io commerce.adobedtm.com commerce.adobedc.net *.adobe.io performance.typekit.net commerce.adobe.net qa-api.magedevteam.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com api.bazaarvoice.com stg.api.bazaarvoice.com apps.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com *.sagepay.com https://imgs.signifyd.com 'self' 'unsafe-inline'\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:16.580Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to load the image 'https://trk.ometria.com/track/v3/cc819a43fd82f7ef/event.gif?data=y29YpwvpDZi0sZzZy1fiENH4v2WMy2LKpvPmC0zrmKXOs3Hxywv6EuOMzhrVDwnOptaMzhnPEMu9mtKYmhGXmdGWjMvUyZ1vveyTocz0BgfZDd0XnczZAwq9y2m4n2vMotnosNjnDteZrdLYzuWMBNnLCZ0XjM9ZDhm9mtyZmte5ndmYnczLy2fTCd0MDgLKCZ0MDxjSpwH0DhbZjtnbjtjgjtjgD3D3lMfKzw5HBMrHBMfPCY5JB20LmKyMC2L0zt0XjM5WDJ0YjMqLnujYDxjSjtvepwH0DhbZjtnbjtjgjtjgD3D3lMfKzw5HBMrHBMfPCY5JB20LmKyMzcu1qNr5CguLnuq9Ag9TzxbHz2uMDhLWzt1WywDLDMLLDYzJAgfUBMvSpxn5C3rLBq%3D%3D&rnd=nh2iXY&enc=UTF-8' because it violates the following Content Security Policy directive: \"img-src assets.adobedtm.com amcglobal.sc.omtrdc.net dpm.demdex.net cm.everesttech.net widgets.magentocommerce.com data: www.paypalobjects.com t.paypal.com *.ftcdn.net *.behance.net p.typekit.net www.paypal.com fpdbs.paypal.com fpdbs.sandbox.paypal.com *.vimeocdn.com s.ytimg.com display.ugc.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com network-a.bazaarvoice.com network-stg-a.bazaarvoice.com photos-uat-us.bazaarvoice.com img.youtube.com www.xtento.com cdn.xtento.com https://imgs.signifyd.com https://*.online-metrix.net 'self' 'unsafe-inline'\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:18.054Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to load the script 'https://www.googleoptimize.com/optimize.js?id=OPT-W48VRBJ' because it violates the following Content Security Policy directive: \"script-src assets.adobedtm.com secure.authorize.net test.authorize.net commerce.adobedtm.com www.paypalobjects.com js.braintreegateway.com www.paypal.com amcglobal.sc.omtrdc.net commerce.adobe.net use.typekit.net www.sandbox.paypal.com t.paypal.com magento-recs-sdk.adobe.net s.ytimg.com video.google.com vimeo.com www.vimeo.com www.googletagmanager.com www.google-analytics.com geostag.cardinalcommerce.com 1eafstag.cardinalcommerce.com geoapi.cardinalcommerce.com 1eafapi.cardinalcommerce.com songbird.cardinalcommerce.com includestest.ccdc02.com www.youtube.com apps.bazaarvoice.com apps.nexus.bazaarvoice.com apps-stg.nexus.bazaarvoice.com analytics-static.ugc.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com display.ugc.bazaarvoice.com api.bazaarvoice.com stg.api.bazaarvoice.com mpsnare.iesnare.com *.sagepay.com maps.googleapis.com www.xtento.com cdn.xtento.com https://cdn-scripts.signifyd.com https://imgs.signifyd.com 'self' 'unsafe-inline' 'unsafe-eval'\". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:19.265Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Will not send fingerprint @ [object Object]",
+    "timestamp": "2021-09-09T13:32:20.355Z"
+  },
+  {
+    "part": "console.log",
+    "message": "undefined @ [object Object]",
+    "timestamp": "2021-09-09T13:32:20.358Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to load the script 'https://aacdn.nagich.com/core/2.1.8/accessibility.js' because it violates the following Content Security Policy directive: \"script-src assets.adobedtm.com secure.authorize.net test.authorize.net commerce.adobedtm.com www.paypalobjects.com js.braintreegateway.com www.paypal.com amcglobal.sc.omtrdc.net commerce.adobe.net use.typekit.net www.sandbox.paypal.com t.paypal.com magento-recs-sdk.adobe.net s.ytimg.com video.google.com vimeo.com www.vimeo.com www.googletagmanager.com www.google-analytics.com geostag.cardinalcommerce.com 1eafstag.cardinalcommerce.com geoapi.cardinalcommerce.com 1eafapi.cardinalcommerce.com songbird.cardinalcommerce.com includestest.ccdc02.com www.youtube.com apps.bazaarvoice.com apps.nexus.bazaarvoice.com apps-stg.nexus.bazaarvoice.com analytics-static.ugc.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com display.ugc.bazaarvoice.com api.bazaarvoice.com stg.api.bazaarvoice.com mpsnare.iesnare.com *.sagepay.com maps.googleapis.com www.xtento.com cdn.xtento.com https://cdn-scripts.signifyd.com https://imgs.signifyd.com 'self' 'unsafe-inline' 'unsafe-eval'\". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:20.895Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to load the script 'https://cdn.cookielaw.org/scripttemplates/otSDKStub.js' because it violates the following Content Security Policy directive: \"script-src assets.adobedtm.com secure.authorize.net test.authorize.net commerce.adobedtm.com www.paypalobjects.com js.braintreegateway.com www.paypal.com amcglobal.sc.omtrdc.net commerce.adobe.net use.typekit.net www.sandbox.paypal.com t.paypal.com magento-recs-sdk.adobe.net s.ytimg.com video.google.com vimeo.com www.vimeo.com www.googletagmanager.com www.google-analytics.com geostag.cardinalcommerce.com 1eafstag.cardinalcommerce.com geoapi.cardinalcommerce.com 1eafapi.cardinalcommerce.com songbird.cardinalcommerce.com includestest.ccdc02.com www.youtube.com apps.bazaarvoice.com apps.nexus.bazaarvoice.com apps-stg.nexus.bazaarvoice.com analytics-static.ugc.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com display.ugc.bazaarvoice.com api.bazaarvoice.com stg.api.bazaarvoice.com mpsnare.iesnare.com *.sagepay.com maps.googleapis.com www.xtento.com cdn.xtento.com https://cdn-scripts.signifyd.com https://imgs.signifyd.com 'self' 'unsafe-inline' 'unsafe-eval'\". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:20.909Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c[IND]%c You are running %cWindows%c Operating system, %cChrome%c browser, version: %c95 color: White; background: #17384c; font-weight: bold; padding: 3px; border-radius:3px 0 0 3px; color: Black; background: #50e590; font-weight: bold; padding: 3px color: White; background: #17384c; font-weight: bold; padding: 3px; color: Black; background: #50e590; font-weight: bold; padding: 3px color: White; background: #17384c; font-weight: bold; padding: 3px; color: Black; background: #50e590; font-weight: bold; padding: 3px color: White; background: #17384c; font-weight: bold; padding: 3px; border-radius:0 3px 3px 0 @ [object Object]",
+    "timestamp": "2021-09-09T13:32:22.217Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c[IND]%c Version %c2.1.8%c color: White; background: #17384c; font-weight: bold; padding: 3px; border-radius:3px 0 0 3px; color: Black; background: #50e590; font-weight: bold; padding: 3px color: White; background: #17384c; font-weight: bold; padding: 3px; border-radius:0 3px 3px 0  @ [object Object]",
+    "timestamp": "2021-09-09T13:32:22.224Z"
+  },
+  {
+    "part": "console.error",
+    "message": "The Content-Security-Policy directive 'frame-ancestors' does not support the source expression ''unsafe-inline'' @ [object Object]",
+    "timestamp": "2021-09-09T13:32:22.247Z"
+  },
+  {
+    "part": "console.error",
+    "message": "The Content-Security-Policy directive 'frame-ancestors' does not support the source expression ''unsafe-inline'' @ [object Object]",
+    "timestamp": "2021-09-09T13:32:22.266Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to connect to 'https://aacdn.nagich.com/style/default.css' because it violates the following Content Security Policy directive: \"connect-src dpm.demdex.net amcglobal.sc.omtrdc.net api.magento.com commerce.adobe.io commerce.adobedtm.com commerce.adobedc.net *.adobe.io performance.typekit.net commerce.adobe.net qa-api.magedevteam.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com api.bazaarvoice.com stg.api.bazaarvoice.com apps.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com *.sagepay.com https://imgs.signifyd.com 'self' 'unsafe-inline'\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:22.338Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to connect to 'https://aacdn.nagich.com/style/default.css' because it violates the following Content Security Policy directive: \"connect-src dpm.demdex.net amcglobal.sc.omtrdc.net api.magento.com commerce.adobe.io commerce.adobedtm.com commerce.adobedc.net *.adobe.io performance.typekit.net commerce.adobe.net qa-api.magedevteam.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com api.bazaarvoice.com stg.api.bazaarvoice.com apps.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com *.sagepay.com https://imgs.signifyd.com 'self' 'unsafe-inline'\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:22.340Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to connect to 'https://aacdn.nagich.com/style/btncolor.css' because it violates the following Content Security Policy directive: \"connect-src dpm.demdex.net amcglobal.sc.omtrdc.net api.magento.com commerce.adobe.io commerce.adobedtm.com commerce.adobedc.net *.adobe.io performance.typekit.net commerce.adobe.net qa-api.magedevteam.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com api.bazaarvoice.com stg.api.bazaarvoice.com apps.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com *.sagepay.com https://imgs.signifyd.com 'self' 'unsafe-inline'\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:22.344Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to connect to 'https://aacdn.nagich.com/style/btncolor.css' because it violates the following Content Security Policy directive: \"connect-src dpm.demdex.net amcglobal.sc.omtrdc.net api.magento.com commerce.adobe.io commerce.adobedtm.com commerce.adobedc.net *.adobe.io performance.typekit.net commerce.adobe.net qa-api.magedevteam.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com api.bazaarvoice.com stg.api.bazaarvoice.com apps.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com *.sagepay.com https://imgs.signifyd.com 'self' 'unsafe-inline'\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:22.346Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to connect to 'https://aacdn.nagich.com/assets/scripts/locale.js' because it violates the following Content Security Policy directive: \"connect-src dpm.demdex.net amcglobal.sc.omtrdc.net api.magento.com commerce.adobe.io commerce.adobedtm.com commerce.adobedc.net *.adobe.io performance.typekit.net commerce.adobe.net qa-api.magedevteam.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com api.bazaarvoice.com stg.api.bazaarvoice.com apps.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com *.sagepay.com https://imgs.signifyd.com 'self' 'unsafe-inline'\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:22.350Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to connect to 'https://aacdn.nagich.com/assets/scripts/locale.js' because it violates the following Content Security Policy directive: \"connect-src dpm.demdex.net amcglobal.sc.omtrdc.net api.magento.com commerce.adobe.io commerce.adobedtm.com commerce.adobedc.net *.adobe.io performance.typekit.net commerce.adobe.net qa-api.magedevteam.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com api.bazaarvoice.com stg.api.bazaarvoice.com apps.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com *.sagepay.com https://imgs.signifyd.com 'self' 'unsafe-inline'\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:22.354Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to connect to 'https://cdn.cookielaw.org/consent/1f22379a-e07a-41c6-99fe-623fc09348a9/1f22379a-e07a-41c6-99fe-623fc09348a9.json' because it violates the following Content Security Policy directive: \"connect-src dpm.demdex.net amcglobal.sc.omtrdc.net api.magento.com commerce.adobe.io commerce.adobedtm.com commerce.adobedc.net *.adobe.io performance.typekit.net commerce.adobe.net qa-api.magedevteam.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com api.bazaarvoice.com stg.api.bazaarvoice.com apps.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com *.sagepay.com https://imgs.signifyd.com 'self' 'unsafe-inline'\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:22.436Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to load the script 'https://js-agent.newrelic.com/nr-1210.min.js' because it violates the following Content Security Policy directive: \"script-src assets.adobedtm.com secure.authorize.net test.authorize.net commerce.adobedtm.com www.paypalobjects.com js.braintreegateway.com www.paypal.com amcglobal.sc.omtrdc.net commerce.adobe.net use.typekit.net www.sandbox.paypal.com t.paypal.com magento-recs-sdk.adobe.net s.ytimg.com video.google.com vimeo.com www.vimeo.com www.googletagmanager.com www.google-analytics.com geostag.cardinalcommerce.com 1eafstag.cardinalcommerce.com geoapi.cardinalcommerce.com 1eafapi.cardinalcommerce.com songbird.cardinalcommerce.com includestest.ccdc02.com www.youtube.com apps.bazaarvoice.com apps.nexus.bazaarvoice.com apps-stg.nexus.bazaarvoice.com analytics-static.ugc.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com display.ugc.bazaarvoice.com api.bazaarvoice.com stg.api.bazaarvoice.com mpsnare.iesnare.com *.sagepay.com maps.googleapis.com www.xtento.com cdn.xtento.com https://cdn-scripts.signifyd.com https://imgs.signifyd.com 'self' 'unsafe-inline' 'unsafe-eval'\". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:22.465Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:32:22.491Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:32:22.501Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to load the script 'https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location' because it violates the following Content Security Policy directive: \"script-src assets.adobedtm.com secure.authorize.net test.authorize.net commerce.adobedtm.com www.paypalobjects.com js.braintreegateway.com www.paypal.com amcglobal.sc.omtrdc.net commerce.adobe.net use.typekit.net www.sandbox.paypal.com t.paypal.com magento-recs-sdk.adobe.net s.ytimg.com video.google.com vimeo.com www.vimeo.com www.googletagmanager.com www.google-analytics.com geostag.cardinalcommerce.com 1eafstag.cardinalcommerce.com geoapi.cardinalcommerce.com 1eafapi.cardinalcommerce.com songbird.cardinalcommerce.com includestest.ccdc02.com www.youtube.com apps.bazaarvoice.com apps.nexus.bazaarvoice.com apps-stg.nexus.bazaarvoice.com analytics-static.ugc.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com display.ugc.bazaarvoice.com api.bazaarvoice.com stg.api.bazaarvoice.com mpsnare.iesnare.com *.sagepay.com maps.googleapis.com www.xtento.com cdn.xtento.com https://cdn-scripts.signifyd.com https://imgs.signifyd.com 'self' 'unsafe-inline' 'unsafe-eval'\". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:22.580Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to connect to 'https://aacdn.nagich.com/assets/images/1.svg' because it violates the following Content Security Policy directive: \"connect-src dpm.demdex.net amcglobal.sc.omtrdc.net api.magento.com commerce.adobe.io commerce.adobedtm.com commerce.adobedc.net *.adobe.io performance.typekit.net commerce.adobe.net qa-api.magedevteam.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com api.bazaarvoice.com stg.api.bazaarvoice.com apps.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com *.sagepay.com https://imgs.signifyd.com 'self' 'unsafe-inline'\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:24.072Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to connect to 'https://aacdn.nagich.com/assets/images/1.svg' because it violates the following Content Security Policy directive: \"connect-src dpm.demdex.net amcglobal.sc.omtrdc.net api.magento.com commerce.adobe.io commerce.adobedtm.com commerce.adobedc.net *.adobe.io performance.typekit.net commerce.adobe.net qa-api.magedevteam.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com api.bazaarvoice.com stg.api.bazaarvoice.com apps.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com *.sagepay.com https://imgs.signifyd.com 'self' 'unsafe-inline'\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:24.077Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to connect to 'https://aacdn.nagich.com/style/custombtnstyle.css' because it violates the following Content Security Policy directive: \"connect-src dpm.demdex.net amcglobal.sc.omtrdc.net api.magento.com commerce.adobe.io commerce.adobedtm.com commerce.adobedc.net *.adobe.io performance.typekit.net commerce.adobe.net qa-api.magedevteam.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com api.bazaarvoice.com stg.api.bazaarvoice.com apps.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com *.sagepay.com https://imgs.signifyd.com 'self' 'unsafe-inline'\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:24.084Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to connect to 'https://aacdn.nagich.com/style/custombtnstyle.css' because it violates the following Content Security Policy directive: \"connect-src dpm.demdex.net amcglobal.sc.omtrdc.net api.magento.com commerce.adobe.io commerce.adobedtm.com commerce.adobedc.net *.adobe.io performance.typekit.net commerce.adobe.net qa-api.magedevteam.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com api.bazaarvoice.com stg.api.bazaarvoice.com apps.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com *.sagepay.com https://imgs.signifyd.com 'self' 'unsafe-inline'\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:24.085Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to load the script 'https://bam-cell.nr-data.net/1/05395d7737?a=73597062&v=1210.e2a3f80&to=NgBXbUMFX0MCWxdbWw9KdFpFDV5eTFsOQRsIC1FcSUtYXgddGw%3D%3D&rst=12389&ck=0&ref=https://www.adenandanais.com/&ap=518&be=892&fe=10722&dc=2234&af=err,xhr,stn,ins&perf=%7B%22timing%22:%7B%22of%22:1631194331740,%22n%22:0,%22u%22:629,%22ue%22:661,%22f%22:26,%22dn%22:26,%22dne%22:26,%22c%22:26,%22ce%22:26,%22rq%22:42,%22rp%22:47,%22rpe%22:55,%22dl%22:751,%22di%22:2233,%22ds%22:2234,%22de%22:2236,%22dc%22:10721,%22l%22:10721,%22le%22:10747%7D,%22navigation%22:%7B%22ty%22:1%7D%7D&fp=2002&fcp=2002&at=GkdUGwsfTE0%3D&jsonp=NREUM.setToken' because it violates the following Content Security Policy directive: \"script-src assets.adobedtm.com secure.authorize.net test.authorize.net commerce.adobedtm.com www.paypalobjects.com js.braintreegateway.com www.paypal.com amcglobal.sc.omtrdc.net commerce.adobe.net use.typekit.net www.sandbox.paypal.com t.paypal.com magento-recs-sdk.adobe.net s.ytimg.com video.google.com vimeo.com www.vimeo.com www.googletagmanager.com www.google-analytics.com geostag.cardinalcommerce.com 1eafstag.cardinalcommerce.com geoapi.cardinalcommerce.com 1eafapi.cardinalcommerce.com songbird.cardinalcommerce.com includestest.ccdc02.com www.youtube.com apps.bazaarvoice.com apps.nexus.bazaarvoice.com apps-stg.nexus.bazaarvoice.com analytics-static.ugc.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com display.ugc.bazaarvoice.com api.bazaarvoice.com stg.api.bazaarvoice.com mpsnare.iesnare.com *.sagepay.com maps.googleapis.com www.xtento.com cdn.xtento.com https://cdn-scripts.signifyd.com https://imgs.signifyd.com 'self' 'unsafe-inline' 'unsafe-eval'\". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:24.133Z"
+  },
+  {
+    "part": "console.error",
+    "message": "The Content-Security-Policy directive 'frame-ancestors' does not support the source expression ''unsafe-inline'' @ [object Object]",
+    "timestamp": "2021-09-09T13:32:24.589Z"
+  },
+  {
+    "part": "console.error",
+    "message": "The Content-Security-Policy directive 'frame-ancestors' does not support the source expression ''unsafe-inline'' @ [object Object]",
+    "timestamp": "2021-09-09T13:32:24.596Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to load the script 'https://cdn.cookielaw.org/scripttemplates/6.12.0/otBannerSdk.js' because it violates the following Content Security Policy directive: \"script-src assets.adobedtm.com secure.authorize.net test.authorize.net commerce.adobedtm.com www.paypalobjects.com js.braintreegateway.com www.paypal.com amcglobal.sc.omtrdc.net commerce.adobe.net use.typekit.net www.sandbox.paypal.com t.paypal.com magento-recs-sdk.adobe.net s.ytimg.com video.google.com vimeo.com www.vimeo.com www.googletagmanager.com www.google-analytics.com geostag.cardinalcommerce.com 1eafstag.cardinalcommerce.com geoapi.cardinalcommerce.com 1eafapi.cardinalcommerce.com songbird.cardinalcommerce.com includestest.ccdc02.com www.youtube.com apps.bazaarvoice.com apps.nexus.bazaarvoice.com apps-stg.nexus.bazaarvoice.com analytics-static.ugc.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com display.ugc.bazaarvoice.com api.bazaarvoice.com stg.api.bazaarvoice.com mpsnare.iesnare.com *.sagepay.com maps.googleapis.com www.xtento.com cdn.xtento.com https://cdn-scripts.signifyd.com https://imgs.signifyd.com 'self' 'unsafe-inline' 'unsafe-eval'\". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:24.737Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:32:24.874Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:32:24.877Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:32:24.936Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to connect to 'https://cdn.cookielaw.org/consent/1f22379a-e07a-41c6-99fe-623fc09348a9/d0def7f9-abb8-4f1d-a865-9e4393fa5c89/en.json' because it violates the following Content Security Policy directive: \"connect-src dpm.demdex.net amcglobal.sc.omtrdc.net api.magento.com commerce.adobe.io commerce.adobedtm.com commerce.adobedc.net *.adobe.io performance.typekit.net commerce.adobe.net qa-api.magedevteam.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com api.bazaarvoice.com stg.api.bazaarvoice.com apps.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com *.sagepay.com https://imgs.signifyd.com 'self' 'unsafe-inline'\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:25.024Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to connect to 'https://cdn.cookielaw.org/consent/1f22379a-e07a-41c6-99fe-623fc09348a9/d0def7f9-abb8-4f1d-a865-9e4393fa5c89/en.json' because it violates the following Content Security Policy directive: \"connect-src dpm.demdex.net amcglobal.sc.omtrdc.net api.magento.com commerce.adobe.io commerce.adobedtm.com commerce.adobedc.net *.adobe.io performance.typekit.net commerce.adobe.net qa-api.magedevteam.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com api.bazaarvoice.com stg.api.bazaarvoice.com apps.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com *.sagepay.com https://imgs.signifyd.com 'self' 'unsafe-inline'\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:25.028Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to connect to 'https://cdn.cookielaw.org/vendorlist/iab2Data.json' because it violates the following Content Security Policy directive: \"connect-src dpm.demdex.net amcglobal.sc.omtrdc.net api.magento.com commerce.adobe.io commerce.adobedtm.com commerce.adobedc.net *.adobe.io performance.typekit.net commerce.adobe.net qa-api.magedevteam.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com api.bazaarvoice.com stg.api.bazaarvoice.com apps.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com *.sagepay.com https://imgs.signifyd.com 'self' 'unsafe-inline'\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:25.036Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to connect to 'https://cdn.cookielaw.org/vendorlist/iab2Data.json' because it violates the following Content Security Policy directive: \"connect-src dpm.demdex.net amcglobal.sc.omtrdc.net api.magento.com commerce.adobe.io commerce.adobedtm.com commerce.adobedc.net *.adobe.io performance.typekit.net commerce.adobe.net qa-api.magedevteam.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com api.bazaarvoice.com stg.api.bazaarvoice.com apps.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com *.sagepay.com https://imgs.signifyd.com 'self' 'unsafe-inline'\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:25.038Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to load the script 'https://cdn.cookielaw.org/scripttemplates/6.12.0/otTCF.js' because it violates the following Content Security Policy directive: \"script-src assets.adobedtm.com secure.authorize.net test.authorize.net commerce.adobedtm.com www.paypalobjects.com js.braintreegateway.com www.paypal.com amcglobal.sc.omtrdc.net commerce.adobe.net use.typekit.net www.sandbox.paypal.com t.paypal.com magento-recs-sdk.adobe.net s.ytimg.com video.google.com vimeo.com www.vimeo.com www.googletagmanager.com www.google-analytics.com geostag.cardinalcommerce.com 1eafstag.cardinalcommerce.com geoapi.cardinalcommerce.com 1eafapi.cardinalcommerce.com songbird.cardinalcommerce.com includestest.ccdc02.com www.youtube.com apps.bazaarvoice.com apps.nexus.bazaarvoice.com apps-stg.nexus.bazaarvoice.com analytics-static.ugc.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com display.ugc.bazaarvoice.com api.bazaarvoice.com stg.api.bazaarvoice.com mpsnare.iesnare.com *.sagepay.com maps.googleapis.com www.xtento.com cdn.xtento.com https://cdn-scripts.signifyd.com https://imgs.signifyd.com 'self' 'unsafe-inline' 'unsafe-eval'\". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:25.053Z"
+  },
+  {
+    "part": "console.error",
+    "message": "The Content-Security-Policy directive 'frame-ancestors' does not support the source expression ''unsafe-inline'' @ [object Object]",
+    "timestamp": "2021-09-09T13:32:25.448Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:32:25.521Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to connect to 'https://cdn.cookielaw.org/scripttemplates/6.12.0/assets/otFlat.json' because it violates the following Content Security Policy directive: \"connect-src dpm.demdex.net amcglobal.sc.omtrdc.net api.magento.com commerce.adobe.io commerce.adobedtm.com commerce.adobedc.net *.adobe.io performance.typekit.net commerce.adobe.net qa-api.magedevteam.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com api.bazaarvoice.com stg.api.bazaarvoice.com apps.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com *.sagepay.com https://imgs.signifyd.com 'self' 'unsafe-inline'\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:25.558Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to connect to 'https://cdn.cookielaw.org/scripttemplates/6.12.0/assets/otFlat.json' because it violates the following Content Security Policy directive: \"connect-src dpm.demdex.net amcglobal.sc.omtrdc.net api.magento.com commerce.adobe.io commerce.adobedtm.com commerce.adobedc.net *.adobe.io performance.typekit.net commerce.adobe.net qa-api.magedevteam.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com api.bazaarvoice.com stg.api.bazaarvoice.com apps.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com *.sagepay.com https://imgs.signifyd.com 'self' 'unsafe-inline'\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:25.561Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to connect to 'https://cdn.cookielaw.org/scripttemplates/6.12.0/assets/v2/otPcTab.json' because it violates the following Content Security Policy directive: \"connect-src dpm.demdex.net amcglobal.sc.omtrdc.net api.magento.com commerce.adobe.io commerce.adobedtm.com commerce.adobedc.net *.adobe.io performance.typekit.net commerce.adobe.net qa-api.magedevteam.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com api.bazaarvoice.com stg.api.bazaarvoice.com apps.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com *.sagepay.com https://imgs.signifyd.com 'self' 'unsafe-inline'\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:25.573Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to connect to 'https://cdn.cookielaw.org/scripttemplates/6.12.0/assets/v2/otPcTab.json' because it violates the following Content Security Policy directive: \"connect-src dpm.demdex.net amcglobal.sc.omtrdc.net api.magento.com commerce.adobe.io commerce.adobedtm.com commerce.adobedc.net *.adobe.io performance.typekit.net commerce.adobe.net qa-api.magedevteam.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com api.bazaarvoice.com stg.api.bazaarvoice.com apps.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com *.sagepay.com https://imgs.signifyd.com 'self' 'unsafe-inline'\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:25.574Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to connect to 'https://cdn.cookielaw.org/scripttemplates/6.12.0/assets/otCookieSettingsButton.json' because it violates the following Content Security Policy directive: \"connect-src dpm.demdex.net amcglobal.sc.omtrdc.net api.magento.com commerce.adobe.io commerce.adobedtm.com commerce.adobedc.net *.adobe.io performance.typekit.net commerce.adobe.net qa-api.magedevteam.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com api.bazaarvoice.com stg.api.bazaarvoice.com apps.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com *.sagepay.com https://imgs.signifyd.com 'self' 'unsafe-inline'\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:25.591Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to connect to 'https://cdn.cookielaw.org/scripttemplates/6.12.0/assets/otCookieSettingsButton.json' because it violates the following Content Security Policy directive: \"connect-src dpm.demdex.net amcglobal.sc.omtrdc.net api.magento.com commerce.adobe.io commerce.adobedtm.com commerce.adobedc.net *.adobe.io performance.typekit.net commerce.adobe.net qa-api.magedevteam.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com api.bazaarvoice.com stg.api.bazaarvoice.com apps.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com *.sagepay.com https://imgs.signifyd.com 'self' 'unsafe-inline'\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:25.593Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:32:25.743Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to frame 'https://cookies.onetrust.mgr.consensu.org/' because it violates the following Content Security Policy directive: \"frame-src 'self' fast.amc.demdex.net secure.authorize.net test.authorize.net www.paypal.com www.sandbox.paypal.com www.googletagmanager.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com display.ugc.bazaarvoice.com api.bazaarvoice.com stg.api.bazaarvoice.com *.sagepay.com https://*.online-metrix.net https://imgs.signifyd.com\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:25.753Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to frame 'https://cookies.onetrust.mgr.consensu.org/' because it violates the following Content Security Policy directive: \"frame-src 'self' fast.amc.demdex.net secure.authorize.net test.authorize.net www.paypal.com www.sandbox.paypal.com www.googletagmanager.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com display.ugc.bazaarvoice.com api.bazaarvoice.com stg.api.bazaarvoice.com *.sagepay.com https://*.online-metrix.net https://imgs.signifyd.com\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:25.754Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.adenandanais.com/static/version1631093885/frontend/optaros/adenanais/en_US/fonts/Luma-Icons.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:32:25.845Z"
+  },
+  {
+    "part": "console.error",
+    "message": "The Content-Security-Policy directive 'frame-ancestors' does not support the source expression ''unsafe-inline'' @ [object Object]",
+    "timestamp": "2021-09-09T13:32:26.315Z"
+  },
+  {
+    "part": "console.error",
+    "message": "The Content-Security-Policy directive 'frame-ancestors' does not support the source expression ''unsafe-inline'' @ [object Object]",
+    "timestamp": "2021-09-09T13:32:26.321Z"
+  },
+  {
+    "part": "console.error",
+    "message": "The Content-Security-Policy directive 'frame-ancestors' does not support the source expression ''unsafe-inline'' @ [object Object]",
+    "timestamp": "2021-09-09T13:32:26.488Z"
+  },
+  {
+    "part": "console.error",
+    "message": "The Content-Security-Policy directive 'frame-ancestors' does not support the source expression ''unsafe-inline'' @ [object Object]",
+    "timestamp": "2021-09-09T13:32:26.498Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:32:27.792Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to load the image 'https://cdn.cookielaw.org/logos/ff590cb1-b609-425f-9e8a-deb23e559be0/bfdad892-77e0-4792-928d-113e3e90398b/125b6d15-e18f-44ca-a6a3-12e000b1dfed/aden-logo.png' because it violates the following Content Security Policy directive: \"img-src assets.adobedtm.com amcglobal.sc.omtrdc.net dpm.demdex.net cm.everesttech.net widgets.magentocommerce.com data: www.paypalobjects.com t.paypal.com *.ftcdn.net *.behance.net p.typekit.net www.paypal.com fpdbs.paypal.com fpdbs.sandbox.paypal.com *.vimeocdn.com s.ytimg.com display.ugc.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com network-a.bazaarvoice.com network-stg-a.bazaarvoice.com photos-uat-us.bazaarvoice.com img.youtube.com www.xtento.com cdn.xtento.com https://imgs.signifyd.com https://*.online-metrix.net 'self' 'unsafe-inline'\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:29.268Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to load the image 'https://cdn.cookielaw.org/logos/static/poweredBy_ot_logo.svg' because it violates the following Content Security Policy directive: \"img-src assets.adobedtm.com amcglobal.sc.omtrdc.net dpm.demdex.net cm.everesttech.net widgets.magentocommerce.com data: www.paypalobjects.com t.paypal.com *.ftcdn.net *.behance.net p.typekit.net www.paypal.com fpdbs.paypal.com fpdbs.sandbox.paypal.com *.vimeocdn.com s.ytimg.com display.ugc.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com network-a.bazaarvoice.com network-stg-a.bazaarvoice.com photos-uat-us.bazaarvoice.com img.youtube.com www.xtento.com cdn.xtento.com https://imgs.signifyd.com https://*.online-metrix.net 'self' 'unsafe-inline'\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:29.311Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to connect to 'https://bam-cell.nr-data.net/events/1/05395d7737?a=73597062&v=1210.e2a3f80&to=NgBXbUMFX0MCWxdbWw9KdFpFDV5eTFsOQRsIC1FcSUtYXgddGw%3D%3D&rst=22436&ck=0&ref=https://www.adenandanais.com/' because it violates the following Content Security Policy directive: \"connect-src dpm.demdex.net amcglobal.sc.omtrdc.net api.magento.com commerce.adobe.io commerce.adobedtm.com commerce.adobedc.net *.adobe.io performance.typekit.net commerce.adobe.net qa-api.magedevteam.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com api.bazaarvoice.com stg.api.bazaarvoice.com apps.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com *.sagepay.com https://imgs.signifyd.com 'self' 'unsafe-inline'\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:32:34.180Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to connect to 'https://privacyportal-eu.onetrust.com/request/v1/consentreceipts' because it violates the following Content Security Policy directive: \"connect-src dpm.demdex.net amcglobal.sc.omtrdc.net api.magento.com commerce.adobe.io commerce.adobedtm.com commerce.adobedc.net *.adobe.io performance.typekit.net commerce.adobe.net qa-api.magedevteam.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com api.bazaarvoice.com stg.api.bazaarvoice.com apps.bazaarvoice.com network.bazaarvoice.com network-stg.bazaarvoice.com *.sagepay.com https://imgs.signifyd.com 'self' 'unsafe-inline'\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:33:08.460Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:33:08.657Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:33:08.659Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:33:08.667Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:33:08.670Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to frame 'https://cookies.onetrust.mgr.consensu.org/' because it violates the following Content Security Policy directive: \"frame-src 'self' fast.amc.demdex.net secure.authorize.net test.authorize.net www.paypal.com www.sandbox.paypal.com www.googletagmanager.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com display.ugc.bazaarvoice.com api.bazaarvoice.com stg.api.bazaarvoice.com *.sagepay.com https://*.online-metrix.net https://imgs.signifyd.com\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:33:08.832Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[Report Only] Refused to frame 'https://cookies.onetrust.mgr.consensu.org/' because it violates the following Content Security Policy directive: \"frame-src 'self' fast.amc.demdex.net secure.authorize.net test.authorize.net www.paypal.com www.sandbox.paypal.com www.googletagmanager.com geostag.cardinalcommerce.com geo.cardinalcommerce.com 1eafstag.cardinalcommerce.com 1eaf.cardinalcommerce.com centinelapistag.cardinalcommerce.com centinelapi.cardinalcommerce.com display.ugc.bazaarvoice.com api.bazaarvoice.com stg.api.bazaarvoice.com *.sagepay.com https://*.online-metrix.net https://imgs.signifyd.com\".\n @ [object Object]",
+    "timestamp": "2021-09-09T13:33:08.834Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:33:08.992Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:33:13.668Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:33:13.898Z"
+  }
+]

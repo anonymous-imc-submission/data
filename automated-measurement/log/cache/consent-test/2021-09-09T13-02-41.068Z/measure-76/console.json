@@ -1,0 +1,82 @@
+[
+  {
+    "part": "measure-76",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:17:12.345Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "visit https://quizlet.com/...",
+    "timestamp": "2021-09-09T13:17:14.640Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:17:26.135Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:17:26.149Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:17:26.552Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:17:26.553Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:17:26.627Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:17:26.644Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:17:26.836Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:17:26.840Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:17:26.853Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:17:26.859Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://assets.quizlet.com/a/j/dist/2.8e0128ba99819fb.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:29.206Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://assets.quizlet.com/a/j/dist/3.dfad69c1569c5f3.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:17:29.207Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:17:31.856Z"
+  },
+  {
+    "part": "measure-76",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:17:31.937Z"
+  }
+]

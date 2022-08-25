@@ -1,0 +1,147 @@
+[
+  {
+    "part": "measure-07",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:08:59.702Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "visit https://espn.com.br/...",
+    "timestamp": "2021-09-09T13:09:00.090Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Mixed Content: The page at 'https://www.espn.com.br/' was loaded over HTTPS, but requested an insecure element 'http://cdn.espn.com.br/image/livre/a4ab77aa-c2a5-474f-9f44-bda681e4441c.jpg'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ [object Object]",
+    "timestamp": "2021-09-09T13:09:01.562Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Mixed Content: The page at 'https://www.espn.com.br/' was loaded over HTTPS, but requested an insecure element 'http://cdn.espn.com.br/image/livre/a4ab77aa-c2a5-474f-9f44-bda681e4441c.jpg'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ [object Object]",
+    "timestamp": "2021-09-09T13:09:01.620Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Mixed Content: The page at 'https://www.espn.com.br/' was loaded over HTTPS, but requested an insecure element 'http://cdn.espn.com.br/image/livre/a4ab77aa-c2a5-474f-9f44-bda681e4441c.jpg'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ [object Object]",
+    "timestamp": "2021-09-09T13:09:04.301Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Mixed Content: The page at 'https://www.espn.com.br/' was loaded over HTTPS, but requested an insecure element 'http://cdn.espn.com.br/image/livre/a4ab77aa-c2a5-474f-9f44-bda681e4441c.jpg'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ [object Object]",
+    "timestamp": "2021-09-09T13:09:05.376Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/. @ [object Object]",
+    "timestamp": "2021-09-09T13:09:08.656Z"
+  },
+  {
+    "part": "console.error",
+    "message": "%c[OneID]%c %c[%s]%c:  color:#2887b4;background-color:transparent;font-weight:bold color:#000;background-color:transparent;font-weight: color:#FC0C1B;background-color:#FFEFEF ERROR color:#000;background-color:transparent;font-weight: Already initialized @ [object Object]",
+    "timestamp": "2021-09-09T13:09:17.481Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "'window.webkitStorageInfo' is deprecated. Please use 'navigator.webkitTemporaryStorage' or 'navigator.webkitPersistentStorage' instead. @ [object Object]",
+    "timestamp": "2021-09-09T13:09:19.337Z"
+  },
+  {
+    "part": "console.error",
+    "message": "%c[OneID]%c %c[%s]%c:  color:#2887b4;background-color:transparent;font-weight:bold color:#000;background-color:transparent;font-weight: color:#FC0C1B;background-color:#FFEFEF ERROR color:#000;background-color:transparent;font-weight: Session not established @ [object Object]",
+    "timestamp": "2021-09-09T13:09:19.944Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:09:27.512Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:09:27.520Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:09:29.011Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:09:29.022Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:09:29.068Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:09:29.073Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:09:29.153Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:09:29.169Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:09:32.837Z"
+  },
+  {
+    "part": "console.log",
+    "message": "consent sync callback complete @ [object Object]",
+    "timestamp": "2021-09-09T13:09:35.834Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:09:36.135Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:09:36.138Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:09:36.158Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:09:36.161Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:09:37.505Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Mixed Content: The page at 'https://www.espn.com.br/' was loaded over HTTPS, but requested an insecure element 'http://cdn.espn.com.br/image/livre/a4ab77aa-c2a5-474f-9f44-bda681e4441c.jpg'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ [object Object]",
+    "timestamp": "2021-09-09T13:09:40.258Z"
+  },
+  {
+    "part": "console.log",
+    "message": "update: ad _dcf:0 @ [object Object]",
+    "timestamp": "2021-09-09T13:09:40.628Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "Minimum wait time reached after 5.04s.",
+    "timestamp": "2021-09-09T13:09:41.197Z"
+  },
+  {
+    "part": "measure-07",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:09:41.275Z"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "part": "measure-63",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:16:04.923Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "visit https://beaconjournal.com/...",
+    "timestamp": "2021-09-09T13:16:06.153Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Consent management does not appear to be set up correctly. No consent groups were found. @ [object Object]",
+    "timestamp": "2021-09-09T13:16:23.925Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Consent management does not appear to be set up correctly. No consent groups were found. @ [object Object]",
+    "timestamp": "2021-09-09T13:16:27.927Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:16:30.278Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://beaconjournal.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:16:36.206Z"
+  },
+  {
+    "part": "measure-63",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:16:36.305Z"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-06",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:38.795Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "visit https://uptodown.com/...",
+    "timestamp": "2021-09-09T13:06:39.182Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:06:52.270Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:06:52.290Z"
+  },
+  {
+    "part": "console.log",
+    "message": "https://en.uptodown.com/android @ [object Object]",
+    "timestamp": "2021-09-09T13:06:53.167Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:06:53.638Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:53.656Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:06:53.765Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:06:53.821Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:06:53.827Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:54.057Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:07:11.105Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:07:11.107Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:07:11.116Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:07:11.125Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:07:11.196Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:07:16.117Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:07:16.140Z"
+  }
+]

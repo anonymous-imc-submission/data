@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-49",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:11:38.780Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "visit https://bicycling.com/...",
+    "timestamp": "2021-09-09T13:11:40.485Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service worker registration succeeded. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:41.231Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:11:42.850Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:11:45.290Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:11:45.313Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:11:46.069Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:46.073Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:11:46.158Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:11:46.203Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:46.239Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:11:47.145Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:11:47.148Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:11:47.163Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:11:47.178Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:11:47.276Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service worker registration succeeded. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:48.132Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:11:49.366Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:11:50.311Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:11:52.183Z"
+  },
+  {
+    "part": "measure-49",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:11:52.278Z"
+  }
+]

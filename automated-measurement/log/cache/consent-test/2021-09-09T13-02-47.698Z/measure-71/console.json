@@ -1,0 +1,147 @@
+[
+  {
+    "part": "measure-71",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:22:35.787Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "visit https://wwd.com/...",
+    "timestamp": "2021-09-09T13:22:36.487Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[Object,Object,Object,Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:22:43.289Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:22:47.113Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:22:47.116Z"
+  },
+  {
+    "part": "console.log",
+    "message": "fonts loaded load @ [object Object]",
+    "timestamp": "2021-09-09T13:22:48.258Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:22:48.682Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:48.684Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:22:48.773Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:22:48.784Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:48.801Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:22:48.811Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://static.adsafeprotected.com/vans-adapter-google-ima.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:50.740Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button tabindex=\"0\" class=\"cookie-setting-link\" id=\"one…>Show Purposes</button>\nattempting click action\n  waiting for element to be visible, enabled and stable\n  element is visible, enabled and stable\n  scrolling into view if needed\n  done scrolling\n  checking that element receives pointer events at (214,420.75)\n============================================================",
+    "timestamp": "2021-09-09T13:22:50.813Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:23:23.379Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:23:39.428Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:23:39.428Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:23:44.551Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".ot-pc-refuse-all-handler:visible, .save-preference-btn-handler:visible\"\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:23:53.907Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:24:35.097Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:24:35.097Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:24:40.115Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:24:48.684Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "TCF data: cmpId 28 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:24:48.684Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:24:48.692Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:24:48.694Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:24:53.704Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:24:53.761Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:24:53.765Z"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "part": "measure-96",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:23:55.705Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "visit https://euro.cz/...",
+    "timestamp": "2021-09-09T13:23:56.172Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 1.4.1 @ [object Object]",
+    "timestamp": "2021-09-09T13:24:00.157Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Google Vignette @ [object Object]",
+    "timestamp": "2021-09-09T13:24:01.736Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://euro.cz/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:24:26.189Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:24:26.256Z"
+  }
+]

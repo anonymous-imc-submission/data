@@ -1,0 +1,122 @@
+[
+  {
+    "part": "measure-50",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:17:01.377Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "visit https://titulky.com/...",
+    "timestamp": "2021-09-09T13:17:01.654Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Responsive:falseNonResp:true @ [object Object]",
+    "timestamp": "2021-09-09T13:17:08.068Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:17:10.459Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:17:10.459Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:17:10.735Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:17:10.735Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:17:10.767Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:17:10.775Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:17:10.806Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-pc-btn-handler:visible,\n            #onetrust-pc-sdk:visible\n        \" to be visible\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:17:40.522Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:18:01.434Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:18:01.434Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:06.588Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:18:57.106Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:18:57.106Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:02.121Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:19:10.736Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "TCF data: cmpId 7 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:19:10.736Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:19:10.742Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:19:15.744Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:19:30.747Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:19:30.775Z"
+  },
+  {
+    "part": "measure-50",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:19:30.787Z"
+  }
+]

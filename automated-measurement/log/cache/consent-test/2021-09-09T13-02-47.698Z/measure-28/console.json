@@ -1,0 +1,112 @@
+[
+  {
+    "part": "measure-28",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:12:26.034Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "visit https://mediaiqdigital.com/...",
+    "timestamp": "2021-09-09T13:12:26.175Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Unrecognized feature: 'vr'. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:26.295Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Unrecognized feature: 'speaker'. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:26.296Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:26.297Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Mixed Content: The page at 'https://www.wearemiq.com/' was loaded over HTTPS, but requested an insecure stylesheet 'http://www.wearemiq.com/wp-content/plugins/search-filter/style.css?ver=1'. This request has been blocked; the content must be served over HTTPS. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:26.581Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:12:29.591Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:12:29.594Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:12:29.937Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:29.937Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:12:29.959Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:12:29.963Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:30.018Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:12:30.030Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.wearemiq.com/wp-content/plugins/search-filter/style.css?ver=1 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:32.606Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:12:43.107Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:12:43.107Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:12:43.119Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:12:43.120Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:12:43.188Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:12:48.121Z"
+  },
+  {
+    "part": "measure-28",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:12:48.148Z"
+  }
+]

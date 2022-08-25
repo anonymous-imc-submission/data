@@ -1,0 +1,102 @@
+[
+  {
+    "part": "measure-16",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:36.197Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "visit https://montgomeryadvertiser.com/...",
+    "timestamp": "2021-09-09T13:06:36.557Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:06:46.637Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:06:51.011Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:06:51.012Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:06:51.535Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:51.535Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:06:51.665Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:06:51.670Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:51.777Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:06:53.094Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:06:53.099Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:06:53.114Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:06:53.118Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:06:53.188Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CONNECTION_CLOSED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:55.356Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR @ [object Object]",
+    "timestamp": "2021-09-09T13:06:55.914Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_CONNECTION_CLOSED @ [object Object]",
+    "timestamp": "2021-09-09T13:06:55.917Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:06:58.115Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:06:58.138Z"
+  }
+]

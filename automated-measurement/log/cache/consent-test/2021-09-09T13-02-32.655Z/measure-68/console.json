@@ -1,0 +1,27 @@
+[
+  {
+    "part": "measure-68",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:17:07.333Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "visit https://northjersey.com/...",
+    "timestamp": "2021-09-09T13:17:08.812Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:17:32.142Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://northjersey.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:17:38.816Z"
+  },
+  {
+    "part": "measure-68",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:17:38.859Z"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "part": "measure-92",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:25:28.367Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "visit https://motorsport-total.com/...",
+    "timestamp": "2021-09-09T13:25:30.074Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cAdLib v5.5.17 abtest loaded background-color:#0000ff;color:#fff;padding:3px; @ [object Object]",
+    "timestamp": "2021-09-09T13:25:33.107Z"
+  },
+  {
+    "part": "console.log",
+    "message": "null @ [object Object]",
+    "timestamp": "2021-09-09T13:25:33.171Z"
+  },
+  {
+    "part": "console.log",
+    "message": "function(){return{zoom:firefox4().zoom,devicePxPerCssPx:devicePixelRatio()}} @ [object Object]",
+    "timestamp": "2021-09-09T13:25:33.183Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15 @ [object Object]",
+    "timestamp": "2021-09-09T13:25:33.183Z"
+  },
+  {
+    "part": "console.log",
+    "message": "gdprCountries @ [object Object]",
+    "timestamp": "2021-09-09T13:25:39.851Z"
+  },
+  {
+    "part": "console.log",
+    "message": "superbanner @ [object Object]",
+    "timestamp": "2021-09-09T13:25:54.058Z"
+  },
+  {
+    "part": "console.log",
+    "message": "sky @ [object Object]",
+    "timestamp": "2021-09-09T13:25:54.274Z"
+  },
+  {
+    "part": "console.log",
+    "message": "billboard @ [object Object]",
+    "timestamp": "2021-09-09T13:25:54.286Z"
+  },
+  {
+    "part": "console.log",
+    "message": "mrec @ [object Object]",
+    "timestamp": "2021-09-09T13:25:54.390Z"
+  },
+  {
+    "part": "console.log",
+    "message": "billboard_btf @ [object Object]",
+    "timestamp": "2021-09-09T13:25:54.451Z"
+  },
+  {
+    "part": "console.log",
+    "message": "inpage @ [object Object]",
+    "timestamp": "2021-09-09T13:25:54.494Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://motorsport-total.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:26:00.153Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:26:01.848Z"
+  }
+]

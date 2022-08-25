@@ -1,0 +1,82 @@
+[
+  {
+    "part": "measure-81",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:18:28.729Z"
+  },
+  {
+    "part": "measure-81",
+    "message": "visit https://meetic.com/...",
+    "timestamp": "2021-09-09T13:18:31.123Z"
+  },
+  {
+    "part": "measure-81",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:18:55.600Z"
+  },
+  {
+    "part": "measure-81",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:18:55.607Z"
+  },
+  {
+    "part": "measure-81",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:19:00.004Z"
+  },
+  {
+    "part": "measure-81",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:00.010Z"
+  },
+  {
+    "part": "measure-81",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:19:02.205Z"
+  },
+  {
+    "part": "measure-81",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:19:02.245Z"
+  },
+  {
+    "part": "measure-81",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:03.022Z"
+  },
+  {
+    "part": "measure-81",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:19:25.175Z"
+  },
+  {
+    "part": "measure-81",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:19:25.188Z"
+  },
+  {
+    "part": "measure-81",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:19:25.207Z"
+  },
+  {
+    "part": "measure-81",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:19:25.211Z"
+  },
+  {
+    "part": "measure-81",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:19:25.370Z"
+  },
+  {
+    "part": "measure-81",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:19:30.215Z"
+  },
+  {
+    "part": "measure-81",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:19:30.290Z"
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "part": "measure-29",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:12:47.221Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "visit https://britannica.com/...",
+    "timestamp": "2021-09-09T13:12:47.438Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:49.045Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062486, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:49.066Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:12:52.790Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o1kfk&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.britannica.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:12:58.182Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an script pixel with URL:  https://analytics.twitter.com/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o1kfk&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fwww.britannica.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:12:58.192Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Sending:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o1kfk&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.britannica.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:12:58.195Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Building an image pixel with URL:  //t.co/i/adsct?type=javascript&version=2.0.3&p_id=Twitter&p_user_id=0&txn_id=o1kfk&events=%5B%5B%22pageview%22%2Cnull%5D%5D&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tw_document_href=https%3A%2F%2Fwww.britannica.com%2F @ [object Object]",
+    "timestamp": "2021-09-09T13:12:58.202Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:13:01.337Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[BC]DataLayer available @ [object Object]",
+    "timestamp": "2021-09-09T13:13:01.614Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[BC][ERROR] an error occured in interactiontype: [listener_content_meter]\n            called method: [onEvent]\n            error: Cannot read properties of undefined (reading 'id') @ [object Object]",
+    "timestamp": "2021-09-09T13:13:01.793Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[BC][ERROR] --stacktrace-- @ [object Object]",
+    "timestamp": "2021-09-09T13:13:01.797Z"
+  },
+  {
+    "part": "console.trace",
+    "message": "console.trace @ [object Object]",
+    "timestamp": "2021-09-09T13:13:01.798Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[BC][ERROR] --end stacktrace-- @ [object Object]",
+    "timestamp": "2021-09-09T13:13:01.799Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[BC]Item will not be scraped due to missing item ID @ [object Object]",
+    "timestamp": "2021-09-09T13:13:01.906Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:13:03.002Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:13:03.017Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:13:03.556Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:03.584Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:13:03.700Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:13:03.709Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:04.030Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:13:04.057Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:13:16.637Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:13:16.637Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:13:16.656Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:13:16.662Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:13:16.993Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:13:21.657Z"
+  },
+  {
+    "part": "measure-29",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:13:21.694Z"
+  }
+]

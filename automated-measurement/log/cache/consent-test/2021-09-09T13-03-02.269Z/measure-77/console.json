@@ -1,0 +1,62 @@
+[
+  {
+    "part": "measure-77",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:27:33.579Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "visit https://zam.com/...",
+    "timestamp": "2021-09-09T13:27:33.905Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:27:35.558Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:27:36.118Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:27:36.119Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-pc-btn-handler:visible,\n            #onetrust-pc-sdk:visible\n        \" to be visible\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:28:06.274Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "__tcfapi not found: TimeoutError: page.waitForFunction: Timeout 30000ms exceeded.",
+    "timestamp": "2021-09-09T13:28:06.317Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "TCF data: cmpId null consent null, legInt null.",
+    "timestamp": "2021-09-09T13:28:06.321Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:28:06.388Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:28:06.396Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:28:11.393Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:28:11.497Z"
+  }
+]

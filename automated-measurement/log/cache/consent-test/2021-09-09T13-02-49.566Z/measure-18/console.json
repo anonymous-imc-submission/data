@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-18",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:10:05.216Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "visit https://msn.co.uk/...",
+    "timestamp": "2021-09-09T13:10:05.504Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "page load error: Error: page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://msn.co.uk/\n=========================== logs ===========================\nnavigating to \"https://msn.co.uk/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:10:05.875Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:10:05.936Z"
+  }
+]

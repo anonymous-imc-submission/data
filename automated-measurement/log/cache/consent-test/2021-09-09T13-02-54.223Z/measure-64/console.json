@@ -1,0 +1,87 @@
+[
+  {
+    "part": "measure-64",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:18:38.664Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "visit https://lajumate.ro/...",
+    "timestamp": "2021-09-09T13:18:39.005Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:18:42.518Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:18:42.525Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:18:42.779Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:42.787Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:18:42.830Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:18:42.835Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:42.921Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:18:42.923Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:18:50.455Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:18:50.464Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:18:50.511Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:18:50.519Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "Network is idle after 0.60s.",
+    "timestamp": "2021-09-09T13:18:51.116Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:18:55.513Z"
+  },
+  {
+    "part": "measure-64",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:18:55.553Z"
+  }
+]

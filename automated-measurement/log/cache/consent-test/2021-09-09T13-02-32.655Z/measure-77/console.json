@@ -1,0 +1,197 @@
+[
+  {
+    "part": "measure-77",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:19:14.928Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "visit https://ehow.com/...",
+    "timestamp": "2021-09-09T13:19:15.555Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:19:22.116Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:19:22.128Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c continent: EU  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:22.935Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Breakpoint Size: small  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:22.954Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Breakpoint Size: small  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:22.959Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c =======i am mobile :)  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:22.974Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c WARN %c Reve initializing  background: #FFFF00; color: #000000; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:22.982Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Conditional Delay: permutive is delayed by 0ms  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:23.013Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Loading IAS  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:23.014Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Loading Amazon Publisher Services: apstag.js  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:23.034Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Loading Index Exchange  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:23.052Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Loading Index ExchangeJWPlayer  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:23.067Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c setState: gptTargeting to [object Object]  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:23.082Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c setState: permutiveTargeting to undefined  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:23.087Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Permutive: Loaded with id 5814efa5-d41d-4a89-b176-1cc26fae87cd  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:23.199Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Breakpoint Size: small  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:25.736Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c ads.js defineAd() GTP #emailslider1-1  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:25.749Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Loading Google Publisher Tag: gpt.js  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:25.762Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c Conditional Delay: gpt is delayed by 0ms  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:25.763Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:19:28.750Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:19:37.931Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:37.939Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:19:38.145Z"
+  },
+  {
+    "part": "console.log",
+    "message": "generated timeout @ [object Object]",
+    "timestamp": "2021-09-09T13:19:40.769Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c INFO %c gpt.js defineSlot('/6117/dmd.ehow/emailslider1-1', [1,3], 'emailslider1-1')  background: #559955; color: #FFFFFF; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:43.695Z"
+  },
+  {
+    "part": "console.log",
+    "message": "no popup, no personalization @ [object Object]",
+    "timestamp": "2021-09-09T13:19:43.746Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c WARN %c Permutive is ready  background: #FFFF00; color: #000000; background: #FFFFFF; color: #000000; @ [object Object]",
+    "timestamp": "2021-09-09T13:19:48.265Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:49.562Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:19:49.862Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "dialog accept failed: \n  - TimeoutError: page.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=primary]\"\n    ============================================================\n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-accept-btn-handler:visible,\n            .optanon-allow-all:visible,\n            .optanon-button-allow:visible,\n            #onetrust-pc-sdk #accept-recommended-btn-handler:visible\n        \"\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:19:52.416Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:21:37.945Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "TCF data: cmpId 28 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:21:37.955Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:21:37.982Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:21:38.000Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:21:42.995Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:21:43.301Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:21:43.310Z"
+  }
+]

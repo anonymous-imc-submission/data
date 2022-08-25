@@ -1,0 +1,177 @@
+[
+  {
+    "part": "measure-84",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:22:13.618Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "visit https://photoshopcreative.co.uk/...",
+    "timestamp": "2021-09-09T13:22:15.565Z"
+  },
+  {
+    "part": "console.log",
+    "message": "fep ga exc Cannot read properties of undefined (reading 'adTags') @ [object Object]",
+    "timestamp": "2021-09-09T13:22:16.467Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GA getUserDimensions null null @ [object Object]",
+    "timestamp": "2021-09-09T13:22:16.479Z"
+  },
+  {
+    "part": "console.log",
+    "message": "digitalcameraworld loaded successfully. @ [object Object]",
+    "timestamp": "2021-09-09T13:22:17.282Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Permutive was not initialized. No consent to run on the page @ [object Object]",
+    "timestamp": "2021-09-09T13:22:20.422Z"
+  },
+  {
+    "part": "console.log",
+    "message": "DOMContentLoaded at 5377 @ [object Object]",
+    "timestamp": "2021-09-09T13:22:21.588Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Hydration Script has failed for Slice TypeError: Cannot read properties of undefined (reading 'resolveDependencies')\n    at Object.e.exports (https://www.digitalcameraworld.com/:521:1121)\n    at l (https://www.digitalcameraworld.com/:521:138)\n    at Module.e.exports (https://www.digitalcameraworld.com/:521:1328)\n    at l (https://www.digitalcameraworld.com/:521:138)\n    at https://www.digitalcameraworld.com/:521:937\n    at https://www.digitalcameraworld.com/:521:946 @ [object Object]",
+    "timestamp": "2021-09-09T13:22:21.732Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Hydration Script has failed for Slice TypeError: Cannot read properties of undefined (reading 'resolveDependencies')\n    at Object.a (https://www.digitalcameraworld.com/:1249:4966)\n    at n (https://www.digitalcameraworld.com/:1249:134)\n    at Module.e.exports (https://www.digitalcameraworld.com/:1249:5652)\n    at n (https://www.digitalcameraworld.com/:1249:134)\n    at https://www.digitalcameraworld.com/:1249:933\n    at https://www.digitalcameraworld.com/:1249:943 @ [object Object]",
+    "timestamp": "2021-09-09T13:22:21.760Z"
+  },
+  {
+    "part": "console.log",
+    "message": "No archive filter present @ [object Object]",
+    "timestamp": "2021-09-09T13:22:27.705Z"
+  },
+  {
+    "part": "console.log",
+    "message": "PageLoad at 13070 @ [object Object]",
+    "timestamp": "2021-09-09T13:22:29.278Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "%c BORDEAUX  background: #800020; color: #ffffff Error ignored because of sample rate @ [object Object]",
+    "timestamp": "2021-09-09T13:22:29.465Z"
+  },
+  {
+    "part": "console.error",
+    "message": "%c BORDEAUX  background: #800020; color: #ffffff Error: CMP __tcfapi timeout after 5000ms\n    at https://bordeaux.futurecdn.net/bordeaux.js:16:31973 @ [object Object]",
+    "timestamp": "2021-09-09T13:22:29.470Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error: Consent not obtained for Permutive\n    at https://freyr.futurecdn.net/freyr.js:1:5985\n    at Generator.next (<anonymous>)\n    at a (https://freyr.futurecdn.net/freyr.js:1:4997) @ [object Object]",
+    "timestamp": "2021-09-09T13:22:32.079Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "wa afterInit failed @ [object Object]",
+    "timestamp": "2021-09-09T13:22:36.930Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://www.digitalcameraworld.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:22:38.477Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://www.digitalcameraworld.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:22:38.863Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:22:40.395Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:22:40.826Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:22:40.828Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:22:41.296Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:41.305Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:22:41.421Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:22:41.457Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:22:41.537Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:22:42.204Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 400 () @ [object Object]",
+    "timestamp": "2021-09-09T13:22:43.973Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://www.digitalcameraworld.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:23:25.750Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Error getting pingLoaded: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:23:41.892Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "TCF data: cmpId 10 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:23:41.892Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:23:41.907Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:23:41.908Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 504 (GATEWAY_TIMEOUT) @ [object Object]",
+    "timestamp": "2021-09-09T13:23:45.973Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:23:46.908Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:23:47.111Z"
+  }
+]

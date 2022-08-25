@@ -1,0 +1,153 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://giga.de/..."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://js.stroeermediabrands.de/track-cp.176ebfb4f399bbf5b22adaa30e36b8d0.js",
+      "lineNumber": 0,
+      "columnNumber": 12479
+    },
+    "text": "starting version 20191126"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://consent.giga.de/wrapperMessagingWithoutDetection.js",
+      "lineNumber": 0,
+      "columnNumber": 154615
+    },
+    "text": "Messaging without detection successfully executed."
+  },
+  {
+    "type": "admeasure",
+    "text": "Looking for dialogs to reject..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting for __tcfapi..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint iframe found!"
+  },
+  {
+    "type": "info",
+    "location": {
+      "url": "https://js.stroeermediabrands.de/track-cp.176ebfb4f399bbf5b22adaa30e36b8d0.js",
+      "lineNumber": 0,
+      "columnNumber": 13265
+    },
+    "text": "got title from meta"
+  },
+  {
+    "type": "admeasure",
+    "text": "__tcfapi found! Querying status..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingWaiting."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingLoaded."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Button clicked: Optionen"
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://hgc-cf-cache-1.svonm.com/hd-main.js?cache=IcNRcVMjUH",
+      "lineNumber": 62,
+      "columnNumber": 0
+    },
+    "text": "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/."
+  },
+  {
+    "type": "admeasure",
+    "text": "Found Sourcepoint privacy manager."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: toggling type toggles."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Check for legitimate interest button..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: no legitimate interest button found: No matching button found: "
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Find the save button."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint dialog rejected."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://js.stroeermediabrands.de/metaTag.min.7602eac2a5afb4ceef1c7b227eea4ced.js",
+      "lineNumber": 0,
+      "columnNumber": 74053
+    },
+    "text": "Stroeer TagManager \"MetaTag\": An error occurred processing advertisements on your website. Please check the \"Info-Tool\" for detailed information. Documentation for the tool: https://stroeerdigitalgroup.atlassian.net/wiki/x/x2LNAQ"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data obtained!"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data: cmpId 6 consent false, legInt false."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Network is idle after 0.00s."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062509",
+      "lineNumber": 5,
+      "columnNumber": 84240
+    },
+    "text": "updateCorrelator has been deprecated. Please see the Google Ad Manager help page on \"Pageviews in GPT\" for more information: https://support.google.com/admanager/answer/183281?hl=en"
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062509",
+      "lineNumber": 5,
+      "columnNumber": 116668
+    },
+    "text": "[GPT] updateCorrelator has been deprecated. See the Google Ad Manager help page on \"Creative selection for multiple ad slots\" for more information: https://support.google.com/admanager/answer/183281."
+  },
+  {
+    "type": "admeasure",
+    "text": "Minimum wait time reached after 5.00s."
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

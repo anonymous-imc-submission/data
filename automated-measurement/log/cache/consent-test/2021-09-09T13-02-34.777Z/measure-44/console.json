@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-44",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:10:50.681Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "visit https://mujweb.cz/...",
+    "timestamp": "2021-09-09T13:10:51.008Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "page load error: Error: page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://mujweb.cz/\n=========================== logs ===========================\nnavigating to \"https://mujweb.cz/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:10:51.099Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:10:51.133Z"
+  }
+]

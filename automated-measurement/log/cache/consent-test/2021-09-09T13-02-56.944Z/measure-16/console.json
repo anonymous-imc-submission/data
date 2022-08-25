@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-16",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:09:35.195Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "visit https://tribalfusion.com/...",
+    "timestamp": "2021-09-09T13:09:35.513Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 1.4.1 @ [object Object]",
+    "timestamp": "2021-09-09T13:09:38.235Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:09:45.458Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:09:45.461Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:09:47.855Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:09:47.859Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:09:47.944Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:09:47.959Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:09:47.999Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:09:48.015Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button tabindex=\"0\" class=\"cookie-setting-link\" id=\"one…>Show Purposes</button>\nattempting click action\n  waiting for element to be visible, enabled and stable\n  element is visible, enabled and stable\n  scrolling into view if needed\n  done scrolling\n  checking that element receives pointer events at (83.9,710.19)\n  element does receive pointer events\n  performing click action\n  click action done\n  waiting for scheduled navigations to finish\n============================================================",
+    "timestamp": "2021-09-09T13:09:50.022Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:10:12.133Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:10:12.140Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:10:12.157Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:10:12.165Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:10:12.688Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:10:17.160Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:10:17.264Z"
+  }
+]

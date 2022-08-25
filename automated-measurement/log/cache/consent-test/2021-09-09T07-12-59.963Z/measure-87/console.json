@@ -1,0 +1,738 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://fitforfun.de/..."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://c.amazon-adsystem.com/aax2/amzn_ads.js",
+      "lineNumber": 1,
+      "columnNumber": 59591
+    },
+    "text": "Initiating amznads"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://c.amazon-adsystem.com/aax2/amzn_ads.js",
+      "lineNumber": 1,
+      "columnNumber": 62483
+    },
+    "text": "amznads.getAds(): clear out existing ads"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://c.amazon-adsystem.com/aax2/amzn_ads.js",
+      "lineNumber": 1,
+      "columnNumber": 62851
+    },
+    "text": "amznads.getAds(): Using url=https%3A%2F%2Fm.fitforfun.de%2F"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://c.amazon-adsystem.com/aax2/amzn_ads.js",
+      "lineNumber": 1,
+      "columnNumber": 61607
+    },
+    "text": "amznads.getAds: Call to: https://aax.amazon-adsystem.com/e/dtb/bid?src=3128&u=https%3A%2F%2Fm.fitforfun.de%2F&cb=6162582&gdprl=%7B%22status%22%3A%22cmp-in-flight%22%7D"
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://c.amazon-adsystem.com/aax2/amzn_ads.js",
+      "lineNumber": 1,
+      "columnNumber": 0
+    },
+    "text": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://aax.amazon-adsystem.com/e/dtb/bid?src=3128&u=https%3A%2F%2Fm.fitforfun.de%2F&cb=6162582&gdprl=%7B%22status%22%3A%22cmp-in-flight%22%7D, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://c.amazon-adsystem.com/aax2/amzn_ads.js",
+      "lineNumber": 1,
+      "columnNumber": 0
+    },
+    "text": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://aax.amazon-adsystem.com/e/dtb/bid?src=3128&u=https%3A%2F%2Fm.fitforfun.de%2F&cb=6162582&gdprl=%7B%22status%22%3A%22cmp-in-flight%22%7D, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://cdn.privacy-mgmt.com/wrapperMessagingWithoutDetection.js",
+      "lineNumber": 0,
+      "columnNumber": 154615
+    },
+    "text": "Messaging without detection successfully executed."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 7,
+      "columnNumber": 1545
+    },
+    "text": "RW: $(.js-accordion) =  [li.has-subnav.js-accordion,li.has-subnav.js-accordion,li.has-subnav.js-accordion,li.has-subnav.js-accordion,li.has-subnav.js-accordion,li.has-subnav.js-accordion,li.has-subnav.js-accordion,li.has-subnav.js-accordion,li.has-subnav.js-accordion]"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 11,
+      "columnNumber": 46
+    },
+    "text": "RW: init"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 11,
+      "columnNumber": 10881
+    },
+    "text": "RW: mobile-js: initLoadComments() called"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 11,
+      "columnNumber": 6335
+    },
+    "text": "ET:  491483"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 11,
+      "columnNumber": 1950
+    },
+    "text": "PageType: homepage"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 11,
+      "columnNumber": 3978
+    },
+    "text": "tracking: action: Slider (TC1)"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 11,
+      "columnNumber": 3978
+    },
+    "text": "tracking: action: Zweier-Teaser (TC2)"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 11,
+      "columnNumber": 3978
+    },
+    "text": "tracking: action: Zweier-Teaser (TC2)"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 11,
+      "columnNumber": 3978
+    },
+    "text": "tracking: action: Zweier-Teaser (TC2)"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 11,
+      "columnNumber": 3978
+    },
+    "text": "tracking: action: Zweier-Teaser (TC2)"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 11,
+      "columnNumber": 3978
+    },
+    "text": "tracking: action: Zweier-Teaser (TC2)"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 11,
+      "columnNumber": 3978
+    },
+    "text": "tracking: action: Zweier-Teaser (TC2)"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 11,
+      "columnNumber": 3978
+    },
+    "text": "tracking: action: Video"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 11,
+      "columnNumber": 3978
+    },
+    "text": "tracking: action: Zweier-Teaser (TC2)"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 11,
+      "columnNumber": 3978
+    },
+    "text": "tracking: action: Zweier-Teaser (TC2)"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 11,
+      "columnNumber": 3978
+    },
+    "text": "tracking: action: Zweier-Teaser (TC2)"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 11,
+      "columnNumber": 3978
+    },
+    "text": "tracking: action: Dreier-Slider (TC5 - TC8)"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 11,
+      "columnNumber": 3978
+    },
+    "text": "tracking: action: Sechser-Bild-Teaser"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 11,
+      "columnNumber": 3978
+    },
+    "text": "tracking: action: Dreier-Slider (TC5 - TC8)"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 11,
+      "columnNumber": 7527
+    },
+    "text": "init searchbar"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 15,
+      "columnNumber": 43
+    },
+    "text": "swipe.js doc ready"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/",
+      "lineNumber": 1317,
+      "columnNumber": 49
+    },
+    "text": "tfmvideo:c972654478"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 8,
+      "columnNumber": 2408
+    },
+    "text": "[ABD] start beginTest"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 8,
+      "columnNumber": 2408
+    },
+    "text": "[ABD] adding bait node to DOM"
+  },
+  {
+    "type": "admeasure",
+    "text": "Looking for dialogs to reject..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting for __tcfapi..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint iframe found!"
+  },
+  {
+    "type": "admeasure",
+    "text": "__tcfapi found! Querying status..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 8,
+      "columnNumber": 2408
+    },
+    "text": "[ABD] exiting test loop - value: false"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/",
+      "lineNumber": 2894,
+      "columnNumber": 54
+    },
+    "text": "notFound"
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingWaiting."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingLoaded."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Button clicked: Weitere Einstellungen"
+  },
+  {
+    "type": "admeasure",
+    "text": "Found Sourcepoint privacy manager."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: no type toggles."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Check for legitimate interest button..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Clicking legitimate interest button: Einstellungen anpassen"
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Find the save button."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint dialog rejected."
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data obtained!"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data: cmpId 6 consent false, legInt false."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting..."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://c.amazon-adsystem.com/aax2/amzn_ads.js",
+      "lineNumber": 1,
+      "columnNumber": 59591
+    },
+    "text": "Initiating amznads"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://c.amazon-adsystem.com/aax2/amzn_ads.js",
+      "lineNumber": 1,
+      "columnNumber": 62483
+    },
+    "text": "amznads.getAds(): clear out existing ads"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://c.amazon-adsystem.com/aax2/amzn_ads.js",
+      "lineNumber": 1,
+      "columnNumber": 62851
+    },
+    "text": "amznads.getAds(): Using url=https%3A%2F%2Fm.fitforfun.de%2F"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://c.amazon-adsystem.com/aax2/amzn_ads.js",
+      "lineNumber": 1,
+      "columnNumber": 61607
+    },
+    "text": "amznads.getAds: Call to: https://aax.amazon-adsystem.com/e/dtb/bid?src=3128&u=https%3A%2F%2Fm.fitforfun.de%2F&cb=1368967&gdprl=%7B%22status%22%3A%22cmp-in-flight%22%7D"
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://c.amazon-adsystem.com/aax2/amzn_ads.js",
+      "lineNumber": 1,
+      "columnNumber": 0
+    },
+    "text": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://aax.amazon-adsystem.com/e/dtb/bid?src=3128&u=https%3A%2F%2Fm.fitforfun.de%2F&cb=1368967&gdprl=%7B%22status%22%3A%22cmp-in-flight%22%7D, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://c.amazon-adsystem.com/aax2/amzn_ads.js",
+      "lineNumber": 1,
+      "columnNumber": 0
+    },
+    "text": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://aax.amazon-adsystem.com/e/dtb/bid?src=3128&u=https%3A%2F%2Fm.fitforfun.de%2F&cb=1368967&gdprl=%7B%22status%22%3A%22cmp-in-flight%22%7D, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://cdn.privacy-mgmt.com/wrapperMessagingWithoutDetection.js",
+      "lineNumber": 0,
+      "columnNumber": 154615
+    },
+    "text": "Messaging without detection successfully executed."
+  },
+  {
+    "type": "info",
+    "location": {
+      "url": "https://acdn.adnxs-simple.com/ast/ast.js",
+      "lineNumber": 0,
+      "columnNumber": 78989
+    },
+    "text": "AST library loaded: 0.40.0"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 7,
+      "columnNumber": 1545
+    },
+    "text": "RW: $(.js-accordion) =  [li.has-subnav.js-accordion,li.has-subnav.js-accordion,li.has-subnav.js-accordion,li.has-subnav.js-accordion,li.has-subnav.js-accordion,li.has-subnav.js-accordion,li.has-subnav.js-accordion,li.has-subnav.js-accordion,li.has-subnav.js-accordion]"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 11,
+      "columnNumber": 46
+    },
+    "text": "RW: init"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 11,
+      "columnNumber": 10881
+    },
+    "text": "RW: mobile-js: initLoadComments() called"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 11,
+      "columnNumber": 6335
+    },
+    "text": "ET:  491483"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 11,
+      "columnNumber": 1950
+    },
+    "text": "PageType: homepage"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 11,
+      "columnNumber": 3978
+    },
+    "text": "tracking: action: Slider (TC1)"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 11,
+      "columnNumber": 3978
+    },
+    "text": "tracking: action: Zweier-Teaser (TC2)"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 11,
+      "columnNumber": 3978
+    },
+    "text": "tracking: action: Zweier-Teaser (TC2)"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 11,
+      "columnNumber": 3978
+    },
+    "text": "tracking: action: Zweier-Teaser (TC2)"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 11,
+      "columnNumber": 3978
+    },
+    "text": "tracking: action: Zweier-Teaser (TC2)"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 11,
+      "columnNumber": 3978
+    },
+    "text": "tracking: action: Zweier-Teaser (TC2)"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 11,
+      "columnNumber": 3978
+    },
+    "text": "tracking: action: Zweier-Teaser (TC2)"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 11,
+      "columnNumber": 3978
+    },
+    "text": "tracking: action: Video"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 11,
+      "columnNumber": 3978
+    },
+    "text": "tracking: action: Zweier-Teaser (TC2)"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 11,
+      "columnNumber": 3978
+    },
+    "text": "tracking: action: Zweier-Teaser (TC2)"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 11,
+      "columnNumber": 3978
+    },
+    "text": "tracking: action: Zweier-Teaser (TC2)"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 11,
+      "columnNumber": 3978
+    },
+    "text": "tracking: action: Dreier-Slider (TC5 - TC8)"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 11,
+      "columnNumber": 3978
+    },
+    "text": "tracking: action: Sechser-Bild-Teaser"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 11,
+      "columnNumber": 3978
+    },
+    "text": "tracking: action: Dreier-Slider (TC5 - TC8)"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 11,
+      "columnNumber": 7527
+    },
+    "text": "init searchbar"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/js/a8b4df3.js?2.8j",
+      "lineNumber": 15,
+      "columnNumber": 43
+    },
+    "text": "swipe.js doc ready"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://m.fitforfun.de/",
+      "lineNumber": 1317,
+      "columnNumber": 49
+    },
+    "text": "tfmvideo:c972654478"
+  },
+  {
+    "type": "startGroup",
+    "location": {
+      "url": "https://acdn.adnxs-simple.com/ast/mediation/0.40.0/mediation.js",
+      "lineNumber": 1,
+      "columnNumber": 5174
+    },
+    "text": "anx-mediation %cCONTINUE color: orange"
+  },
+  {
+    "type": "startGroupCollapsed",
+    "location": {
+      "url": "https://acdn.adnxs-simple.com/ast/mediation/0.40.0/mediation.js",
+      "lineNumber": 1,
+      "columnNumber": 5308
+    },
+    "text": "anx-mediation: %cNOBID %ccreative ids 149615223 color: orange color: black"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://acdn.adnxs-simple.com/ast/mediation/0.40.0/mediation.js",
+      "lineNumber": 1,
+      "columnNumber": 6157
+    },
+    "text": "anx-mediation:  INIT --"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://acdn.adnxs-simple.com/ast/mediation/0.40.0/mediation.js",
+      "lineNumber": 1,
+      "columnNumber": 6157
+    },
+    "text": "anx-mediation:  NOBID 417ms"
+  },
+  {
+    "type": "endGroup",
+    "location": {
+      "url": "https://acdn.adnxs-simple.com/ast/mediation/0.40.0/mediation.js",
+      "lineNumber": 1,
+      "columnNumber": 5396
+    },
+    "text": "console.groupEnd"
+  },
+  {
+    "type": "startGroupCollapsed",
+    "location": {
+      "url": "https://acdn.adnxs-simple.com/ast/mediation/0.40.0/mediation.js",
+      "lineNumber": 1,
+      "columnNumber": 5308
+    },
+    "text": "anx-mediation: %cCONTINUE %ccreative ids 305858712 color: orange color: black"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://acdn.adnxs-simple.com/ast/mediation/0.40.0/mediation.js",
+      "lineNumber": 1,
+      "columnNumber": 6157
+    },
+    "text": "anx-mediation:  CONTINUE 417ms"
+  },
+  {
+    "type": "endGroup",
+    "location": {
+      "url": "https://acdn.adnxs-simple.com/ast/mediation/0.40.0/mediation.js",
+      "lineNumber": 1,
+      "columnNumber": 5396
+    },
+    "text": "console.groupEnd"
+  },
+  {
+    "type": "endGroup",
+    "location": {
+      "url": "https://acdn.adnxs-simple.com/ast/mediation/0.40.0/mediation.js",
+      "lineNumber": 1,
+      "columnNumber": 5396
+    },
+    "text": "console.groupEnd"
+  },
+  {
+    "type": "admeasure",
+    "text": "Minimum wait time reached after 5.02s."
+  },
+  {
+    "type": "admeasure",
+    "text": "Network is idle after 12.0s."
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

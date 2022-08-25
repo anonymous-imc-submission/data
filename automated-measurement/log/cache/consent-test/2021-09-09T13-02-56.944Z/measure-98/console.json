@@ -1,0 +1,177 @@
+[
+  {
+    "part": "measure-98",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:33:33.502Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "visit https://slate.com/...",
+    "timestamp": "2021-09-09T13:33:35.203Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:33:59.931Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:33:59.967Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Blocked autofocusing on a <div> element in a cross-origin subframe. @ [object Object]",
+    "timestamp": "2021-09-09T13:34:00.094Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Blocked autofocusing on a <div> element in a cross-origin subframe. @ [object Object]",
+    "timestamp": "2021-09-09T13:34:00.097Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Blocked autofocusing on a <div> element in a cross-origin subframe. @ [object Object]",
+    "timestamp": "2021-09-09T13:34:00.100Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Blocked autofocusing on a <div> element in a cross-origin subframe. @ [object Object]",
+    "timestamp": "2021-09-09T13:34:00.100Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Blocked autofocusing on a <div> element in a cross-origin subframe. @ [object Object]",
+    "timestamp": "2021-09-09T13:34:00.101Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Blocked autofocusing on a <div> element in a cross-origin subframe. @ [object Object]",
+    "timestamp": "2021-09-09T13:34:00.101Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Blocked autofocusing on a <div> element in a cross-origin subframe. @ [object Object]",
+    "timestamp": "2021-09-09T13:34:00.103Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Blocked autofocusing on a <div> element in a cross-origin subframe. @ [object Object]",
+    "timestamp": "2021-09-09T13:34:00.104Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Blocked autofocusing on a <div> element in a cross-origin subframe. @ [object Object]",
+    "timestamp": "2021-09-09T13:34:00.106Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Blocked autofocusing on a <div> element in a cross-origin subframe. @ [object Object]",
+    "timestamp": "2021-09-09T13:34:00.108Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Blocked autofocusing on a <div> element in a cross-origin subframe. @ [object Object]",
+    "timestamp": "2021-09-09T13:34:00.109Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Blocked autofocusing on a <div> element in a cross-origin subframe. @ [object Object]",
+    "timestamp": "2021-09-09T13:34:00.113Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Blocked autofocusing on a <div> element in a cross-origin subframe. @ [object Object]",
+    "timestamp": "2021-09-09T13:34:00.114Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Blocked autofocusing on a <div> element in a cross-origin subframe. @ [object Object]",
+    "timestamp": "2021-09-09T13:34:00.117Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Blocked autofocusing on a <div> element in a cross-origin subframe. @ [object Object]",
+    "timestamp": "2021-09-09T13:34:00.118Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Blocked autofocusing on a <div> element in a cross-origin subframe. @ [object Object]",
+    "timestamp": "2021-09-09T13:34:00.120Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "Rendering \"Checkout\" template https://buy.tinypass.com/checkout/offer/show?displayMode=inline&containerSelector=%23piano-banner&templateId=OTXEK90ZEFII&offerId=OF2LLP57V2KM&formNameByTermId=%7B%22TMWB0JWBX5BU%22%3A%22attribution-menu%22%7D&hideCompletedFields=true&showCloseButton=false&experienceId=EXUF5T1K9FED&widget=offer&iframeId=offer-0-XK1Bd&url=https%3A%2F%2Fslate.com%2F&parentDualScreenLeft=0&parentDualScreenTop=0&parentWidth=428&parentHeight=746&parentOuterHeight=746&aid=homyv5Uzpu&pianoIdUrl=https%3A%2F%2Fid.tinypass.com%2Fid%2F&userProvider=piano_id&userToken=&customCookies=%7B%7D&hasLoginRequiredCallback=true&initMode=context&width=428&_qh=c06ab3c98a @ [object Object]",
+    "timestamp": "2021-09-09T13:34:00.145Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:34:01.539Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:34:01.548Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:34:01.596Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:34:01.603Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:34:01.614Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:34:02.217Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button id=\"onetrust-pc-btn-handler\">Show Purposes</button>\nattempting click action\n  waiting for element to be visible, enabled and stable\n  element is visible, enabled and stable\n  scrolling into view if needed\n  done scrolling\n  checking that element receives pointer events at (84.65,725.19)\n  element does receive pointer events\n  performing click action\n  click action done\n  waiting for scheduled navigations to finish\n============================================================",
+    "timestamp": "2021-09-09T13:34:04.222Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:34:11.237Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:34:11.241Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:34:11.260Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:34:11.268Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:34:11.463Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:34:16.266Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:34:16.342Z"
+  }
+]

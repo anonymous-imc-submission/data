@@ -1,0 +1,216 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://lecker.de/..."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://privacy.lecker.de/wrapperMessagingWithoutDetection.js",
+      "lineNumber": 0,
+      "columnNumber": 154615
+    },
+    "text": "Messaging without detection successfully executed."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://script.ioam.de/iam.js",
+      "lineNumber": 598,
+      "columnNumber": 0
+    },
+    "text": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://1991533c.de.ioam.de/tx.io?st=moblecke&cp=LE_Home&sv=ke&sc=yes&ct=0100000000&pt=CP&ps=lin&er=N22&rf=&r2=&ur=www.lecker.de&xy=393x851x24&lo=GB%2FSlough&cb=0012&i2=00127616ca925cf8d6139b470&ep=1656627870&vr=434&id=ql1pml&i3=00127616ca925cf8d6139b470%3A1657437526631%3A1631171926631%3A.lecker.de%3A1%3Amoblecke%3ALE_Home%3Anoevent%3A1631171926631&n1=9&dntt=0&lt=1631171926695&ev=&cs=d03or1&mo=1, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://script.ioam.de/iam.js",
+      "lineNumber": 598,
+      "columnNumber": 0
+    },
+    "text": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://1991533c.de.ioam.de/tx.io?st=moblecke&cp=LE_Home&sv=ke&sc=yes&ct=0100000000&pt=CP&ps=lin&er=N22&rf=&r2=&ur=www.lecker.de&xy=393x851x24&lo=GB%2FSlough&cb=0012&i2=00127616ca925cf8d6139b470&ep=1656627870&vr=434&id=ql1pml&i3=00127616ca925cf8d6139b470%3A1657437526631%3A1631171926631%3A.lecker.de%3A1%3Amoblecke%3ALE_Home%3Anoevent%3A1631171926631&n1=9&dntt=0&lt=1631171926695&ev=&cs=d03or1&mo=1, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.lecker.de/assets/js/js_NgN6-jojGtwetTG9AjgHa-frDJQ_7kbHaRbKJ1Hz3ss.js",
+      "lineNumber": 12,
+      "columnNumber": 28
+    },
+    "text": "slot_counter 1"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.lecker.de/assets/js/js_NgN6-jojGtwetTG9AjgHa-frDJQ_7kbHaRbKJ1Hz3ss.js",
+      "lineNumber": 12,
+      "columnNumber": 28
+    },
+    "text": "slot_counter 2"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.lecker.de/assets/js/js_rBDr8CILUVznWdBtvpIxgCNQcTQsPcnpld6puoNcpyk.js",
+      "lineNumber": 23,
+      "columnNumber": 18196
+    },
+    "text": "Drupal.behaviors.xcel_cookie_consent.init"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.lecker.de/assets/js/js_rBDr8CILUVznWdBtvpIxgCNQcTQsPcnpld6puoNcpyk.js",
+      "lineNumber": 23,
+      "columnNumber": 17270
+    },
+    "text": "consentString:  "
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062509",
+      "lineNumber": 5,
+      "columnNumber": 84240
+    },
+    "text": "updateCorrelator has been deprecated. Please see the Google Ad Manager help page on \"Pageviews in GPT\" for more information: https://support.google.com/admanager/answer/183281?hl=en"
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062509",
+      "lineNumber": 5,
+      "columnNumber": 116668
+    },
+    "text": "[GPT] updateCorrelator has been deprecated. See the Google Ad Manager help page on \"Creative selection for multiple ad slots\" for more information: https://support.google.com/admanager/answer/183281."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 443
+    },
+    "text": "calculated pageclass: frontpage"
+  },
+  {
+    "type": "admeasure",
+    "text": "Looking for dialogs to reject..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting for __tcfapi..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint iframe found!"
+  },
+  {
+    "type": "admeasure",
+    "text": "__tcfapi found! Querying status..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingWaiting."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingLoaded."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Button clicked: Optionen"
+  },
+  {
+    "type": "admeasure",
+    "text": "Found Sourcepoint privacy manager."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: toggling type toggles."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Check for legitimate interest button..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: no legitimate interest button found: No matching button found: "
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Find the save button."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint dialog rejected."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.lecker.de/assets/js/js_rBDr8CILUVznWdBtvpIxgCNQcTQsPcnpld6puoNcpyk.js",
+      "lineNumber": 23,
+      "columnNumber": 18196
+    },
+    "text": "Drupal.behaviors.xcel_cookie_consent.init"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://cdn.stroeerdigitalgroup.de/metatag/live/bauer-lecker/metaTag.min.js",
+      "lineNumber": 0,
+      "columnNumber": 74295
+    },
+    "text": "Stroeer TagManager \"MetaTag\": An error occurred processing advertisements on your website. Please check the \"Info-Tool\" for detailed information. Documentation for the tool: https://stroeerdigitalgroup.atlassian.net/wiki/x/x2LNAQ"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.lecker.de/assets/js/js_rBDr8CILUVznWdBtvpIxgCNQcTQsPcnpld6puoNcpyk.js",
+      "lineNumber": 23,
+      "columnNumber": 17270
+    },
+    "text": "consentString:  CPMQRaqPMQRaqAGABBDEBqCgAAAAAAAAAAwIAAAAAAAA.YAAAAAAAAAAA"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data obtained!"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data: cmpId 6 consent false, legInt false."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Network is idle after 0.00s."
+  },
+  {
+    "type": "admeasure",
+    "text": "Minimum wait time reached after 5.00s."
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

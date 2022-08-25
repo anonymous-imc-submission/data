@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-39",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:12:27.500Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "visit https://activityvillage.co.uk/...",
+    "timestamp": "2021-09-09T13:12:28.792Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Failed to execute 'write' on 'Document': It isn't possible to write into a document from an asynchronously-loaded external script unless it is explicitly opened. @ [object Object]",
+    "timestamp": "2021-09-09T13:12:33.436Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:12:36.387Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:12:36.388Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:12:37.866Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:37.866Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:12:38.012Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:12:38.019Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:38.055Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:12:38.371Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:12:40.226Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "TCF data: cmpId 10 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:12:40.229Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:12:40.242Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:12:40.245Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:12:40.317Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:12:45.243Z"
+  },
+  {
+    "part": "measure-39",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:12:45.277Z"
+  }
+]

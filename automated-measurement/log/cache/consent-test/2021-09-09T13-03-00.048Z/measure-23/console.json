@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-23",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:10:54.163Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "visit https://crfashionbook.com/...",
+    "timestamp": "2021-09-09T13:10:54.905Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service worker registration succeeded. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:56.157Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:10:58.990Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:11:00.266Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:11:00.268Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:11:00.968Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:00.968Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:11:00.986Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:11:00.989Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:01.035Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:11:01.066Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:11:19.464Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:11:19.468Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:11:19.477Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:11:19.483Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:11:19.552Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Service worker registration succeeded. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:20.149Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SHA Abort @ [object Object]",
+    "timestamp": "2021-09-09T13:11:21.189Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:11:24.478Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:11:24.509Z"
+  }
+]

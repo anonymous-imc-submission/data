@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-79",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:18:19.934Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "visit https://onthesnow.com/...",
+    "timestamp": "2021-09-09T13:18:21.022Z"
+  },
+  {
+    "part": "console.log",
+    "message": "gpt initialized 18:25.411 @ [object Object]",
+    "timestamp": "2021-09-09T13:18:25.416Z"
+  },
+  {
+    "part": "console.log",
+    "message": "received a request for uspapi @ [object Object]",
+    "timestamp": "2021-09-09T13:18:38.179Z"
+  },
+  {
+    "part": "console.log",
+    "message": "received a request for uspapi @ [object Object]",
+    "timestamp": "2021-09-09T13:18:38.181Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:18:46.156Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:18:46.192Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:18:52.711Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:52.751Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:18:53.049Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:18:53.056Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:53.477Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:18:56.301Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:18:56.301Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:18:56.405Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:18:56.610Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:19:01.414Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[Facebook Pixel] - Unable to parse JSON-LD tag. Malformed JSON found: '\n{\"@context\":\"http://schema.org\",\"@type\":\"Organization\",\"url\":\"https://www.onthesnow.com/\",\"logo\":\"https://images.onthesnow.com/images/logo.png\",\"name\":\"OnTheSnow\",\"contactPoint\":[{\"@type\":\"ContactPoint\",\"telephone\":\"\",\"url\":\"https://www.onthesnow.com/\",\"contactType\":\"customer service\"}],\"sameAs\":[\"https://www.facebook.com/onthesnowfan\",\"https://www.twitter.com/onthesnow\"]};\n'. @ [object Object]",
+    "timestamp": "2021-09-09T13:19:12.501Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "Timeout after 21.3s",
+    "timestamp": "2021-09-09T13:19:17.715Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://www.onthesnow.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:19:18.018Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:19:18.240Z"
+  }
+]

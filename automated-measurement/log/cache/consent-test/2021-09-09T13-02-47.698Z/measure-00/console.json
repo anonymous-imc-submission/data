@@ -1,0 +1,182 @@
+[
+  {
+    "part": "measure-00",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:05:04.733Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "visit https://flaticon.com/...",
+    "timestamp": "2021-09-09T13:05:05.120Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Invalid allowlist item(none) for feature geolocation. Allowlist item must be *, self or quoted url. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:05.354Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Invalid allowlist item(none) for feature midi. Allowlist item must be *, self or quoted url. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:05.354Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Invalid allowlist item(none) for feature notifications. Allowlist item must be *, self or quoted url. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:05.358Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Invalid allowlist item(none) for feature push. Allowlist item must be *, self or quoted url. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:05.358Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Invalid allowlist item(none) for feature microphone. Allowlist item must be *, self or quoted url. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:05.359Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Invalid allowlist item(none) for feature camera. Allowlist item must be *, self or quoted url. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:05.359Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Invalid allowlist item(none) for feature magnetometer. Allowlist item must be *, self or quoted url. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:05.366Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Invalid allowlist item(none) for feature gyroscope. Allowlist item must be *, self or quoted url. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:05.366Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Invalid allowlist item(none) for feature speaker. Allowlist item must be *, self or quoted url. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:05.371Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Invalid allowlist item(none) for feature vibrate. Allowlist item must be *, self or quoted url. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:05.371Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Invalid allowlist item(none) for feature payment. Allowlist item must be *, self or quoted url. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:05.371Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Unrecognized feature: 'notifications'. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:05.371Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Unrecognized feature: 'push'. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:05.371Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Unrecognized feature: 'speaker'. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:05.371Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Unrecognized feature: 'vibrate'. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:05.371Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:05:12.421Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:05:12.441Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:05:13.039Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:05:13.043Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:05:13.073Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:05:13.078Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:05:13.139Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:05:13.196Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://img-sharesprites.flaticon.com/pack/5/5547/5547475-flamenco_3x2.jpg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:15.429Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://img-sharesprites.flaticon.com/pack/5/5483/5483474-autumn_3x2.jpg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:15.432Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://img-sharesprites.flaticon.com/pack/5/5547/5547470-real-estate_3x2.jpg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:15.436Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://img-sharesprites.flaticon.com/pack/5/5020/5020392-cow_3x2.jpg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:15.437Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:05:32.942Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:05:32.944Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:05:32.961Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:05:32.966Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:05:33.061Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:05:37.964Z"
+  },
+  {
+    "part": "measure-00",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:05:38.001Z"
+  }
+]

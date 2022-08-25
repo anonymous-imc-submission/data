@@ -1,0 +1,211 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://express.de/..."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.express.de/",
+      "lineNumber": 2736,
+      "columnNumber": 20
+    },
+    "text": "{st: mobexpre, cp: express_home, sv: ke, co: express IVW Call, sc: yes}"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://static.dumontnext.de/revenue/lightworks-express.js?020921hello",
+      "lineNumber": 0,
+      "columnNumber": 8
+    },
+    "text": "%c Dumont Advertising:  background: #ed2619; color: #fff; lightworks router 02.09.21 - 15:13"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://static.dumontnext.de/revenue/lightworks-express.js?020921hello",
+      "lineNumber": 0,
+      "columnNumber": 45476
+    },
+    "text": "lade Stroeer aus AS_initAd_weiche() "
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://static.dumontnext.de/revenue/lightworks-express.js?020921hello",
+      "lineNumber": 0,
+      "columnNumber": 46240
+    },
+    "text": "%c Dumont Advertising:  background: #ed2619; color: #fff; kein Login-Cookie da, starte Weiche"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://track.express.de/cre-1.0/tracking/tracking.js",
+      "lineNumber": 0,
+      "columnNumber": 1171
+    },
+    "text": "[DEBUG] Requested script: \"https://track.express.de/cre-1.0/tracking/call.js?action=pageview&origin=mobile&serviceid=loginexpressde&site=express.de&contentid=%2F&cms_id=19734&channel=undefined&doctype=Kategorieseite&tag=undefined&heading=undefined&entitlement=undefined&_u=https%3A%2F%2Fwww.express.de%2F&_r=&_c=cre_callback_55503\""
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://cdn.stroeerdigitalgroup.de/metatag/live/OMS_express_relaunch/metaTag.min.js",
+      "lineNumber": 0,
+      "columnNumber": 74135
+    },
+    "text": "Stroeer TagManager \"MetaTag\": An error occurred processing advertisements on your website. Please check the \"Info-Tool\" for detailed information. Documentation for the tool: https://stroeerdigitalgroup.atlassian.net/wiki/x/x2LNAQ"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://consent2.express.de/wrapperMessagingWithoutDetection.js",
+      "lineNumber": 0,
+      "columnNumber": 154615
+    },
+    "text": "Messaging without detection successfully executed."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 4,
+      "columnNumber": 8
+    },
+    "text": "{st: express, cp: express_pur, mg: yes, sv: ke, co: IVW Aufruf}"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.express.de/shared-static/all/dumont-consent/sp_api.js",
+      "lineNumber": 47,
+      "columnNumber": 36
+    },
+    "text": "onMessageReceiveData {prtnUUID: bc477ee0-b966-4e1c-b703-c4e8f45b387f, messageId: 526399, msgDescription: PUR Notice, bucket: 172, uuid: 75769280-b793-42ba-94ff-e2e9b4ef2b06}"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://consent2.express.de/wrapperMessagingWithoutDetection.js",
+      "lineNumber": 0,
+      "columnNumber": 154615
+    },
+    "text": "Messaging without detection successfully executed."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://assets.adobedtm.com/00a733507f33/4153917cce75/launch-06801460f26f.min.js",
+      "lineNumber": 7,
+      "columnNumber": 22296
+    },
+    "text": "🚀 _satellite.readCookie is deprecated. Please use _satellite.cookie.get(\"DDC_userID\")."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://assets.adobedtm.com/00a733507f33/4153917cce75/76ca91cf13f9/EXb3b2d9f825144d269dda38c3358d34e3-libraryCode_source.min.js",
+      "lineNumber": 2,
+      "columnNumber": 24316
+    },
+    "text": "REFERRER: Typed/Bookmarked"
+  },
+  {
+    "type": "admeasure",
+    "text": "Looking for dialogs to reject..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting for __tcfapi..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint iframe found!"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.express.de/shared-static/all/dumont-consent/sp_api.js",
+      "lineNumber": 35,
+      "columnNumber": 36
+    },
+    "text": "onMessageReady"
+  },
+  {
+    "type": "admeasure",
+    "text": "__tcfapi found! Querying status..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingWaiting."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingLoaded."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-pc-btn-handler:visible,\n            #onetrust-pc-sdk:visible\n        \" to be visible\n    ============================================================\n  - No matching button found: Akzeptieren und weiter"
+  },
+  {
+    "type": "admeasure",
+    "text": "TC Data evaluation failed: Error: page.evaluate: timeout"
+  },
+  {
+    "type": "admeasure",
+    "text": "TC data: waiting for page to stabilize..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "TC Data evaluation failed: Error: page.evaluate: timeout"
+  },
+  {
+    "type": "admeasure",
+    "text": "TC data: waiting for page to stabilize..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Cannot get TCF data: getTCData timed out"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data: cmpId 6 consent null, legInt null."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Network is idle after 0.00s."
+  },
+  {
+    "type": "admeasure",
+    "text": "Minimum wait time reached after 5.00s."
+  },
+  {
+    "type": "admeasure",
+    "text": "TC Data evaluation failed: Error: page.evaluate: Target closed"
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

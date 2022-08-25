@@ -1,0 +1,212 @@
+[
+  {
+    "part": "measure-15",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:07:44.094Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "visit https://grindtv.com/...",
+    "timestamp": "2021-09-09T13:07:44.285Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:07:46.615Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:07:46.643Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:07:47.830Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Permutive was not initialized. No consent to run on the page @ [object Object]",
+    "timestamp": "2021-09-09T13:07:48.610Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:07:48.916Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:07:49.568Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:07:49.976Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:07:50.105Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:07:50.244Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:07:50.941Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:07:50.947Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:07:50.965Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c is_international - \"status\":true color: #10ac84 @ [object Object]",
+    "timestamp": "2021-09-09T13:07:51.584Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c Got: 1631192870903.0244 background: #27ae60; color: #000; padding: 2px 10px 2px 5px @ [object Object]",
+    "timestamp": "2021-09-09T13:07:51.599Z"
+  },
+  {
+    "part": "console.log",
+    "message": "permutive identity:  TypeError: Cannot read properties of null (reading 'user')\n    at Object.<anonymous> (https://www.mensjournal.com/:1237:26)\n    at c (https://www.mensjournal.com/_static/??-eJx9jEEOwiAQRS8kTLDVdGM8Cy2TdggMygyp3r7EuHBl8pO/ee/B/jDES2oBBWLfs2F9f89mYhvlBP8gk2mtXvEXXgorsoJumLuSkcXE0ir7BF4E9ZMJJAqJ1k3n8jrbuXFI2BP3fHPXwblpmC5jPAB2kTtv:2:28327)\n    at Object.fireWith [as resolveWith] (https://www.mensjournal.com/_static/??-eJx9jEEOwiAQRS8kTLDVdGM8Cy2TdggMygyp3r7EuHBl8pO/ee/B/jDES2oBBWLfs2F9f89mYhvlBP8gk2mtXvEXXgorsoJumLuSkcXE0ir7BF4E9ZMJJAqJ1k3n8jrbuXFI2BP3fHPXwblpmC5jPAB2kTtv:2:29072)\n    at l (https://www.mensjournal.com/_static/??-eJx9jEEOwiAQRS8kTLDVdGM8Cy2TdggMygyp3r7EuHBl8pO/ee/B/jDES2oBBWLfs2F9f89mYhvlBP8gk2mtXvEXXgorsoJumLuSkcXE0ir7BF4E9ZMJJAqJ1k3n8jrbuXFI2BP3fHPXwblpmC5jPAB2kTtv:2:79901)\n    at XMLHttpRequest.<anonymous> (https://www.mensjournal.com/_static/??-eJx9jEEOwiAQRS8kTLDVdGM8Cy2TdggMygyp3r7EuHBl8pO/ee/B/jDES2oBBWLfs2F9f89mYhvlBP8gk2mtXvEXXgorsoJumLuSkcXE0ir7BF4E9ZMJJAqJ1k3n8jrbuXFI2BP3fHPXwblpmC5jPAB2kTtv:2:82355) @ [object Object]",
+    "timestamp": "2021-09-09T13:07:51.604Z"
+  },
+  {
+    "part": "console.log",
+    "message": "identity [Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:51.610Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:07:51.614Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:07:51.741Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:07:51.753Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:51.757Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:07:51.831Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:07:51.838Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:51.848Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:07:51.904Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:07:52.193Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[Facebook Pixel] - Duplicate Pixel ID: 2398139466874696. @ [object Object]",
+    "timestamp": "2021-09-09T13:07:52.745Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:07:53.116Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:07:53.121Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:07:53.138Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:07:53.142Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:07:53.205Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:07:53.314Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:07:53.445Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp Amazon not loaded  @ [object Object]",
+    "timestamp": "2021-09-09T13:07:53.865Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.mensjournal.com/wp-content/themes/ajax-onload.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:07:55.987Z"
+  },
+  {
+    "part": "console.log",
+    "message": "AMI jwp - Amazon loaded @ [object Object]",
+    "timestamp": "2021-09-09T13:07:56.014Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Invalid arguments: PubAdsService.setTargeting('pid', 553781). @ [object Object]",
+    "timestamp": "2021-09-09T13:07:57.381Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Invalid arguments: PubAdsService.setTargeting('pid', 553781). @ [object Object]",
+    "timestamp": "2021-09-09T13:07:58.003Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:07:58.138Z"
+  },
+  {
+    "part": "measure-15",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:07:58.176Z"
+  }
+]

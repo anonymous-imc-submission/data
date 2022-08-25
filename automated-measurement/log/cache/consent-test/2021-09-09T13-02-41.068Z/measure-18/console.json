@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-18",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:48.659Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "visit https://autosport.com/...",
+    "timestamp": "2021-09-09T13:06:48.942Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:07:00.346Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:07:00.347Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:07:02.680Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:02.681Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:07:02.760Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:07:02.766Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:02.808Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://cdn-1.motorsport.com/images/amp/6O1J1EW2/s800/carlos-sainz-jr-ferrari-sf21-b.jpg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:07:04.473Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:07:06.960Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:07:06.963Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:07:06.970Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:07:06.973Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:07:07.282Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Mixed Content: The page at 'https://buy.tinypass.com/checkout/template/cacheableShow?aid=cxPw94Eaz6&templateId=OTMTY4PRGS7J&templateVariantId=OTVK16PDEI8E5&offerId=fakeOfferId&experienceId=EXWB079ZWOIN&iframeId=offer_96b42b38559c83d19cef-0&displayMode=inline&pianoIdUrl=https%3A%2F%2Fid.tinypass.com%2Fid%2F&widget=template' was loaded over HTTPS, but requested an insecure element 'http://cdn-1.motorsport.com/static/custom/piano/_Autosport/Plus_Car_Burst_Small.png'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ [object Object]",
+    "timestamp": "2021-09-09T13:07:11.894Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:07:11.970Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:07:12.007Z"
+  }
+]

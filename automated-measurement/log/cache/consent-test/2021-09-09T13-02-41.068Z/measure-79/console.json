@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-79",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:17:31.960Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "visit https://scoreboard.com/...",
+    "timestamp": "2021-09-09T13:17:32.953Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://scoreboard.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:18:03.111Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:18:03.579Z"
+  }
+]

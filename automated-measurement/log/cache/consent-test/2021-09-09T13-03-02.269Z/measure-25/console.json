@@ -1,0 +1,117 @@
+[
+  {
+    "part": "measure-25",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:10:15.714Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "visit https://theintell.com/...",
+    "timestamp": "2021-09-09T13:10:16.227Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:10:23.086Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:10:26.950Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:10:26.950Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:10:28.038Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:28.039Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:10:28.160Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:10:28.163Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:28.215Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:10:28.282Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:10:31.779Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:10:31.825Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - exchange-thumbnails-desktop-deal @ [object Object]",
+    "timestamp": "2021-09-09T13:10:32.244Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - exchange-thumbnails-desktop-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:10:32.266Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:10:33.468Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:10:36.256Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:10:36.258Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:10:36.270Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:10:36.536Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:10:41.270Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:10:56.272Z"
+  },
+  {
+    "part": "measure-25",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:10:56.293Z"
+  }
+]

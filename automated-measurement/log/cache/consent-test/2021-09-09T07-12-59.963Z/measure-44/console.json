@@ -1,0 +1,238 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://finans.dk/..."
+  },
+  {
+    "type": "error",
+    "location": {
+      "url": "https://finans.dk/podcast/image/46344520/vatsnh/ALTERNATES/e-free/finanspodcast320x320.jpg",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "Failed to load resource: the server responded with a status of 404 ()"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://cdn.privacy-mgmt.com/wrapperMessagingWithoutDetection.js",
+      "lineNumber": 0,
+      "columnNumber": 154615
+    },
+    "text": "Messaging without detection successfully executed."
+  },
+  {
+    "type": "trace",
+    "location": {
+      "url": "https://static-cdn.jyllands-posten.dk/CMP/consent-a1a63763b57bb2191b3c.min.js",
+      "lineNumber": 0,
+      "columnNumber": 15830
+    },
+    "text": "Cannot reinitialize CmpHandler as consent data is not available."
+  },
+  {
+    "type": "trace",
+    "location": {
+      "url": "https://static-cdn.jyllands-posten.dk/CMP/consent-a1a63763b57bb2191b3c.min.js",
+      "lineNumber": 0,
+      "columnNumber": 15830
+    },
+    "text": "Cannot reinitialize CmpHandler as consent data is not available."
+  },
+  {
+    "type": "trace",
+    "location": {
+      "url": "https://static-cdn.jyllands-posten.dk/CMP/consent-a1a63763b57bb2191b3c.min.js",
+      "lineNumber": 0,
+      "columnNumber": 15830
+    },
+    "text": "Cannot reinitialize CmpHandler as consent data is not available."
+  },
+  {
+    "type": "trace",
+    "location": {
+      "url": "https://static-cdn.jyllands-posten.dk/CMP/consent-a1a63763b57bb2191b3c.min.js",
+      "lineNumber": 0,
+      "columnNumber": 15830
+    },
+    "text": "Cannot reinitialize CmpHandler as consent data is not available."
+  },
+  {
+    "type": "admeasure",
+    "text": "Looking for dialogs to reject..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting for __tcfapi..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint iframe found!"
+  },
+  {
+    "type": "admeasure",
+    "text": "__tcfapi found! Querying status..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingWaiting."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingLoaded."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Button clicked: Indstillinger"
+  },
+  {
+    "type": "admeasure",
+    "text": "Found Sourcepoint privacy manager."
+  },
+  {
+    "type": "admeasure",
+    "text": "TC Data evaluation failed: Error: page.evaluate: Execution context was destroyed, most likely because of a navigation."
+  },
+  {
+    "type": "admeasure",
+    "text": "TC data: waiting for page to stabilize..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: no type toggles."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Check for legitimate interest button..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: no legitimate interest button found: Error: locator.count: Execution Context is not available in detached frame \"https://cdn.privacy-mgmt.com/privacy-manager/index.html?message_id=141553&site_id=7732&consent_origin=https%3A%2F%2Fcdn.privacy-mgmt.com%2Fconsent%2Ftcfv2&requestUUID=9a01e7e2-6722-4dfa-a5f7-79caf43362ca&hasCsp=true&includeCustomVendorsRes=1&consentUUID=26790f6b-a651-4468-9c2f-99aab32d8270&mms_origin=https://cdn.privacy-mgmt.com/mms/v2&secure=undefined\" (are you trying to evaluate?)"
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Find the save button."
+  },
+  {
+    "type": "error",
+    "location": {
+      "url": "https://finans.dk/podcast/image/46344520/vatsnh/ALTERNATES/e-free/finanspodcast320x320.jpg",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "Failed to load resource: the server responded with a status of 404 ()"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://cdn.privacy-mgmt.com/wrapperMessagingWithoutDetection.js",
+      "lineNumber": 0,
+      "columnNumber": 154615
+    },
+    "text": "Messaging without detection successfully executed."
+  },
+  {
+    "type": "trace",
+    "location": {
+      "url": "https://static-cdn.jyllands-posten.dk/CMP/consent-a1a63763b57bb2191b3c.min.js",
+      "lineNumber": 0,
+      "columnNumber": 15830
+    },
+    "text": "Cannot reinitialize CmpHandler as consent data is not available."
+  },
+  {
+    "type": "trace",
+    "location": {
+      "url": "https://static-cdn.jyllands-posten.dk/CMP/consent-a1a63763b57bb2191b3c.min.js",
+      "lineNumber": 0,
+      "columnNumber": 15830
+    },
+    "text": "Cannot reinitialize CmpHandler as consent data is not available."
+  },
+  {
+    "type": "trace",
+    "location": {
+      "url": "https://static-cdn.jyllands-posten.dk/CMP/consent-a1a63763b57bb2191b3c.min.js",
+      "lineNumber": 0,
+      "columnNumber": 15830
+    },
+    "text": "Cannot reinitialize CmpHandler as consent data is not available."
+  },
+  {
+    "type": "trace",
+    "location": {
+      "url": "https://static-cdn.jyllands-posten.dk/CMP/consent-a1a63763b57bb2191b3c.min.js",
+      "lineNumber": 0,
+      "columnNumber": 15830
+    },
+    "text": "Cannot reinitialize CmpHandler as consent data is not available."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-pc-btn-handler:visible,\n            #onetrust-pc-sdk:visible\n        \" to be visible\n    ============================================================\n  - Error: locator.allTextContents: Execution Context is not available in detached frame \"https://cdn.privacy-mgmt.com/privacy-manager/index.html?message_id=141553&site_id=7732&consent_origin=https%3A%2F%2Fcdn.privacy-mgmt.com%2Fconsent%2Ftcfv2&requestUUID=9a01e7e2-6722-4dfa-a5f7-79caf43362ca&hasCsp=true&includeCustomVendorsRes=1&consentUUID=26790f6b-a651-4468-9c2f-99aab32d8270&mms_origin=https://cdn.privacy-mgmt.com/mms/v2&secure=undefined\" (are you trying to evaluate?)"
+  },
+  {
+    "type": "admeasure",
+    "text": "TC Data evaluation failed: Error: page.evaluate: timeout"
+  },
+  {
+    "type": "admeasure",
+    "text": "TC data: waiting for page to stabilize..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "TC Data evaluation failed: Error: page.evaluate: timeout"
+  },
+  {
+    "type": "admeasure",
+    "text": "TC data: waiting for page to stabilize..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Cannot get TCF data: getTCData timed out"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data: cmpId 6 consent null, legInt null."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Network is idle after 0.00s."
+  },
+  {
+    "type": "admeasure",
+    "text": "Minimum wait time reached after 5.00s."
+  },
+  {
+    "type": "admeasure",
+    "text": "TC Data evaluation failed: Error: page.evaluate: Target closed"
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

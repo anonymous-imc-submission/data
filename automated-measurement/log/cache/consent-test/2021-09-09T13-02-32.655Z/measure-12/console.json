@@ -1,0 +1,162 @@
+[
+  {
+    "part": "measure-12",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:59.001Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "visit https://pocketsense.com/...",
+    "timestamp": "2021-09-09T13:06:59.379Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Failed to execute 'write' on 'Document': It isn't possible to write into a document from an asynchronously-loaded external script unless it is explicitly opened. @ [object Object]",
+    "timestamp": "2021-09-09T13:07:03.724Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:07:05.148Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[WM] loadQueue: [https://widget.studiod.com/widget-manager/widgets/widget-etf-chart/css/app.css,https://widget.studiod.com/widget-manager/widgets/widget-etf-chart/js/chunk-vendors.js,https://widget.studiod.com/widget-manager/widgets/widget-etf-chart/js/app.js] @ [object Object]",
+    "timestamp": "2021-09-09T13:07:05.363Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[WM]  - chain: https://widget.studiod.com/widget-manager/widgets/widget-etf-chart/css/app.css @ [object Object]",
+    "timestamp": "2021-09-09T13:07:05.370Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[WM]  - chain: https://widget.studiod.com/widget-manager/widgets/widget-etf-chart/js/chunk-vendors.js @ [object Object]",
+    "timestamp": "2021-09-09T13:07:05.373Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[WM]  - chain: https://widget.studiod.com/widget-manager/widgets/widget-etf-chart/js/app.js @ [object Object]",
+    "timestamp": "2021-09-09T13:07:05.375Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[WM]  - completed chain: https://widget.studiod.com/widget-manager/widgets/widget-etf-chart/css/app.css @ [object Object]",
+    "timestamp": "2021-09-09T13:07:05.378Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[WM]  - loaded css https://widget.studiod.com/widget-manager/widgets/widget-etf-chart/css/app.css @ [object Object]",
+    "timestamp": "2021-09-09T13:07:05.408Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[WM]  - completed chain: https://widget.studiod.com/widget-manager/widgets/widget-etf-chart/js/chunk-vendors.js @ [object Object]",
+    "timestamp": "2021-09-09T13:07:05.408Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[WM]  - loading js... https://widget.studiod.com/widget-manager/widgets/widget-etf-chart/js/chunk-vendors.js @ [object Object]",
+    "timestamp": "2021-09-09T13:07:05.408Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[WidgetInstanceLauncher] loaded dependency https://widget.studiod.com/widget-manager/widgets/widget-etf-chart/js/chunk-vendors.js for widget: widget-etf-chart @ [object Object]",
+    "timestamp": "2021-09-09T13:07:05.419Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[WM]  - completed chain: https://widget.studiod.com/widget-manager/widgets/widget-etf-chart/js/app.js @ [object Object]",
+    "timestamp": "2021-09-09T13:07:06.502Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[WM]  - loading js... https://widget.studiod.com/widget-manager/widgets/widget-etf-chart/js/app.js @ [object Object]",
+    "timestamp": "2021-09-09T13:07:06.506Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[WidgetInstanceLauncher] loaded dependency https://widget.studiod.com/widget-manager/widgets/widget-etf-chart/js/app.js for widget: widget-etf-chart @ [object Object]",
+    "timestamp": "2021-09-09T13:07:06.515Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[WidgetAbstract] was extended by e @ [object Object]",
+    "timestamp": "2021-09-09T13:07:07.169Z"
+  },
+  {
+    "part": "console.log",
+    "message": "{status: success} @ [object Object]",
+    "timestamp": "2021-09-09T13:07:07.976Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:07:10.625Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:07:10.633Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:07:12.241Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:12.241Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:07:12.377Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:07:13.068Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:07:13.759Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:07:15.536Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:07:15.543Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:07:15.580Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:07:15.585Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:07:15.630Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:07:20.581Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:07:20.656Z"
+  }
+]

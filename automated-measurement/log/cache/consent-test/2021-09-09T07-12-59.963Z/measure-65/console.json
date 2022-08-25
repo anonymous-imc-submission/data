@@ -1,0 +1,194 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://kotaku.co.uk/..."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://kotaku.com/",
+      "lineNumber": 67,
+      "columnNumber": 15
+    },
+    "text": "tcData gdprApplies true"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://kotaku.com/",
+      "lineNumber": 70,
+      "columnNumber": 17
+    },
+    "text": "tcData publisherCC GB"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://kotaku.com/",
+      "lineNumber": 74,
+      "columnNumber": 19
+    },
+    "text": "tcData removed listener 0"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://sourcepoint.kotaku.com/wrapperMessagingWithoutDetection.js",
+      "lineNumber": 0,
+      "columnNumber": 154615
+    },
+    "text": "Messaging without detection successfully executed."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://kotaku.com/x-kinja-static/assets/new-client/adManager.728cac2c89d132d8a876.js",
+      "lineNumber": 6,
+      "columnNumber": 11274
+    },
+    "text": "Bulbs was called before it initialized. undefined"
+  },
+  {
+    "type": "info",
+    "location": {
+      "url": "https://x.kinja-static.com/assets/new-client/curatedHomepage.e2c5bd60464be67ec9b8.js",
+      "lineNumber": 6,
+      "columnNumber": 576642
+    },
+    "text": "INFO: kinja:fetch fetching /api/core/corepost/getList?id=1847637870&id=1847635638&id=1847632632&id=1847635611&id=1847635948 undefined"
+  },
+  {
+    "type": "info",
+    "location": {
+      "url": "https://x.kinja-static.com/assets/new-client/curatedHomepage.e2c5bd60464be67ec9b8.js",
+      "lineNumber": 6,
+      "columnNumber": 576642
+    },
+    "text": "INFO: kinja:fetch fetching /api/core/corepost/getList?id=1847638306&id=1847632909&id=1847638281&id=1847638199 undefined"
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://x.kinja-static.com/assets/new-client/prebid-js-staging.78bc430954692b549e0e.js",
+      "lineNumber": 0,
+      "columnNumber": 46792
+    },
+    "text": "fun-hooks: referenced 'registerAdserver' but it was never created"
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062509",
+      "lineNumber": 5,
+      "columnNumber": 84240
+    },
+    "text": "updateCorrelator has been deprecated. Please see the Google Ad Manager help page on \"Pageviews in GPT\" for more information: https://support.google.com/admanager/answer/183281?hl=en"
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062509",
+      "lineNumber": 5,
+      "columnNumber": 116668
+    },
+    "text": "[GPT] updateCorrelator has been deprecated. See the Google Ad Manager help page on \"Creative selection for multiple ad slots\" for more information: https://support.google.com/admanager/answer/183281."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062509",
+      "lineNumber": 5,
+      "columnNumber": 116668
+    },
+    "text": "[GPT] Invalid arguments: PubAdsService.setTargeting('forcedAdZone', false)."
+  },
+  {
+    "type": "error",
+    "location": {
+      "url": "https://cd.connatix.com/connatix.playspace.js",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "Failed to load resource: the server responded with a status of 403 ()"
+  },
+  {
+    "type": "info",
+    "location": {
+      "url": "https://x.kinja-static.com/assets/new-client/curatedHomepage.e2c5bd60464be67ec9b8.js",
+      "lineNumber": 6,
+      "columnNumber": 576642
+    },
+    "text": "INFO: kinja:fetch fetching /api/categorization/channel/byIds?ids=79&ids=77 undefined"
+  },
+  {
+    "type": "info",
+    "location": {
+      "url": "https://x.kinja-static.com/assets/new-client/curatedHomepage.e2c5bd60464be67ec9b8.js",
+      "lineNumber": 6,
+      "columnNumber": 576642
+    },
+    "text": "INFO: kinja:fetch fetching /api/categorization/section/byIds?ids=3323&ids=3168&ids=732&ids=738&ids=709 undefined"
+  },
+  {
+    "type": "info",
+    "location": {
+      "url": "https://x.kinja-static.com/assets/new-client/curatedHomepage.e2c5bd60464be67ec9b8.js",
+      "lineNumber": 6,
+      "columnNumber": 576642
+    },
+    "text": "INFO: kinja:fetch fetching /api/categorization/channel/byIds?ids=30&ids=66&ids=85&ids=55 undefined"
+  },
+  {
+    "type": "info",
+    "location": {
+      "url": "https://x.kinja-static.com/assets/new-client/curatedHomepage.e2c5bd60464be67ec9b8.js",
+      "lineNumber": 6,
+      "columnNumber": 576642
+    },
+    "text": "INFO: kinja:fetch fetching /api/categorization/section/byIds?ids=288&ids=683&ids=782&ids=391 undefined"
+  },
+  {
+    "type": "info",
+    "location": {
+      "url": "https://x.kinja-static.com/assets/new-client/curatedHomepage.e2c5bd60464be67ec9b8.js",
+      "lineNumber": 6,
+      "columnNumber": 493333
+    },
+    "text": "COUNTER FOR FETCHING BIDS:  1"
+  },
+  {
+    "type": "error",
+    "location": {
+      "url": "https://g-omedia.com/wp-content/uploads/2016/11/logo-kotaku-600x600-300x300.png",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "Failed to load resource: the server responded with a status of 403 ()"
+  },
+  {
+    "type": "error",
+    "location": {
+      "url": "https://api.britepool.com/v1/britepool/id",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "Failed to load resource: net::ERR_CONNECTION_REFUSED"
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "lineNumber": 72,
+      "columnNumber": 0
+    },
+    "text": "Origin trial controlled feature not enabled: 'trust-token-redemption'."
+  },
+  {
+    "type": "admeasure",
+    "text": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://kotaku.co.uk/\", waiting until \"load\"\n============================================================"
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

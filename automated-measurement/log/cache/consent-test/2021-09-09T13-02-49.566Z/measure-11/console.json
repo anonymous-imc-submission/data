@@ -1,0 +1,132 @@
+[
+  {
+    "part": "measure-11",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:08:30.465Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "visit https://pagina.nl/...",
+    "timestamp": "2021-09-09T13:08:31.722Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Messaging without detection successfully executed. @ [object Object]",
+    "timestamp": "2021-09-09T13:08:37.438Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:08:44.764Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:08:44.765Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Sourcepoint iframe found!",
+    "timestamp": "2021-09-09T13:08:44.766Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:08:45.256Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:08:45.257Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:08:45.378Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:08:45.385Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:08:45.427Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Button clicked: Instellen",
+    "timestamp": "2021-09-09T13:08:46.761Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Found Sourcepoint privacy manager.",
+    "timestamp": "2021-09-09T13:08:47.292Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Sourcepoint: no type toggles.",
+    "timestamp": "2021-09-09T13:08:53.633Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Sourcepoint: Check for legitimate interest button...",
+    "timestamp": "2021-09-09T13:09:20.100Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Sourcepoint: no legitimate interest button found: No matching button found: ",
+    "timestamp": "2021-09-09T13:09:20.175Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Sourcepoint: Find the save button.",
+    "timestamp": "2021-09-09T13:09:20.175Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Sourcepoint dialog rejected.",
+    "timestamp": "2021-09-09T13:09:20.602Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Personalisation consentPurposeFive false = false @ [object Object]",
+    "timestamp": "2021-09-09T13:09:20.656Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Personalisation snowplow tag id = undefined @ [object Object]",
+    "timestamp": "2021-09-09T13:09:20.659Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:09:20.739Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "TCF data: cmpId 6 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:09:20.742Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:09:20.754Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:09:20.759Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:09:25.755Z"
+  },
+  {
+    "part": "measure-11",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:09:25.796Z"
+  }
+]

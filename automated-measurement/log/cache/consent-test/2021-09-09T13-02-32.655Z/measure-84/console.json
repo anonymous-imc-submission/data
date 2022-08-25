@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-84",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:21:29.788Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "visit https://jacksonville.com/...",
+    "timestamp": "2021-09-09T13:21:39.026Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://jacksonville.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:22:09.181Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:22:09.368Z"
+  }
+]

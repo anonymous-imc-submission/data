@@ -1,0 +1,182 @@
+[
+  {
+    "part": "measure-23",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:13:04.996Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "visit https://volny.cz/...",
+    "timestamp": "2021-09-09T13:13:05.191Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://assets.adobedtm.com/e949270ea86e/34b1ac91e175/launch-d4b74124264a.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:08.778Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://assets.adobedtm.com/e949270ea86e/34b1ac91e175/launch-d4b74124264a.min.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:08.778Z"
+  },
+  {
+    "part": "console.log",
+    "message": "trigger registered events @ [object Object]",
+    "timestamp": "2021-09-09T13:13:14.578Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://secure-assets.rubiconproject.com/utils/xapi/multi-sync.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:15.251Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://secure-assets.rubiconproject.com/utils/xapi/multi-sync.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:15.262Z"
+  },
+  {
+    "part": "console.log",
+    "message": "steps:  [Object,Object,Object,Object,Object,Object,Object,Object,Object,Object] @ [object Object]",
+    "timestamp": "2021-09-09T13:13:15.700Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead @ [object Object]",
+    "timestamp": "2021-09-09T13:13:17.003Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead @ [object Object]",
+    "timestamp": "2021-09-09T13:13:17.041Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead @ [object Object]",
+    "timestamp": "2021-09-09T13:13:17.044Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead @ [object Object]",
+    "timestamp": "2021-09-09T13:13:17.045Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead @ [object Object]",
+    "timestamp": "2021-09-09T13:13:17.048Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead @ [object Object]",
+    "timestamp": "2021-09-09T13:13:17.053Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SASHEC: Postscribe - error rendering reklama-leader because: Script error. - : 0 with code\n----\n<!-- spir.czMonS[196_C13596__1_102250] --> <!-- Yield_Adform_branding /FCID=102250/FLIGHT_ID=57425 --> <!-- pouziva adform placement script --> <div class=\"eco-adf-wrapper\" id=\"sas_adform_branding\">     <!-- Adform publisher tag --> <!-- Tag for hp - hp_2000x1400-branding_pmp placement --> <script type=\"text/javascript\" src=\"https://adx.adform.net/adx/?mid=689361&rnd=75925031&gdpr=1&gdpr_consent=CPMRFQxPMRFQxAHABBENBqCgAAAAAH_AAATIAAAMkgSgALAAqABcADgAIAAZAA0ABzAEQARQAmABPACqAFwAL4AYgA_ACEgEQARIApQBYgDLAGbAO4A7wB-gEIAIsAWkAuoBgQDWAHUAPkAkEBNoC1AF5gMkAAAA.YAAAD_gAAAAA\"></script> </div>     <script type=\"text/javascript\"> (function() {    _ecohec.ecoFireplaceCleaner = function() {      try {         document.getElementsByTagName('body')[0].classList.remove('eco-adf-branding');             document.getElementsByClassName('eco-adf-leader')[0].classList.remove('eco-adf-leader');             document.getElementsByClassName('eco-adf-leader-wrap')[0].classList.remove('eco-adf-leader-wrap');         } catch (e) {}     }     })();      </script>      <!-- eof Yield_Adform_branding --> <!-- spir.czMonE -->  <img src=\"https://a.centrum.cz/cent/count/FCID=102250/random=75925031/viewid=66202751/site=hp/area=volny/passback=0/device=d/template=hp/gdpr=1/consent=CPMRFQxPMRFQxAHABBENBqCgAAAAAH_AAATIAAAMkgSgALAAqABcADgAIAAZAA0ABzAEQARQAmABPACqAFwAL4AYgA_ACEgEQARIApQBYgDLAGbAO4A7wB-gEIAIsAWkAuoBgQDWAHUAPkAkEBNoC1AF5gMkAAAA.YAAAD_gAAAAA/uc=0/size=leader,79a,91a,11a,21a\" width=\"1\" height=\"1\" border=\"0\" style=\"display:none\" /> <script type=\"text/javascript\"> var partner=\"cpex\",region=\"EU\",country=\"DE\",endpoint=\"eu\"; if (partner.length&&country.length&&endpoint.length) { var url=\"https\"==\"https\"?\"https://secure-assets.rubiconproject.com/utils/xapi/multi-sync.js\":\"http://assets.rubiconproject.com/utils/xapi/multi-sync.js\"; document.write('<scr' + 'ipt data-partner=\"' + partner + '\"  data-region=\"' + region + '\" data-country=\"' + country + '\" data-endpoint=\"' + endpoint + '\" src=\"' + url + '\"></scr' + 'ipt>'); } </script> <script> {     var url=\"https\"==\"https\"?\"https://secure.adnxs.com/getuid?\":\"http://ib.adnxs.com/getuid?\";     url += \"https%3A%2F%2Fa%2Ecentrum%2Ecz%2Fcent%2Fsetid%2FMID%3D8072673327768760408%2Fexternal%3DAPPNEXUS%2Fvalue%3D$UID\";     document.write(\"<img src=\\\"\"+url+\"\\\" width=\\\"1\\\" height=\\\"1\\\" style=\\\"display:none;\\\"></img>\"); } </script> <iframe frameborder=\"0\" width=\"0\" height=\"0\" style=\"display:none;\" src=\"https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Fa%2Ecentrum%2Ecz%2Fcent%2Fsetid%2FMID%3D8072673327768760408%2Fexternal%3DPUBMATIC%2Fvalue%3D\"></iframe> <!-- ADVID=3372/CAMPID=13596/FLIGHTID=57425/FCID=102250/SIZE=leader,79a,91a,11a,21a/POS=/DATETIME=2021-09-09 13:13:16/PASSBACK=0 --> @ [object Object]",
+    "timestamp": "2021-09-09T13:13:20.785Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:13:22.057Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:13:22.062Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:13:22.337Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:22.338Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:13:22.387Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:13:22.396Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:22.425Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.waitForSelector: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-pc-btn-handler:visible,\n            #onetrust-pc-sdk:visible\n        \" to be visible\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:13:52.183Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:14:13.004Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:14:13.004Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:14:18.065Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:15:08.896Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:15:08.896Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:15:14.001Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:15:22.338Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "TCF data: cmpId 7 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:15:22.338Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:15:22.348Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:15:22.351Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:15:27.349Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:15:27.418Z"
+  },
+  {
+    "part": "measure-23",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:15:27.455Z"
+  }
+]

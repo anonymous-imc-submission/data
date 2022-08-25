@@ -1,0 +1,87 @@
+[
+  {
+    "part": "measure-54",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:16:02.086Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "visit https://paisdelosjuegos.com.pe/...",
+    "timestamp": "2021-09-09T13:16:03.010Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:16:08.572Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:16:08.577Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:16:08.962Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:16:08.962Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:16:09.180Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:16:09.192Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:16:09.217Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:16:09.322Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:16:10.212Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "TCF data: cmpId 10 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:16:10.221Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:16:10.255Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:16:10.261Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:16:10.294Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:16:15.257Z"
+  },
+  {
+    "part": "measure-54",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:16:15.376Z"
+  }
+]

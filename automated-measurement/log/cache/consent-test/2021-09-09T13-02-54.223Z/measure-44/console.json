@@ -1,0 +1,132 @@
+[
+  {
+    "part": "measure-44",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:14:02.860Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "visit https://techopedia.com/...",
+    "timestamp": "2021-09-09T13:14:03.376Z"
+  },
+  {
+    "part": "console.log",
+    "message": "PubWise Pre Load Complete Rev XV520210128 @ [object Object]",
+    "timestamp": "2021-09-09T13:14:04.566Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:14:05.956Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:14:05.958Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:14:06.294Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:14:06.294Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:14:06.328Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:14:06.330Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:14:06.350Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:14:06.374Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Push notifications powered by Aimtell. Learn more at https://aimtell.com/developers @ [object Object]",
+    "timestamp": "2021-09-09T13:14:06.492Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[aimtell] Browser does not support push @ [object Object]",
+    "timestamp": "2021-09-09T13:14:06.493Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://fdyn.pubwise.io/script/3dc205d3-d6ab-47fa-a604-b886ab592ac7/v3/dyn/pws.js?type=tech-v2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:14:08.958Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Query variable %s not found sumotoken @ [object Object]",
+    "timestamp": "2021-09-09T13:14:09.500Z"
+  },
+  {
+    "part": "console.log",
+    "message": "install sumo badge... @ [object Object]",
+    "timestamp": "2021-09-09T13:14:10.669Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Query variable %s not found sumopath @ [object Object]",
+    "timestamp": "2021-09-09T13:14:10.757Z"
+  },
+  {
+    "part": "console.info",
+    "message": "CREATING SANDBOX FOR services/index/#services/index @ [object Object]",
+    "timestamp": "2021-09-09T13:14:11.564Z"
+  },
+  {
+    "part": "console.info",
+    "message": "CREATING SANDBOX FOR 156085c5-0017-4150-b225-a731ad248f38/service/#156085c5-0017-4150-b225-a731ad248f38/service @ [object Object]",
+    "timestamp": "2021-09-09T13:14:12.351Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:14:28.750Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:14:28.751Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:14:28.772Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:14:28.775Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:14:29.152Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:14:33.773Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:14:33.811Z"
+  }
+]

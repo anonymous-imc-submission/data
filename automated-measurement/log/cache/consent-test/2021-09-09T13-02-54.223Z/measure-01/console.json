@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-01",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:04:38.012Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "visit https://goldderby.com/...",
+    "timestamp": "2021-09-09T13:04:38.219Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 1.4.1 @ [object Object]",
+    "timestamp": "2021-09-09T13:04:39.120Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:04:42.115Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:04:47.364Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:04:47.377Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:04:51.600Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:04:51.601Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:04:53.420Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:04:53.428Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:04:53.519Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:04:53.523Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:04:53.544Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:04:53.562Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:05:03.789Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:05:03.789Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:05:03.796Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:05:03.800Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:05:03.928Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:05:08.797Z"
+  },
+  {
+    "part": "measure-01",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:05:08.822Z"
+  }
+]

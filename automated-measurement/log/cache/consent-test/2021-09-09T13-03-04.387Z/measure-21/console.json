@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-21",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:10:59.420Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "visit https://gq.com.tw/...",
+    "timestamp": "2021-09-09T13:10:59.695Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Permutive not available @ [object Object]",
+    "timestamp": "2021-09-09T13:11:13.648Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Permutive was not initialized. No consent to run on the page @ [object Object]",
+    "timestamp": "2021-09-09T13:11:15.406Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:11:17.381Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:11:17.383Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:11:18.303Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:18.304Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:11:18.481Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:11:18.490Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:18.544Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:11:18.618Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:11:23.015Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:11:23.502Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:11:26.497Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:11:26.500Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:11:26.504Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:11:26.505Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:11:26.728Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:11:31.505Z"
+  },
+  {
+    "part": "measure-21",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:11:31.530Z"
+  }
+]

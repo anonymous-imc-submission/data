@@ -1,0 +1,167 @@
+[
+  {
+    "part": "measure-18",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:10:17.278Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "visit https://bluewin.ch/...",
+    "timestamp": "2021-09-09T13:10:17.694Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://rcp.scsstatic.ch/etc.clientlibs/cq/testandtarget/clientlibs/testandtarget/atjs.201.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:18.898Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://rcp.scsstatic.ch/etc.clientlibs/cq/testandtarget/clientlibs/testandtarget/atjs.201.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:18.925Z"
+  },
+  {
+    "part": "console.error",
+    "message": "X-Frame-Options may only be set via an HTTP header sent along with a document. It may not be set inside <meta>. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:23.044Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "Spark loader: init load script event page_load @ [object Object]",
+    "timestamp": "2021-09-09T13:10:23.797Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "AT: metric element not found {type: click, selector: HTML > BODY > DIV.main-wrapper:eq(0) > DIV.page:eq…ype(1) > A:nth-of-type(1) > IMG.story-image:eq(0), eventToken: oeAi/YAWmzxtRQFaYWClmQ==} @ [object Object]",
+    "timestamp": "2021-09-09T13:10:33.712Z"
+  },
+  {
+    "part": "console.info",
+    "message": "AST library loaded: 0.33.0 @ [object Object]",
+    "timestamp": "2021-09-09T13:10:35.271Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "Spark loader: load_script by load_timer on top @ [object Object]",
+    "timestamp": "2021-09-09T13:10:39.141Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cVideo enhancements powered by HolaSpark.com v1.163.950.T2335 Zone default  @ [object Object]",
+    "timestamp": "2021-09-09T13:10:41.078Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%chttp://holaspark.com/?cam=wm_devconsole  @ [object Object]",
+    "timestamp": "2021-09-09T13:10:41.080Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cEnabled features: Video preview, Player thumbnails  @ [object Object]",
+    "timestamp": "2021-09-09T13:10:41.088Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cAvailable features: Floating player, Image preview, Watch next, Watch later, Position memory, Player auto play, Video search, Page sharing, TV video casting, YouTube-like controls, Video panel, Video heatmap, Newsreel, Sticky player, Top pages  @ [object Object]",
+    "timestamp": "2021-09-09T13:10:41.090Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Embedded in swisscom frame: https://www.bluewin.ch/de/index.html @ [object Object]",
+    "timestamp": "2021-09-09T13:10:41.094Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:10:42.161Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:10:42.165Z"
+  },
+  {
+    "part": "console.timeEnd",
+    "message": "a: 0.004150390625 ms @ [object Object]",
+    "timestamp": "2021-09-09T13:10:42.310Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:10:42.659Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:42.660Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:10:42.747Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:10:42.757Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:10:42.764Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:10:42.860Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n============================================================",
+    "timestamp": "2021-09-09T13:10:44.861Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:10:44.864Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - Error: page.click: Target crashed\n    =========================== logs ===========================\n    waiting for selector \".ot-pc-refuse-all-handler:visible, .save-preference-btn-handler:visible\"\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:11:12.180Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:12:42.661Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "TCF data: cmpId 28 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:12:42.661Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:12:42.667Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:12:42.668Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:12:47.668Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:12:47.689Z"
+  },
+  {
+    "part": "measure-18",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:12:47.689Z"
+  }
+]

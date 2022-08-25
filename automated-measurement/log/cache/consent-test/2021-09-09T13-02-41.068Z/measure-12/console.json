@@ -1,0 +1,102 @@
+[
+  {
+    "part": "measure-12",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:06:11.726Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "visit https://providencejournal.com/...",
+    "timestamp": "2021-09-09T13:06:11.981Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Consent management does not appear to be set up correctly. No consent groups were found. @ [object Object]",
+    "timestamp": "2021-09-09T13:06:16.916Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:06:25.605Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:06:25.609Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:06:26.013Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:26.014Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:06:26.256Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:06:26.267Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:26.340Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Server did not respond to loadRBox @ [object Object]",
+    "timestamp": "2021-09-09T13:06:26.652Z"
+  },
+  {
+    "part": "console.log",
+    "message": "loadRBox failed, aborting. @ [object Object]",
+    "timestamp": "2021-09-09T13:06:26.685Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Invalid response from server: trc_json_response =\n{\"trc\":{}}\n @ [object Object]",
+    "timestamp": "2021-09-09T13:06:26.691Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:06:27.511Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:06:27.515Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:06:27.530Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:06:27.544Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:06:27.571Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:06:32.540Z"
+  },
+  {
+    "part": "measure-12",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:06:32.554Z"
+  }
+]

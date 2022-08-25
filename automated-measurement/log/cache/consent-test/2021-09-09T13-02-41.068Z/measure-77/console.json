@@ -1,0 +1,87 @@
+[
+  {
+    "part": "measure-77",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:17:15.685Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "visit https://flashscore.dk/...",
+    "timestamp": "2021-09-09T13:17:16.316Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:17:38.771Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:17:38.772Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:17:39.634Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:17:39.639Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:17:39.706Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:17:39.710Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:17:39.773Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:17:42.887Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:17:42.890Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:17:42.899Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:17:43.306Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%cPubTag color: #fff; background: #ff8f1c; display: inline-block; padding: 1px 4px; border-radius: 3px; ERROR: can't display acceptable ad : the container \"crt-1363246\" is not visible @ [object Object]",
+    "timestamp": "2021-09-09T13:17:44.309Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:17:47.899Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Timeout after 20.1s",
+    "timestamp": "2021-09-09T13:18:02.979Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:18:03.390Z"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-69",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:25:23.706Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "visit https://nba.net/...",
+    "timestamp": "2021-09-09T13:25:24.897Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "page load error: Error: page.goto: net::ERR_CONNECTION_REFUSED at https://nba.net/\n=========================== logs ===========================\nnavigating to \"https://nba.net/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:25:25.132Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:25:25.213Z"
+  }
+]

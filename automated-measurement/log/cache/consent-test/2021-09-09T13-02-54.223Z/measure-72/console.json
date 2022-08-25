@@ -1,0 +1,112 @@
+[
+  {
+    "part": "measure-72",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:20:56.117Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "visit https://onlyinyourstate.com/...",
+    "timestamp": "2021-09-09T13:20:56.190Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[] @ [object Object]",
+    "timestamp": "2021-09-09T13:20:59.034Z"
+  },
+  {
+    "part": "console.log",
+    "message": "{status: success} @ [object Object]",
+    "timestamp": "2021-09-09T13:21:01.229Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:21:03.139Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:21:03.140Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:21:03.400Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:21:03.400Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:21:03.479Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:21:03.483Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:21:03.497Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:21:03.521Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button tabindex=\"0\" class=\"cookie-setting-link\" id=\"one…>Show Purposes</button>\nattempting click action\n  waiting for element to be visible, enabled and stable\n  element is visible, enabled and stable\n  scrolling into view if needed\n  done scrolling\n  checking that element receives pointer events at (419.48,369.48)\n  element does receive pointer events\n  performing click action\n  click action done\n  waiting for scheduled navigations to finish\n============================================================",
+    "timestamp": "2021-09-09T13:21:05.526Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:21:08.649Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:21:09.984Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:21:15.947Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:21:15.949Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:21:16.026Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:21:16.032Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:21:16.813Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:21:21.029Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:21:21.092Z"
+  }
+]

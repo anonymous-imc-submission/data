@@ -1,0 +1,62 @@
+[
+  {
+    "part": "measure-04",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:04:38.965Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "visit https://gannett.com/...",
+    "timestamp": "2021-09-09T13:04:39.232Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:04:40.851Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:04:43.819Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:04:43.831Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "dialog accept failed: \n  - TimeoutError: page.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=primary]\"\n    ============================================================\n  - Error: locator.click: Error: strict mode violation: \"\n            #onetrust-accept-btn-handler:visible,\n            .optanon-allow-all:visible,\n            .optanon-button-allow:visible,\n            #onetrust-pc-sdk #accept-recommended-btn-handler:visible\n        \" resolved to 4 elements:\n        1) <div class=\"optanon-alert-box-button optanon-button-a…>…</div> aka playwright.$(\"div[role=\"alertdialog\"] >> :nth-match(div:has-text(\"Accept All Cookies\"), 4)\")\n        2) <button tabindex=\"4\" title=\"Accept All Cookies\" aria-lab…>Accept All Cookies</button> aka playwright.$(\"[aria-label=\"Accept All Cookies\"]\")\n        3) <div class=\"optanon-alert-box-button optanon-button-a…>…</div> aka playwright.$(\"div:nth-child(3) .optanon-alert-box-bg .optanon-alert-box-button-container .optanon-alert-box-button.optanon-button-allow\")\n        4) <button tabindex=\"4\" title=\"Accept All Cookies\" aria-lab…>Accept All Cookies</button> aka playwright.$(\":nth-match(:text(\"Accept All Cookies\"), 4)\")\n    \n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-accept-btn-handler:visible,\n            .optanon-allow-all:visible,\n            .optanon-button-allow:visible,\n            #onetrust-pc-sdk #accept-recommended-btn-handler:visible\n        \"\n      strict mode violation: \"\n            #onetrust-accept-btn-handler:visible,\n            .optanon-allow-all:visible,\n            .optanon-button-allow:visible,\n            #onetrust-pc-sdk #accept-recommended-btn-handler:visible\n        \" resolved to 4 elements:\n        1) <div class=\"optanon-alert-box-button optanon-button-a…>…</div> aka playwright.$(\"div[role=\"alertdialog\"] >> :nth-match(div:has-text(\"Accept All Cookies\"), 4)\")\n        2) <button tabindex=\"4\" title=\"Accept All Cookies\" aria-lab…>Accept All Cookies</button> aka playwright.$(\"[aria-label=\"Accept All Cookies\"]\")\n        3) <div class=\"optanon-alert-box-button optanon-button-a…>…</div> aka playwright.$(\"div:nth-child(3) .optanon-alert-box-bg .optanon-alert-box-button-container .optanon-alert-box-button.optanon-button-allow\")\n        4) <button tabindex=\"4\" title=\"Accept All Cookies\" aria-lab…>Accept All Cookies</button> aka playwright.$(\":nth-match(:text(\"Accept All Cookies\"), 4)\")\n    \n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:05:13.889Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "__tcfapi not found: TimeoutError: page.waitForFunction: Timeout 30000ms exceeded.",
+    "timestamp": "2021-09-09T13:05:13.913Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "TCF data: cmpId null consent null, legInt null.",
+    "timestamp": "2021-09-09T13:05:13.917Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:05:13.926Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:05:13.936Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:05:18.927Z"
+  },
+  {
+    "part": "measure-04",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:05:18.939Z"
+  }
+]

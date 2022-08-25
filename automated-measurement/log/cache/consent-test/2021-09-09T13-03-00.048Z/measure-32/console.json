@@ -1,0 +1,232 @@
+[
+  {
+    "part": "measure-32",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:13:21.506Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "visit https://eonline.com/...",
+    "timestamp": "2021-09-09T13:13:21.822Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead @ [object Object]",
+    "timestamp": "2021-09-09T13:13:27.937Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "🚀 container.buildInfo.environment is deprecated.Please use `container.environment.stage` instead @ [object Object]",
+    "timestamp": "2021-09-09T13:13:27.939Z"
+  },
+  {
+    "part": "console.log",
+    "message": "****** [mps] REDIRECTED: false → mps.nbcuni.com ****** @ [object Object]",
+    "timestamp": "2021-09-09T13:13:29.187Z"
+  },
+  {
+    "part": "console.log",
+    "message": "--[executed]--> MPS Head Additions (1) @ [object Object]",
+    "timestamp": "2021-09-09T13:13:29.219Z"
+  },
+  {
+    "part": "console.log",
+    "message": "--[executed]--> MPS Header Additions (2) @ [object Object]",
+    "timestamp": "2021-09-09T13:13:29.518Z"
+  },
+  {
+    "part": "console.log",
+    "message": "CTS PSDK, Web 6.4.9 @ [object Object]",
+    "timestamp": "2021-09-09T13:13:32.142Z"
+  },
+  {
+    "part": "console.log",
+    "message": "\n @ [object Object]",
+    "timestamp": "2021-09-09T13:13:32.144Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "[mps:loadJS] async:true, 185796-36689253545932.js @ [object Object]",
+    "timestamp": "2021-09-09T13:13:33.563Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:13:34.124Z"
+  },
+  {
+    "part": "console.log",
+    "message": "***** GPT INITIALIZED ***** @ [object Object]",
+    "timestamp": "2021-09-09T13:13:34.476Z"
+  },
+  {
+    "part": "console.info",
+    "message": "MPS topbanner - NO TARGETING   @ [object Object]",
+    "timestamp": "2021-09-09T13:13:34.487Z"
+  },
+  {
+    "part": "console.info",
+    "message": "MPS midbanner - NO TARGETING   @ [object Object]",
+    "timestamp": "2021-09-09T13:13:34.505Z"
+  },
+  {
+    "part": "console.info",
+    "message": "MPS midbanner - NO TARGETING   @ [object Object]",
+    "timestamp": "2021-09-09T13:13:34.513Z"
+  },
+  {
+    "part": "console.info",
+    "message": "MPS midbanner - NO TARGETING   @ [object Object]",
+    "timestamp": "2021-09-09T13:13:34.538Z"
+  },
+  {
+    "part": "console.info",
+    "message": "MPS midbanner - NO TARGETING   @ [object Object]",
+    "timestamp": "2021-09-09T13:13:34.551Z"
+  },
+  {
+    "part": "console.info",
+    "message": "MPS kargo - NO TARGETING   @ [object Object]",
+    "timestamp": "2021-09-09T13:13:34.580Z"
+  },
+  {
+    "part": "console.log",
+    "message": "visitor.publishDestinations() result: The destination publishing iframe is already attached and loaded. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:34.766Z"
+  },
+  {
+    "part": "console.log",
+    "message": "CTS PSDK, Web 6.4.9 @ [object Object]",
+    "timestamp": "2021-09-09T13:13:37.814Z"
+  },
+  {
+    "part": "console.log",
+    "message": "\n @ [object Object]",
+    "timestamp": "2021-09-09T13:13:37.816Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ [object Object]",
+    "timestamp": "2021-09-09T13:13:41.213Z"
+  },
+  {
+    "part": "console.log",
+    "message": "--[executed]--> MPS Footer Additions (3) @ [object Object]",
+    "timestamp": "2021-09-09T13:13:41.382Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[mps:CMP:hard] component loads MOAT @ [object Object]",
+    "timestamp": "2021-09-09T13:13:41.424Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[mps:CMP:hard] component doesnt load no match ADMIRAL @ [object Object]",
+    "timestamp": "2021-09-09T13:13:41.438Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[mps:CMP:hard] component doesnt load no match Nielsen @ [object Object]",
+    "timestamp": "2021-09-09T13:13:41.455Z"
+  },
+  {
+    "part": "console.log",
+    "message": "CTS PSDK, Web 6.4.9 @ [object Object]",
+    "timestamp": "2021-09-09T13:13:42.527Z"
+  },
+  {
+    "part": "console.log",
+    "message": "\n @ [object Object]",
+    "timestamp": "2021-09-09T13:13:42.529Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:13:43.585Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:13:43.585Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:13:44.051Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:44.051Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:13:44.091Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:13:44.102Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:44.112Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:13:44.138Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:13:58.101Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:13:58.109Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:13:58.164Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:13:59.230Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[mps:E] _oop attempt adding via component @ [object Object]",
+    "timestamp": "2021-09-09T13:13:59.513Z"
+  },
+  {
+    "part": "console.log",
+    "message": "CTS PSDK, Web 6.4.9 @ [object Object]",
+    "timestamp": "2021-09-09T13:13:59.940Z"
+  },
+  {
+    "part": "console.log",
+    "message": "\n @ [object Object]",
+    "timestamp": "2021-09-09T13:13:59.946Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:14:03.168Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:14:18.182Z"
+  },
+  {
+    "part": "measure-32",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:14:18.277Z"
+  }
+]

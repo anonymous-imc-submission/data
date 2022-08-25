@@ -1,0 +1,27 @@
+[
+  {
+    "part": "measure-58",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:15:13.397Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "visit https://democratandchronicle.com/...",
+    "timestamp": "2021-09-09T13:15:14.408Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:15:36.319Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://democratandchronicle.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:15:44.419Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:15:44.552Z"
+  }
+]

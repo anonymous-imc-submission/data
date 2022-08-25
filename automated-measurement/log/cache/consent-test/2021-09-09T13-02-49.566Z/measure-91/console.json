@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-91",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:33:28.397Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "visit https://autoweek.nl/...",
+    "timestamp": "2021-09-09T13:33:37.089Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://autoweek.nl/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:34:07.131Z"
+  },
+  {
+    "part": "measure-91",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:34:07.229Z"
+  }
+]

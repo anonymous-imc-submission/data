@@ -1,0 +1,369 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://stadt-bremerhaven.de/..."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://stadt-bremerhaven.de/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2",
+      "lineNumber": 1,
+      "columnNumber": 708
+    },
+    "text": "JQMIGRATE: Migrate is installed, version 3.3.2"
+  },
+  {
+    "type": "admeasure",
+    "text": "Looking for dialogs to reject..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting for __tcfapi..."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://storage.googleapis.com/adtags/stadt-bremerhaven/QMAX_stadt-bremerhaven.de_async.js",
+      "lineNumber": 0,
+      "columnNumber": 18647
+    },
+    "text": "onSPPMObjectReady function(e,t){var n;n=document.activeElement||null,D=n,e=e||H,f&&q.update(O(),!0);var r=W+\"?message_id=\".concat(e,\"&site_id=\").concat(u,\"&consent_origin=\").concat(_,\"&consentUUID=\").concat(S(\"cookies\",\"consentUUID\"),\"&mms_origin=\").concat(a,\"/mms/v2\");return t&&(r+=\"&pmTab=\".concat(t)),U(r,a,u,i,b,\"{}\",e,_,\"pm\",W,null,null,null,null,!0,G)}"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://storage.googleapis.com/adtags/stadt-bremerhaven/QMAX_stadt-bremerhaven.de_async.js",
+      "lineNumber": 0,
+      "columnNumber": 18541
+    },
+    "text": "onMessageReceiveData {prtnUUID: c7f0c62d-0338-47ba-834a-cc8908738cf7, messageId: 219420, msgDescription: Mobile stadt TCF 2.0, bucket: 589, uuid: bcc8aeb7-2fbb-45eb-ae39-858fb7ed5614}"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://storage.googleapis.com/adtags/stadt-bremerhaven/QMAX_stadt-bremerhaven.de_async.js",
+      "lineNumber": 0,
+      "columnNumber": 18582
+    },
+    "text": "{\"prtnUUID\":\"c7f0c62d-0338-47ba-834a-cc8908738cf7\",\"messageId\":219420,\"msgDescription\":\"Mobile stadt TCF 2.0\",\"bucket\":589,\"uuid\":\"bcc8aeb7-2fbb-45eb-ae39-858fb7ed5614\",\"categoryId\":1,\"subCategoryId\":5}"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://cdn.privacy-mgmt.com/wrapperMessagingWithoutDetection.js",
+      "lineNumber": 0,
+      "columnNumber": 154615
+    },
+    "text": "Messaging without detection successfully executed."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint iframe found!"
+  },
+  {
+    "type": "admeasure",
+    "text": "__tcfapi found! Querying status..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingWaiting."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingLoaded."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://storage.googleapis.com/adtags/stadt-bremerhaven/QMAX_stadt-bremerhaven.de_async.js",
+      "lineNumber": 0,
+      "columnNumber": 17843
+    },
+    "text": "onMessageReady"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://storage.googleapis.com/adtags/stadt-bremerhaven/QMAX_stadt-bremerhaven.de_async.js",
+      "lineNumber": 0,
+      "columnNumber": 17932
+    },
+    "text": "onMessageChoiceSelect choice_id:  1611398"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://storage.googleapis.com/adtags/stadt-bremerhaven/QMAX_stadt-bremerhaven.de_async.js",
+      "lineNumber": 0,
+      "columnNumber": 17991
+    },
+    "text": "onMessageChoiceSelect choice_id:  12"
+  },
+  {
+    "type": "admeasure",
+    "text": "Button clicked: EINSTELLUNGEN"
+  },
+  {
+    "type": "admeasure",
+    "text": "Found Sourcepoint privacy manager."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://storage.googleapis.com/adtags/stadt-bremerhaven/QMAX_stadt-bremerhaven.de_async.js",
+      "lineNumber": 0,
+      "columnNumber": 17843
+    },
+    "text": "onMessageReady"
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: toggling type toggles."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Check for legitimate interest button..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: no legitimate interest button found: No matching button found: "
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Find the save button."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://storage.googleapis.com/adtags/stadt-bremerhaven/QMAX_stadt-bremerhaven.de_async.js",
+      "lineNumber": 0,
+      "columnNumber": 18097
+    },
+    "text": "onPrivacyManagerAction {purposeConsent: none, vendorConsent: none, vendorList: undefined}"
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint dialog rejected."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://storage.googleapis.com/adtags/stadt-bremerhaven/QMAX_stadt-bremerhaven.de_async.js",
+      "lineNumber": 0,
+      "columnNumber": 18349
+    },
+    "text": "onConsentReady"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://storage.googleapis.com/adtags/stadt-bremerhaven/QMAX_stadt-bremerhaven.de_async.js",
+      "lineNumber": 0,
+      "columnNumber": 18379
+    },
+    "text": "consentUUID ba7cb797-f7a2-424a-947b-03bcc9e9d9d8"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://storage.googleapis.com/adtags/stadt-bremerhaven/QMAX_stadt-bremerhaven.de_async.js",
+      "lineNumber": 0,
+      "columnNumber": 18418
+    },
+    "text": "euconsent CPMQSm2PMQSm2AGABBDEBqCgAAAAAAAAAAwIAAAAAAAA.YAAAAAAAAAAA"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://storage.googleapis.com/adtags/stadt-bremerhaven/QMAX_stadt-bremerhaven.de_async.js",
+      "lineNumber": 0,
+      "columnNumber": 4713
+    },
+    "text": "342078"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data obtained!"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data: cmpId 6 consent false, legInt false."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Network is idle after 0.00s."
+  },
+  {
+    "type": "debug",
+    "location": {
+      "url": "https://storage.googleapis.com/adtags/stadt-bremerhaven/QMAX_stadt-bremerhaven.de_async.js",
+      "lineNumber": 0,
+      "columnNumber": 13114
+    },
+    "text": "no yl defined, check again"
+  },
+  {
+    "type": "debug",
+    "location": {
+      "url": "https://storage.googleapis.com/adtags/stadt-bremerhaven/QMAX_stadt-bremerhaven.de_async.js",
+      "lineNumber": 0,
+      "columnNumber": 13114
+    },
+    "text": "no yl defined, check again"
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://secure.adnxs.com/ttj?id=12104225&gdpr=1&gdpr_consent=undefined",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "Failed to execute 'write' on 'Document': It isn't possible to write into a document from an asynchronously-loaded external script unless it is explicitly opened."
+  },
+  {
+    "type": "debug",
+    "location": {
+      "url": "https://storage.googleapis.com/adtags/stadt-bremerhaven/QMAX_stadt-bremerhaven.de_async.js",
+      "lineNumber": 0,
+      "columnNumber": 13046
+    },
+    "text": "yl is found, call bid function callAd_after_bid()"
+  },
+  {
+    "type": "error",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062509",
+      "lineNumber": 5,
+      "columnNumber": 116732
+    },
+    "text": "[GPT] Div ID passed to googletag.display() does not match any defined slots: div-gpt-ad-468478718952317814-2."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062509",
+      "lineNumber": 5,
+      "columnNumber": 116668
+    },
+    "text": "[GPT] Error in googletag.display: could not find div with id \"div-gpt-ad-468478718952317814-4\" in DOM for slot: /27763518,9581487/Carsten_Knobloch/stadt-bremerhaven.de/mobil/pos1."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062509",
+      "lineNumber": 5,
+      "columnNumber": 116668
+    },
+    "text": "[GPT] Error in googletag.display: could not find div with id \"div-gpt-ad-468478718952317814-5\" in DOM for slot: /27763518,9581487/Carsten_Knobloch/stadt-bremerhaven.de/mobil/pos2."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062509",
+      "lineNumber": 5,
+      "columnNumber": 116668
+    },
+    "text": "[GPT] Error in googletag.display: could not find div with id \"div-gpt-ad-468478718952317814-6\" in DOM for slot: /27763518,9581487/Carsten_Knobloch/stadt-bremerhaven.de/mobil/pos3."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062509",
+      "lineNumber": 5,
+      "columnNumber": 116668
+    },
+    "text": "[GPT] Invalid arguments: PubAdsService.setTargeting('ylmrpr', 0)."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062509",
+      "lineNumber": 5,
+      "columnNumber": 116668
+    },
+    "text": "[GPT] Invalid arguments: PubAdsService.setTargeting('ylsbpr', 0)."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062509",
+      "lineNumber": 5,
+      "columnNumber": 116668
+    },
+    "text": "[GPT] Invalid arguments: PubAdsService.setTargeting('ylbbpr', 0)."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062509",
+      "lineNumber": 5,
+      "columnNumber": 116668
+    },
+    "text": "[GPT] Invalid arguments: PubAdsService.setTargeting('ylprex', 0)."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062509",
+      "lineNumber": 5,
+      "columnNumber": 116668
+    },
+    "text": "[GPT] Invalid arguments: PubAdsService.setTargeting('ylskypr', 0)."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062509",
+      "lineNumber": 5,
+      "columnNumber": 116668
+    },
+    "text": "[GPT] Invalid arguments: PubAdsService.setTargeting('ylhpapr', 0)."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062509",
+      "lineNumber": 5,
+      "columnNumber": 116668
+    },
+    "text": "[GPT] Invalid arguments: PubAdsService.setTargeting('ylmobmrpr', 0)."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062509",
+      "lineNumber": 5,
+      "columnNumber": 116668
+    },
+    "text": "[GPT] Invalid arguments: PubAdsService.setTargeting('ylmobsbpr', 0)."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021090701.js?31062509",
+      "lineNumber": 5,
+      "columnNumber": 116668
+    },
+    "text": "[GPT] Invalid arguments: PubAdsService.setTargeting('ylmobispr', 0)."
+  },
+  {
+    "type": "admeasure",
+    "text": "Minimum wait time reached after 5.15s."
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

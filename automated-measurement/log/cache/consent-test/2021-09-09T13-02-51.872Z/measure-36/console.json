@@ -1,0 +1,57 @@
+[
+  {
+    "part": "measure-36",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:17:21.193Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "visit https://thedartmouth.com/...",
+    "timestamp": "2021-09-09T13:17:22.688Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:17:25.526Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Starting integration for drt @ [object Object]",
+    "timestamp": "2021-09-09T13:17:25.923Z"
+  },
+  {
+    "part": "console.log",
+    "message": "FP bf761448-2dbe-436e-9f1b-5f607761b664 @ [object Object]",
+    "timestamp": "2021-09-09T13:17:25.925Z"
+  },
+  {
+    "part": "console.log",
+    "message": "REF https://www.thedartmouth.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:17:25.926Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:17:29.174Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] To reserve space and reduce layout shifts, consider setting min-width=728px, min-height=90px styles on the div element with id=mmt-92259e37-9f22-449e-9ead-d5598af95df9. Learn more: https://developers.google.com/publisher-tag/guides/minimize-layout-shift @ [object Object]",
+    "timestamp": "2021-09-09T13:17:35.921Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Powered by AMP ⚡ HTML – Version 2108302037000 https://www.thedartmouth.com/ @ [object Object]",
+    "timestamp": "2021-09-09T13:17:45.656Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://thedartmouth.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:17:52.704Z"
+  },
+  {
+    "part": "measure-36",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:17:53.685Z"
+  }
+]

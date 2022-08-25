@@ -1,0 +1,152 @@
+[
+  {
+    "part": "measure-79",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:24:53.777Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "visit https://columbusalive.com/...",
+    "timestamp": "2021-09-09T13:24:54.954Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Consent management does not appear to be set up correctly. No consent groups were found. @ [object Object]",
+    "timestamp": "2021-09-09T13:25:00.480Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:25:01.078Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Consent management does not appear to be set up correctly. No consent groups were found. @ [object Object]",
+    "timestamp": "2021-09-09T13:25:05.473Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Consent management does not appear to be set up correctly. No consent groups were found. @ [object Object]",
+    "timestamp": "2021-09-09T13:25:05.876Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:25:07.030Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:25:07.043Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:25:07.479Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:25:07.480Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:25:07.552Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:25:07.556Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:25:07.657Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:25:07.662Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:25:07.825Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:25:07.826Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:25:26.048Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:25:58.188Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:25:58.188Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:26:03.217Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:26:53.772Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:26:53.772Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:26:58.843Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:27:07.481Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "TCF data: cmpId 28 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:27:07.485Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:27:07.503Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:27:07.507Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:27:12.504Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:27:12.601Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:27:12.605Z"
+  }
+]

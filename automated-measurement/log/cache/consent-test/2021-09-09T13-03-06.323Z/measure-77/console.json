@@ -1,0 +1,122 @@
+[
+  {
+    "part": "measure-77",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:20:40.785Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "visit https://menshouse.gr/...",
+    "timestamp": "2021-09-09T13:20:42.580Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:20:52.191Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "USP is not accessible @ [object Object]",
+    "timestamp": "2021-09-09T13:20:53.866Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Adman.Scroller element not found @ [object Object]",
+    "timestamp": "2021-09-09T13:20:55.079Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:20:57.465Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:20:57.485Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:20:58.421Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:20:58.422Z"
+  },
+  {
+    "part": "console.log",
+    "message": "YT API init check @ [object Object]",
+    "timestamp": "2021-09-09T13:20:58.482Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:20:58.546Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:20:58.552Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:20:58.561Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:20:58.690Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:20:59.910Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "TCF data: cmpId 10 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:20:59.913Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:20:59.946Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:20:59.950Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:21:00.334Z"
+  },
+  {
+    "part": "console.log",
+    "message": "YT API init check @ [object Object]",
+    "timestamp": "2021-09-09T13:21:00.419Z"
+  },
+  {
+    "part": "console.log",
+    "message": "YT API init check @ [object Object]",
+    "timestamp": "2021-09-09T13:21:01.548Z"
+  },
+  {
+    "part": "console.log",
+    "message": "YT API init check @ [object Object]",
+    "timestamp": "2021-09-09T13:21:03.266Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:21:04.947Z"
+  },
+  {
+    "part": "measure-77",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:21:05.040Z"
+  }
+]

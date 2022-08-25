@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-16",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:09:56.154Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "visit https://msn.net/...",
+    "timestamp": "2021-09-09T13:09:56.482Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "page load error: Error: page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://msn.net/\n=========================== logs ===========================\nnavigating to \"https://msn.net/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:09:57.101Z"
+  },
+  {
+    "part": "measure-16",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:09:57.160Z"
+  }
+]

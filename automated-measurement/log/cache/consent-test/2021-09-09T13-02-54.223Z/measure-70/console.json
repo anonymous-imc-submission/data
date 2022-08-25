@@ -1,0 +1,127 @@
+[
+  {
+    "part": "measure-70",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:20:54.278Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "visit https://indiewire.com/...",
+    "timestamp": "2021-09-09T13:20:54.832Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SPEEDCURVE LUX ERROR: Invalid `id` parameter specified in lux.js URL. Code: 140 @ [object Object]",
+    "timestamp": "2021-09-09T13:20:55.715Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 1.4.1 @ [object Object]",
+    "timestamp": "2021-09-09T13:20:55.903Z"
+  },
+  {
+    "part": "console.log",
+    "message": "CX bootstrap loader.... @ [object Object]",
+    "timestamp": "2021-09-09T13:20:56.008Z"
+  },
+  {
+    "part": "console.log",
+    "message": "%c cxb.selfLoading background: #0d47a1; color: #FFF @ [object Object]",
+    "timestamp": "2021-09-09T13:20:58.210Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[cycle2] requeuing slideshow (dom not ready) @ [object Object]",
+    "timestamp": "2021-09-09T13:20:58.825Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[cycle2] requeuing slideshow (dom not ready) @ [object Object]",
+    "timestamp": "2021-09-09T13:20:58.832Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:21:01.714Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:21:01.722Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:21:02.148Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:21:02.149Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:21:02.199Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:21:02.205Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:21:02.810Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:21:02.933Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button tabindex=\"0\" class=\"cookie-setting-link\" id=\"one…>Show Purposes</button>\nattempting click action\n  waiting for element to be visible, enabled and stable\n  element is visible, enabled and stable\n  scrolling into view if needed\n  done scrolling\n  checking that element receives pointer events at (419.48,308.46)\n  element does receive pointer events\n  performing click action\n============================================================",
+    "timestamp": "2021-09-09T13:21:04.956Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:21:07.940Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:21:10.627Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:21:10.630Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:21:10.636Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:21:10.643Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:21:10.848Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "Minimum wait time reached after 5.06s.",
+    "timestamp": "2021-09-09T13:21:15.699Z"
+  },
+  {
+    "part": "measure-70",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:21:16.021Z"
+  }
+]

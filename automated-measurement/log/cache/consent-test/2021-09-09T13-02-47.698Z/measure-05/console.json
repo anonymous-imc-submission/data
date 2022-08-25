@@ -1,0 +1,137 @@
+[
+  {
+    "part": "measure-05",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:05:38.031Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "visit https://fantasypros.com/...",
+    "timestamp": "2021-09-09T13:05:38.454Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:05:42.025Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'checkAdUnitSetup' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:05:47.564Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Div ID passed to googletag.display() does not match any defined slots: div-gpt-ad-1358391979221-0. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:50.627Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Div ID passed to googletag.display() does not match any defined slots: div-gpt-ad-1380565478083-0. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:50.631Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Div ID passed to googletag.display() does not match any defined slots: div-gpt-ad-1590531866165-0. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:50.635Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Div ID passed to googletag.display() does not match any defined slots: div-gpt-ad-1470206093604-0. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:50.643Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Div ID passed to googletag.display() does not match any defined slots: div-gpt-ad-1470206218497-0. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:50.646Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Div ID passed to googletag.display() does not match any defined slots: div-gpt-ad-1470206274781-0. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:50.651Z"
+  },
+  {
+    "part": "console.error",
+    "message": "[GPT] Div ID passed to googletag.display() does not match any defined slots: div-gpt-ad-1520353502213-0. @ [object Object]",
+    "timestamp": "2021-09-09T13:05:50.658Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:05:51.680Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:06:02.308Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:06:02.308Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:06:02.864Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:02.864Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:06:02.893Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:06:02.902Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:06:02.963Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:06:02.990Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:06:24.682Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:06:24.683Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:06:24.687Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:06:24.689Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:06:24.928Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:06:29.687Z"
+  },
+  {
+    "part": "measure-05",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:06:29.766Z"
+  }
+]

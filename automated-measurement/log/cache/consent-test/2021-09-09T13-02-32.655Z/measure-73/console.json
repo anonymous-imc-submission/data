@@ -1,0 +1,117 @@
+[
+  {
+    "part": "measure-73",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:18:09.335Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "visit https://gizchina.com/...",
+    "timestamp": "2021-09-09T13:18:09.672Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:18:18.681Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:18:18.749Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:18:21.713Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:21.728Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://flowcards.mrf.io/transformer/www.gizchina.com?url=https%3A%2F%2Fwww.gizchina.com&vars=currentUrl,https%3A%2F%2Fwww.gizchina.com%2F,utmParams,,siteId,152,technology,0,flowcardId,FC_1E4_ZKQCQ1mGFSnJmse1_Q was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:18:21.901Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:18:21.909Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:18:21.956Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "dialog accept failed: \n  - TimeoutError: page.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=primary]\"\n    ============================================================\n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \"\n            #onetrust-accept-btn-handler:visible,\n            .optanon-allow-all:visible,\n            .optanon-button-allow:visible,\n            #onetrust-pc-sdk #accept-recommended-btn-handler:visible\n        \"\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:18:48.918Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:19:19.098Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:19:19.098Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:26.100Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:20:17.395Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:20:17.396Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:20:21.728Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "TCF data: cmpId 181 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:20:21.733Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:20:21.753Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:20:21.758Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:20:22.565Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:20:26.763Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:20:27.053Z"
+  },
+  {
+    "part": "measure-73",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:20:27.089Z"
+  }
+]

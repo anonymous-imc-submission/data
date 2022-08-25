@@ -1,0 +1,87 @@
+[
+  {
+    "part": "measure-92",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:23:07.554Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "visit https://gamedistribution.com/...",
+    "timestamp": "2021-09-09T13:23:07.933Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "<no-ssr> has been deprecated and will be removed in Nuxt 3, please use <client-only> instead @ [object Object]",
+    "timestamp": "2021-09-09T13:23:19.303Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:23:26.336Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:23:26.353Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:23:33.527Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:23:33.582Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:23:36.011Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:23:40.646Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:23:40.867Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:23:44.911Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:23:44.915Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:23:44.966Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:23:44.970Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:23:45.119Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:23:49.967Z"
+  },
+  {
+    "part": "measure-92",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:23:50.017Z"
+  }
+]

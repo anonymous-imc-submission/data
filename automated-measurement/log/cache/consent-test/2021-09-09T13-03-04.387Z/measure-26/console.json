@@ -1,0 +1,87 @@
+[
+  {
+    "part": "measure-26",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:12:00.493Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "visit https://epicurious.com/...",
+    "timestamp": "2021-09-09T13:12:00.827Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:12:12.143Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:12:12.144Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:12:13.199Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:13.200Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:12:13.226Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:12:13.234Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:13.325Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:12:13.351Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:12:25.141Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:12:25.172Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:12:25.177Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:12:25.177Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:12:25.373Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:12:30.177Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:12:30.203Z"
+  }
+]

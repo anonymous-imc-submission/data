@@ -1,0 +1,102 @@
+[
+  {
+    "part": "measure-78",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:13:03.537Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "visit https://gq.com.mx/...",
+    "timestamp": "2021-09-09T13:13:03.777Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Permutive not available @ [object Object]",
+    "timestamp": "2021-09-09T13:13:07.647Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Permutive was not initialized. No consent to run on the page @ [object Object]",
+    "timestamp": "2021-09-09T13:13:14.042Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:13:14.081Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:13:14.142Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:13:16.660Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:16.664Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:13:16.718Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:13:16.719Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:13:17.368Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:13:20.979Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "TCF data: cmpId 28 consent true, legInt false.",
+    "timestamp": "2021-09-09T13:13:20.982Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:13:21.520Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:13:21.526Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:13:22.027Z"
+  },
+  {
+    "part": "console.log",
+    "message": "$global td_ssc_id set to '01FF5B1YN8EVXRHWGHXBZ9JB89' @ [object Object]",
+    "timestamp": "2021-09-09T13:13:22.776Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:13:25.201Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:13:26.520Z"
+  },
+  {
+    "part": "measure-78",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:13:26.591Z"
+  }
+]

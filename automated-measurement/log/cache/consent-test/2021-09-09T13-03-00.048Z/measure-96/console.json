@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-96",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:34:22.197Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "visit https://livingstondaily.com/...",
+    "timestamp": "2021-09-09T13:34:24.931Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://livingstondaily.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:34:55.485Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:34:55.853Z"
+  }
+]

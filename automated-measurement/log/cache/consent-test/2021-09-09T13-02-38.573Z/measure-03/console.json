@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-03",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:04:18.315Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "visit https://topgear.com/...",
+    "timestamp": "2021-09-09T13:04:18.543Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Error: <svg> attribute height: Expected length, \"auto\". @ [object Object]",
+    "timestamp": "2021-09-09T13:04:19.755Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Error: <svg> attribute height: Expected length, \"auto\". @ [object Object]",
+    "timestamp": "2021-09-09T13:04:19.758Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Slot ad-nx8fp cannot be refreshed until PubAdsService is enabled. @ [object Object]",
+    "timestamp": "2021-09-09T13:04:26.497Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:04:27.644Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:04:27.673Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:04:28.940Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:04:28.944Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:04:29.023Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:04:29.043Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:04:29.112Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:04:30.220Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:04:30.228Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:04:30.242Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:04:30.248Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:04:30.583Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:04:35.244Z"
+  },
+  {
+    "part": "measure-03",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:04:35.299Z"
+  }
+]

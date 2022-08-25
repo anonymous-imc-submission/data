@@ -1,0 +1,32 @@
+[
+  {
+    "part": "measure-98",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:24:21.119Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "visit https://montgomeryadvertiser.com/...",
+    "timestamp": "2021-09-09T13:24:25.842Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Consent management does not appear to be set up correctly. No consent groups were found. @ [object Object]",
+    "timestamp": "2021-09-09T13:24:44.314Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:24:47.624Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://montgomeryadvertiser.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:24:55.870Z"
+  },
+  {
+    "part": "measure-98",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:24:56.058Z"
+  }
+]

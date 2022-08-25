@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-44",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:09:02.562Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "visit https://tun.in/...",
+    "timestamp": "2021-09-09T13:09:02.744Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "page load error: Error: page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://tun.in/\n=========================== logs ===========================\nnavigating to \"https://tun.in/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:09:03.195Z"
+  },
+  {
+    "part": "measure-44",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:09:03.243Z"
+  }
+]

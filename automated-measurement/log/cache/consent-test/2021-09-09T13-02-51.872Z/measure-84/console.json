@@ -1,0 +1,62 @@
+[
+  {
+    "part": "measure-84",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:33:18.608Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "visit https://idnes.cz/...",
+    "timestamp": "2021-09-09T13:33:20.300Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Veškeré skripty jsou chráněny Autorským zákonem. @ [object Object]",
+    "timestamp": "2021-09-09T13:33:22.826Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:33:40.470Z"
+  },
+  {
+    "part": "console.log",
+    "message": "R2B2 SAS Passback pozice halfpagead_rubrika / FCID 103400 @ [object Object]",
+    "timestamp": "2021-09-09T13:33:42.708Z"
+  },
+  {
+    "part": "console.log",
+    "message": "R2B2 SAS Passback pozice halfpagead_rubrika_spodni / FCID 103402 @ [object Object]",
+    "timestamp": "2021-09-09T13:33:42.814Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Adform SAS Passback pozice branding / FCID 82136 @ [object Object]",
+    "timestamp": "2021-09-09T13:33:43.776Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:33:44.901Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 (Forbidden) @ [object Object]",
+    "timestamp": "2021-09-09T13:33:46.153Z"
+  },
+  {
+    "part": "console.log",
+    "message": "R2B2 SAS Passback pozice widesquare / FCID 104682 @ [object Object]",
+    "timestamp": "2021-09-09T13:33:46.903Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://idnes.cz/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:33:50.371Z"
+  },
+  {
+    "part": "measure-84",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:33:50.514Z"
+  }
+]

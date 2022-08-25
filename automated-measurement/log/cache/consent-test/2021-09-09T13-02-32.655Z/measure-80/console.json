@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-80",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:20:27.140Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "visit https://livescore.in/...",
+    "timestamp": "2021-09-09T13:20:28.136Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://livescore.in/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:20:58.201Z"
+  },
+  {
+    "part": "measure-80",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:20:58.295Z"
+  }
+]

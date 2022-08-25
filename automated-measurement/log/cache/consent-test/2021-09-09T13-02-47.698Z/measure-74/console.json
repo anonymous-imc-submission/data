@@ -1,0 +1,227 @@
+[
+  {
+    "part": "measure-74",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:23:30.928Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "visit https://arstechnica.com/...",
+    "timestamp": "2021-09-09T13:23:31.154Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "ads.Invalid sizes: unable to define 'siderail' on mobile..warn {definition: Object, slotName: siderail} @ [object Object]",
+    "timestamp": "2021-09-09T13:23:32.457Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "ads.Invalid render: unable to define: 'siderail' on mobile.warn {definition: Object, slotName: siderail} @ [object Object]",
+    "timestamp": "2021-09-09T13:23:32.457Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 526 () @ [object Object]",
+    "timestamp": "2021-09-09T13:23:33.457Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 526 () @ [object Object]",
+    "timestamp": "2021-09-09T13:23:34.571Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:23:36.359Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:23:37.724Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:23:37.725Z"
+  },
+  {
+    "part": "console.error",
+    "message": "CNE Player: Error fetching or parsing prebid Error: Timeout\n    at new e (https://player.cnevids.com/script/video/5a3adb0b2d1ca0024c000042.js?autoplay=1&hasCompanion=false&hideHoverTitle=1&hidePosterTitle=1&muted=1&onReady=setupInterlude1&playerType=interlude&recAlgorithm=recommendations_cne-interlude-arstechnica_28d46b5c-021e-47a8-bd1e-a7c1d18b80dd_similar2-3&recStrategy=similar2_3&showPlaylistBar=false:1:4777)\n    at XMLHttpRequest.<anonymous> (https://player.cnevids.com/script/video/5a3adb0b2d1ca0024c000042.js?autoplay=1&hasCompanion=false&hideHoverTitle=1&hidePosterTitle=1&muted=1&onReady=setupInterlude1&playerType=interlude&recAlgorithm=recommendations_cne-interlude-arstechnica_28d46b5c-021e-47a8-bd1e-a7c1d18b80dd_similar2-3&recStrategy=similar2_3&showPlaylistBar=false:1:68317) errorData => {embedParams: Object} @ [object Object]",
+    "timestamp": "2021-09-09T13:23:38.188Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "'HTMLVideoElement.webkitDisplayingFullscreen' is deprecated. Please use 'Document.fullscreenElement' instead. @ [object Object]",
+    "timestamp": "2021-09-09T13:23:38.867Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Origin trial controlled feature not enabled: 'trust-token-redemption'. @ [object Object]",
+    "timestamp": "2021-09-09T13:23:38.882Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:23:39.701Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:23:39.705Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:23:39.706Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:23:39.805Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:23:39.812Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:23:39.866Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:23:39.981Z"
+  },
+  {
+    "part": "console.log",
+    "message": "received a request for uspapi @ [object Object]",
+    "timestamp": "2021-09-09T13:23:40.502Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button id=\"onetrust-pc-btn-handler\">Show Purposes</button>\nattempting click action\n  waiting for element to be visible, enabled and stable\n============================================================",
+    "timestamp": "2021-09-09T13:23:42.267Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:23:44.835Z"
+  },
+  {
+    "part": "console.error",
+    "message": "VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) The media could not be loaded, either because the server or network failed or because the format is not supported. at @ [object Object]",
+    "timestamp": "2021-09-09T13:23:45.240Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "updateCorrelator has been deprecated. Please see the Google Ad Manager help page on \"Pageviews in GPT\" for more information: https://support.google.com/admanager/answer/183281?hl=en @ [object Object]",
+    "timestamp": "2021-09-09T13:24:04.691Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] updateCorrelator has been deprecated. See the Google Ad Manager help page on \"Creative selection for multiple ad slots\" for more information: https://support.google.com/admanager/answer/183281. @ [object Object]",
+    "timestamp": "2021-09-09T13:24:04.693Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "dialog reject failed: \n  - TimeoutError: locator.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".qc-cmp2-footer button[mode=secondary]:visible >> nth=-1\"\n    ============================================================\n  - TimeoutError: page.click: Timeout 30000ms exceeded.\n    =========================== logs ===========================\n    waiting for selector \".ot-pc-refuse-all-handler:visible, .save-preference-btn-handler:visible\"\n    ============================================================\n  - timeout waiting for frame: (frame2) => frame2.url().includes(\"&consentUUID=\")",
+    "timestamp": "2021-09-09T13:24:15.400Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:24:30.582Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:24:30.582Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "updateCorrelator has been deprecated. Please see the Google Ad Manager help page on \"Pageviews in GPT\" for more information: https://support.google.com/admanager/answer/183281?hl=en @ [object Object]",
+    "timestamp": "2021-09-09T13:24:34.623Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] updateCorrelator has been deprecated. See the Google Ad Manager help page on \"Creative selection for multiple ad slots\" for more information: https://support.google.com/admanager/answer/183281. @ [object Object]",
+    "timestamp": "2021-09-09T13:24:34.623Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:24:35.628Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "updateCorrelator has been deprecated. Please see the Google Ad Manager help page on \"Pageviews in GPT\" for more information: https://support.google.com/admanager/answer/183281?hl=en @ [object Object]",
+    "timestamp": "2021-09-09T13:25:04.630Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] updateCorrelator has been deprecated. See the Google Ad Manager help page on \"Creative selection for multiple ad slots\" for more information: https://support.google.com/admanager/answer/183281. @ [object Object]",
+    "timestamp": "2021-09-09T13:25:04.632Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:25:26.144Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:25:26.144Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:25:31.192Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "updateCorrelator has been deprecated. Please see the Google Ad Manager help page on \"Pageviews in GPT\" for more information: https://support.google.com/admanager/answer/183281?hl=en @ [object Object]",
+    "timestamp": "2021-09-09T13:25:34.725Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] updateCorrelator has been deprecated. See the Google Ad Manager help page on \"Creative selection for multiple ad slots\" for more information: https://support.google.com/admanager/answer/183281. @ [object Object]",
+    "timestamp": "2021-09-09T13:25:34.740Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Cannot get TCF data: getTCData timed out",
+    "timestamp": "2021-09-09T13:25:39.714Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "TCF data: cmpId 28 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:25:39.719Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:25:39.750Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Network is idle after 0.01s.",
+    "timestamp": "2021-09-09T13:25:39.759Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:25:44.752Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "TC Data evaluation failed: Error: page.evaluate: Target closed",
+    "timestamp": "2021-09-09T13:25:44.807Z"
+  },
+  {
+    "part": "measure-74",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:25:44.808Z"
+  }
+]

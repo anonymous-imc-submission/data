@@ -1,0 +1,117 @@
+[
+  {
+    "part": "measure-38",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:16:21.705Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "visit https://domesticatedcompanion.com/...",
+    "timestamp": "2021-09-09T13:16:21.906Z"
+  },
+  {
+    "part": "console.info",
+    "message": "pmrt enabled @ [object Object]",
+    "timestamp": "2021-09-09T13:16:22.316Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GDPR is ON @ [object Object]",
+    "timestamp": "2021-09-09T13:16:22.628Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Failed to execute 'write' on 'Document': It isn't possible to write into a document from an asynchronously-loaded external script unless it is explicitly opened. @ [object Object]",
+    "timestamp": "2021-09-09T13:16:24.656Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:16:27.516Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:16:27.517Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:16:27.715Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:16:27.716Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:16:27.751Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:16:27.756Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:16:27.808Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:16:27.843Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:17:18.476Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:17:18.477Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:17:20.402Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:17:23.567Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:17:23.628Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:17:23.632Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:17:23.642Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:17:23.644Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:17:28.642Z"
+  },
+  {
+    "part": "measure-38",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:17:28.681Z"
+  }
+]

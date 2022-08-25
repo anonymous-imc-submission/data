@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-33",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:09:10.168Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "visit https://autovit.ro/...",
+    "timestamp": "2021-09-09T13:09:10.489Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "react-i18next:: It seems you are still using the old wait option, you may migrate to the new useSuspense behaviour. @ [object Object]",
+    "timestamp": "2021-09-09T13:09:14.277Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:09:17.209Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:09:24.279Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:09:24.279Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:09:24.678Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:09:24.679Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:09:24.755Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:09:24.758Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:09:25.311Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:09:27.437Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:09:27.437Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:09:27.552Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:09:28.128Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:09:32.553Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Refused to execute script from 'https://ad.atdmt.com/i/t.js;adv=11297208284209;ec=11297212736296;adv.a=9080429;c.a=23712927;s.a=2103608;p.a=264941189;a.a=501691639;cache=1585964506;%22async' because its MIME type ('image/gif') is not executable, and strict MIME type checking is enabled. @ [object Object]",
+    "timestamp": "2021-09-09T13:09:35.891Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "Network is idle after 14.5s.",
+    "timestamp": "2021-09-09T13:09:42.086Z"
+  },
+  {
+    "part": "measure-33",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:09:42.186Z"
+  }
+]

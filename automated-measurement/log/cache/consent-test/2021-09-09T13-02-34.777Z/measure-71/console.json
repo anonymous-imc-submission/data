@@ -1,0 +1,112 @@
+[
+  {
+    "part": "measure-71",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:15:50.159Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "visit https://daily-stuff.com/...",
+    "timestamp": "2021-09-09T13:15:51.338Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GDPR is ON @ [object Object]",
+    "timestamp": "2021-09-09T13:15:52.968Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Failed to execute 'write' on 'Document': It isn't possible to write into a document from an asynchronously-loaded external script unless it is explicitly opened. @ [object Object]",
+    "timestamp": "2021-09-09T13:15:55.379Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Ignoring a call to setCollapseEmptyDiv(false, true). Slots that start out collapsed should also collapse when empty. Slot: /21920655038/daily-stuff-dt-inf-1_0. @ [object Object]",
+    "timestamp": "2021-09-09T13:15:56.906Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Ignoring a call to setCollapseEmptyDiv(false, true). Slots that start out collapsed should also collapse when empty. Slot: /21920655038/daily-stuff-dt-inf-2_0. @ [object Object]",
+    "timestamp": "2021-09-09T13:15:56.911Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Ignoring a call to setCollapseEmptyDiv(false, true). Slots that start out collapsed should also collapse when empty. Slot: /21920655038/daily-stuff-dt-inf-sidebar-1_0. @ [object Object]",
+    "timestamp": "2021-09-09T13:15:56.917Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "[GPT] Ignoring a call to setCollapseEmptyDiv(false, true). Slots that start out collapsed should also collapse when empty. Slot: /21920655038/daily-stuff-dt-inf-sticky_0. @ [object Object]",
+    "timestamp": "2021-09-09T13:15:56.921Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:16:02.926Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:16:02.961Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:16:04.026Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:16:04.033Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:16:04.092Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:16:04.095Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:16:04.395Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:16:07.204Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:16:07.211Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:16:07.250Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:16:07.261Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:16:07.585Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:16:12.263Z"
+  },
+  {
+    "part": "measure-71",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:16:12.528Z"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "part": "measure-51",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:18:23.358Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "visit https://sealedair.com/...",
+    "timestamp": "2021-09-09T13:18:25.925Z"
+  },
+  {
+    "part": "console.log",
+    "message": "kWidget: Kaltura HTML5 Version: 2.90 ( iframe )  @ [object Object]",
+    "timestamp": "2021-09-09T13:18:45.393Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://sealedair.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:18:56.003Z"
+  },
+  {
+    "part": "measure-51",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:18:56.111Z"
+  }
+]

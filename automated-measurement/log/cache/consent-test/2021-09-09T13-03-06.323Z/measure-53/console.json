@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-53",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:16:00.675Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "visit https://theweek.in/...",
+    "timestamp": "2021-09-09T13:16:01.630Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "page load error: Error: page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://theweek.in/\n=========================== logs ===========================\nnavigating to \"https://theweek.in/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:16:01.993Z"
+  },
+  {
+    "part": "measure-53",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:16:02.075Z"
+  }
+]

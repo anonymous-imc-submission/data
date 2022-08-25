@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-26",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:12:14.671Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "visit https://eveningtribune.com/...",
+    "timestamp": "2021-09-09T13:12:15.121Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:12:20.273Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:12:20.283Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:12:20.432Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:20.433Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:12:20.464Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:12:20.469Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:12:20.508Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:12:20.518Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:12:24.420Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:12:24.425Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:12:38.495Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:12:38.500Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:12:38.510Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:12:38.515Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:12:38.558Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:12:43.510Z"
+  },
+  {
+    "part": "measure-26",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:12:43.551Z"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "part": "measure-52",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:15:41.933Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "visit https://fstoppers.com/...",
+    "timestamp": "2021-09-09T13:15:42.223Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'. @ [object Object]",
+    "timestamp": "2021-09-09T13:15:42.642Z"
+  },
+  {
+    "part": "console.log",
+    "message": "$el.width() 640 @ [object Object]",
+    "timestamp": "2021-09-09T13:15:51.665Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:15:54.011Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:15:54.032Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:15:54.567Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:15:54.567Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:15:54.631Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:15:54.631Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:15:54.645Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:15:54.701Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:15:55.530Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "TCF data: cmpId 10 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:15:55.534Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:15:55.550Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:15:55.553Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:15:55.612Z"
+  },
+  {
+    "part": "console.info",
+    "message": "%cPubfig:  background: #00C389; color: #fff; border-radius: 3px; padding: 3px pubfig.messaging.js - Init ========== LOADING MESSAGING ========== @ [object Object]",
+    "timestamp": "2021-09-09T13:15:58.810Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:16:00.550Z"
+  },
+  {
+    "part": "measure-52",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:16:00.641Z"
+  }
+]

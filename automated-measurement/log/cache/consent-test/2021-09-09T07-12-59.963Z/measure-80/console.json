@@ -1,0 +1,369 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://techtarget.com/..."
+  },
+  {
+    "type": "error",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "Failed to set referrer policy: The value '' is not one of 'no-referrer', 'no-referrer-when-downgrade', 'origin', 'origin-when-cross-origin', 'same-origin', 'strict-origin', 'strict-origin-when-cross-origin', or 'unsafe-url'. The referrer policy has been left unchanged."
+  },
+  {
+    "type": "error",
+    "location": {
+      "url": "https://www.techtarget.com/",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "Mixed Content: The page at 'https://www.techtarget.com/' was loaded over HTTPS, but requested an insecure font 'http://www.techtarget.com/corp/techtarget.ttf?5sqxeh'. This request has been blocked; the content must be served over HTTPS."
+  },
+  {
+    "type": "admeasure",
+    "text": "Looking for dialogs to reject..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting for __tcfapi..."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.techtarget.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2",
+      "lineNumber": 1,
+      "columnNumber": 708
+    },
+    "text": "JQMIGRATE: Migrate is installed, version 3.3.2"
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://www.techtarget.com/",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "The resource https://cdn.ttgtmedia.com/wp-content/themes/tech-target/assets/javascript/jquery.slick.js?ver=3f77b5dfffb4046555517530caf64737 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://www.techtarget.com/",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "The resource https://cdn.jsdelivr.net/vivus/latest/vivus.min.js?ver=0.3.1 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://www.techtarget.com/",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "The resource https://cdnjs.cloudflare.com/ajax/libs/animejs/2.2.0/anime.min.js?ver=2.2.0 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://www.techtarget.com/",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "The resource https://cdn.ttgtmedia.com/cmp/sourcepoint/ccpa-config.min.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://www.techtarget.com/",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "The resource https://cdn.ttgtmedia.com/cmp/sourcepoint/gdprTCFv2-config.min.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://www.techtarget.com/",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "The resource https://app-sjf.marketo.com/js/forms2/js/forms2.min.js?ver=3f77b5dfffb4046555517530caf64737 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://www.techtarget.com/",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "The resource https://cdn.ttgtmedia.com/cmp/ttCmpApi.min.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://www.techtarget.com/",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "The resource https://www.techtarget.com/wp-includes/js/wp-embed.min.js?ver=3f77b5dfffb4046555517530caf64737 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://www.techtarget.com/",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "The resource https://cdn.ttgtmedia.com/wp-content/themes/tech-target/assets/javascript/jquery.autocomplete.js?ver=3f77b5dfffb4046555517530caf64737 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://www.techtarget.com/",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "The resource https://www.techtarget.com/wp-content/plugins/social-pug/assets/dist/front-end-free.1.19.1.js?ver=1.19.1 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://www.techtarget.com/",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "The resource https://fast.fonts.net/jsapi/124d48dd-e515-4302-8bfb-1d5c1e3da916.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://www.techtarget.com/",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "The resource https://cdn.ttgtmedia.com/wp-content/themes/tech-target/assets/javascript/techtarget.js?ver=3f77b5dfffb4046555517530caf64737 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://www.techtarget.com/",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "The resource https://www.techtarget.com/wp-content/plugins/mesh/assets/js/mesh.js?ver=1.2.5.6 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://www.techtarget.com/",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "The resource https://cdn.ttgtmedia.com/wp-content/themes/tech-target/assets/javascript/techtarget-marketo.js?ver=3f77b5dfffb4046555517530caf64737 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://www.techtarget.com/",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "The resource https://cdn.ttgtmedia.com/wp-content/themes/tech-target/assets/javascript/jquery.infinitescroll.min.js?ver=3.0.6 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://www.techtarget.com/",
+      "lineNumber": 0,
+      "columnNumber": 0
+    },
+    "text": "The resource https://cdn.ttgtmedia.com/wp-content/themes/tech-target/assets/javascript/jquery.vide.js?ver=3f77b5dfffb4046555517530caf64737 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://cdn.ttgtmedia.com/cmp/ttCmpApi.min.js",
+      "lineNumber": 0,
+      "columnNumber": 5318
+    },
+    "text": "Domain :techtarget.com"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://cdn.ttgtmedia.com/cmp/ttCmpApi.min.js",
+      "lineNumber": 0,
+      "columnNumber": 5381
+    },
+    "text": "hostname exact matchwww.techtarget.com"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://cdn.ttgtmedia.com/cmp/sourcepoint/ccpa-config.min.js",
+      "lineNumber": 0,
+      "columnNumber": 1785
+    },
+    "text": "ccpa_cta: -1"
+  },
+  {
+    "type": "admeasure",
+    "text": "__tcfapi found! Querying status..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingWaiting."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://gdpr-tcfv2.sp-prod.net/wrapperMessagingWithoutDetection.js",
+      "lineNumber": 0,
+      "columnNumber": 154615
+    },
+    "text": "Messaging without detection successfully executed."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingLoaded."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://ccpa.sp-prod.net/ccpa.js",
+      "lineNumber": 0,
+      "columnNumber": 55949
+    },
+    "text": "CCPA script successfully executed."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint iframe found!"
+  },
+  {
+    "type": "admeasure",
+    "text": "Button clicked: Manage Preferences"
+  },
+  {
+    "type": "admeasure",
+    "text": "Found Sourcepoint privacy manager."
+  },
+  {
+    "type": "info",
+    "location": {
+      "url": "https://js.driftt.com/core/assets/js/18.9c5cc161.chunk.js",
+      "lineNumber": 0,
+      "columnNumber": 32664
+    },
+    "text": "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 286 ms"
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: toggling type toggles."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Check for legitimate interest button..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: no legitimate interest button found: No matching button found: "
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Find the save button."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint dialog rejected."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 53,
+      "columnNumber": 64
+    },
+    "text": "DPM COMMAND customvendorconsent grant = [object Object]"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 57,
+      "columnNumber": 72
+    },
+    "text": "DPM returning vendor grant for 5f19fbbb772c4f2f5f99fcc0 = false"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 14,
+      "columnNumber": 44
+    },
+    "text": " getting custom vendor consent by command inside cb"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 47,
+      "columnNumber": 76
+    },
+    "text": "HJ getting custom vendor consent by command "
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 50,
+      "columnNumber": 80
+    },
+    "text": "HJ COMMAND customvendorconsent grant = [object Object]"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 54,
+      "columnNumber": 88
+    },
+    "text": "HJ returning vendor grant for 5ee7add94c24944fdb5c5ac6 = false"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data obtained!"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data: cmpId 6 consent false, legInt false."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Network is idle after 0.01s."
+  },
+  {
+    "type": "admeasure",
+    "text": "Minimum wait time reached after 5.00s."
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

@@ -1,0 +1,26 @@
+\documentclass{standalonefigure}
+
+\begin{document}
+	\input{\paperroot/data/viz/personalization-means.tex}
+	
+	\begin{figure}
+		\hfill
+		\begin{tikzpicture}
+			\begin{scope}[x=1.25cm,y=.3cm, yshift=-5cm]
+				\autoResultTicksA{3.05cm}
+				\autoResultBars{7.5}{UDFirefox}{Mozilla Firefox}
+				\autoResultBars{5}{UDWebkit}{Safari/WebKit}
+				\autoResultBars{2.5}{UDChrome}{Google Chrome}
+				\autoResultBars{0}{UDMsedge}{Microsoft Edge}
+				%\node[left] at (0,10.5) {\textbf{Browser}};
+				\autoResultTicksB{3.05cm}
+				\autoResultLegend{4\,500\footnotesize\text{/bar}}
+			\end{scope}
+		\end{tikzpicture}	
+		\caption{
+			Observed ad personalization metrics for measurements made by different browsers from the ``University Laptop'' setup.
+		}
+		\label{fig/results-automated-browser}
+	\end{figure}
+	
+\end{document}

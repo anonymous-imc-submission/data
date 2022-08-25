@@ -1,0 +1,92 @@
+[
+  {
+    "part": "measure-95",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:26:35.993Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "visit https://oyunskor.com/...",
+    "timestamp": "2021-09-09T13:26:38.135Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "fun-hooks: referenced 'registerAdserver' but it was never created @ [object Object]",
+    "timestamp": "2021-09-09T13:26:45.246Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:26:52.285Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:26:52.331Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:26:54.445Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:26:54.449Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:26:54.475Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:26:54.482Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:26:54.826Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:26:54.830Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:27:00.424Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:27:00.430Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:27:00.506Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:27:00.513Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:27:00.515Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:27:05.511Z"
+  },
+  {
+    "part": "measure-95",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:27:05.564Z"
+  }
+]

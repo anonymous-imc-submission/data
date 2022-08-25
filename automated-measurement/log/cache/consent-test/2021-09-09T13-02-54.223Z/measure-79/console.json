@@ -1,0 +1,87 @@
+[
+  {
+    "part": "measure-79",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:22:35.239Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "visit https://thedodo.com/...",
+    "timestamp": "2021-09-09T13:22:35.835Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:22:50.574Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:22:50.577Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:22:51.266Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:51.267Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:22:51.326Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:22:51.330Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:51.385Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:22:51.569Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:22:57.175Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:22:57.178Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:22:57.206Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:22:57.217Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:22:57.238Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:23:02.212Z"
+  },
+  {
+    "part": "measure-79",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:23:02.325Z"
+  }
+]

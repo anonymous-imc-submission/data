@@ -1,0 +1,182 @@
+[
+  {
+    "part": "measure-65",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:17:40.174Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "visit https://vgchartz.com/...",
+    "timestamp": "2021-09-09T13:17:40.418Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.0 @ [object Object]",
+    "timestamp": "2021-09-09T13:17:46.751Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JSHandle@node @ [object Object]",
+    "timestamp": "2021-09-09T13:17:59.156Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JSHandle@node @ [object Object]",
+    "timestamp": "2021-09-09T13:17:59.157Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JSHandle@node @ [object Object]",
+    "timestamp": "2021-09-09T13:17:59.182Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JSHandle@node @ [object Object]",
+    "timestamp": "2021-09-09T13:17:59.188Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JSHandle@node @ [object Object]",
+    "timestamp": "2021-09-09T13:17:59.208Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JSHandle@node @ [object Object]",
+    "timestamp": "2021-09-09T13:17:59.229Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JSHandle@node @ [object Object]",
+    "timestamp": "2021-09-09T13:17:59.483Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JSHandle@node @ [object Object]",
+    "timestamp": "2021-09-09T13:17:59.566Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JSHandle@node @ [object Object]",
+    "timestamp": "2021-09-09T13:17:59.640Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JSHandle@node @ [object Object]",
+    "timestamp": "2021-09-09T13:17:59.664Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JSHandle@node @ [object Object]",
+    "timestamp": "2021-09-09T13:17:59.681Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JSHandle@node @ [object Object]",
+    "timestamp": "2021-09-09T13:17:59.693Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JSHandle@node @ [object Object]",
+    "timestamp": "2021-09-09T13:17:59.781Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JSHandle@node @ [object Object]",
+    "timestamp": "2021-09-09T13:17:59.802Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:18:03.943Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:18:03.951Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:18:04.861Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:04.861Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:18:04.980Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:18:04.986Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:18:04.998Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:18:06.449Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:18:08.188Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "TCF data: cmpId 10 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:18:08.193Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:18:08.217Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:18:08.221Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:18:08.407Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://adserver.adtech.de/pubapi/3.0/4596.1/6541702/0/2466/ADTECH;v=2;cmd=bid;cors=yes;alias=venatus_core_gaming-970x250;misc=1631193489536;gdpr=1;euconsent=CPMRF93PMRF93AKAiAENBqCsAP_AAH_AAAwIILtf_X__bX9j-_59f_t0eY1P9_r_v-Qzjhfdt-8F2L_W_L0X42E7NF36pq4KuR4Eu3LBIQNlHMHUTUmwaokVrzPsak2Mr6NKJ7LEmnMZO2dYGHtPn91TuZKY7_78__fz3z-v_t___9f37-3_3__5_X---_e_V399zLv9____39nN___9uCCgBJhqXkAXZljgybRpVCiBGFYSHQCgAooBhaJrABgcFOysAj1BCwAQmoCMCIEGIKMGAQACCQBIREBIAWCARAEQCAAEAKkBCAAiYBBYAWBgEAAoBoWIEUAQgSEGRwVHKYEBUi0UE9lYAlF3saYQhlvgRQKP6KjARrNECwMhIWDmOAJAS8AA.YAAAAAAAAAAA;' from origin 'https://www.vgchartz.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:18:10.265Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:18:10.275Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://adserver.adtech.de/pubapi/3.0/4596.1/6541700/0/2473/ADTECH;v=2;cmd=bid;cors=yes;alias=venatus_core_gaming-970x90;misc=1631193489536;gdpr=1;euconsent=CPMRF93PMRF93AKAiAENBqCsAP_AAH_AAAwIILtf_X__bX9j-_59f_t0eY1P9_r_v-Qzjhfdt-8F2L_W_L0X42E7NF36pq4KuR4Eu3LBIQNlHMHUTUmwaokVrzPsak2Mr6NKJ7LEmnMZO2dYGHtPn91TuZKY7_78__fz3z-v_t___9f37-3_3__5_X---_e_V399zLv9____39nN___9uCCgBJhqXkAXZljgybRpVCiBGFYSHQCgAooBhaJrABgcFOysAj1BCwAQmoCMCIEGIKMGAQACCQBIREBIAWCARAEQCAAEAKkBCAAiYBBYAWBgEAAoBoWIEUAQgSEGRwVHKYEBUi0UE9lYAlF3saYQhlvgRQKP6KjARrNECwMhIWDmOAJAS8AA.YAAAAAAAAAAA;' from origin 'https://www.vgchartz.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:18:10.276Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:18:10.282Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:18:13.219Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:18:13.345Z"
+  }
+]

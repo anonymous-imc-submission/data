@@ -1,0 +1,157 @@
+[
+  {
+    "part": "measure-45",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:10:51.136Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "visit https://m-w.com/...",
+    "timestamp": "2021-09-09T13:10:51.298Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:10:52.362Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Welcome to Home Redesign... @ [object Object]",
+    "timestamp": "2021-09-09T13:10:54.043Z"
+  },
+  {
+    "part": "console.log",
+    "message": "call inview @ [object Object]",
+    "timestamp": "2021-09-09T13:10:54.345Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://merriam-webster.com/assets/mw/static/app-css-images/global/icons/double-arrows-white.svg' from origin 'https://www.merriam-webster.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:55.939Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:10:55.952Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://c.amazon-adsystem.com/cdn/prod/config?src=3022&u=https%3A%2F%2Fwww.merriam-webster.com%2F' from origin 'https://www.merriam-webster.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:56.062Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:10:56.064Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://brightcombid.marphezis.com/hb?cb=iTsxvqwk' from origin 'https://www.merriam-webster.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'. The credentials mode of requests initiated by the XMLHttpRequest is controlled by the withCredentials attribute. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:58.625Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:10:58.629Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Origin trial controlled feature not enabled: 'trust-token-redemption'. @ [object Object]",
+    "timestamp": "2021-09-09T13:10:59.083Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:11:00.640Z"
+  },
+  {
+    "part": "console.log",
+    "message": "[BC]DataLayer available @ [object Object]",
+    "timestamp": "2021-09-09T13:11:00.913Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:11:04.083Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:11:04.085Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:11:04.846Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:04.847Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:11:04.962Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:11:04.976Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:05.084Z"
+  },
+  {
+    "part": "console.log",
+    "message": "removed: 1 @ [object Object]",
+    "timestamp": "2021-09-09T13:11:06.208Z"
+  },
+  {
+    "part": "console.log",
+    "message": "removed: 4 @ [object Object]",
+    "timestamp": "2021-09-09T13:11:06.265Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:11:06.376Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "TCF data: cmpId 28 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:11:06.380Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:11:06.401Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:11:06.406Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:11:07.022Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://merriam-webster.com/assets/mw/static/shared/mw-shared/css/onetrust/banner.min.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:11:07.092Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:11:11.404Z"
+  },
+  {
+    "part": "measure-45",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:11:11.522Z"
+  }
+]

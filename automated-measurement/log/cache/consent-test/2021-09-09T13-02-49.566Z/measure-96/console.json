@@ -1,0 +1,47 @@
+[
+  {
+    "part": "measure-96",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:35:18.787Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "visit https://bluewin.ch/...",
+    "timestamp": "2021-09-09T13:35:22.169Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://rcp.scsstatic.ch/etc.clientlibs/cq/testandtarget/clientlibs/testandtarget/atjs.201.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:35:25.769Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "A parser-blocking, cross site (i.e. different eTLD+1) script, https://rcp.scsstatic.ch/etc.clientlibs/cq/testandtarget/clientlibs/testandtarget/atjs.201.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details. @ [object Object]",
+    "timestamp": "2021-09-09T13:35:25.778Z"
+  },
+  {
+    "part": "console.error",
+    "message": "X-Frame-Options may only be set via an HTTP header sent along with a document. It may not be set inside <meta>. @ [object Object]",
+    "timestamp": "2021-09-09T13:35:30.392Z"
+  },
+  {
+    "part": "console.debug",
+    "message": "Spark loader: init load script event page_load @ [object Object]",
+    "timestamp": "2021-09-09T13:35:38.366Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "AT: metric element not found {type: click, selector: HTML > BODY > DIV.main-wrapper:eq(0) > DIV.page:eq…ype(1) > A:nth-of-type(1) > IMG.story-image:eq(0), eventToken: oeAi/YAWmzxtRQFaYWClmQ==} @ [object Object]",
+    "timestamp": "2021-09-09T13:35:47.052Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://bluewin.ch/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:35:52.172Z"
+  },
+  {
+    "part": "measure-96",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:35:52.260Z"
+  }
+]

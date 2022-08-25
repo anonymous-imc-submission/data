@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-41",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:17:13.871Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "visit https://uticaod.com/...",
+    "timestamp": "2021-09-09T13:17:14.054Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:17:19.268Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:17:19.278Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:17:19.455Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:17:19.455Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:17:19.471Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:17:19.475Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:17:19.503Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:17:19.515Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:17:22.554Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:17:22.559Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:17:32.585Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:17:32.585Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:17:32.593Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:17:32.617Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:17:37.594Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "Timeout after 20.0s",
+    "timestamp": "2021-09-09T13:17:52.601Z"
+  },
+  {
+    "part": "measure-41",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:17:52.651Z"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-67",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:27:49.669Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "visit https://autocar.co.uk/...",
+    "timestamp": "2021-09-09T13:27:51.230Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GA running @ [object Object]",
+    "timestamp": "2021-09-09T13:27:59.988Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GA disabled @ [object Object]",
+    "timestamp": "2021-09-09T13:27:59.989Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:28:13.153Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:28:13.160Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:28:16.712Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:28:16.715Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:28:16.826Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:28:16.842Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:28:17.023Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:28:17.032Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "OneTrust: No more options button.: TimeoutError: page.click: Timeout 2000ms exceeded.\n=========================== logs ===========================\nwaiting for selector \"#onetrust-pc-btn-handler:visible\"\n  selector resolved to visible <button class=\"cookie-setting-link\" id=\"onetrust-pc-btn-…>Cookie Settings</button>\nattempting click action\n  waiting for element to be visible, enabled and stable\n  element is visible, enabled and stable\n  scrolling into view if needed\n  done scrolling\n  checking that element receives pointer events at (568.12,394.77)\n  element does receive pointer events\n  performing click action\n============================================================",
+    "timestamp": "2021-09-09T13:28:19.038Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 404 () @ [object Object]",
+    "timestamp": "2021-09-09T13:28:20.472Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:28:29.767Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:28:29.769Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:28:29.804Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:28:30.399Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Minimum wait time reached after 5.01s.",
+    "timestamp": "2021-09-09T13:28:34.814Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "Timeout after 20.1s",
+    "timestamp": "2021-09-09T13:28:49.881Z"
+  },
+  {
+    "part": "measure-67",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:28:50.372Z"
+  }
+]

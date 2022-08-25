@@ -1,0 +1,97 @@
+[
+  {
+    "part": "measure-69",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:19:08.407Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "visit https://bobistheoilguy.com/...",
+    "timestamp": "2021-09-09T13:19:09.529Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.2 @ [object Object]",
+    "timestamp": "2021-09-09T13:19:11.390Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:19:13.781Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:19:13.793Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:19:14.791Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:14.792Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:19:14.827Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:19:14.831Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:19:14.990Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "Found a Quantcast dialog!",
+    "timestamp": "2021-09-09T13:19:15.379Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:19:17.014Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "TCF data: cmpId 10 consent true, legInt true.",
+    "timestamp": "2021-09-09T13:19:17.017Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:19:17.040Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:19:17.045Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "Quantcast dialog accepted.",
+    "timestamp": "2021-09-09T13:19:17.090Z"
+  },
+  {
+    "part": "console.info",
+    "message": "%cPubfig:  background: #00C389; color: #fff; border-radius: 3px; padding: 3px pubfig.messaging.js - Init ========== LOADING MESSAGING ========== @ [object Object]",
+    "timestamp": "2021-09-09T13:19:18.775Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:19:22.049Z"
+  },
+  {
+    "part": "measure-69",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:19:22.102Z"
+  }
+]

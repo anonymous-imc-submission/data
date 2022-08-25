@@ -1,0 +1,27 @@
+[
+  {
+    "part": "measure-65",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:16:36.311Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "visit https://mycentraljersey.com/...",
+    "timestamp": "2021-09-09T13:16:37.224Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:17:05.044Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://mycentraljersey.com/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:17:07.227Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:17:07.323Z"
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "part": "measure-58",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:12:58.359Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "visit https://outdoorlife.com/...",
+    "timestamp": "2021-09-09T13:12:59.010Z"
+  },
+  {
+    "part": "console.log",
+    "message": "JQMIGRATE: Migrate is installed, version 3.3.0 @ [object Object]",
+    "timestamp": "2021-09-09T13:12:59.844Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 403 () @ [object Object]",
+    "timestamp": "2021-09-09T13:13:02.590Z"
+  },
+  {
+    "part": "console.log",
+    "message": "SUPPRESS: false @ [object Object]",
+    "timestamp": "2021-09-09T13:13:05.027Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error in Optanon wrapper, please review your code. ReferenceError: __tcfapi is not defined @ [object Object]",
+    "timestamp": "2021-09-09T13:13:05.848Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: the server responded with a status of 451 () @ [object Object]",
+    "timestamp": "2021-09-09T13:13:06.018Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Looking for dialogs to accept...",
+    "timestamp": "2021-09-09T13:13:06.206Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:13:06.206Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://adserver-us.adtech.advertising.com/pubapi/3.0/11700.1/5116797/0/0/ADTECH;v=2;cmd=bid;cors=yes;alias=580ba79c8c902f9;misc=1631193187662;' from origin 'https://www.outdoorlife.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:08.690Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:13:08.698Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://adserver-us.adtech.advertising.com/pubapi/3.0/11700.1/5116797/0/0/ADTECH;v=2;cmd=bid;cors=yes;alias=60f1e83540a485c;misc=1631193187664;' from origin 'https://www.outdoorlife.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:08.700Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:13:08.705Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://adserver-us.adtech.advertising.com/pubapi/3.0/11700.1/5116802/0/0/ADTECH;v=2;cmd=bid;cors=yes;alias=595a1dc3e2e0884;misc=1631193187663;' from origin 'https://www.outdoorlife.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:08.707Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:13:08.721Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://adserver-us.adtech.advertising.com/pubapi/3.0/11700.1/5116803/0/0/ADTECH;v=2;cmd=bid;cors=yes;alias=57a0ca4ef87e209;misc=1631193187653;' from origin 'https://www.outdoorlife.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:08.722Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:13:08.725Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://adserver-us.adtech.advertising.com/pubapi/3.0/11700.1/5116797/0/0/ADTECH;v=2;cmd=bid;cors=yes;alias=629c05ebbc6b0bf;misc=1631193187664;' from origin 'https://www.outdoorlife.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:08.757Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:13:08.766Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://adserver-us.adtech.advertising.com/pubapi/3.0/11700.1/5116802/0/0/ADTECH;v=2;cmd=bid;cors=yes;alias=635ecef6e226e14;misc=1631193187664;' from origin 'https://www.outdoorlife.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:08.767Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:13:08.773Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Access to XMLHttpRequest at 'https://adserver-us.adtech.advertising.com/pubapi/3.0/11700.1/5116802/0/0/ADTECH;v=2;cmd=bid;cors=yes;alias=61b3d87a305bb2a;misc=1631193187664;' from origin 'https://www.outdoorlife.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:08.783Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_FAILED @ [object Object]",
+    "timestamp": "2021-09-09T13:13:10.022Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://www.outdoorlife.com/uploads/2021/03/06/outdoor-life-default-logo.jpg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:13:10.178Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error in Optanon wrapper, please review your code. ReferenceError: __tcfapi is not defined @ [object Object]",
+    "timestamp": "2021-09-09T13:13:10.987Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "OneTrust dialog accepted.",
+    "timestamp": "2021-09-09T13:13:11.268Z"
+  },
+  {
+    "part": "console.error",
+    "message": "Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ [object Object]",
+    "timestamp": "2021-09-09T13:13:24.250Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "__tcfapi not found: TimeoutError: page.waitForFunction: Timeout 30000ms exceeded.",
+    "timestamp": "2021-09-09T13:13:36.237Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "TCF data: cmpId null consent null, legInt null.",
+    "timestamp": "2021-09-09T13:13:36.239Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:13:36.244Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:13:36.250Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:13:41.247Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:13:41.413Z"
+  }
+]

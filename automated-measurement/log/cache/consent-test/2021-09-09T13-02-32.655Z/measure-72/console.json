@@ -1,0 +1,52 @@
+[
+  {
+    "part": "measure-72",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:17:54.130Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "visit https://olx.bg/...",
+    "timestamp": "2021-09-09T13:18:04.098Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'. @ [object Object]",
+    "timestamp": "2021-09-09T13:18:08.050Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Unrecognized feature: 'battery'. @ [object Object]",
+    "timestamp": "2021-09-09T13:18:08.053Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Unrecognized feature: 'execution-while-not-rendered'. @ [object Object]",
+    "timestamp": "2021-09-09T13:18:08.053Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Unrecognized feature: 'execution-while-out-of-viewport'. @ [object Object]",
+    "timestamp": "2021-09-09T13:18:08.054Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Unrecognized feature: 'navigation-override'. @ [object Object]",
+    "timestamp": "2021-09-09T13:18:08.054Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "Error with Permissions-Policy header: Unrecognized feature: 'web-share'. @ [object Object]",
+    "timestamp": "2021-09-09T13:18:08.054Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "page load error: TimeoutError: page.goto: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://olx.bg/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:18:34.184Z"
+  },
+  {
+    "part": "measure-72",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:18:34.408Z"
+  }
+]

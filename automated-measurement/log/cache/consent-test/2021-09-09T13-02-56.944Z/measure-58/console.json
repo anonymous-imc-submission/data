@@ -1,0 +1,107 @@
+[
+  {
+    "part": "measure-58",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:20:28.738Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "visit https://tcpalm.com/...",
+    "timestamp": "2021-09-09T13:20:29.638Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:20:39.916Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:20:45.666Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:20:45.674Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:20:45.944Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:20:45.944Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:20:45.985Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:20:45.989Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:20:46.037Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:20:46.074Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:20:48.041Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:20:48.068Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:20:48.999Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:20:55.858Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:20:55.858Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:20:55.876Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:20:55.881Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:20:56.147Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:21:00.876Z"
+  },
+  {
+    "part": "measure-58",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:21:00.943Z"
+  }
+]

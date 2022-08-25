@@ -1,0 +1,207 @@
+[
+  {
+    "type": "admeasure",
+    "text": "visit https://oekotest.de/..."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://utopix.net/js/oekotest.js",
+      "lineNumber": 0,
+      "columnNumber": 43979
+    },
+    "text": " stickyAdStatus 1"
+  },
+  {
+    "type": "admeasure",
+    "text": "Looking for dialogs to reject..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting for __tcfapi..."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 44
+    },
+    "text": "GTM homebox nativead_1"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "",
+      "lineNumber": 0,
+      "columnNumber": 332
+    },
+    "text": "push nativead_1 in adQueue"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://cdn.privacy-mgmt.com/wrapperMessagingWithoutDetection.js",
+      "lineNumber": 0,
+      "columnNumber": 154615
+    },
+    "text": "Messaging without detection successfully executed."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint iframe found!"
+  },
+  {
+    "type": "admeasure",
+    "text": "__tcfapi found! Querying status..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingWaiting."
+  },
+  {
+    "type": "admeasure",
+    "text": "Got pingLoaded."
+  },
+  {
+    "type": "admeasure",
+    "text": "Trying to get more TC data..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Button clicked: Einstellungen"
+  },
+  {
+    "type": "admeasure",
+    "text": "Found Sourcepoint privacy manager."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: toggling type toggles."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Check for legitimate interest button..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: no legitimate interest button found: No matching button found: "
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint: Find the save button."
+  },
+  {
+    "type": "admeasure",
+    "text": "Sourcepoint dialog rejected."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.oekotest.de/packs/consenter-8b7dac5389105a62af9f.js",
+      "lineNumber": 0,
+      "columnNumber": 2360
+    },
+    "text": "consenter started"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://utopix.net/js/oekotest.js",
+      "lineNumber": 0,
+      "columnNumber": 44172
+    },
+    "text": "adLib"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://utopix.net/js/oekotest.js",
+      "lineNumber": 0,
+      "columnNumber": 44570
+    },
+    "text": "### readyState: complete ###"
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://utopix.net/js/oekotest.js",
+      "lineNumber": 0,
+      "columnNumber": 44789
+    },
+    "text": "removed: 1"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data obtained!"
+  },
+  {
+    "type": "admeasure",
+    "text": "TCF data: cmpId 6 consent false, legInt false."
+  },
+  {
+    "type": "admeasure",
+    "text": "Waiting..."
+  },
+  {
+    "type": "admeasure",
+    "text": "Network is idle after 0.01s."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.oekotest.de/packs/application-2325c4e1a6e3b853b8f3.js",
+      "lineNumber": 0,
+      "columnNumber": 259435
+    },
+    "text": "{name: CLS, value: 0.036867081811881, delta: 0.036867081811881, entries: Array(1), id: v1-1631172391459-2768563873900}"
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://pagead2.googlesyndication.com/gpt/pubads_impl_2021090201.js",
+      "lineNumber": 5,
+      "columnNumber": 115707
+    },
+    "text": "[GPT] Invalid object passed to PubAdsService.setPrivacySettings({\"limitedAds\":1}), for limitedAds: 1."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://pagead2.googlesyndication.com/gpt/pubads_impl_2021090201.js",
+      "lineNumber": 5,
+      "columnNumber": 115707
+    },
+    "text": "[GPT] Invalid object passed to PubAdsService.setPrivacySettings({\"limitedAds\":1}), for limitedAds: 1."
+  },
+  {
+    "type": "warning",
+    "location": {
+      "url": "https://pagead2.googlesyndication.com/gpt/pubads_impl_2021090201.js",
+      "lineNumber": 5,
+      "columnNumber": 115707
+    },
+    "text": "[GPT] Invalid object passed to PubAdsService.setPrivacySettings({\"limitedAds\":1}), for limitedAds: 1."
+  },
+  {
+    "type": "log",
+    "location": {
+      "url": "https://www.oekotest.de/packs/application-2325c4e1a6e3b853b8f3.js",
+      "lineNumber": 0,
+      "columnNumber": 259435
+    },
+    "text": "{name: CLS, value: 0.073734163623762, delta: 0.036867081811881, entries: Array(2), id: v1-1631172391459-2768563873900}"
+  },
+  {
+    "type": "admeasure",
+    "text": "Minimum wait time reached after 5.01s."
+  },
+  {
+    "type": "admeasure",
+    "text": "write out data: console"
+  }
+]

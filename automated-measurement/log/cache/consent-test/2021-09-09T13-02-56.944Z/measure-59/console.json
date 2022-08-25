@@ -1,0 +1,117 @@
+[
+  {
+    "part": "measure-59",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:20:47.480Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "visit https://poughkeepsiejournal.com/...",
+    "timestamp": "2021-09-09T13:20:47.757Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "atoms library warning - gnt_region cookie unavailable @ [object Object]",
+    "timestamp": "2021-09-09T13:20:59.664Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:21:04.029Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:21:04.034Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:21:04.350Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:21:04.350Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:21:04.391Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:21:04.398Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:21:04.457Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:21:04.489Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:21:07.017Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - organic-thumbs-feed-01 @ [object Object]",
+    "timestamp": "2021-09-09T13:21:07.038Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "TC Data evaluation failed: Error: page.evaluate: timeout",
+    "timestamp": "2021-09-09T13:21:55.526Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "TC data: waiting for page to stabilize...",
+    "timestamp": "2021-09-09T13:21:55.529Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:22:01.216Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:22:01.954Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "TCF data: cmpId 28 consent false, legInt false.",
+    "timestamp": "2021-09-09T13:22:01.959Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:22:01.991Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:22:01.994Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:22:02.026Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:22:06.999Z"
+  },
+  {
+    "part": "measure-59",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:22:07.194Z"
+  }
+]

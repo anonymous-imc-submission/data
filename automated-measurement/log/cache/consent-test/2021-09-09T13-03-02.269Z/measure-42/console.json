@@ -1,0 +1,152 @@
+[
+  {
+    "part": "measure-42",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:16:04.024Z"
+  },
+  {
+    "part": "measure-42",
+    "message": "visit https://volksfreund.de/...",
+    "timestamp": "2021-09-09T13:16:04.330Z"
+  },
+  {
+    "part": "console.log",
+    "message": "start a new Bundleloader with these features: useCache: true / useWorker: true @ [object Object]",
+    "timestamp": "2021-09-09T13:16:09.394Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "<link rel=preload> uses an unsupported `as` value @ [object Object]",
+    "timestamp": "2021-09-09T13:16:11.077Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "<link rel=preload> uses an unsupported `as` value @ [object Object]",
+    "timestamp": "2021-09-09T13:16:11.930Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "<link rel=preload> uses an unsupported `as` value @ [object Object]",
+    "timestamp": "2021-09-09T13:16:16.819Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Cleared user data @ [object Object]",
+    "timestamp": "2021-09-09T13:16:17.834Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Exit TRCRBox.loadScriptCallback(retry=0): no items in response - rbox-tracking @ [object Object]",
+    "timestamp": "2021-09-09T13:16:18.083Z"
+  },
+  {
+    "part": "console.info",
+    "message": "CRE: Offer @ [object Object]",
+    "timestamp": "2021-09-09T13:16:18.497Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Twig Worker: Successfully rendered the template for the traffic widget @ [object Object]",
+    "timestamp": "2021-09-09T13:16:19.156Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Twig Worker: Successfully rendered the template for the traffic widget @ [object Object]",
+    "timestamp": "2021-09-09T13:16:19.327Z"
+  },
+  {
+    "part": "console.info",
+    "message": "Twig Worker: Successfully rendered the template for the traffic widget @ [object Object]",
+    "timestamp": "2021-09-09T13:16:20.284Z"
+  },
+  {
+    "part": "measure-42",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:16:20.639Z"
+  },
+  {
+    "part": "measure-42",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:16:20.640Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GTM PageView Add ttfb metric: 21 @ [object Object]",
+    "timestamp": "2021-09-09T13:16:20.705Z"
+  },
+  {
+    "part": "console.log",
+    "message": "GTM PageView Add totalTime metric: 7914 @ [object Object]",
+    "timestamp": "2021-09-09T13:16:20.706Z"
+  },
+  {
+    "part": "console.log",
+    "message": "Track is executed @ [object Object]",
+    "timestamp": "2021-09-09T13:16:20.708Z"
+  },
+  {
+    "part": "measure-42",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:16:21.034Z"
+  },
+  {
+    "part": "measure-42",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:16:21.039Z"
+  },
+  {
+    "part": "measure-42",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:16:21.125Z"
+  },
+  {
+    "part": "measure-42",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:16:21.130Z"
+  },
+  {
+    "part": "measure-42",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:16:21.134Z"
+  },
+  {
+    "part": "measure-42",
+    "message": "TCF data: cmpId 28 consent null, legInt null.",
+    "timestamp": "2021-09-09T13:16:21.134Z"
+  },
+  {
+    "part": "measure-42",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:16:21.140Z"
+  },
+  {
+    "part": "measure-42",
+    "message": "Network is idle after 0.32s.",
+    "timestamp": "2021-09-09T13:16:21.458Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://securepubads.g.doubleclick.net/tag/js/gpt.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:16:24.484Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://ads.pubmatic.com/AdServer/js/pwt/158201/1473/pwt.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:16:24.491Z"
+  },
+  {
+    "part": "console.warning",
+    "message": "The resource https://c.amazon-adsystem.com/aax2/apstag.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ [object Object]",
+    "timestamp": "2021-09-09T13:16:24.494Z"
+  },
+  {
+    "part": "measure-42",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:16:26.142Z"
+  },
+  {
+    "part": "measure-42",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:16:26.188Z"
+  }
+]

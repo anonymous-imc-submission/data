@@ -1,0 +1,22 @@
+[
+  {
+    "part": "measure-65",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:23:43.389Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "visit https://mtv3.fi/...",
+    "timestamp": "2021-09-09T13:23:44.256Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "page load error: Error: page.goto: net::ERR_CONNECTION_REFUSED at https://mtv3.fi/\n=========================== logs ===========================\nnavigating to \"https://mtv3.fi/\", waiting until \"load\"\n============================================================",
+    "timestamp": "2021-09-09T13:23:44.376Z"
+  },
+  {
+    "part": "measure-65",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:23:44.476Z"
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "part": "measure-06",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:05:36.242Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "visit https://avocatnet.ro/...",
+    "timestamp": "2021-09-09T13:05:36.404Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:05:39.294Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:05:39.295Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:05:39.919Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:05:39.920Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:05:39.951Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:05:39.957Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:05:40.005Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:05:40.038Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:05:53.798Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:05:53.799Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:05:53.802Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:05:53.805Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:05:53.905Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:05:58.802Z"
+  },
+  {
+    "part": "measure-06",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:05:58.824Z"
+  }
+]

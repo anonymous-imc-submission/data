@@ -1,0 +1,102 @@
+[
+  {
+    "part": "measure-20",
+    "message": "opening new page...",
+    "timestamp": "2021-09-09T13:10:39.737Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "visit https://fxempire.com/...",
+    "timestamp": "2021-09-09T13:10:39.949Z"
+  },
+  {
+    "part": "console.log",
+    "message": " [  0.000s] [studio.sdk]   @ [object Object]",
+    "timestamp": "2021-09-09T13:11:05.185Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Looking for dialogs to reject...",
+    "timestamp": "2021-09-09T13:11:05.308Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Waiting for __tcfapi...",
+    "timestamp": "2021-09-09T13:11:05.316Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "__tcfapi found! Querying status...",
+    "timestamp": "2021-09-09T13:11:05.524Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:05.524Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Got pingWaiting.",
+    "timestamp": "2021-09-09T13:11:05.570Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Got pingLoaded.",
+    "timestamp": "2021-09-09T13:11:05.578Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Trying to get more TC data...",
+    "timestamp": "2021-09-09T13:11:05.628Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Found a OneTrust dialog.",
+    "timestamp": "2021-09-09T13:11:05.647Z"
+  },
+  {
+    "part": "console.log",
+    "message": " [  1.115s] [studio.sdk] Using default ad parameters in test environment. Simulating local events.  @ [object Object]",
+    "timestamp": "2021-09-09T13:11:06.267Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "OneTrust non-tabbed: no accordion",
+    "timestamp": "2021-09-09T13:11:09.365Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "TCF data obtained!",
+    "timestamp": "2021-09-09T13:11:12.533Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "TCF data: cmpId 28 consent false, legInt true.",
+    "timestamp": "2021-09-09T13:11:12.542Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Waiting...",
+    "timestamp": "2021-09-09T13:11:12.547Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Network is idle after 0.00s.",
+    "timestamp": "2021-09-09T13:11:12.551Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "OneTrust dialog rejected.",
+    "timestamp": "2021-09-09T13:11:13.784Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "Minimum wait time reached after 5.00s.",
+    "timestamp": "2021-09-09T13:11:17.549Z"
+  },
+  {
+    "part": "measure-20",
+    "message": "done.",
+    "timestamp": "2021-09-09T13:11:17.589Z"
+  }
+]
